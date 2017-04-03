@@ -1,0 +1,32 @@
+;;; Developent Festival utility functions:
+;;; speak word and get the festival arpabet rendering
+(define (arpabet wrd) (SayText wrd) (print (lex.lookup wrd)) )
+
+;;; High quality voices for Festival 2.4 that are available from CMU
+;;;
+(set! voice_default 'voice_cmu_us_bdl_cg)  ;; Mid frq, clear US male
+;(set! voice_default 'voice_cmu_us_slt_cg)  ;; Mid frq, clear US female
+;;; (set! voice_default 'voice_cmu_us_ksp_cg)
+;(set! voice_default 'voice_cmu_us_aup_cg)  ;; Mid frq, clear Indian male
+;;; (set! voice_default 'voice_cmu_us_rxr_cg)
+;;; (set! voice_default 'voice_cmu_us_gka_cg)
+;(set! voice_default 'voice_cmu_us_rms_cg)  ;; Low frq, clear US male
+;;; (set! voice_default 'voice_cmu_us_fem_cg)
+;;; (set! voice_default 'voice_cmu_us_clb_cg)
+;(set! voice_default 'voice_cmu_us_awb_cg)  ;; Mid frq, clear Scottish
+;;; (set! voice_default 'voice_cmu_us_ahw_cg)
+;;; (set! voice_default 'voice_cmu_us_jmk_cg)
+;;; (set! voice_default 'voice_cmu_us_axb_cg)
+;(set! voice_default 'voice_rab_diphone)  ;; British diphone (to sing)
+;(set! voice_default 'voice_kal_diphone)  ;; American diphone (to sing)
+
+;;; Make Festival aware of the BibleVox lexicon. Note that some of the
+;;; Crosswire bible texts have extended character set encodings that must
+;;; be filtered out before feeding text to Festival for rendering. This
+;;; is done externally in a bash script when feeding diatheke output to
+;;; Festival, for example.
+;;;
+;;; We must name a voice so the correct lexicon is selected for updates.
+;;; I enjoy listening to awb, but I find bdl better for lex development.
+(voice_cmu_us_bdl_cg)
+(load "./BibleVoxLex.scm")
