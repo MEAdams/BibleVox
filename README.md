@@ -16,17 +16,17 @@ Significant is the fact that the BibleVox project is a unique work available fro
 #### [Disclaimer](disclaimer.md)
 
 ## Instruction:
-####[Installation](installation.md)
+#### [Installation](installation.md)
 
 ## Credits:
-1. ####Project Lead
- MEAdams (author, developer, maintainer)
+1. #### Project Lead:
+   MEAdams (author, developer, maintainer)
 
-2. ####Contributors:
+2. #### Contributors:
    [Contributors](./contributors.md)
 
 ## Licenses:
 
-####[Festival License](./COPYING)
+#### [Festival License](./COPYING)
 
-####[BibleVox License](./LICENSE)
+#### [BibleVox License](./LICENSE)
