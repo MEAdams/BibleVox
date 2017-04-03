@@ -14,7 +14,7 @@ Note: The scope of the BibleVox project will be later expanded to provide helps 
 ### Instructions:
 1. Shut down any already running instance of the Festival speech engine.
 
-2. Copy the .festivlrc and BibleVoxLex.scm files into your top level "home" directory.
+2. Copy the .festivalrc and BibleVoxLex.scm files into your top level "home" directory.
 
 3. Start the Festival speech engine.
 
