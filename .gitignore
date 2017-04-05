@@ -1,3 +1,6 @@
-# ignore all backup files ending in ~
+# ignore all files ending in "~" (i.e. backup files)
 *~
 
+# ignore author's bible text files (i.e. can't be distributed)
+KJV.txt
+ESV.txt

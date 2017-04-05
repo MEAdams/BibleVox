@@ -9,7 +9,7 @@ To control the initial scope of the BibleVox project and get the lexicon into th
 
 3. The user has access to electronic formats of English language Bible texts that can be fed to the Festival speech engine for rendering [(CrossWire website)](https://www.crosswire.org/).
 
-Note: The scope of the BibleVox project will be later expanded to provide helps for those not so familiar with the operation of the Festival speech engine as well as include modifications that the BibleVox project has developed that improve its Bible TTS rendering.
+Note: The scope of the BibleVox project will be later expanded to provide helps for those not so familiar with the operation of the Festival speech engine as well as include modifications that the BibleVox project has developed to improve its Bible TTS rendering.
 
 ### Instructions:
 1. Shut down any already running instance of the Festival speech engine.
