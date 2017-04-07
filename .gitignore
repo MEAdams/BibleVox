@@ -1,6 +1,8 @@
 # ignore all files ending in "~" (i.e. backup files)
 *~
 
-# ignore author's bible text files (i.e. can't be distributed)
-KJV.txt
-ESV.txt
+# ignore all bible text files (i.e. can't be distributed)
+*.copyrighted
+
+# ignore all diagnostic test results files
+*.diag
