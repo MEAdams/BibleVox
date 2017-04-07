@@ -1,37 +1,43 @@
-(lex.add.entry 
- '("imperishable" jj (((ih m) 0) ((p eh r) 1) ((ih sh) 0) ((ax) 0) ((b ax l) 0))) )
-(lex.add.entry 
- '("genuineness" jj (((jh eh n) 1) ((y uw) 0) ((ih n) 0) ((n ih s) 0))) )
-(lex.add.entry 
- '("conduct" nn (((k aa n) 1) ((d ah k t) 0))) )
-(lex.add.entry 
- '("conduct" vb (((k ax n) 0) ((d ah k t) 1))) )
-(lex.add.entry 
- '("sanctification" nn (((s ae ng k) 1) ((t ax) 0) ((f ih) 0) ((k ey) 1) ((sh ax n) 0))) )
-(lex.add.entry 
- '("undefiled" vb (((ah n) 0) ((d ih) 0) ((f ay l d) 1))) )
-(lex.add.entry 
- '("foreknown" vb (((f ao r) 0) ((n ow n) 1))) )
-(lex.add.entry 
- '("excellencies" nns (((eh k) 1) ((s ax) 0) ((l ax n) 0) ((s iy z) 0))) )
-(lex.add.entry 
- '("partaker" nn (((p aa r) 0) ((t ey k) 1) ((er) 0))) )
-(lex.add.entry 
- '("partakers" nns (((p aa r) 0) ((t ey k) 1) ((er z) 0))) )
-(lex.add.entry 
- '("godliness" nn (((g aa d) 1) ((l iy) 0) ((n ih s) 0))) )
-(lex.add.entry 
- '("defiling" vb (((d ih) 0) ((f ay l) 1) ((ih ng) 0))) )
-(lex.add.entry 
- '("blaspheme" vb (((b l ae s) 0) ((f iy m) 1))) )
-(lex.add.entry 
- '("archangel" nn (((aa r k) 1) ((ey n) 1) ((jh ax l) 0))) )
-(lex.add.entry 
- '("exaltation" nn (((eh g) 1) ((z ao l) 0) ((t ey) 1) ((sh ax n) 0))) )
+; ------------------------------------------------------------------------------
+; --------------------------------  _______      ___   -------------------------
+; -------------------------------  /       \    /   |  -------------------------
+; ------------------------------  /   _     \  /    |  -------------------------
+; -----------------------------  /   / |  |\ \/ /|  |  -------------------------
+; ----------------------------  /   /  |  | \  / |  |  -------------------------
+; ---------------------------  /   /_  |__|  \/  | _|  -------------------------
+; --------------------------  /   _____    ______|     -------------------------
+; -------------------------  /   /     |  |______   ----------------------------
+; ------------------------  /   /      |   ______|  ----------------------------
+; -----------------------  /   /       |  |______   ----------------------------
+; ----------------------  /___/        |_________|  ----------------------------
+; ---------------------                            TM  -------------------------
+; ------------------------------------------------------------------------------
+; MIT License
+; 
+; The BibleVox Project
+; 
+; Copyright (c) 2016-2017 MEAdams
+; 
+; Permission is hereby granted, free of charge, to any person obtaining a copy
+; of this software and associated documentation files (the "Software"), to deal
+; in the Software without restriction, including without limitation the rights
+; to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+; copies of the Software, and to permit persons to whom the Software is
+; furnished to do so, subject to the following conditions:
+; 
+; The above copyright notice and this permission notice shall be included in all
+; copies or substantial portions of the Software.
+; 
+; THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+; IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+; FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+; AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+; LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+; OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+; SOFTWARE.
+; ------------------------------------------------------------------------------
 (lex.add.entry 
  '("acacia" nn (((ax) 0) ((k ey) 1) ((sh ax) 0))) )
-(lex.add.entry 
- '("alamoth" nn (((ae l) 1) ((ax) 0) ((m aa th) 0))) )
 (lex.add.entry 
  '("aloe" nn (((ae l) 1) ((ow) 0))) )
 (lex.add.entry 
@@ -43,17 +49,11 @@
 (lex.add.entry 
  '("amen" rb (((ey) 1) ((m eh n) 1))) )
 (lex.add.entry 
- '("anathema" nn (((ax) 0) ((n ae th) 1) ((ih) 0) ((m ax) 0))) )
-(lex.add.entry 
  '("anoint" vb (((ax) 0) ((n oy n t) 1))) )
 (lex.add.entry 
  '("anoints" vb (((ax) 0) ((n oy n t s) 1))) )
 (lex.add.entry 
  '("anointing" vb (((ax) 0) ((n oy n t) 1) ((ih ng) 0))) )
-(lex.add.entry 
- '("antichrist" nn (((ae n) 1) ((t ih) 0) ((k r ay s t) 1))) )
-(lex.add.entry 
- '("antichrists" nns (((ae n) 1) ((t ih) 0) ((k r ay s t s) 1))) )
 (lex.add.entry 
  '("antimony" nn (((ae n) 1) ((t ih) 0) ((m ow) 1) ((n ih) 0))) )
 (lex.add.entry 
@@ -63,27 +63,15 @@
 (lex.add.entry 
  '("apostolic" jj (((ae p) 1) ((ax s) 0) ((t aa l) 1) ((ih k) 0))) )
 (lex.add.entry 
+ '("archangel" nn (((aa r k) 1) ((ey n) 1) ((jh ax l) 0))) )
+(lex.add.entry 
  '("aspalathus" nn (((ae s) 0) ((p ae l) 1) ((ax) 0) ((th ax s) 0))) )
-(lex.add.entry 
- '("azazel" nn (((ax) 0) ((z ey) 1) ((z eh l) 0))) )
-(lex.add.entry 
- '("beka" nn (((b iy) 1) ((k aa) 0))) )
-(lex.add.entry 
- '("bekah" nn (((b iy) 1) ((k aa) 0))) )
-(lex.add.entry 
- '("behemoth" nn (((b ih) 0) ((hh iy) 1) ((m ax th) 0))) )
-(lex.add.entry 
- '("belial" nn (((b iy) 1) ((l iy) 0) ((ax l) 0))) )
-(lex.add.entry 
- '("beliar" nn (((b iy) 1) ((l iy) 0) ((er) 0))) )
-(lex.add.entry 
- '("belias" nn (((b iy) 1) ((l iy eh) 0) ((ax s) 0))) )
-(lex.add.entry 
- '("beth" nn (((b eh th) 1))) )
 (lex.add.entry 
  '("betrothed" jj (((b ih) 0) ((t r ow dh d) 1))) )
 (lex.add.entry 
  '("blamelessly" jj (((b l ey m) 1) ((l ih s) 0) ((l iy) 0))) )
+(lex.add.entry 
+ '("blaspheme" vb (((b l ae s) 0) ((f iy m) 1))) )
 (lex.add.entry 
  '("bow" nn (((b ow) 1))) )
 (lex.add.entry 
@@ -109,6 +97,10 @@
 (lex.add.entry 
  '("colonnades" nns (((k aa l) 1) ((ax) 0) ((n ey d z) 1))) )
 (lex.add.entry 
+ '("conduct" nn (((k aa n) 1) ((d ah k t) 0))) )
+(lex.add.entry 
+ '("conduct" vb (((k ax n) 0) ((d ah k t) 1))) )
+(lex.add.entry 
  '("consecrate" vb (((k aa n) 1) ((s ax) 0) ((k r ey t) 1))) )
 (lex.add.entry 
  '("content" nn (((k aa n) 1) ((t eh n t) 0))) )
@@ -128,6 +120,8 @@
  '("daughters" nns (((d ao) 1) ((t er z) 0))) )
 (lex.add.entry 
  '("defiles" vb (((d ih) 0) ((f ay l z) 1))) )
+(lex.add.entry 
+ '("defiling" vb (((d ih) 0) ((f ay l) 1) ((ih ng) 0))) )
 (lex.add.entry 
  '("denarii" nns (((d ih) 0) ((n eh r) 1) ((iy) 0) ((ay) 0))) )
 (lex.add.entry 
@@ -151,6 +145,10 @@
 (lex.add.entry 
  '("ewe" nn (((y uw) 1))) )
 (lex.add.entry 
+ '("exaltation" nn (((eh g) 1) ((z ao l) 0) ((t ey) 1) ((sh ax n) 0))) )
+(lex.add.entry 
+ '("excellencies" nns (((eh k) 1) ((s ax) 0) ((l ax n) 0) ((s iy z) 0))) )
+(lex.add.entry 
  '("fair" jj (((f eh r) 1))) )
 (lex.add.entry 
  '("faithless" jj (((f ey th) 1) ((l ih s) 0))) )
@@ -160,6 +158,8 @@
  '("falsehood" nn (((f ao l s) 1) ((hh uh d) 0))) )
 (lex.add.entry 
  '("foreknowledge" nn (((f ao r) 1) ((n aa l) 1) ((ih jh) 0))) )
+(lex.add.entry 
+ '("foreknown" vb (((f ao r) 0) ((n ow n) 1))) )
 (lex.add.entry 
  '("foreskin" nn (((f ao r) 1) ((s k ih n) 1))) )
 (lex.add.entry 
@@ -175,6 +175,10 @@
 (lex.add.entry 
  '("genealogies" nns (((jh iy) 1) ((n ih) 0) ((ae l) 1) ((ax) 0) ((jh iy z) 0))) )
 (lex.add.entry 
+ '("genuineness" jj (((jh eh n) 1) ((y uw) 0) ((ih n) 0) ((n ih s) 0))) )
+(lex.add.entry 
+ '("godliness" nn (((g aa d) 1) ((l iy) 0) ((n ih s) 0))) )
+(lex.add.entry 
  '("handbreadth" nn (((hh ae n d) 1) ((b r eh d th) 1))) )
 (lex.add.entry 
  '("heifer" nn (((hh eh f) 1) ((er) 0))) )
@@ -184,6 +188,8 @@
  '("idolaters" nns (((ay) 0) ((d aa l) 1) ((ax) 0) ((t er z) 0))) )
 (lex.add.entry 
  '("idolatry" nn (((ay) 0) ((d aa l) 1) ((ax) 0) ((t r iy) 0))) )
+(lex.add.entry 
+ '("imperishable" jj (((ih m) 0) ((p eh r) 1) ((ih sh) 0) ((ax) 0) ((b ax l) 0))) )
 (lex.add.entry 
  '("impostor" nn (((ih m) 0) ((p aa s) 1) ((t er) 0))) )
 (lex.add.entry 
@@ -209,10 +215,6 @@
 (lex.add.entry 
  '("maliciousness" jj (((m ax) 0) ((l ih sh) 1) ((ax s) 0) ((n ih s) 0))) )
 (lex.add.entry 
- '("maranatha" nn (((m ae r) 1) ((ax) 0) ((n ae th) 1) ((ax) 0))) )
-(lex.add.entry 
- '("maran-atha" nn (((m ae r) 1) ((ax) 0) ((n ae th) 1) ((ax) 0))) )
-(lex.add.entry 
  '("mina" nn (((m ay) 1) ((n ax) 0))) )
 (lex.add.entry 
  '("minas" nn (((m ay) 1) ((n ax z) 0))) )
@@ -232,6 +234,10 @@
  '("oxen" nns (((aa k) 1) ((s ax n) 0))) )
 (lex.add.entry 
  '("pagans" nns (((p ey) 1) ((g ax n z) 0))) )
+(lex.add.entry 
+ '("partaker" nn (((p aa r) 0) ((t ey k) 1) ((er) 0))) )
+(lex.add.entry 
+ '("partakers" nns (((p aa r) 0) ((t ey k) 1) ((er z) 0))) )
 (lex.add.entry 
  '("Pentateuch" nnp (((p eh n) 1) ((t ax) 0) ((t uw k) 0))) )
 (lex.add.entry 
@@ -294,6 +300,8 @@
  '("reviles" vb (((r ih) 0) ((v ay l z) 1))) )
 (lex.add.entry 
  '("sabachthani" nil (((s aa) 0) ((b aa k) 1) ((th aa) 0) ((n ay) 0))) )
+(lex.add.entry 
+ '("sanctification" nn (((s ae ng k) 1) ((t ax) 0) ((f ih) 0) ((k ey) 1) ((sh ax n) 0))) )
 (lex.add.entry 
  '("sanctuary" nn (((s ae n k) 1) ((ch uw) 0) ((eh r) 1) ((ih) 0))) )
 (lex.add.entry 
@@ -361,6 +369,8 @@
 (lex.add.entry 
  '("uncircumcision" nn (((ah n) 1) ((s er) 0) ((k ax m) 0) ((s ih zh) 1) ((ax n) 0))) )
 (lex.add.entry 
+ '("undefiled" vb (((ah n) 0) ((d ih) 0) ((f ay l d) 1))) )
+(lex.add.entry 
  '("undergird" vb (((ah n) 1) ((d er) 0) ((g er d) 1))) )
 (lex.add.entry 
  '("ungodliness" nn (((ah n) 0) ((g aa d) 1) ((l ih) 0) ((n ih s) 0))) )
@@ -400,6 +410,36 @@
  '("wound" vb (((w aw n d) 1))) )
 (lex.add.entry 
  '("zealously" jj (((z eh l) 1) ((ax s) 0) ((l ih) 0))) )
+(lex.add.entry 
+ '("alamoth" nn (((ae l) 1) ((ax) 0) ((m aa th) 0))) )
+(lex.add.entry 
+ '("anathema" nn (((ax) 0) ((n ae th) 1) ((ih) 0) ((m ax) 0))) )
+(lex.add.entry 
+ '("antichrist" nn (((ae n) 1) ((t ih) 0) ((k r ay s t) 1))) )
+(lex.add.entry 
+ '("antichrists" nns (((ae n) 1) ((t ih) 0) ((k r ay s t s) 1))) )
+(lex.add.entry 
+ '("azazel" nn (((ax) 0) ((z ey) 1) ((z eh l) 0))) )
+(lex.add.entry 
+ '("beka" nn (((b iy) 1) ((k aa) 0))) )
+(lex.add.entry 
+ '("bekah" nn (((b iy) 1) ((k aa) 0))) )
+(lex.add.entry 
+ '("behemoth" nn (((b ih) 0) ((hh iy) 1) ((m ax th) 0))) )
+(lex.add.entry 
+ '("belial" nn (((b iy) 1) ((l iy) 0) ((ax l) 0))) )
+(lex.add.entry 
+ '("beliar" nn (((b iy) 1) ((l iy) 0) ((er) 0))) )
+(lex.add.entry 
+ '("belias" nn (((b iy) 1) ((l iy eh) 0) ((ax s) 0))) )
+(lex.add.entry 
+ '("beth" nn (((b eh th) 1))) )
+(lex.add.entry 
+ '("Caph" nnp (((k aa f) 1))) )
+(lex.add.entry 
+ '("maranatha" nn (((m ae r) 1) ((ax) 0) ((n ae th) 1) ((ax) 0))) )
+(lex.add.entry 
+ '("maran-atha" nn (((m ae r) 1) ((ax) 0) ((n ae th) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Aaron" nnp (((eh r) 1) ((ax n) 0))) )
 (lex.add.entry 
@@ -2645,6 +2685,8 @@
 (lex.add.entry 
  '("Caesarea" nnp (((s eh s) 1) ((ax) 0) ((r iy) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Caesarea_Philippi" nnp (((s eh s) 1) ((ax) 0) ((r iy) 1) ((ax) 0) ((f ih) 0) ((l ih p) 1) ((ay) 0))) )
+(lex.add.entry 
  '("Caiaphas" nnp (((k ey) 1) ((y ax) 0) ((f ax s) 0))) )
 (lex.add.entry 
  '("Cain" nnp (((k ey n) 1))) )
@@ -2689,6 +2731,8 @@
 (lex.add.entry 
  '("Canaanitess" nnp (((k ey) 1) ((n ax n) 0) ((ay t) 1) ((eh s) 0))) )
 (lex.add.entry 
+ '("Canaanitish" nnp (((k ey) 1) ((n ax n) 0) ((ih t) 1) ((ih sh) 0))) )
+(lex.add.entry 
  '("Cananaean" nnp (((k ey) 1) ((n ax) 0) ((n iy) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Cananaeans" nnps (((k ey) 1) ((n ax) 0) ((n iy) 1) ((ax n z) 0))) )
@@ -2698,8 +2742,6 @@
  '("Canneh" nnp (((k ae n) 1) ((eh) 0))) )
 (lex.add.entry 
  '("Capernaum" nnp (((k ax) 0) ((p er) 1) ((n ey) 0) ((ax m) 0))) )
-(lex.add.entry 
- '("Caph" nnp (((k aa f) 1))) )
 (lex.add.entry 
  '("Capharsalama" nnp (((k ae f) 1) ((aa r) 0) ((s ae l) 1) ((ax) 0) ((m ax) 0))) )
 (lex.add.entry 
