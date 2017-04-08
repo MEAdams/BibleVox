@@ -1,15 +1,18 @@
 #!/bin/bash
-# mea-2016.07.05
-# Script to install the festvox festival voices and dictionaries.
-# This script must be executed sudo.
-# Ubuntu 16.04 supports version Festival 2.4 natively. However,
-# only the kal_diphone voice is provided. This script installs the
-# high quality voices plus the rab_diphone voice from the local festival
-# development director into the Ubuntu festival voices directory. The
-# more up-to-date dictionary support also will be copied.
-
-# Mind the copyright! I am using this software for personal use.
-
+# ============================================================================ #
+# File   : install_festival_voices.bash                                        #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to install the festvox festival voices and dictionaries.     #
+#        : This script must be executed sudo. Ubuntu 16.04 supports version    #
+#        : Festival 2.4 natively. However, only the kal_diphone voice is       #
+#        : provided. This script installs the high quality voices plus the     #
+#        : rab_diphone voice from the local festival development director      #
+#        : into the Ubuntu festival voices directory. The more up-to-date      #
+#        : dictionary support also will be copied. Mind the copyright! I am    #
+#        : using this software for personal use.                               #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools

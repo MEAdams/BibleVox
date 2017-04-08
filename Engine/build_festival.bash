@@ -1,11 +1,13 @@
 #!/bin/bash
-# mea-2016.05.22
-# Update: 20160705
-# Script to build the festival application software
-# Ubuntu 16.04 installs package "build-essential" by default
-# However, must also do:
-# sudo apt-get install libncurses5-dev
-
+# ============================================================================ #
+# File   : build_festival.bash                                                 #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to build the festival application software. Ubuntu 16.04     #
+#        : installs package "build-essential" by default. However, must also   #
+#        : run: sudo apt-get install libncurses5-dev                           #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools

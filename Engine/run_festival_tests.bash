@@ -1,7 +1,11 @@
 #!/bin/bash
-# mea-2016.05.22
-# Script to run festival voice regression tests
-
+# ============================================================================ #
+# File   : run_festival_tests.bash                                             #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to run festival voice regression tests                       #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools

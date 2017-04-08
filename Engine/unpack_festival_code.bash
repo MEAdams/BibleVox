@@ -1,7 +1,11 @@
 #!/bin/bash
-# mea-2016.05.22
-# Script to unpack the festival and speech tools software
-
+# ============================================================================ #
+# File   : unpack_festival_code.bash                                           #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to unpack the festival and speech tools software             #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools
@@ -17,4 +21,3 @@ _try tar zxvf ../packed/festival-2.4-release.tar.gz
 _try tar zxvf ../packed/speech_tools-2.4-release.tar.gz
 
 cd ..
-

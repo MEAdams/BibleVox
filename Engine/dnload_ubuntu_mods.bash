@@ -1,7 +1,11 @@
 #!/bin/bash
-# mea-2016.05.22
-# Script to obtain the Ubuntu/Debian festival software
-
+# ============================================================================ #
+# File   : dnload_ubuntu_mods.bash                                             #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to obtain the Ubuntu/Debian festival software                #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools
@@ -19,4 +23,3 @@ rpstry="http://launchpad.net/ubuntu/+archive/primary/+files/"
 _try wget ${rpstry}festival_2.4~release-2.debian.tar.xz
 
 cd ..
-

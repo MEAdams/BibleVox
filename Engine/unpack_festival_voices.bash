@@ -1,7 +1,11 @@
 #!/bin/bash
-# mea-2016.05.22
-# Script to unpack the festvox festival voices
-
+# ============================================================================ #
+# File   : unpack_festival_voices.bash                                         #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to unpack the festvox festival voices                        #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools
@@ -37,4 +41,3 @@ echo "A whole joy was reaping, but they've gone south, \
 you should fetch azure mike." > examples/allphones.txt
 
 cd ..
-

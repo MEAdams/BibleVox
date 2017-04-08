@@ -1,7 +1,11 @@
 #!/bin/bash
-# mea-2016.05.22
-# Script to obtain the festvox festival voices
-
+# ============================================================================ #
+# File   : dnload_festival_voices.bash                                         #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to obtain the festvox festival voices                        #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools
@@ -36,4 +40,3 @@ _try wget ${rpstry}festlex_OALD.tar.gz
 _try wget ${rpstry}festlex_POSLEX.tar.gz
 
 cd ..
-

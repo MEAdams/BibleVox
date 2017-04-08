@@ -1,7 +1,11 @@
 #!/bin/bash
-# mea-2016.05.22
-# Script to obtain the Ubuntu/Debian festival software
-
+# ============================================================================ #
+# File   : unpack_ubuntu_mods.bash                                             #
+# Project: BibleVox                                                            #
+# Date   : 2016.05.01                                                          #
+# Author : MEAdams                                                             #
+# Purpose: Script to unpack the Ubuntu/Debian festival software                #
+# ============================================================================ #
 # define some directory paths
 curdir=$(pwd)
 scrdir=${curdir}/../Tools
@@ -16,4 +20,3 @@ _try cd build
 _try tar Jxvf ../packed/festival_2.4~release-2.debian.tar.xz
 
 cd ..
-
