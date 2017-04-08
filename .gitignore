@@ -6,3 +6,6 @@
 
 # ignore all diagnostic test results files
 *.diag
+
+# ignore ism variables file
+ism.vars
