@@ -1,6 +1,9 @@
 ![alt text](BibleVoxLogo.png "Logo and Trademark of the BibleVox project")
 
 # Project Name: _BibleVox_
+
+### Updated: 04/08/2017
+
 ## Synopsis:
 The BibleVox project is being developed to provide enhanced Bible Text-To-Speech (TTS) capabilities to the Carnegie Mellon University (CMU) Festival speech engine. Support for the CMU Flite speech engine also is forthcoming. At the time of this writing, Festival 2.4 is the latest available version and can be found in many Linux distribution software repositories. The BibleVox author uses the Ubuntu 16.04 Linux distribution at the time of this writing. He possesses no useful knowledge of, nor experience with, other operating systems. However, Festival should compile properly on most mainstream operating systems of interest if it is not already available in compiled form. Regardless, the BibleVox author recommends that the high quality Festival speech engine voices available for download from the CMU website also be installed [(CMU Festival/Flite website)](http://www.festvox.org/).
 

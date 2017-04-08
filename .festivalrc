@@ -2,6 +2,11 @@
 ;;; speak word and get the festival arpabet rendering
 (define (arpabet wrd) (SayText wrd) (print (lex.lookup wrd)) )
 
+;;; mea-2017.04.08: Ubuntu 16.04 audio config needed for locally compiled Festival
+(Parameter.set 'Audio_Required_Format 'aiff)
+(Parameter.set 'Audio_Method 'Audio_Command)
+(Parameter.set 'Audio_Command "paplay $FILE --client-name=Festival --stream-name=Speech")
+
 ;;; High quality voices for Festival 2.4 that are available from CMU
 ;;;
 (set! voice_default 'voice_cmu_us_bdl_cg)  ;; Mid frq, clear US male
