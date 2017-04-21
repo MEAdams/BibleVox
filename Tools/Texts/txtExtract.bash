@@ -50,45 +50,30 @@
 #        :    validation testing needs to be performed for other modules.
 #        :
 # =============================================================================
-# Script name
+# script name
 scr=$(basename "$0")
 
-# Load utility helper scripts
+# load utility helper scripts
 source ../scrhlp.bash > /dev/null 2>&1
 if [ $? -gt 0 ]; then echo "ABORT: ${scr} can't find scrhlp.bash"; exit 1; fi
 
-# User help
+# user help
 usage() { printf "${_eko}" "
-Usage: ./${scr} modName
+Usage: ./${scr} modName \n
 Where: modName = diatheke -b module name argument (e.g. ESV, KJV) \n" \
 1>&2; exit 1; }
 
 if [ -z "${1}" ]; then usage; fi
 
-# Module name argument
+# module name argument
 MOD="${1}"
 TXT="${MOD}.copyrighted"
 
-# Employ the undocumented diatheke query-key argument.
+# employ the undocumented diatheke query-key argument
 _try diatheke -b "${MOD}" -k "Gen-Rev" | \
 
-# Defrag all text by replacing all "\n" with a "_".
-tr '\n' '_' | \
-
-# Reformat text to one verse per line always preceded by a verse ref.
-sed 's/_*[I]*[ ]*[ a-zA-Z]* [0-9]*:[0-9]*:/\n&/g' | \
-
-# Remove any "_" preceding verse refs that were inserted during line defrag.
-sed 's/^_*\([a-Z]*\)/\1/g' | \
-
-# Replace the embedded "_" that were inserted during line defrag with " ".
-sed 's/_/ /g' | \
-
-# Replace multiple " " with single " ".
-tr -s '[:space:]' | \
-
-# Remove all blank lines.
-sed '/^$/d' | \
+# reformat diatheke output for display and speech processing
+../verseperline.bash | \
 
 # Insure punctuation consists of stardard 8-bit ASCII characters, only.
 # This is done to simplify word searches, which is the intended purpose of

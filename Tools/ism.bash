@@ -105,5 +105,5 @@ echo $( cat "${ISM}" | sort -k1,1 | head -$(_ismLpart  $idx ) | \
 
 # print the selected ism menu file word
 tput cup ${row} ${col}; _ismRpart $idx | \
-sed 's/[123]/& /' | sed 's/SongofSolomon/Song 0f Solomon/' | \
+sed 's/[123]/& /' | sed 's/SongofSolomon/Song of Solomon/' | \
 sed 's/RevelationofJohn/Revelation of John/'
