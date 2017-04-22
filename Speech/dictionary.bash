@@ -28,8 +28,9 @@ source ${ISMDIR}/scrhlp.bash > /dev/null 2>&1
 if [ $? -gt 0 ]; then echo "ABORT: ${scr} can't find scrhlp.bash"; exit 1; fi
 
 # User help
-usage() { printf "${_eko}" "
-Usage: ./${scr} mnuFile
+usage()
+{ printf "${_eko}" "
+Usage: ./${scr} mnuFile \n
 Where: mnuFile = subdir/mnuName.menu (e.g. Lexes/BibleVoxDict.menu) \n" \
 1>&2; exit 1; }
 
@@ -101,7 +102,7 @@ do
 
     # wait for command
     tput cup ${INPUTrow} ${INPUTcol}
-    printf "%s" "<SPACE> repeat, <ENTER> continue <ESC> quit: "
+    printf "%s" "<SPACE> repeat, <ENTER> continue, <ESC> exit, <Ctrl-C> abort: "
     _readchar chr
     printf -v quit "%d" "'${chr}"
 
