@@ -64,4 +64,7 @@ If you choose to not run the *"./build_festival.bash"* script, but do wish to in
 
 5. Run: *"sudo ./install_festival_voices.bash"* script. If no errors occurred, the new high quality voices are now available from within the Ubuntu Festival speech engine installation.
 
+### ./run_festival_tests.bash
+
+If you do run the *"./build_festival.bash"* script, the *"run_festival_tests.bash"* script will be executed in order to produce test wave files for each installed Festival voice. A short "allphones.txt" test file is processed by the Festival Text-To-Speech (TTS) mode and the resulting wave files are placed into the BibleVox/Engine/build/examples directory. Each can be played with a suitable sound file player in order to hear what each voice sounds like. The *"./run_festival_tests.bash"* script also can be run manually with "user" privileges (i.e. do not run with "root" privileges) in order to test your own Festival code developments that do not require an actual code recompile.
 
