@@ -21,9 +21,13 @@
 #         : 2. I have switched back to using Diatheke because my correction    #
 #         :    filtering seems to have achieved 100% correction. Diatheke 4.7  #
 #         :    remains broken on Ubuntu 16.04, however.                        #
+#         : 3. Set dflg=1 to use Diatheke, Set dflg=0 to use text_fltrs.       #
 # --------:------------------------------------------------------------------- #
 # To Do   : 1. Fix Diatheke for Ubuntu 16.04.                                  #
 # ============================================================================ #
+# diatheke/text_fltrs switch (i.e. 1=diatheke, 0=text_fltrs).
+dflg=1
+
 # script name
 scr=$(basename "$0")
 
@@ -117,15 +121,19 @@ do
         done
     fi
 
-    # narration - if using diatheke
-    ./sword_speak.bash \
-        -t "${TEXT}" -b "${BOOK}" -c "${CHAP}" -f "${FRST}" -l "${LAST}" | \
-    ./init_speech.scm
-
-    # narration - if using text file utilities
-    # ./text_fltrs.bash \
-    #     -t "${TEXT}" -b "${BOOK}" -c "${CHAP}" -f "${FRST}" -l "${LAST}" | \
-    # ./init_speech.scm
+    # narration
+    if [[ dflg -eq 1 ]]
+    then
+    # using diatheke application
+        ./sword_speak.bash \
+            -t "${TEXT}" -b "${BOOK}" -c "${CHAP}" -f "${FRST}" -l "${LAST}" | \
+        ./init_speech.scm
+    else
+    # using text_fltrs utility
+        ./text_fltrs.bash \
+            -t "${TEXT}" -b "${BOOK}" -c "${CHAP}" -f "${FRST}" -l "${LAST}" | \
+        ./init_speech.scm
+    fi
 
     # wait for user command
     printf $_eko \

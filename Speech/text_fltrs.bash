@@ -118,7 +118,7 @@ fold -s -w "${col}" | tee /dev/tty | \
 sed s/[0-9][0-9]*:/""/g | \
 
 # pipe text to be spoken to square bracket filter
-sed s/[\[\]]*/''/g | \
+sed -e "s/]//g" -e "s/\[//g" | \
 
 # pipe text to be spoken to extended character code filter
 ../Tools/utf2ascii.bash
