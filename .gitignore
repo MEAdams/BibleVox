@@ -1,11 +1,19 @@
 # ignore all files ending in "~" (i.e. backup files)
 *~
 
-# ignore all bible text files (i.e. can't be distributed)
-*.copyrighted
+# ignore all log files
+*.log
+*.log
 
 # ignore all diagnostic test results files
 *.diag
 
-# ignore ism variables file
+# ignore Interactive Script Menu (ism) variables file
 ism.vars
+
+# ignore all bible text files (i.e. cannot be distributed)
+*.copyrighted
+
+# ignore Festival software (i.e. must be again downloaded and built)
+build/
+packed/
