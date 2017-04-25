@@ -8,7 +8,7 @@
 # ignore all diagnostic test results files
 *.diag
 
-# ignore Interactive Script Menu (ism) variables file
+# ignore Interactive Shell Menu (ism) variables file
 ism.vars
 
 # ignore all bible text files (i.e. cannot be distributed)
