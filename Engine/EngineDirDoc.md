@@ -1,6 +1,6 @@
 ## Directory: BibleVox/Engine
 
-# Preparatory:
+# Forward:
 
 Before proceeding, insure that the Ubuntu "build-essential" and "libncurses5-dev" packages are installed:
 
@@ -8,10 +8,10 @@ Before proceeding, insure that the Ubuntu "build-essential" and "libncurses5-dev
 
 2. Run: "*sudo apt-get install libncurses5-dev*"
 
-Next, read the entire "discourse" before performing any operations.
+Please read this entire document before performing any operations.
 
-# Discourse:
-This directory provides BASH scripts that automate the downloading, unpacking and building of the Festival 2.4 Speech Engine from source code on an Ubuntu 16.04 LTS platform. Refer to the Instructions section below. Your mileage may vary if using these scripts elsewhere. You can click on the links below to view the BASH source code to see what operations will take place or if you would rather manually perform these operations or need to modify them for your particular target platform.
+# General:
+This directory provides BASH scripts that automate the downloading, unpacking and building of the Festival 2.4 Speech Engine from source code on an Ubuntu 16.04 LTS platform. Your mileage may vary if using these scripts elsewhere. You can click on the links below to view the BASH source code to see what operations will take place or if you would rather manually perform these operations or need to modify them for your particular target platform.
 
 ### Download scripts:
 
@@ -40,7 +40,7 @@ These scripts may be manually executed only when the "BibleVox/Engine/build" dir
 
 [*./run_festival_tests.bash*](./run_festival_tests.bash)
 
-## Instructions:
+## Specific:
 
 ### ./build_festival.bash:
 
@@ -66,5 +66,5 @@ If you choose to not run the *"./build_festival.bash"* script, but do wish to in
 
 ### ./run_festival_tests.bash
 
-If you do run the *"./build_festival.bash"* script, the *"run_festival_tests.bash"* script will be executed in order to produce test wave files for each installed Festival voice. A short "allphones.txt" test file is processed by the Festival Text-To-Speech (TTS) mode and the resulting wave files are placed into the BibleVox/Engine/build/examples directory. Each can be played with a suitable sound file player in order to hear what each voice sounds like. The *"./run_festival_tests.bash"* script also can be run manually with "user" privileges (i.e. do not run with "root" privileges) in order to test your own Festival code developments that do not require an actual code recompile.
+If you do run the *"./build_festival.bash"* script, the *"run_festival_tests.bash"* script will be executed in order to produce test wave files for each installed Festival voice. A short "allphones.txt" test file is processed by the Festival Text-To-Speech (TTS) mode and the resulting wave files are placed into the BibleVox/Engine/build/examples directory. Each can be played with a suitable sound file player in order to hear what each voice sounds like. The *"./run_festival_tests.bash"* script also can be run manually with "user" privileges (i.e. do not run with "root" privileges) in order to test your own Festival code developments that do not require an actual code recompile (i.e. do not require running the *"./build_festival.bash"* script).
 
