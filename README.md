@@ -3,7 +3,7 @@
 # Project Name: _BibleVox_
 
 ### Updated: 04/26/2017
-All utility software has now been ported to my git directory structure (and pushed to the GitHub repository). I next will be adding documentation their use. Until they all become integrated into a top-level document, simply visit a directory of interest and look for a ".md" documentation file to read about the contents of that directory.
+All utility software has now been ported to my git directory structure (and pushed to the GitHub repository). I next will be adding documentation for their use. Until they all become integrated into a top-level document, simply visit a directory of interest and look for a ".md" documentation file to read about the contents of that directory.
 
 MEAdams
 
@@ -16,27 +16,22 @@ The BibleVox author recommends that the high quality Festival speech engine voic
 
 Significant is the fact that the BibleVox project is a unique work available from this repository, under the stated terms, without cost or hitch. It is the BibleVox author's ambition to participate in the spreading of God's Word, during this time that He has alloted, before the return of His Son Jesus for His Church.
 
-## Background:
-#### [Background](background.md)
+## [Background:](background.md)
 
-## Work In Progress:
-#### [Work In Progress](workinprogress.md)
+## [Work In Progress:](workinprogress.md)
 
-## Disclaimer:
-#### [Disclaimer](disclaimer.md)
+## [Disclaimer:](disclaimer.md)
 
-## Instruction:
-#### [Installation](installation.md)
+## [Installation:](installation.md)
 
 ## Credits:
-1. #### Project Lead:
+### Project Lead:
    MEAdams (author, developer, maintainer)
 
-2. #### Contributors:
-   [Contributors](./contributors.md)
+### [Contributors:](./contributors.md)
 
 ## Licenses:
 
-#### [Festival License](./COPYING)
+### [Festival:](./COPYING)
 
-#### [BibleVox License](./LICENSE)
+### [BibleVox:](./LICENSE)

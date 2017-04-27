@@ -30,14 +30,14 @@ if [ $? -gt 0 ]; then echo "ABORT: ${scr} can't find scrhlp.bash"; exit 1; fi
 # User help
 usage()
 { printf "${_eko}" "
-Usage: ./${scr} mnuFile \n
-Where: mnuFile = subdir/mnuName.menu (e.g. Lexes/BibleVoxDict.menu) \n" \
+Usage: ./${scr} dict \n
+Where: dict = base name of dictionary menu (e.g. BibleVoxDict) \n" \
 1>&2; exit 1; }
 
 if [ -z "${1}" ]; then usage; fi
 
 # the dictionary menu file
-MNU="${1}"
+DICT="${1}"
 
 # initializations
 quit=0; chr=""; ESC=27; WIDX=0; TIDX=1; GIDX=2; NIDX=3; CIDX=4
@@ -58,7 +58,7 @@ do
     then
         # get selection
         tput cup ${PRMPTrow} ${PRMPTcol}
-        _try $ISMDIR/ism.bash "${MNU}" "Enter search word: "
+        _try $ISMDIR/ism.bash "Lexes/${DICT}.menu" "Enter search word: "
 
         # retrieve selection ism parameters
         ISMPARS=( $(cat ism.vars) )

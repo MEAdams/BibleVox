@@ -1,4 +1,4 @@
-### Disclaimer:
+## Disclaimer:
 
 The BibleVox author claims that an undisputed authoritative reference for "correct" Bible name pronunciations does not exist. Period. All (i.e. not some) of the authoritative references that the BibleVox author has studied deviates from the next in various ways. The authors of the best references admit that disagreements exist among "experts" and never go so far as to proclaim their work to be a final authority. One reason for this is that pronunciations actually change over time and lean more toward expediency rather than correctness. It is the BibleVox author's personal opinion that this is a pity since, he believes, it causes our Bible name rendering to become more inconsistent and degraded over time. The BibleVox author may at a later date more aggressively document the complex subject of proper name pronunciations of English (American) Bible translations. For now, he simply states that the BibleVox lexicon provides pronounceable pronunciation "suggestions" intended to prevent them from being butchered beyond recognition and to further the pleasure and utility of being able to listen to God's Word. Period.
 
