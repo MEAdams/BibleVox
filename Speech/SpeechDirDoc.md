@@ -38,7 +38,7 @@ To use the Festival speech engine for BibleVox Bible text narration, run: *"./bi
 
 ### Book name:
 
-Upon execution, you are prompted with: *"Enter bible book:"*. Enter the name of the Bible book you wish to access. As you enter each letter of the book name, search results will be displayed containing your typed letters appearing in red colored characters. The search results narrow down possibilities as you type each letter. Here is a sample session:
+Upon execution, you are prompted with: *"Enter bible book:"*. Type the name of the Bible book you wish to access. As you type each letter of the book name, search results will be displayed containing your typed letters appearing in red colored characters. The search results narrow down possibilities as you type each letter. Here is a sample session:
 
 1. ./bible.bash ESV
 2. Initial prompt: "Enter bible book:"
@@ -48,21 +48,21 @@ Upon execution, you are prompted with: *"Enter bible book:"*. Enter the name of 
 6. New prompt: "Enter bible book: malachi  Mark  Matthew"
 7. If you type the letter "t", the prompt again updates.
 8. New prompt: "Enter bible book: matthew"
-9. Hit "Enter" to accept the name or "Backspace" to edit it.
+9. Hit "ENTER" to accept the name or use "BACKSPACE" to edit it.
 
 ### Chapter number:
 
-Upon accepting "Matthew" as a book name, you are prompted with: *"Enter a chapter number [1..28]:"*. Note that the prompt presents you with the valid chapter numbers of 1 to 28. Type "1". You can either hit "Enter" to accept the chapter number, or type additional numbers or hit "Backspace" to edit it.
+Upon accepting "Matthew" as a book name, you are prompted with: *"Enter a chapter number [1..28]:"*. Note that the prompt presents you with the valid chapter numbers of 1 to 28. Type "1". You can either hit "ENTER" to accept the chapter number, or type additional numbers or hit "BACKSPACE" to edit it.
 
 ### Verse number(s):
 
-Upon accepting "1" as a chapter number, you are prompted with: *"Verse (# or #-# or Enter) [1-25]:"*. Note that the prompt presents you with the valid verse numbers of 1 to 25. Typing "1" followed by "Enter" causes Matthew 1:1 to be recited. Typing "1-16" followed by "Enter" causes Matthew 1:1-16 to be recited (i.e. the male genealogy of Jesus). Typing "Enter" without including a number causes Matthew 1:1-25 to be recited (i.e. the entire chapter).
+Upon accepting "1" as a chapter number, you are prompted with: *"Verse (# or #-# or ENTER) [1-25]:"*. Note that the prompt presents you with the valid verse numbers of 1 to 25. Typing "1" followed by hitting "ENTER" causes Matthew 1:1 to be recited. Typing "1-16" followed by hitting "ENTER" causes Matthew 1:1-16 to be recited (i.e. the male genealogy of Jesus). Hitting "ENTER" without typing a number causes Matthew 1:1-25 to be recited (i.e. the entire chapter).
 
 ### Output results:
 
 The selected Bible text will be displayed so that you may read along with the narration if you like. Verse numbers are displayed for your convenience. However, verse numbers and other unnecessary and distracting items, such as all punctuation marks, are omitted from the narration. Festival will attempt to approximate applicable punctuation mark pauses and textual phrasings that a human reader might perform. Festival also will attempt to approximate some voice inflections that a human reader might perform.
 
-Once narration has completed, you are prompted with: *"<_SPACE_> repeat, <_ENTER_> continue, <_ESC_> exit, <_CTRL-C_> abort:*". Simply hit the applicable key(s) to perform your choice. The "CTRL-C" command is the only one available for aborting a narration or errant prompt entry. If the script is misbehaving, the user changes his mind, or the user wishes to terminate a narration; simply hit the "CTRL-C" key combination to abort the script and then hit the "Up-Arrow" key followed by "ENTER" to restart the *./bible.bash* script.
+Once narration has completed, you are prompted with: *"<_SPACE_> repeat, <_ENTER_> continue, <_ESC_> exit, <_CTRL-C_> abort:*". Simply hit the applicable key(s) to perform your choice. The "CTRL-C" command is the only one available for aborting a narration or errant prompt entry. If the script is misbehaving, the user changes his mind, or the user wishes to terminate a narration; simply hit the "CTRL-C" key combination to abort the script and then hit the "UP-ARROW" key followed by "ENTER" to restart the *./bible.bash* script.
 
 ## Dictionary Narration:
 
@@ -72,7 +72,7 @@ To use the Festival speech engine for BibleVox Bible word narration, run *"./dic
 
 ### Word selection:
 
-Upon execution, you are prompted with: *"Enter search word:"*. Enter the word you wish to access. As you enter each letter of the word, search results will be displayed that contain your typed letters appearing in red colored characters. The search results narrow down possibilities as you type each letter. Here is a sample session:
+Upon execution, you are prompted with: *"Enter search word:"*. Type the word you wish to access. As you type each letter of the word, search results will be displayed that contain your typed letters appearing in red colored characters. The search results narrow down possibilities as you type each letter. Here is a sample session:
 
 1. ./dictionary.bash BibleVoxDict
 2. Initial prompt: "Enter search word:"
@@ -82,7 +82,7 @@ Upon execution, you are prompted with: *"Enter search word:"*. Enter the word yo
 6. New prompt: "Enter search word: aaron  Aaronite  Aaronites"
 7. If you type the letters "roni", the prompt updates with each new letter.
 8. New prompt: "Enter search word: aaronite Aaronites"
-9. Hit "Enter" to accept "Aaronite" or continue spelling "Aaronites" followed by "Enter" or use "Backspace" to edit the search word.
+9. Hit "ENTER" to accept "Aaronite" or continue spelling "Aaronites" followed by hitting "ENTER" or use "BACKSPACE" to edit the search word.
 
 ### Output results:
 
@@ -96,7 +96,7 @@ Upon accepting the word "Aaron", the name "Aaron" will be pronounced and the dis
 
 4. <_SPACE_> repeat, <_ENTER_> continue, <_ESC_> exit, <_CTRL-C_> abort:
 
-Line number 1 displays the selected word. Line number 2 provides the search word's parts-of-speech tag (Proper Noun Singular), its pronunciation specified in "SndSpell" notation, its syllable structure specified in classical notation, and its word category definition (person). Line number 3 provides the search word's pronunciation specified in the Defense Advanced Research Projects Agency (DARPA) phonetic alphabet (i.e. ArpaBet) as presented in the Carnegie Mellon University (CMU) dictionary SCHEME language format. Refer to [BibleVox/Docs](../Docs/DocsDirDoc.md) for discussions and explanations of each of these items.
+Line number 1 displays the selected word. Line number 2 provides the search word's parts-of-speech tag (Proper Noun Singular), its pronunciation specified in "SndSpell" notation, its syllable structure specified in classical notation, and its word category definition (person). Line number 3 provides the search word's pronunciation specified in the Defense Advanced Research Projects Agency (DARPA) phonetic alphabet (i.e. ArpaBet) as presented in the Carnegie Mellon University (CMU) dictionary, SCHEME language format. Refer to [BibleVox/Docs](../Docs/DocsDirDoc.md) for discussions and explanations of each of these items.
 
-Line number 4 displays the prompt: *"<_SPACE_> repeat, <_ENTER_> continue, <_ESC_> exit, <_CTRL-C_> abort:*". Simply hit the applicable key(s) to perform your choice. The "CTRL-C" command is the only one available for aborting a narration or errant prompt entry. If the script is misbehaving, the user changes his mind, or the user wishes to terminate a narration; simply hit the "CTRL-C" key combination to abort the script and then hit the "Up-Arrow" key followed by "ENTER" to restart the *./dictionary.bash* script.
+Line number 4 displays the prompt: *"<_SPACE_> repeat, <_ENTER_> continue, <_ESC_> exit, <_CTRL-C_> abort:*". Simply hit the applicable key(s) to perform your choice. The "CTRL-C" command is the only one available for aborting a narration or errant prompt entry. If the script is misbehaving, the user changes his mind, or the user wishes to terminate a narration; simply hit the "CTRL-C" key combination to abort the script and then hit the "UP-ARROW" key followed by "ENTER" to restart the *./dictionary.bash* script.
 
