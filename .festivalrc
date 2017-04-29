@@ -34,4 +34,3 @@
 ;;; We must name a voice so the correct lexicon is selected for updates.
 ;;; I enjoy listening to awb, but I find bdl better for lex development.
 (voice_cmu_us_bdl_cg)
-(load "./BibleVoxLex.scm")

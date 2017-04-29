@@ -1,0 +1,3 @@
+## Directory: BibleVox/Tools/Diags
+
+To be continued...
