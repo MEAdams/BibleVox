@@ -2,7 +2,7 @@
 
 # Project Name: *BibleVox*
 
-### Last updated: 04/28/2017
+### Last updated: 04/30/2017
 
 ## Synopsis:
 The BibleVox project provides a pronunciation lexicon of English language Bible words and proper names along with some enhancements to Bible Text-To-Speech (TTS) processing capabilities for the Carnegie Mellon University (CMU) Festival speech engine. These products will eventually be ported also to the CMU Flite speech engine.

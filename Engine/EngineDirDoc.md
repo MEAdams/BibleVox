@@ -19,30 +19,30 @@ This directory provides BASH scripts that automate the downloading, unpacking an
 
 These scripts may be manually executed only when the "BibleVox/Engine/packed" directory already exists. They are run with "user" privileges (i.e. not as "root").
 
-[*./dnload_festival_code.bash*](./dnload_festival_code.bash)
+[*./dnload_festival_code.bash*](./dnload_festival_code.bash) (2.1MB download)
 
-[*./dnload_festival_voices.bash*](./dnload_festival_voices.bash)
+[*./dnload_festival_voices.bash*](./dnload_festival_voices.bash) (576MB download)
 
-[*./dnload_ubuntu_mods.bash*](./dnload_ubuntu_mods.bash)
+[*./dnload_ubuntu_mods.bash*](./dnload_ubuntu_mods.bash) (97.2kB download)
 
 ## Unpack scripts:
 These scripts may be manually executed only when the "BibleVox/Engine/build" directory already exists. They are run with "user" privileges (i.e. not as "root").
 
-[*./unpack_festival_code.bash*](./unpack_festival_code.bash)
+[*./unpack_festival_code.bash*](./unpack_festival_code.bash) (11.1MB unpacked)
 
-[*./unpack_festival_voices.bash*](./unpack_festival_voices.bash)
+[*./unpack_festival_voices.bash*](./unpack_festival_voices.bash) (786MB unpacked)
 
-[*./unpack_ubuntu_mods.bash*](./unpack_ubuntu_mods.bash)
+[*./unpack_ubuntu_mods.bash*](./unpack_ubuntu_mods.bash) (504kB unpacked)
 
 ## Top level scripts:
 
 The "Specific" section of this document discusses these scripts.
 
-[*./build_festival.bash*](./build_festival.bash)
+[*./build_festival.bash*](./build_festival.bash) (878MB total build, 578MB total download)
 
-[*./install_festival_voices.bash*](./install_festival_voices.bash)
+[*./install_festival_voices.bash*](./install_festival_voices.bash) (786MB copied)
 
-[*./run_festival_tests.bash*](./run_festival_tests.bash)
+[*./run_festival_tests.bash*](./run_festival_tests.bash) (2.3MB waves created)
 
 # Specific:
 
