@@ -1,10 +1,17 @@
 ## Directory: BibleVox/Engine
 
+# Ubuntu fast-track:
+
+The BibleVox project uses the Carnegie Mellon University (CMU) Festival speech engine. Festival 2.4 is the latest version released by CMU as of this writing. A Festival 2.4 binary (i.e. executable) package is available (as of this writing) from the Ubuntu software repository. The Ubuntu Festival executable package should be installed and used if not pursuing Festival speech engine development or if other reasons do not necessitate obtaining Festival source code. 
+
+1. Run: *"sudo apt-get install festival"*
+2. Follow the instructions for "./install_festival_voices.bash" under the "Specific" section below.
+3. Skip the rest of this document. :-)
+
+
 # Forward:
 
-The BibleVox project uses the Carnegie Mellon University (CMU) Festival speech engine. Festival 2.4 is the latest version released by CMU as of this writing. A Festival 2.4 binary (i.e. executable) package is available (as of this writing) from the Ubuntu software repository. The Ubuntu Festival executable package should be installed and used if not pursuing Festival speech engine development or if other reasons do not necessitate obtaining Festival source code. If only the Ubuntu executable package will be installed, skip forward to the "Specific: ./install_festival_voices.bash" section of this document. Otherwise, continue with what follows.
-
-Before proceeding, insure that the Ubuntu "build-essential" and "libncurses5-dev" packages are installed:
+Before proceeding to install Festival source code, insure that the Ubuntu "build-essential" and "libncurses5-dev" packages are installed:
 
 1. Run: "*sudo apt-get install build-essential*"
 
