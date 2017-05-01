@@ -18,6 +18,8 @@ Significant is the fact that the BibleVox project is a unique work available fro
 
 ## [Usage:](./Speech/SpeechDirDoc.md)
 
+## [Documents:](./Docs/DocsDirDoc.md)
+
 ## [Development:](./Tools/ToolsDirDoc.md)
 
 ## Credits:

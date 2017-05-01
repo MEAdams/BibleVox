@@ -1,0 +1,161 @@
+==============================================================================
+File    : SndSpellDevNotes.txt
+Project : BibleVox
+Date    : 2016.05.01
+Author  : MEAdams
+Purpose : SndSpell developer notes
+==============================================================================
+Notes & : 1. SndSpell is a spelling syntax in some ways similar to the other
+Assumes :    re-spelling guides that have been devised over many years. This
+        :    version is an attempt to simplify and regularize to facilitate
+        :    ease of memorization and computer use. The other systems define
+        :    multiple spellings for many sounds or sound combinations in
+        :    order to provide varieties more suitable for visual recognition
+        :    within particular word spellings and then stamp copyright notices
+        :    on them. Such action makes no legal sense since all of these
+        :    alternate systems are very similar (i.e. are not sufficiently
+        :    unique). The SndSpell system is specifically reduced in size
+        :    with an increase in logical spelling pattern regularity for
+        :    ease in programming without significant compromise in visual
+        :    word recognition (or so claimed). It is developed primarily as
+        :    a means for scripting word pronunciations able to be easily
+        :    translated into speech engine specific pronunciation lexicon
+        :    syntax (e.g. Festival speech engine implementation of ArpaBet).
+==============================================================================
+
+Festival Implementation of the DARPA Phone Set (ArpaBet):
+=========================================================
+
+VOWELS:
+-------
+Monophthongs:
+EY     Long  A                ate, bate
+AE     Short a                at, bat
+IY     Long  E                eat, beat
+EH     Short e                egg, beg
+AY     Long  I                eye, bye
+IH     Short i                it, bit
+OW     Long  O                oat, boat
+AA     Short o                ox, box
+AO     Short o                all, ball
+UW     Long  U, Long OO       ooh, boo
+AH     Short u                us, bus
+UH     Short oo               hook, book
+AX     subtle unaccented      nav[a]l tak[e]n per[i]l lem[o]n foc[u]s
+                              [a]bout
+
+Diphthongs:
+EY     ey                     ey, bay
+AY     aye                    aye, buy
+OW     owe                    owe, bow (n)
+AW     ow                     ow, bow (v)
+OY     oy                     oy, boy
+
+R-colored:
+ER                            earn, burn
+
+
+CONSONANTS:
+-----------
+Stops:                        Fricatives:
+P      pat, tap               F      fought, rough
+B      bat, tab               V      votes, stove
+T      tip, pit               TH     theme, math
+D      dab, bad               DH     them, writhe 
+K      keel, leek             S      sap, pass
+G      gut, tug               Z      zoo, ooze
+                              SH     shop, posh
+Affricates:                   ZH     asian, seizure
+CH     chair, perch           HH     host, house
+JH     just, smudge
+
+Nasals:                       Liquids:
+M      mar, ram               L      lap, pal
+N      no, on                 R      reel, leer
+NG     sing, anger
+
+Semivowels:
+Y      yam, yet
+W      wasp, swap
+
+
+
+MEAdams SndSpell to ArpaBet Translation:
+========================================
+SndS   ArpaBet        SndS   ArpaBet
+----   -------        ----   -------
+a      ae             ng     ng
+ah     aa             o      aa
+ahr    aa r           oh     ow
+ao     ao             ohr    ao r
+ay     ey             oo     uw
+b      b              ow     aw
+ch     ch             oy     oy
+d      d              p      p
+e      eh             r      r
+ee     iy             s      s
+eh     eh             sh     sh
+ehr    eh r           t      t
+i      ih             th     th
+ih     ih             dh     dh
+ihr    ih r           u      ah
+iy     ay             uh     ax
+f      f              uhr    er
+g      g              uu     uh
+h      hh             v      v
+j      jh             w      w
+k      k              y      y
+l      l              z      z
+m      m              zh     zh
+n      n
+
+
+
+SndSpell usage (similar in concept to other sytems):
+====================================================
+Syllables are separated by hyphens.
+Stressed syllables are given in CAPITALS.
+
+Vowels:
+-------
+a   as in hat         iy  as in high
+ah  as in cot         o   as in not
+ahr as in bar         oh  as in no
+ao  as in law         ohr as in corn
+ay  as in day         oo  as in boot
+e   as in get         ow  as in out
+eh  as in get         oy  as in boy
+ee  as in street      u   as in cup
+ehr as in hair        uh  as in ago
+i   as in bit         uhr as in fur
+ih  as in bit         uu  as in book
+ihr as in mirror
+
+Consonants:
+-----------
+b  as in bat          p  as in pen
+ch as in church       r  as in red
+d  as in day          s  as in sit
+f  as in fit          sh as in ship
+g  as in get          t  as in top
+h  as in hat          th as in thin
+j  as in jack         dh as in there
+k  an in king         v  as in vet
+l  as in leg          w  as in will
+m  as in man          y  as in yes
+n  as in not          z  as in zebra
+ng as in singer       zh as in measure
+
+
+Example usage:
+
+Biy: MIY-kuhl ED-wuhrd AD-uhms, FRUM YUNGZ-town,
+     OF muh-HOHN-ing KOWN-tee, oh-HIY-oh. HOHM OF
+     DHUH YUNGZ-town STAYT YOO-ni-VUHR-si-tee
+     PEN-gwinz AND MIY AHL-muh MAH-tuhr.
+
+By:  Michael Edward Adams, from Youngstown,
+     of Mahoning County, Ohio. Home of
+     the Youngstown State University
+     Penguins and my alma mater.
+
