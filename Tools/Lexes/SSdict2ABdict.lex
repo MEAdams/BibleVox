@@ -13,27 +13,33 @@
 **         :    lexicon or lex. The FLEX interpreter will convert this code
 **         :    into "C" code, which will be compiled in order to create the
 **         :    SSdict2ABdict executable program. See makeFlexExec.bash.
-**         : 2. SndSpell is my respelling system based on a modified version
-**         :    of the BBC Text Spelling Guide. Many spelling guides have
-**         :    been devised over many years. However, they all "borrow"
-**         :    from similar sets of respellings of english sounds and I
-**         :    am unable to discover which system appeared first. I can
-**         :    say that the BBC Text Spelling Guide is freely downloadable
-**         :    from the BBC web site and is the work upon which mine has
-**         :    been based. My modifications are an attempt to simplify and
-**         :    regularize to facilitate ease of memorization and computer
-**         :    use. Most other systems define multiple spellings for many
-**         :    sounds or sound combinations in order to provide varieties
-**         :    more suitable for visual recognition within particular
-**         :    word spellings and then stamp copyright notices on them.
-**         :    Such action makes no legal sense since all of these alternate
-**         :    systems are very similar (i.e. they cannot be sufficiently
-**         :    unique). My SndSpell system is purposefully reduced in size
-**         :    with an increase in logical spelling pattern regularity for
-**         :    ease in programming without significant compromise in visual
-**         :    word recognition (so says I). I declare my SndSpell system
-**         :    to be as freely usable as the BBC's Text Spelling Guide that
-**         :    it is based on.
+**         :
+**         : 2. BibleVox SndSpell is a spelling syntax in some ways similar to
+**         :    the many other re-spelling guides that have been devised over
+**         :    many years and seen on the Internet. However, they all seem to
+**         :    "borrow" from similar sets of respellings of english sounds
+**         :    and I am unable to discover which system appeared first. The
+**         :    BibleVox SndSpell is an attempt to simplify and regularize to
+**         :    facilitate ease of memorization and computer use. The other
+**         :    systems define multiple spellings for many sounds or sound
+**         :    combinations in order to provide varieties more suitable for
+**         :    visual recognition within particular word spellings and then
+**         :    copyright notices are stamped on them claiming to be unique.
+**         :    Such action makes little legal sense since all of these
+**         :    "various" systems are very similar (i.e. are not sufficiently
+**         :    unique) nor is there an identifiable audit trail allowing the
+**         :    "original" system to be identified and credited. The British
+**         :    Broadcasting Corporation (BBC) "Text Spelling Guide" might
+**         :    have been the original system devised. However, similarities
+**         :    can be seen between it and the DARPA ArpaBet as well. The
+**         :    BibleVox SndSpell system is specifically reduced in size with
+**         :    an increase in logical spelling pattern regularity for ease
+**         :    in programming without significant compromise in visual word
+**         :    recognition (so says the author). It is developed primarily
+**         :    as a means for scripting word pronunciations able to be easily
+**         :    translated into English language speech engine specific
+**         :    pronunciation lexicon syntax (e.g. the Festival speech engine
+**         :    implementation of the DARPA ArpaBet).
 **         :
 **         : 3. There are three acceptable input line formats:
 **         :    Comment and blank lines:

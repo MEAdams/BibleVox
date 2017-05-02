@@ -575,27 +575,33 @@ char *yytext;
 **         :    lexicon or lex. The FLEX interpreter will convert this code
 **         :    into "C" code, which will be compiled in order to create the
 **         :    SSdict2ABdict executable program. See makeFlexExec.bash.
-**         : 2. SndSpell is my respelling system based on a modified version
-**         :    of the BBC Text Spelling Guide. Many spelling guides have
-**         :    been devised over many years. However, they all "borrow"
-**         :    from similar sets of respellings of english sounds and I
-**         :    am unable to discover which system appeared first. I can
-**         :    say that the BBC Text Spelling Guide is freely downloadable
-**         :    from the BBC web site and is the work upon which mine has
-**         :    been based. My modifications are an attempt to simplify and
-**         :    regularize to facilitate ease of memorization and computer
-**         :    use. Most other systems define multiple spellings for many
-**         :    sounds or sound combinations in order to provide varieties
-**         :    more suitable for visual recognition within particular
-**         :    word spellings and then stamp copyright notices on them.
-**         :    Such action makes no legal sense since all of these alternate
-**         :    systems are very similar (i.e. they cannot be sufficiently
-**         :    unique). My SndSpell system is purposefully reduced in size
-**         :    with an increase in logical spelling pattern regularity for
-**         :    ease in programming without significant compromise in visual
-**         :    word recognition (so says I). I declare my SndSpell system
-**         :    to be as freely usable as the BBC's Text Spelling Guide that
-**         :    it is based on.
+**         :
+**         : 2. BibleVox SndSpell is a spelling syntax in some ways similar to
+**         :    the many other re-spelling guides that have been devised over
+**         :    many years and seen on the Internet. However, they all seem to
+**         :    "borrow" from similar sets of respellings of english sounds
+**         :    and I am unable to discover which system appeared first. The
+**         :    BibleVox SndSpell is an attempt to simplify and regularize to
+**         :    facilitate ease of memorization and computer use. The other
+**         :    systems define multiple spellings for many sounds or sound
+**         :    combinations in order to provide varieties more suitable for
+**         :    visual recognition within particular word spellings and then
+**         :    copyright notices are stamped on them claiming to be unique.
+**         :    Such action makes little legal sense since all of these
+**         :    "various" systems are very similar (i.e. are not sufficiently
+**         :    unique) nor is there an identifiable audit trail allowing the
+**         :    "original" system to be identified and credited. The British
+**         :    Broadcasting Corporation (BBC) "Text Spelling Guide" might
+**         :    have been the original system devised. However, similarities
+**         :    can be seen between it and the DARPA ArpaBet as well. The
+**         :    BibleVox SndSpell system is specifically reduced in size with
+**         :    an increase in logical spelling pattern regularity for ease
+**         :    in programming without significant compromise in visual word
+**         :    recognition (so says the author). It is developed primarily
+**         :    as a means for scripting word pronunciations able to be easily
+**         :    translated into English language speech engine specific
+**         :    pronunciation lexicon syntax (e.g. the Festival speech engine
+**         :    implementation of the DARPA ArpaBet).
 **         :
 **         : 3. There are three acceptable input line formats:
 **         :    Comment and blank lines:
@@ -650,7 +656,7 @@ char *yytext;
 
 
 
-#line 93 "./SSdict2ABdict.lex"
+#line 99 "./SSdict2ABdict.lex"
   int stress = 0;
   int spc = 1;
 
@@ -660,7 +666,7 @@ char *yytext;
       printf(" ");
     }
   }
-#line 664 "./SSdict2ABdict.c"
+#line 670 "./SSdict2ABdict.c"
 
 #define INITIAL 0
 #define TEXT 1
@@ -886,10 +892,10 @@ YY_DECL
 		}
 
 	{
-#line 104 "./SSdict2ABdict.lex"
+#line 110 "./SSdict2ABdict.lex"
 
  /* Rules */
-#line 893 "./SSdict2ABdict.c"
+#line 899 "./SSdict2ABdict.c"
 
 	while ( /*CONSTCOND*/1 )		/* loops until end-of-file is reached */
 		{
@@ -950,600 +956,600 @@ do_action:	/* This label is used only to access EOF actions. */
 case 1:
 /* rule 1 can match eol */
 YY_RULE_SETUP
-#line 106 "./SSdict2ABdict.lex"
+#line 112 "./SSdict2ABdict.lex"
 { }
 	YY_BREAK
 case 2:
 YY_RULE_SETUP
-#line 107 "./SSdict2ABdict.lex"
+#line 113 "./SSdict2ABdict.lex"
 { BEGIN TEXT; }
 	YY_BREAK
 case 3:
 YY_RULE_SETUP
-#line 108 "./SSdict2ABdict.lex"
+#line 114 "./SSdict2ABdict.lex"
 { }
 	YY_BREAK
 case 4:
 /* rule 4 can match eol */
 YY_RULE_SETUP
-#line 109 "./SSdict2ABdict.lex"
+#line 115 "./SSdict2ABdict.lex"
 { BEGIN INITIAL; }
 	YY_BREAK
 case 5:
 YY_RULE_SETUP
-#line 111 "./SSdict2ABdict.lex"
+#line 117 "./SSdict2ABdict.lex"
 { BEGIN NAME; printf("(\"%s", yytext); }
 	YY_BREAK
 case 6:
 /* rule 6 can match eol */
 YY_RULE_SETUP
-#line 112 "./SSdict2ABdict.lex"
+#line 118 "./SSdict2ABdict.lex"
 { printf("\")\n"); BEGIN INITIAL; }
 	YY_BREAK
 case 7:
 YY_RULE_SETUP
-#line 113 "./SSdict2ABdict.lex"
+#line 119 "./SSdict2ABdict.lex"
 { BEGIN POST; printf("\" "); }
 	YY_BREAK
 case 8:
 YY_RULE_SETUP
-#line 114 "./SSdict2ABdict.lex"
+#line 120 "./SSdict2ABdict.lex"
 { printf("%s", yytext); }
 	YY_BREAK
 case 9:
 /* rule 9 can match eol */
 YY_RULE_SETUP
-#line 116 "./SSdict2ABdict.lex"
+#line 122 "./SSdict2ABdict.lex"
 { printf(")\n"); BEGIN INITIAL; }
 	YY_BREAK
 case 10:
 YY_RULE_SETUP
-#line 117 "./SSdict2ABdict.lex"
+#line 123 "./SSdict2ABdict.lex"
 { BEGIN ABET; spc=0; printf(" ((("); }
 	YY_BREAK
 case 11:
 YY_RULE_SETUP
-#line 119 "./SSdict2ABdict.lex"
+#line 125 "./SSdict2ABdict.lex"
 { printf("jj"); }
 	YY_BREAK
 case 12:
 YY_RULE_SETUP
-#line 120 "./SSdict2ABdict.lex"
+#line 126 "./SSdict2ABdict.lex"
 { printf("rb"); }
 	YY_BREAK
 case 13:
 YY_RULE_SETUP
-#line 121 "./SSdict2ABdict.lex"
+#line 127 "./SSdict2ABdict.lex"
 { printf("nns"); }
 	YY_BREAK
 case 14:
 YY_RULE_SETUP
-#line 122 "./SSdict2ABdict.lex"
+#line 128 "./SSdict2ABdict.lex"
 { printf("nn"); }
 	YY_BREAK
 case 15:
 YY_RULE_SETUP
-#line 123 "./SSdict2ABdict.lex"
+#line 129 "./SSdict2ABdict.lex"
 { printf("nil"); }
 	YY_BREAK
 case 16:
 YY_RULE_SETUP
-#line 124 "./SSdict2ABdict.lex"
+#line 130 "./SSdict2ABdict.lex"
 { printf("nnps"); }
 	YY_BREAK
 case 17:
 YY_RULE_SETUP
-#line 125 "./SSdict2ABdict.lex"
+#line 131 "./SSdict2ABdict.lex"
 { printf("nnp"); }
 	YY_BREAK
 case 18:
 YY_RULE_SETUP
-#line 126 "./SSdict2ABdict.lex"
+#line 132 "./SSdict2ABdict.lex"
 { printf("vb"); }
 	YY_BREAK
 case 19:
 YY_RULE_SETUP
-#line 128 "./SSdict2ABdict.lex"
+#line 134 "./SSdict2ABdict.lex"
 { spc=0; printf(") %d) ((", stress); }
 	YY_BREAK
 case 20:
 /* rule 20 can match eol */
 YY_RULE_SETUP
-#line 129 "./SSdict2ABdict.lex"
+#line 135 "./SSdict2ABdict.lex"
 { spc=0; printf(") %d)))\n", stress); BEGIN INITIAL; }
 	YY_BREAK
 case 21:
 YY_RULE_SETUP
-#line 130 "./SSdict2ABdict.lex"
+#line 136 "./SSdict2ABdict.lex"
 { spc=0; printf(") %d)))", stress); BEGIN DUMP; }
 	YY_BREAK
 case 22:
 YY_RULE_SETUP
-#line 132 "./SSdict2ABdict.lex"
+#line 138 "./SSdict2ABdict.lex"
 { }
 	YY_BREAK
 case 23:
 /* rule 23 can match eol */
 YY_RULE_SETUP
-#line 133 "./SSdict2ABdict.lex"
+#line 139 "./SSdict2ABdict.lex"
 { printf("\n"); BEGIN INITIAL; }
 	YY_BREAK
 case 24:
 YY_RULE_SETUP
-#line 135 "./SSdict2ABdict.lex"
+#line 141 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ae"); spc=1; }
 	YY_BREAK
 case 25:
 YY_RULE_SETUP
-#line 136 "./SSdict2ABdict.lex"
+#line 142 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("aa"); spc=1; }
 	YY_BREAK
 case 26:
 YY_RULE_SETUP
-#line 137 "./SSdict2ABdict.lex"
+#line 143 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("aa r"); spc=1; }
 	YY_BREAK
 case 27:
 YY_RULE_SETUP
-#line 138 "./SSdict2ABdict.lex"
+#line 144 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ao"); spc=1; }
 	YY_BREAK
 case 28:
 YY_RULE_SETUP
-#line 139 "./SSdict2ABdict.lex"
+#line 145 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ey"); spc=1; }
 	YY_BREAK
 case 29:
 YY_RULE_SETUP
-#line 140 "./SSdict2ABdict.lex"
+#line 146 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("b"); spc=1; }
 	YY_BREAK
 case 30:
 YY_RULE_SETUP
-#line 141 "./SSdict2ABdict.lex"
+#line 147 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ch"); spc=1; }
 	YY_BREAK
 case 31:
 YY_RULE_SETUP
-#line 142 "./SSdict2ABdict.lex"
+#line 148 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("d"); spc=1; }
 	YY_BREAK
 case 32:
 YY_RULE_SETUP
-#line 143 "./SSdict2ABdict.lex"
+#line 149 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("eh"); spc=1; }
 	YY_BREAK
 case 33:
 YY_RULE_SETUP
-#line 144 "./SSdict2ABdict.lex"
+#line 150 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("iy"); spc=1; }
 	YY_BREAK
 case 34:
 YY_RULE_SETUP
-#line 145 "./SSdict2ABdict.lex"
+#line 151 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("eh"); spc=1; }
 	YY_BREAK
 case 35:
 YY_RULE_SETUP
-#line 146 "./SSdict2ABdict.lex"
+#line 152 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("eh r"); spc=1; }
 	YY_BREAK
 case 36:
 YY_RULE_SETUP
-#line 147 "./SSdict2ABdict.lex"
+#line 153 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ih"); spc=1; }
 	YY_BREAK
 case 37:
 YY_RULE_SETUP
-#line 148 "./SSdict2ABdict.lex"
+#line 154 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ih"); spc=1; }
 	YY_BREAK
 case 38:
 YY_RULE_SETUP
-#line 149 "./SSdict2ABdict.lex"
+#line 155 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ih r"); spc=1; }
 	YY_BREAK
 case 39:
 YY_RULE_SETUP
-#line 150 "./SSdict2ABdict.lex"
+#line 156 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ay"); spc=1; }
 	YY_BREAK
 case 40:
 YY_RULE_SETUP
-#line 151 "./SSdict2ABdict.lex"
+#line 157 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("f"); spc=1; }
 	YY_BREAK
 case 41:
 YY_RULE_SETUP
-#line 152 "./SSdict2ABdict.lex"
+#line 158 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("g"); spc=1; }
 	YY_BREAK
 case 42:
 YY_RULE_SETUP
-#line 153 "./SSdict2ABdict.lex"
+#line 159 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("hh"); spc=1; }
 	YY_BREAK
 case 43:
 YY_RULE_SETUP
-#line 154 "./SSdict2ABdict.lex"
+#line 160 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("jh"); spc=1; }
 	YY_BREAK
 case 44:
 YY_RULE_SETUP
-#line 155 "./SSdict2ABdict.lex"
+#line 161 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("k"); spc=1; }
 	YY_BREAK
 case 45:
 YY_RULE_SETUP
-#line 156 "./SSdict2ABdict.lex"
+#line 162 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("l"); spc=1; }
 	YY_BREAK
 case 46:
 YY_RULE_SETUP
-#line 157 "./SSdict2ABdict.lex"
+#line 163 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("m"); spc=1; }
 	YY_BREAK
 case 47:
 YY_RULE_SETUP
-#line 158 "./SSdict2ABdict.lex"
+#line 164 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("n"); spc=1; }
 	YY_BREAK
 case 48:
 YY_RULE_SETUP
-#line 159 "./SSdict2ABdict.lex"
+#line 165 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ng"); spc=1; }
 	YY_BREAK
 case 49:
 YY_RULE_SETUP
-#line 160 "./SSdict2ABdict.lex"
+#line 166 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("aa"); spc=1; }
 	YY_BREAK
 case 50:
 YY_RULE_SETUP
-#line 161 "./SSdict2ABdict.lex"
+#line 167 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ow"); spc=1; }
 	YY_BREAK
 case 51:
 YY_RULE_SETUP
-#line 162 "./SSdict2ABdict.lex"
+#line 168 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ao r"); spc=1; }
 	YY_BREAK
 case 52:
 YY_RULE_SETUP
-#line 163 "./SSdict2ABdict.lex"
+#line 169 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("uw"); spc=1; }
 	YY_BREAK
 case 53:
 YY_RULE_SETUP
-#line 164 "./SSdict2ABdict.lex"
+#line 170 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("aw"); spc=1; }
 	YY_BREAK
 case 54:
 YY_RULE_SETUP
-#line 165 "./SSdict2ABdict.lex"
+#line 171 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("oy"); spc=1; }
 	YY_BREAK
 case 55:
 YY_RULE_SETUP
-#line 166 "./SSdict2ABdict.lex"
+#line 172 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("p"); spc=1; }
 	YY_BREAK
 case 56:
 YY_RULE_SETUP
-#line 167 "./SSdict2ABdict.lex"
+#line 173 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("r"); spc=1; }
 	YY_BREAK
 case 57:
 YY_RULE_SETUP
-#line 168 "./SSdict2ABdict.lex"
+#line 174 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("s"); spc=1; }
 	YY_BREAK
 case 58:
 YY_RULE_SETUP
-#line 169 "./SSdict2ABdict.lex"
+#line 175 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("sh"); spc=1; }
 	YY_BREAK
 case 59:
 YY_RULE_SETUP
-#line 170 "./SSdict2ABdict.lex"
+#line 176 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("t"); spc=1; }
 	YY_BREAK
 case 60:
 YY_RULE_SETUP
-#line 171 "./SSdict2ABdict.lex"
+#line 177 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("th"); spc=1; }
 	YY_BREAK
 case 61:
 YY_RULE_SETUP
-#line 172 "./SSdict2ABdict.lex"
+#line 178 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("dh"); spc=1; }
 	YY_BREAK
 case 62:
 YY_RULE_SETUP
-#line 173 "./SSdict2ABdict.lex"
+#line 179 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ah"); spc=1; }
 	YY_BREAK
 case 63:
 YY_RULE_SETUP
-#line 174 "./SSdict2ABdict.lex"
+#line 180 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("ax"); spc=1; }
 	YY_BREAK
 case 64:
 YY_RULE_SETUP
-#line 175 "./SSdict2ABdict.lex"
+#line 181 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("er"); spc=1; }
 	YY_BREAK
 case 65:
 YY_RULE_SETUP
-#line 176 "./SSdict2ABdict.lex"
+#line 182 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("uh"); spc=1; }
 	YY_BREAK
 case 66:
 YY_RULE_SETUP
-#line 177 "./SSdict2ABdict.lex"
+#line 183 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("v"); spc=1; }
 	YY_BREAK
 case 67:
 YY_RULE_SETUP
-#line 178 "./SSdict2ABdict.lex"
+#line 184 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("w"); spc=1; }
 	YY_BREAK
 case 68:
 YY_RULE_SETUP
-#line 179 "./SSdict2ABdict.lex"
+#line 185 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("y"); spc=1; }
 	YY_BREAK
 case 69:
 YY_RULE_SETUP
-#line 180 "./SSdict2ABdict.lex"
+#line 186 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("z"); spc=1; }
 	YY_BREAK
 case 70:
 YY_RULE_SETUP
-#line 181 "./SSdict2ABdict.lex"
+#line 187 "./SSdict2ABdict.lex"
 { stress=0; space(); printf("zh"); spc=1; }
 	YY_BREAK
 case 71:
 YY_RULE_SETUP
-#line 183 "./SSdict2ABdict.lex"
+#line 189 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ae"); spc=1; }
 	YY_BREAK
 case 72:
 YY_RULE_SETUP
-#line 184 "./SSdict2ABdict.lex"
+#line 190 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("aa"); spc=1; }
 	YY_BREAK
 case 73:
 YY_RULE_SETUP
-#line 185 "./SSdict2ABdict.lex"
+#line 191 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("aa r"); spc=1; }
 	YY_BREAK
 case 74:
 YY_RULE_SETUP
-#line 186 "./SSdict2ABdict.lex"
+#line 192 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ao"); spc=1; }
 	YY_BREAK
 case 75:
 YY_RULE_SETUP
-#line 187 "./SSdict2ABdict.lex"
+#line 193 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ey"); spc=1; }
 	YY_BREAK
 case 76:
 YY_RULE_SETUP
-#line 188 "./SSdict2ABdict.lex"
+#line 194 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("b"); spc=1; }
 	YY_BREAK
 case 77:
 YY_RULE_SETUP
-#line 189 "./SSdict2ABdict.lex"
+#line 195 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ch"); spc=1; }
 	YY_BREAK
 case 78:
 YY_RULE_SETUP
-#line 190 "./SSdict2ABdict.lex"
+#line 196 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("d"); spc=1; }
 	YY_BREAK
 case 79:
 YY_RULE_SETUP
-#line 191 "./SSdict2ABdict.lex"
+#line 197 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("eh"); spc=1; }
 	YY_BREAK
 case 80:
 YY_RULE_SETUP
-#line 192 "./SSdict2ABdict.lex"
+#line 198 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("iy"); spc=1; }
 	YY_BREAK
 case 81:
 YY_RULE_SETUP
-#line 193 "./SSdict2ABdict.lex"
+#line 199 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("eh"); spc=1; }
 	YY_BREAK
 case 82:
 YY_RULE_SETUP
-#line 194 "./SSdict2ABdict.lex"
+#line 200 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("eh r"); spc=1; }
 	YY_BREAK
 case 83:
 YY_RULE_SETUP
-#line 195 "./SSdict2ABdict.lex"
+#line 201 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ih"); spc=1; }
 	YY_BREAK
 case 84:
 YY_RULE_SETUP
-#line 196 "./SSdict2ABdict.lex"
+#line 202 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ih"); spc=1; }
 	YY_BREAK
 case 85:
 YY_RULE_SETUP
-#line 197 "./SSdict2ABdict.lex"
+#line 203 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ih r"); spc=1; }
 	YY_BREAK
 case 86:
 YY_RULE_SETUP
-#line 198 "./SSdict2ABdict.lex"
+#line 204 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ay"); spc=1; }
 	YY_BREAK
 case 87:
 YY_RULE_SETUP
-#line 199 "./SSdict2ABdict.lex"
+#line 205 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("f"); spc=1; }
 	YY_BREAK
 case 88:
 YY_RULE_SETUP
-#line 200 "./SSdict2ABdict.lex"
+#line 206 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("g"); spc=1; }
 	YY_BREAK
 case 89:
 YY_RULE_SETUP
-#line 201 "./SSdict2ABdict.lex"
+#line 207 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("hh"); spc=1; }
 	YY_BREAK
 case 90:
 YY_RULE_SETUP
-#line 202 "./SSdict2ABdict.lex"
+#line 208 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("jh"); spc=1; }
 	YY_BREAK
 case 91:
 YY_RULE_SETUP
-#line 203 "./SSdict2ABdict.lex"
+#line 209 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("k"); spc=1; }
 	YY_BREAK
 case 92:
 YY_RULE_SETUP
-#line 204 "./SSdict2ABdict.lex"
+#line 210 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("l"); spc=1; }
 	YY_BREAK
 case 93:
 YY_RULE_SETUP
-#line 205 "./SSdict2ABdict.lex"
+#line 211 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("m"); spc=1; }
 	YY_BREAK
 case 94:
 YY_RULE_SETUP
-#line 206 "./SSdict2ABdict.lex"
+#line 212 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("n"); spc=1; }
 	YY_BREAK
 case 95:
 YY_RULE_SETUP
-#line 207 "./SSdict2ABdict.lex"
+#line 213 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ng"); spc=1; }
 	YY_BREAK
 case 96:
 YY_RULE_SETUP
-#line 208 "./SSdict2ABdict.lex"
+#line 214 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("aa"); spc=1; }
 	YY_BREAK
 case 97:
 YY_RULE_SETUP
-#line 209 "./SSdict2ABdict.lex"
+#line 215 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ow"); spc=1; }
 	YY_BREAK
 case 98:
 YY_RULE_SETUP
-#line 210 "./SSdict2ABdict.lex"
+#line 216 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ao r"); spc=1; }
 	YY_BREAK
 case 99:
 YY_RULE_SETUP
-#line 211 "./SSdict2ABdict.lex"
+#line 217 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("uw"); spc=1; }
 	YY_BREAK
 case 100:
 YY_RULE_SETUP
-#line 212 "./SSdict2ABdict.lex"
+#line 218 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("aw"); spc=1; }
 	YY_BREAK
 case 101:
 YY_RULE_SETUP
-#line 213 "./SSdict2ABdict.lex"
+#line 219 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("oy"); spc=1; }
 	YY_BREAK
 case 102:
 YY_RULE_SETUP
-#line 214 "./SSdict2ABdict.lex"
+#line 220 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("p"); spc=1; }
 	YY_BREAK
 case 103:
 YY_RULE_SETUP
-#line 215 "./SSdict2ABdict.lex"
+#line 221 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("r"); spc=1; }
 	YY_BREAK
 case 104:
 YY_RULE_SETUP
-#line 216 "./SSdict2ABdict.lex"
+#line 222 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("s"); spc=1; }
 	YY_BREAK
 case 105:
 YY_RULE_SETUP
-#line 217 "./SSdict2ABdict.lex"
+#line 223 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("sh"); spc=1; }
 	YY_BREAK
 case 106:
 YY_RULE_SETUP
-#line 218 "./SSdict2ABdict.lex"
+#line 224 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("t"); spc=1; }
 	YY_BREAK
 case 107:
 YY_RULE_SETUP
-#line 219 "./SSdict2ABdict.lex"
+#line 225 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("th"); spc=1; }
 	YY_BREAK
 case 108:
 YY_RULE_SETUP
-#line 220 "./SSdict2ABdict.lex"
+#line 226 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("dh"); spc=1; }
 	YY_BREAK
 case 109:
 YY_RULE_SETUP
-#line 221 "./SSdict2ABdict.lex"
+#line 227 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ah"); spc=1; }
 	YY_BREAK
 case 110:
 YY_RULE_SETUP
-#line 222 "./SSdict2ABdict.lex"
+#line 228 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("ax"); spc=1; }
 	YY_BREAK
 case 111:
 YY_RULE_SETUP
-#line 223 "./SSdict2ABdict.lex"
+#line 229 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("er"); spc=1; }
 	YY_BREAK
 case 112:
 YY_RULE_SETUP
-#line 224 "./SSdict2ABdict.lex"
+#line 230 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("uh"); spc=1; }
 	YY_BREAK
 case 113:
 YY_RULE_SETUP
-#line 225 "./SSdict2ABdict.lex"
+#line 231 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("v"); spc=1; }
 	YY_BREAK
 case 114:
 YY_RULE_SETUP
-#line 226 "./SSdict2ABdict.lex"
+#line 232 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("w"); spc=1; }
 	YY_BREAK
 case 115:
 YY_RULE_SETUP
-#line 227 "./SSdict2ABdict.lex"
+#line 233 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("y"); spc=1; }
 	YY_BREAK
 case 116:
 YY_RULE_SETUP
-#line 228 "./SSdict2ABdict.lex"
+#line 234 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("z"); spc=1; }
 	YY_BREAK
 case 117:
 YY_RULE_SETUP
-#line 229 "./SSdict2ABdict.lex"
+#line 235 "./SSdict2ABdict.lex"
 { stress=1; space(); printf("zh"); spc=1; }
 	YY_BREAK
 case 118:
 YY_RULE_SETUP
-#line 231 "./SSdict2ABdict.lex"
+#line 237 "./SSdict2ABdict.lex"
 ECHO;
 	YY_BREAK
-#line 1547 "./SSdict2ABdict.c"
+#line 1553 "./SSdict2ABdict.c"
 case YY_STATE_EOF(INITIAL):
 case YY_STATE_EOF(TEXT):
 case YY_STATE_EOF(NAME):
@@ -2552,7 +2558,7 @@ void yyfree (void * ptr )
 
 #define YYTABLES_NAME "yytables"
 
-#line 231 "./SSdict2ABdict.lex"
+#line 237 "./SSdict2ABdict.lex"
 
 
  /* Subroutines */
