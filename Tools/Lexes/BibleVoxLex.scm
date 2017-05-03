@@ -553,7 +553,7 @@
 (lex.add.entry 
  '("Abiel" nnp (((ey) 1) ((b iy) 0) ((eh l) 0))) )
 (lex.add.entry 
- '("Abiezer" nnp (((ey) 1) ((b iy) 0) ((iy) 0) ((z er) 0))) )
+ '("Abiezer" nnp (((ey) 1) ((b iy) 0) ((iy) 1) ((z er) 0))) )
 (lex.add.entry 
  '("Abiezrite" nnp (((ey) 1) ((b ay) 0) ((eh z) 1) ((r ay t) 0))) )
 (lex.add.entry 
