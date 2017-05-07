@@ -32,7 +32,7 @@
 #        :
 # -------:---------------------------------------------------------------------
 # Notes &: 1. This script makes use of an undocumented diatheke feature that
-# Assumes:    allows specifying a range of books (i.e. Genesis-Revelation) to
+# Assumes:    allows specifying the entire range of books (i.e. Genesis -) to
 #        :    extract the entire text from a CrossWire module.
 #        : 2. Note that the text defragging process makes use of inserting
 #        :    an underscore ("_") character in place of newline characters.
@@ -70,7 +70,7 @@ MOD="${1}"
 TXT="${MOD}.copyrighted"
 
 # employ the "get everything" diatheke query-key argument
-_try diatheke -b "${MOD}" -k "Genesis-Revelation" | \
+_try diatheke -b "${MOD}" -k "Genesis -" | \
 
 # reformat diatheke output for display and speech processing
 ../verseperline.bash | \
