@@ -6,15 +6,15 @@
 # Author : MEAdams
 # Purpose: Extract and reformat bible text to single verse per line always
 #        : preceded by its verse reference. The extracted and formated text
-#        : will be saved to a text file named "modName.txt", where "modName"
-#        : is user supplied text specifying a diatheke module name. The
-#        : resulting .txt file is intended to facilitate processing using
+#        : will be saved to a text file named "modName.copywrited", where
+#        : "modName" is user supplied text specifying a diatheke module name.
+#        : The resulting text file is intended to facilitate processing using
 #        : standard Unix/Linux text processing utilities like SED, AWK, GREP.
 #        : The resulting bible text files were necessary to generate for three
 #        : reasons. First, diatheke in Ubuntu 16.04 has a bug I reported
 #        : over six months ago and they seem to be too busy to implement a
 #        : long time available fix that has been reported to be already
-#        : available in the Debian repository. Go figure. Second, the
+#        : available in the Debian repository. So it goes. Second, the
 #        : searches I perform to identifiy which BibleVox lexicon words are
 #        : employed in a particular translation can take between 3.5 to 8.5
 #        : hours to run using diatheke. They take only 3.5 minutes to run
@@ -32,8 +32,8 @@
 #        :
 # -------:---------------------------------------------------------------------
 # Notes &: 1. This script makes use of an undocumented diatheke feature that
-# Assumes:    was shared with me by my UK friend David F. Haslam to extract
-#        :    the text from a CrossWire module.
+# Assumes:    allows specifying a range of books (i.e. Genesis-Revelation) to
+#        :    extract the entire text from a CrossWire module.
 #        : 2. Note that the text defragging process makes use of inserting
 #        :    an underscore ("_") character in place of newline characters.
 #        :    Heeding my warning in the "To do" section, new modules will need
@@ -69,8 +69,8 @@ if [ -z "${1}" ]; then usage; fi
 MOD="${1}"
 TXT="${MOD}.copyrighted"
 
-# employ the undocumented diatheke query-key argument
-_try diatheke -b "${MOD}" -k "Gen-Rev" | \
+# employ the "get everything" diatheke query-key argument
+_try diatheke -b "${MOD}" -k "Genesis-Revelation" | \
 
 # reformat diatheke output for display and speech processing
 ../verseperline.bash | \
@@ -79,7 +79,8 @@ _try diatheke -b "${MOD}" -k "Gen-Rev" | \
 # This is done to simplify word searches, which is the intended purpose of
 # the resulting text file. To date, this step only insures apostrophe and
 # dash characters (which can be embedded within words to be searched) are
-# always encoded as 8-bit ASCII 0x27 and 0x2D, respectively.
+# always encoded as 8-bit ASCII 0x27 and 0x2D, respectively. Note that this
+# operation can be reversed with the provided ascii2utf.bash filter.
 ../utf2ascii.bash > "${TXT}"
 
 # Diatheke returns no error code if module is not installed. Instead,
