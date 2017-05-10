@@ -83,6 +83,8 @@
 (lex.add.entry 
  '("bowshot" nn (((b ow) 1) ((sh aa t) 0))) )
 (lex.add.entry 
+ '("carnelian" nn (((k aa r) 0) ((n iy l) 1) ((y ax n) 0))) )
+(lex.add.entry 
  '("certificate" nn (((s er) 0) ((t ih f) 1) ((ax) 0) ((k ih t) 0))) )
 (lex.add.entry 
  '("christs" nns (((k r ay s t s) 1))) )
@@ -2239,6 +2241,8 @@
 (lex.add.entry 
  '("Beten" nnp (((b iy) 1) ((t ax n) 0))) )
 (lex.add.entry 
+ '("Beth" nnp (((b eh th) 1))) )
+(lex.add.entry 
  '("Bethabara" nnp (((b eh th) 1) ((ae b) 1) ((ax) 0) ((r ax) 0))) )
 (lex.add.entry 
  '("Bethabarah" nnp (((b eh th) 1) ((ae b) 1) ((ax) 0) ((r ax) 0))) )
@@ -2715,7 +2719,7 @@
 (lex.add.entry 
  '("Calno" nnp (((k ae l) 1) ((n ow) 0))) )
 (lex.add.entry 
- '("Calphi" nnp (((k ae l) 1) ((f ay) 0))) )
+ '("Calphi" nnp (((k ae l) 1) ((p hh ay) 0))) )
 (lex.add.entry 
  '("Calvary" nnp (((k ae l) 1) ((v ax) 0) ((r ih) 0))) )
 (lex.add.entry 
@@ -2743,17 +2747,19 @@
 (lex.add.entry 
  '("Capernaum" nnp (((k ax) 0) ((p er) 1) ((n ey) 0) ((ax m) 0))) )
 (lex.add.entry 
+ '("Caph" nnp (((k aa f) 1))) )
+(lex.add.entry 
  '("Capharsalama" nnp (((k ae f) 1) ((aa r) 0) ((s ae l) 1) ((ax) 0) ((m ax) 0))) )
 (lex.add.entry 
  '("Caphenatha" nnp (((k ax) 0) ((f eh n) 1) ((ax) 0) ((th ax) 0))) )
 (lex.add.entry 
- '("Caphthorim" nnp (((k ae f) 1) ((th ax) 0) ((r ih m) 0))) )
+ '("Caphthorim" nnps (((k ae f) 1) ((th ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Caphthorims" nnps (((k ae f) 1) ((th ax) 0) ((r ih m z) 0))) )
 (lex.add.entry 
  '("Caphtor" nnp (((k ae f) 1) ((t ao r) 0))) )
 (lex.add.entry 
- '("Caphtorim" nnp (((k ae f) 1) ((t ax) 0) ((r ih m) 0))) )
+ '("Caphtorim" nnps (((k ae f) 1) ((t ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Caphtorims" nnps (((k ae f) 1) ((t ax) 0) ((r ih m z) 0))) )
 (lex.add.entry 
@@ -2779,11 +2785,15 @@
 (lex.add.entry 
  '("Carmelites" nnps (((k aa r) 1) ((m ax l) 0) ((ay t s) 0))) )
 (lex.add.entry 
+ '("Carmelitess" nnp (((k aa r) 1) ((m ax l) 0) ((ay t eh s) 0))) )
+(lex.add.entry 
  '("Carmi" nnp (((k aa r) 1) ((m ay) 0))) )
 (lex.add.entry 
- '("Carnaim" nnp (((k aa r) 1) ((n ey) 0) ((ih m) 0))) )
+ '("Carmite" nnp (((k aa r) 1) ((m ay t) 0))) )
 (lex.add.entry 
- '("Carnelian" nnp (((k aa r) 0) ((n iy l) 1) ((y ax n) 0))) )
+ '("Carmites" nnps (((k aa r) 1) ((m ay t s) 0))) )
+(lex.add.entry 
+ '("Carnaim" nnp (((k aa r) 1) ((n ey) 0) ((ih m) 0))) )
 (lex.add.entry 
  '("Carpus" nnp (((k aa r) 1) ((p ax s) 0))) )
 (lex.add.entry 
@@ -2791,7 +2801,7 @@
 (lex.add.entry 
  '("Casiphia" nnp (((k ax) 0) ((s ih f) 1) ((iy) 0) ((ax) 0))) )
 (lex.add.entry 
- '("Casluhim" nnp (((k ae s) 1) ((l y uw) 0) ((hh ih m) 0))) )
+ '("Casluhim" nnps (((k ae s) 1) ((l y uw) 0) ((hh ih m) 0))) )
 (lex.add.entry 
  '("Casphor" nnp (((k ae s) 1) ((f ao r) 0))) )
 (lex.add.entry 
@@ -2831,7 +2841,9 @@
 (lex.add.entry 
  '("Chaldeans" nnps (((k ae l) 0) ((d iy) 1) ((ax n z) 0))) )
 (lex.add.entry 
- '("Chaldees" nnp (((k ae l) 0) ((d iy z) 1))) )
+ '("Chaldee" nnp (((k ae l) 1) ((d iy) 0))) )
+(lex.add.entry 
+ '("Chaldees" nnps (((k ae l) 0) ((d iy z) 1))) )
 (lex.add.entry 
  '("Chalphi" nnp (((k ae l) 1) ((f ay) 0))) )
 (lex.add.entry 
@@ -2855,13 +2867,15 @@
 (lex.add.entry 
  '("Chelluh" nnp (((k eh l) 1) ((uw) 0))) )
 (lex.add.entry 
+ '("Chelluhi" nnp (((k ih) 0) ((l uw) 1) ((hh ay) 0))) )
+(lex.add.entry 
  '("Chelub" nnp (((k iy) 1) ((l ah b) 0))) )
 (lex.add.entry 
  '("Chelubai" nnp (((k ih) 0) ((l uw) 1) ((b ay) 0))) )
 (lex.add.entry 
  '("Cheluhi" nnp (((k ih) 0) ((l uw) 1) ((hh ay) 0))) )
 (lex.add.entry 
- '("Chemarim" nnp (((k eh m) 1) ((ax) 0) ((r ih m) 0))) )
+ '("Chemarim" nnps (((k eh m) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Chemarims" nnps (((k eh m) 1) ((ax) 0) ((r ih m z) 0))) )
 (lex.add.entry 
@@ -2881,11 +2895,13 @@
 (lex.add.entry 
  '("Chephar-haammonai" nnp (((k iy) 1) ((f aa r) 0) ((hh ey) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
 (lex.add.entry 
+ '("Chephar_Haammonai" nnp (((k iy) 1) ((f aa r) 0) ((hh ey) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
+(lex.add.entry 
  '("Chephirah" nnp (((k ih) 0) ((f ay) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Cheran" nnp (((k iy) 1) ((r ax n) 0))) )
 (lex.add.entry 
- '("Cherethim" nnp (((k eh r) 1) ((ih) 0) ((th ih m) 0))) )
+ '("Cherethim" nnps (((k eh r) 1) ((ih) 0) ((th ih m) 0))) )
 (lex.add.entry 
  '("Cherethims" nnps (((k eh r) 1) ((ih) 0) ((th ih m z) 0))) )
 (lex.add.entry 
@@ -2897,7 +2913,7 @@
 (lex.add.entry 
  '("Cherub" nnp (((ch eh r) 1) ((ax b) 0))) )
 (lex.add.entry 
- '("Cherubim" nnp (((ch eh r) 1) ((ax) 0) ((b ih m) 0))) )
+ '("Cherubim" nnps (((ch eh r) 1) ((ax) 0) ((b ih m) 0))) )
 (lex.add.entry 
  '("Cherubims" nnps (((ch eh r) 1) ((ax) 0) ((b ih m z) 0))) )
 (lex.add.entry 
@@ -2939,6 +2955,8 @@
 (lex.add.entry 
  '("Chisloth-tabor" nnp (((k ih s) 1) ((l aa th) 0) ((t ey) 1) ((b er) 0))) )
 (lex.add.entry 
+ '("Chisloth_Tabor" nnp (((k ih s) 1) ((l aa th) 0) ((t ey) 1) ((b er) 0))) )
+(lex.add.entry 
  '("Chitlish" nnp (((k ih t) 1) ((l ih sh) 0))) )
 (lex.add.entry 
  '("Chittim" nnp (((k ih t) 1) ((ih m) 0))) )
@@ -2979,6 +2997,8 @@
 (lex.add.entry 
  '("Cimmerian" nnp (((s ih) 0) ((m iy r) 1) ((iy) 0) ((ax n) 0))) )
 (lex.add.entry 
+ '("Cimmerians" nnps (((s ih) 0) ((m iy r) 1) ((iy) 0) ((ax n z) 0))) )
+(lex.add.entry 
  '("Cinneroth" nnp (((s ih n) 1) ((ih) 0) ((r aa th) 0))) )
 (lex.add.entry 
  '("Cis" nnp (((s ih s) 1))) )
@@ -2988,6 +3008,8 @@
  '("Claudia" nnp (((k l ao) 1) ((d iy) 0) ((ax) 0))) )
 (lex.add.entry 
  '("Claudius" nnp (((k l ao) 1) ((d iy) 0) ((ax s) 0))) )
+(lex.add.entry 
+ '("Claudius_Lysias" nnp (((k l ao) 1) ((d iy) 0) ((ax s) 0) ((l ih s) 1) ((iy) 0) ((ae s) 0))) )
 (lex.add.entry 
  '("Clement" nnp (((k l eh m) 1) ((ax n t) 0))) )
 (lex.add.entry 
@@ -3055,6 +3077,10 @@
 (lex.add.entry 
  '("Crete" nnp (((k r iy t) 1))) )
 (lex.add.entry 
+ '("Cretes" nnps (((k r iy t s) 1))) )
+(lex.add.entry 
+ '("Cretians" nnps (((k r iy) 1) ((sh ax n s) 0))) )
+(lex.add.entry 
  '("Crispus" nnp (((k r ih s) 1) ((p ax s) 0))) )
 (lex.add.entry 
  '("Cub" nnp (((k ah b) 1))) )
@@ -3081,6 +3107,8 @@
 (lex.add.entry 
  '("Cuthah" nnp (((k uw) 1) ((th ax) 0))) )
 (lex.add.entry 
+ '("Cuza" nnp (((k uw) 1) ((z ax) 0))) )
+(lex.add.entry 
  '("Cyprus" nnp (((s ay) 1) ((p r ax s) 0))) )
 (lex.add.entry 
  '("Cyrene" nnp (((s ay) 0) ((r iy) 1) ((n ih) 0))) )
@@ -3089,7 +3117,7 @@
 (lex.add.entry 
  '("Cyrenians" nnps (((s ay) 0) ((r iy) 1) ((n iy) 0) ((ax n z) 0))) )
 (lex.add.entry 
- '("Cyrenius" nnp (((s ay) 0) ((r iy) 1) ((n iy) 0) ((ah s) 0))) )
+ '("Cyrenius" nnp (((s ay) 0) ((r iy) 1) ((n iy) 0) ((ax s) 0))) )
 (lex.add.entry 
  '("Cyrus" nnp (((s ay) 1) ((r ax s) 0))) )
 (lex.add.entry 
@@ -4825,7 +4853,7 @@
 (lex.add.entry 
  '("Heshmon" nnp (((hh eh sh) 1) ((m aa n) 0))) )
 (lex.add.entry 
- '("Heth" nnp (((hh eh th) 1))) )
+ '("Heth" nnp (((hh ey th) 1))) )
 (lex.add.entry 
  '("Hethlon" nnp (((hh eh th) 1) ((l aa n) 0))) )
 (lex.add.entry 
@@ -4848,6 +4876,8 @@
  '("Hezronite" nnp (((hh eh z) 1) ((r aa n) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Hezronites" nnps (((hh eh z) 1) ((r aa n) 0) ((ay t s) 0))) )
+(lex.add.entry 
+ '("Hheth" nnp (((hh ey th) 1))) )
 (lex.add.entry 
  '("Hiddai" nnp (((hh ih d) 1) ((ay) 0))) )
 (lex.add.entry 
@@ -6075,6 +6105,8 @@
 (lex.add.entry 
  '("Kattath" nnp (((k ae t) 1) ((ae th) 0))) )
 (lex.add.entry 
+ '("Kebar" nnp (((k iy) 1) ((b aa r) 0))) )
+(lex.add.entry 
  '("Kedar" nnp (((k iy) 1) ((d er) 0))) )
 (lex.add.entry 
  '("Kedemah" nnp (((k eh d) 1) ((ih) 0) ((m ax) 0))) )
@@ -6087,17 +6119,31 @@
 (lex.add.entry 
  '("Kedesh-naphtali" nnp (((k iy) 1) ((d eh sh) 0) ((n ae f) 1) ((t ax) 0) ((l ay) 0))) )
 (lex.add.entry 
+ '("Kedorlaomer" nnp (((k eh d) 1) ((er) 0) ((l ey) 0) ((ow) 1) ((m er) 0))) )
+(lex.add.entry 
  '("Kehelathah" nnp (((k iy) 1) ((hh ih) 0) ((l ey) 1) ((th ax) 0))) )
 (lex.add.entry 
  '("Keilah" nnp (((k iy) 0) ((ay) 1) ((l ax) 0))) )
+(lex.add.entry 
+ '("Kelal" nnp (((k iy) 1) ((l ae l) 0))) )
 (lex.add.entry 
  '("Kelaiah" nnp (((k ih) 0) ((l ey) 1) ((y ax) 0))) )
 (lex.add.entry 
  '("Kelita" nnp (((k eh l) 1) ((ih) 0) ((t ax) 0))) )
 (lex.add.entry 
+ '("Kelub" nnp (((k iy) 1) ((l ah b) 0))) )
+(lex.add.entry 
+ '("Keluhi" nnp (((k ih) 0) ((l uw) 1) ((hh ay) 0))) )
+(lex.add.entry 
  '("Kemuel" nnp (((k eh m) 1) ((y uw) 0) ((eh l) 0))) )
 (lex.add.entry 
+ '("Kenaanah" nnp (((k ih) 0) ((n ey) 1) ((ax) 0) ((n aa) 0))) )
+(lex.add.entry 
  '("Kenan" nnp (((k iy) 1) ((n ax n) 0))) )
+(lex.add.entry 
+ '("Kenani" nnp (((k ih) 0) ((n ey) 1) ((n ay) 0))) )
+(lex.add.entry 
+ '("Kenaniah" nnp (((k eh n) 1) ((ax) 0) ((n ay) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Kenath" nnp (((k iy) 1) ((n ae th) 0))) )
 (lex.add.entry 
@@ -6115,11 +6161,23 @@
 (lex.add.entry 
  '("Kenizzites" nnps (((k iy) 1) ((n ih z) 0) ((ay t s) 0))) )
 (lex.add.entry 
+ '("Kephar-ammoni" nnp (((k iy) 1) ((f aa r) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
+(lex.add.entry 
+ '("Kephar_Ammoni" nnp (((k iy) 1) ((f aa r) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
+(lex.add.entry 
+ '("Kephirah" nnp (((k ih) 0) ((f ay) 1) ((r ax) 0))) )
+(lex.add.entry 
+ '("Keran" nnp (((k iy) 1) ((r ax n) 0))) )
+(lex.add.entry 
  '("Kere" nnp (((k ax) 0) ((r ey) 1))) )
 (lex.add.entry 
  '("Kerenhappuch" nnp (((k eh r) 1) ((ax n) 0) ((hh ae p) 1) ((ax k) 0))) )
 (lex.add.entry 
  '("Keren-happuch" nnp (((k eh r) 1) ((ax n) 0) ((hh ae p) 1) ((ax k) 0))) )
+(lex.add.entry 
+ '("Kerethite" nnp (((k eh r) 1) ((ih) 0) ((th ay t) 0))) )
+(lex.add.entry 
+ '("Kerethites" nnps (((k eh r) 1) ((ih) 0) ((th ay t s) 0))) )
 (lex.add.entry 
  '("Kerioth" nnp (((k ih r) 1) ((iy) 0) ((aa th) 0))) )
 (lex.add.entry 
@@ -6127,9 +6185,19 @@
 (lex.add.entry 
  '("Kerioth-hezron" nnp (((k ih r) 1) ((iy) 0) ((aa th) 0) ((hh eh z) 1) ((r aa n) 0))) )
 (lex.add.entry 
+ '("Kerith" nnp (((k iy) 1) ((r ih th) 0))) )
+(lex.add.entry 
  '("Keros" nnp (((k iy) 1) ((r aa s) 0))) )
 (lex.add.entry 
  '("Kerygma" nnp (((k ih) 0) ((r ih g) 1) ((m ax) 0))) )
+(lex.add.entry 
+ '("Kesalon" nnp (((k eh s) 1) ((ax) 0) ((l aa n) 0))) )
+(lex.add.entry 
+ '("Kesed" nnp (((k iy) 1) ((s eh d) 0))) )
+(lex.add.entry 
+ '("Kesil" nnp (((k iy) 1) ((s ih l) 0))) )
+(lex.add.entry 
+ '("Kesulloth" nnp (((k ih) 0) ((s ah l) 1) ((aa th) 0))) )
 (lex.add.entry 
  '("Kethib" nnp (((k ax) 0) ((th iy v) 1))) )
 (lex.add.entry 
@@ -6143,6 +6211,8 @@
 (lex.add.entry 
  '("Keziah" nnp (((k ax) 0) ((z ay) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Kezib" nnp (((k iy) 1) ((z ih b) 0))) )
+(lex.add.entry 
  '("Keziz" nnp (((k iy) 1) ((z ih z) 0))) )
 (lex.add.entry 
  '("Khabur" nnp (((k aa) 1) ((b uw r) 1))) )
@@ -6153,11 +6223,25 @@
 (lex.add.entry 
  '("Kibzaim" nnp (((k ih b) 0) ((z ey) 1) ((ih m) 0))) )
 (lex.add.entry 
+ '("Kidon" nnp (((k ay) 1) ((d ax n) 0))) )
+(lex.add.entry 
  '("Kidron" nnp (((k ih d) 1) ((r aa n) 0))) )
+(lex.add.entry 
+ '("Kileab" nnp (((k ih l) 1) ((iy) 0) ((ae b) 0))) )
+(lex.add.entry 
+ '("Kilion" nnp (((k ih l) 1) ((iy) 0) ((aa n) 0))) )
+(lex.add.entry 
+ '("Kilmad" nnp (((k ih l) 1) ((m ae d) 0))) )
+(lex.add.entry 
+ '("Kimham" nnp (((k ih m) 1) ((hh ae m) 0))) )
 (lex.add.entry 
  '("Kinah" nnp (((k ay) 1) ((n ax) 0))) )
 (lex.add.entry 
  '("Kings" nnp (((k ih ng z) 1))) )
+(lex.add.entry 
+ '("Kinnereth" nnp (((k ih n) 1) ((ih) 0) ((r eh th) 0))) )
+(lex.add.entry 
+ '("Kios" nnp (((k ay) 1) ((aa s) 0))) )
 (lex.add.entry 
  '("Kir" nnp (((k ih r) 1))) )
 (lex.add.entry 
@@ -6251,9 +6335,17 @@
 (lex.add.entry 
  '("Kishon" nnp (((k ay) 1) ((sh aa n) 0))) )
 (lex.add.entry 
+ '("Kislev" nnp (((k ih s) 1) ((l eh v) 0))) )
+(lex.add.entry 
+ '("Kislon" nnp (((k ih s) 1) ((l aa n) 0))) )
+(lex.add.entry 
+ '("Kisloth_Tabor" nnp (((k ih s) 1) ((l aa th) 0) ((t ey) 1) ((b er) 0))) )
+(lex.add.entry 
  '("Kison" nnp (((k ay) 1) ((s aa n) 0))) )
 (lex.add.entry 
  '("Kithlish" nnp (((k ih th) 1) ((l ih sh) 0))) )
+(lex.add.entry 
+ '("Kitlish" nnp (((k ih t) 1) ((l ih sh) 0))) )
 (lex.add.entry 
  '("Kitron" nnp (((k ih t) 1) ((r aa n) 0))) )
 (lex.add.entry 
@@ -6285,6 +6377,8 @@
 (lex.add.entry 
  '("Korathites" nnps (((k ow) 1) ((r ae th) 0) ((ay t s) 0))) )
 (lex.add.entry 
+ '("Korazin" nnp (((k ax) 0) ((r ey) 1) ((z ih n) 0))) )
+(lex.add.entry 
  '("Kore" nnp (((k ow) 1) ((r ih) 0))) )
 (lex.add.entry 
  '("Korhite" nnp (((k ao r) 1) ((hh ay t) 0))) )
@@ -6296,6 +6390,8 @@
  '("Kue" nnp (((k uh) 0) ((ey) 1))) )
 (lex.add.entry 
  '("Kushaiah" nnp (((k y uw) 0) ((sh ey) 1) ((y ax) 0))) )
+(lex.add.entry 
+ '("Kuza" nnp (((k uw) 1) ((z ax) 0))) )
 (lex.add.entry 
  '("Laadah" nnp (((l ey) 1) ((ax) 0) ((d ax) 0))) )
 (lex.add.entry 

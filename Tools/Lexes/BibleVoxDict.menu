@@ -87,8 +87,8 @@
 ###         :    are included by declaring their POS tags as type "nil".
 ###         :
 ###         : 3. General word categories (WIP):
-###         :    angel, animal, astral, deity, demon, divine, ethnic, measure,
-###         :    music, person, place, saying, thing, title, vegetal, writing
+###         :    angel,animal,astral,deity,demon,divine,ethnic,measure,mineral
+###         :    music,person,place,saying,thing,title,vegetal,writing
 ###         :
 ###         : 4. Note that there may exist pns and pnp entries that have not
 ###         :    been actuallly identified within Bible texts searched to date.
@@ -146,6 +146,12 @@
 ###         :    my good UK friend David F. Haslam for the percolation of this
 ###         :    idea.
 ###         :
+###         : 2. Re-check for multi-word (i.e. none hyphenated) names. Add using
+###         :    the underscore character (i.e. _). Consider new Festival code
+###         :    to process "." at word splits to catch all names formats. Then
+###         :    remove all continuation entries beginning or leading with "_"
+###         :    from this dictionary.
+###         :
 ### ****************************************************************************
 
 ###########################
@@ -176,6 +182,7 @@ bow                     nil   BOW                           bow
 bowing                  vrb   BOW-ing                       bow'ing
 bowshot                 cns   BOH-shot                      bow'shot
 
+carnelian               cns   kahr-NEEL-yuhn                Car-nel'ian                   mineral
 certificate             cns   suhr-TIF-uh-kit               cer-tif'i-cate
 christs                 cnp   KRIYSTS                       christs
 circumcise              vrb   SUHR-kuhm-siyz                cir'cum-cise
@@ -1295,6 +1302,7 @@ Besodeiah               pns   BES-uh-DEE-yuh                Bes'o-de'iah        
 Besor                   pns   BEE-sohr                      Be'sor                        place
 Betah                   pns   BEE-tuh                       Be'tah                        place
 Beten                   pns   BEE-tuhn                      Be'ten                        place
+Beth                    pns   BETH                          Beth                          writing
 Bethabara               pns   BETH-AB-uh-ruh                Beth'ab'a-ra                  place
 Bethabarah              pns   BETH-AB-uh-ruh                Beth'ab'a-rah                 place
 Bethanath               pns   BETH-AY-nath                  Beth'a'nath                   place
@@ -1534,7 +1542,7 @@ Calebephrathah          pns   KAY-luhb-EF-ruh-thuh          Ca'leb-eph'ra-thah  
 Caleb-ephrathah         pns   KAY-luhb-EF-ruh-thuh          Ca'leb-eph'ra-thah            place
 Calneh                  pns   KAL-ne                        Cal'neh                       place
 Calno                   pns   KAL-noh                       Cal'no                        place
-Calphi                  pns   KAL-fiy                       Cal'phi                       **
+Calphi                  pns   KAL-phiy                      Cal'phi                       person
 Calvary                 pns   KAL-vuh-ri                    Cal'va-ry                     place
 Camon                   pns   KAY-muhn                      Ca'mon                        place
 Cana                    pns   KAY-nuh                       Ca'na                         place
@@ -1548,182 +1556,193 @@ Cananaeans              pnp   KAY-nuh-NEE-uhnz              Ca'na-nae'ans       
 Candace                 pns   KAN-duh-see                   Can'da-ce                     person,title
 Canneh                  pns   KAN-e                         Can'neh                       place
 Capernaum               pns   kuh-PUHR-nay-uhm              Ca-per'na-um                  place
-
-Capharsalama            pns   KAF-ahr-SAL-uh-muh            Caph'ar-sal'a-ma
-Caphenatha              pns   kuh-FEN-uh-thuh               Ca-phen'a-tha
-Caphthorim              pns   KAF-thuh-rim                  Caph'tho-rim
-Caphthorims             pnp   KAF-thuh-rimz                 Caph'tho-rims
-Caphtor                 pns   KAF-tohr                      Caph'tor
-Caphtorim               pns   KAF-tuh-rim                   Caph'to-rim
-Caphtorims              pnp   KAF-tuh-rimz                  Caph'to-rims
-Cappadocia              pns   KAP-uh-DOH-shee-uh            Cap'pa-do'ci-a
-Carcas                  pns   KAHR-kuhs                     Car'cas
-Carchemish              pns   KAHR-ki-mish                  Car'che-mish
-Careah                  pns   kuh-REE-uh                    Ca-re'ah
-Caria                   pns   KAY-ree-uh                    Ca'ri-uh
-Carite                  pns   KEHR-iyt                      Car'ite
-Carites                 pnp   KEHR-iyts                     Car'ites
-Carkas                  pns   KAHR-kuhs                     Car'kas
-Carmel                  pns   KAHR-mel                      Car'mel
-Carmelite               pns   KAHR-muhl-iyt                *Car'mel-ite
-Carmelites              pnp   KAHR-muhl-iyts               *Car'mel-ites
-Carmi                   pns   KAHR-miy                      Car'mi
-Carnaim                 pns   KAHR-nay-im                   Car'na-im
-Carnelian               pns   kahr-NEEL-yuhn                Car-nel'ian
-Carpus                  pns   KAHR-puhs                     Car'pus
-Carshena                pns   KAHR-shi-nuh                  Car'she-na
-Casiphia                pns   kuh-SIF-ee-uh                 Ca-siph'i-a
-Casluhim                pns   KAS-lyoo-him                  Cas'lu-him
-Casphor                 pns   KAS-fohr                      Cas'phor
-Caspin                  pns   KAS-pin                       Cas'pin
-Caspis                  pns   KAS-pis                       Cas'pis
-Castor                  pns   KAHS-tuhr                     Cas'tor
-Cauda                   pns   KAO-duh                       Cau'da
-Cedron                  pns   SEE-druhn                     Ce'dron
-Celosyria               pns   SEE-luh-SIR-ee-uh             Ce'lo-syr'i-a
-Cenchrea                pns   SEN-kree-uh                   Cen'chre-a
-Cenchreae               pns   SEN-kree-uh                   Cen'chre-ae
-Cendebaeus              pns   SEN-di-BEE-uhs                Cen'de-bae'us
-Cendebeus               pns   SEN-di-BEE-uhs                Cen'de-be'us
-Cephas                  pns   SEE-fuhs                      Ce'phas
+Caph                    pns   KAHF                          Caph                          writing
+Capharsalama            pns   KAF-ahr-SAL-uh-muh            Caph'ar-sal'a-ma              place
+Caphenatha              pns   kuh-FEN-uh-thuh               Ca-phen'a-tha                 place
+Caphthorim              pnp   KAF-thuh-rim                  Caph'tho-rim                  ethnic
+Caphthorims             pnp   KAF-thuh-rimz                 Caph'tho-rims                 ethnic
+Caphtor                 pns   KAF-tohr                      Caph'tor                      place
+Caphtorim               pnp   KAF-tuh-rim                   Caph'to-rim                   ethnic
+Caphtorims              pnp   KAF-tuh-rimz                  Caph'to-rims                  ethnic
+Cappadocia              pns   KAP-uh-DOH-shee-uh            Cap'pa-do'ci-a                place
+Carcas                  pns   KAHR-kuhs                     Car'cas                       person
+Carchemish              pns   KAHR-ki-mish                  Car'che-mish                  place
+Careah                  pns   kuh-REE-uh                    Ca-re'ah                      person
+Caria                   pns   KAY-ree-uh                    Ca'ri-uh                      place
+Carite                  pns   KEHR-iyt                      Car'ite                       ethnic
+Carites                 pnp   KEHR-iyts                     Car'ites                      ethnic
+Carkas                  pns   KAHR-kuhs                     Car'kas                       person
+Carmel                  pns   KAHR-mel                      Car'mel                       place
+Carmelite               pns   KAHR-muhl-iyt                 Car'mel-ite                   ethnic
+Carmelites              pnp   KAHR-muhl-iyts                Car'mel-ites                  ethnic
+Carmelitess             pns   KAHR-muhl-iytes               Car'mel-itess                 ethnic
+Carmi                   pns   KAHR-miy                      Car'mi                        person
+Carmite                 pns   KAHR-miyt                     Car'mite                      ethnic
+Carmites                pnp   KAHR-miyts                    Car'mites                     ethnic
+Carnaim                 pns   KAHR-nay-im                   Car'na-im                     place
+Carpus                  pns   KAHR-puhs                     Car'pus                       person
+Carshena                pns   KAHR-shi-nuh                  Car'she-na                    person
+Casiphia                pns   kuh-SIF-ee-uh                 Ca-siph'i-a                   place
+Casluhim                pnp   KAS-lyoo-him                  Cas'lu-him                    ethnic
+Casphor                 pns   KAS-fohr                      Cas'phor                      place
+Caspin                  pns   KAS-pin                       Cas'pin                       place
+Caspis                  pns   KAS-pis                       Cas'pis                       place
+Castor                  pns   KAHS-tuhr                     Cas'tor                       deity
+Cauda                   pns   KAO-duh                       Cau'da                        place
+Cedron                  pns   SEE-druhn                     Ce'dron                       place
+Celosyria               pns   SEE-luh-SIR-ee-uh             Ce'lo-syr'i-a                 place
+Cenchrea                pns   SEN-kree-uh                   Cen'chre-a                    place
+Cenchreae               pns   SEN-kree-uh                   Cen'chre-ae                   place
+Cendebaeus              pns   SEN-di-BEE-uhs                Cen'de-bae'us                 person
+Cendebeus               pns   SEN-di-BEE-uhs                Cen'de-be'us                  person
+Cephas                  pns   SEE-fuhs                      Ce'phas                       person
 Chalcol                 pns   KAL-kol                       Chal'col                      person
-Chalcolithic            pns   KAL-kuh-LITH-ik               Chal'co-lith'ic
-Chaldea                 pns   kal-DEE-uh                    Chal-de'a
-Chaldaean               pns   kal-DEE-uhn                   Chal-dae'an
-Chaldaeans              pnp   kal-DEE-uhnz                  Chal-dae'ans
-Chaldean                pns   kal-DEE-uhn                   Chal-de'an
-Chaldeans               pnp   kal-DEE-uhnz                  Chal-de'ans
-Chaldees                pns   kal-DEEZ                      Chal-dees'
-Chalphi                 pns   KAL-fiy                       Chal'phi
-Chanaan                 pns   KAY-nuhn                      Cha-naan                      person.place
-Chaphenatha             pns   kuh-FEN-uh-thuh               Cha-phen'a-tha
-Charashim               pns   KAR-uh-shim                   Char'a-shim
-Charchemish             pns   KAHR-ki-mish                  Char'che-mish
-Charran                 pns   KAR-uhn                       Char'ran
-Chaspho                 pns   KAS-foh                       Chas'pho
-Chebar                  pns   KEE-bahr                      Che'bar
-Chedorlaomer            pns   KED-uhr-lay-OH-muhr           Ched'or-la-o'mer
-Chelal                  pns   KEE-lal                       Che'lal
-Chelluh                 pns   KEL-oo                        Chel'luh
-Chelub                  pns   KEE-lub                       Che'lub
-Chelubai                pns   ki-LOO-biy                    Che-lu'bai
-Cheluhi                 pns   ki-LOO-hiy                    Che-lu'hi
-Chemarim                pns   KEM-uh-rim                    Chem'a-rim
-Chemarims               pnp   KEM-uh-rimz                   Chem'a-rims
-Chemosh                 pns   KEE-mosh                      Che'mosh
-Chenaanah               pns   ki-NAY-uh-nah                 Che-na'a-nah
-Chenani                 pns   ki-NAY-niy                    Che-na'ni
-Chenaniah               pns   KEN-uh-NIY-uh                 Chen'a-ni'ah
-Chepharammoni           pns   KEE-fahr-AM-uh-niy            Che'phar-am'mo-ni
-Chephar-ammoni          pns   KEE-fahr-AM-uh-niy            Che'phar-am'mo-ni
-Chepharhaammonai        pns   KEE-fahr-hay-AM-uh-niy        Che'phar-ha-am'mo-nai
-Chephar-haammonai       pns   KEE-fahr-hay-AM-uh-niy        Che'phar-ha-am'mo-nai
-Chephirah               pns   ki-FIY-ruh                    Che-phi'rah
-Cheran                  pns   KEE-ruhn                      Che'ran
-Cherethim               pns   KER-i-thim                    Cher'e-thim
-Cherethims              pnp   KER-i-thimz                   Cher'e-thims
-Cherethite              pns   KER-i-thiyt                   Cher'eth-ite
-Cherethites             pnp   KER-i-thiyts                  Cher'eth-ites
-Cherith                 pns   KEE-rith                      Che'rith
-Cherub                  pns   CHER-uhb                      Cher'ub
-Cherubim                pns   CHER-uh-bim                   Cher'u-bim
-Cherubims               pnp   CHER-uh-bimz                  Cher'u-bims
-Chesalon                pns   KES-uh-lon                    Ches'a-lon
-Chesed                  pns   KEE-sed                       Che'sed
-Chesil                  pns   KEE-sil                       Che'sil
-Chesulloth              pns   ki-SUL-oth                    Che-sul'loth
-Cheth                   pns   KAYTH                         Cheth
-Chezib                  pns   KEE-zib                       Che'zib
-Chidon                  pns   KIY-duhn                      Chi'don
-Chileab                 pns   KIL-ee-ab                     Chil'e-ab
-Chilion                 pns   KIL-ee-on                     Chil'i-on
-Chilmad                 pns   KIL-mad                       Chil'mad
-Chimham                 pns   KIM-ham                      _Chim'ham
-Chinnereth              pns   KIN-i-reth                    Chin'ne-reth
-Chinneroth              pns   KIN-i-roth                    Chin'ne-roth
-Chios                   pns   KIY-os                        Chi'os
-Chisleu                 pns   KIS-loo                       Chis'leu
-Chislev                 pns   KIS-lev                       Chis'lev
-Chislon                 pns   KIS-lon                       Chis'lon
-Chislothtabor           pns   KIS-loth-TAY-buhr             Chis'loth-ta'bor
-Chisloth-tabor          pns   KIS-loth-TAY-buhr             Chis'loth-ta'bor
-Chitlish                pns   KIT-lish                      Chit'lish
-Chittim                 pns   KIT-im                        Chit'tim
-Chiun                   pns   KIY-uhn                       Chi'un
-Chloe                   pns   KLOH-i                        Chlo'e
-Chorashan               pns   KOHR-ASH-uhn                  Chor'ash'an
-Chor-ashan              pns   KOHR-ASH-uhn                  Chor'ash'an
-Chorazin                pns   kuh-RAY-zin                   Cho-ra'zin
-Chozeba                 pns   kuh-ZEE-buh                   Cho-ze'ba
-Christ                  pns   KRIYST                        Christ
-Christian               pns   KRIS-chuhn                    Chris'tian
-Christians              pnp   KRIS-chuhnz                   Chris'tians
-Chronicles              pns   KRON-i-kuhlz                  Chron'i-cles
-Chub                    pns   KUB                           Chub
-Chun                    pns   KUN                           Chun
-Chushanrishathaim       pns   KOO-shan-RISH-uh-THAY-im      Chu'shan-rish'a-tha'im
-Chushan-rishathaim      pns   KOO-shan-RISH-uh-THAY-im      Chu'shan-rish'a-tha'im
-Chuza                   pns   KOO-zuh                       Chu'za
-Chuzas                  pns   KOO-zas                       Chuz'as
-Cilicia                 pns   si-LISH-ee-uh                 Ci-li'ci-a
-Cimmerian               pns   si-MEER-ee-uhn                Cim-me'ri-an
-Cinneroth               pns   SIN-i-roth                    Cin'ne-roth
-Cis                     pns   SIS                           Cis
-Clauda                  pns   KLAO-duh                      Clau'da
-Claudia                 pns   KLAO-dee-uh                   Clau'di-a
-Claudius                pns   KLAO-dee-uhs                  Clau'di-us_
-Clement                 pns   KLEM-uhnt                     Clem'ent
-Cleopas                 pns   KLEE-uh-pas                   Cle'o-pas
-Cleopatra               pns   KLEE-uh-PAY-truh              Cle'o-pa'tra
-Cleophas                pns   KLEE-uh-fas                   Cle'o-phas
-Clopas                  pns   KLOH-pas                      Clo'pas
-Cnidus                  pns   NIY-duhs                      Cni'dus
-Coelesyria              pns   SEEL-i-SIR-ee-uh              Coel'e-syr'i-a
-Colhozeh                pns   kol-HOH-ze                    Col-ho'zeh
-Col-hozeh               pns   kol-HOH-ze                    Col-ho'zeh
-Colossae                pns   kuh-LOS-ee                    Co-los'sae
-Colosse                 pns   kuh-LOS-ee                    Co-los'se
-Colossian               pns   kuh-LOSH-uhn                  Co-los'sian
-Colossians              pnp   kuh-LOSH-uhnz                 Co-los'sians
-Conaniah                pns   KON-uh-NIY-uh                 Con'a-ni'ah
-Coniah                  pns   koh-NIY-uh                    Co-ni'ah
-Cononiah                pns   KON-uh-NIY-uh                 Con'o-ni'ah
-Coos                    pns   KOH-os                        Co'os
-Corashan                pns   KOHR-AY-shuhn                 Cor'a'shan
-Cor-ashan               pns   KOHR-AY-shuhn                 Cor'a'shan
-Core                    pns   KOH-ri                        Co're
-Corinth                 pns   KOR-inth                      Cor'inth
-Corinthian              pns   kuh-RIN-thee-uhn              Co-rin'thi-an
-Corinthians             pnp   kuh-RIN-thee-uhnz             Co-rin'thi-ans
-Cornelius               pns   kohr-NEEL-yuhs                Cor-nel'i-us
-Cos                     pns   KOS                           Cos
-Cosam                   pns   KOH-sam                       Co'sam
-Coz                     pns   KOZ                           Coz
-Cozbi                   pns   KOZ-biy                       Coz'bi
-Cozeba                  pns   kuh-ZEE-buh                   Co-ze'ba
-Crescens                pns   KRES-enz                      Cres'cens
-Cretan                  pns   KREE-tuhn                    *Cre'tan
-Cretans                 pnp   KREE-tuhnz                   *Cre'tans
-Crete                   pns   KREET                         Crete
-Crispus                 pns   KRIS-puhs                     Cris'pus
-Cub                     pns   KUB                           Cub
-Cun                     pns   KUN                           Cun
-Cush                    pns   KUSH                          Cush
-Cushan                  pns   KOO-shan                      Cu'shan
-Cushans                 pnp   KOO-shanz                     Cu'shans
-Cushanrishathaim        pns   KOO-shan-RISH-uh-THAY-im      Cu'shan-rish'a-tha'im
-Cushan-rishathaim       pns   KOO-shan-RISH-uh-THAY-im      Cu'shan-rish'a-tha'im
-Cushi                   pns   KOO-shiy                      Cu'shi
-Cushite                 pns   KUSH-iyt                      Cush'ite
-Cushites                pnp   KUSH-iyts                     Cush'ites
-Cuth                    pns   KUTH                          Cuth
-Cuthah                  pns   KOO-thuh                      Cu'thah
-Cyprus                  pns   SIY-pruhs                     Cy'prus
-Cyrene                  pns   siy-REE-ni                    Cy-re'ne
-Cyrenian                pns   siy-REE-nee-uhn              *Cy-re'ni-an
-Cyrenians               pnp   siy-REE-nee-uhnz             *Cy-re'ni-ans
-Cyrenius                pns   siy-REE-nee-us                Cy-re'ni-us
-Cyrus                   pns   SIY-ruhs                      Cy'rus
+Chalcolithic            pns   KAL-kuh-LITH-ik               Chal'co-lith'ic               measure
+Chaldea                 pns   kal-DEE-uh                    Chal-de'a                     place
+Chaldaean               pns   kal-DEE-uhn                   Chal-dae'an                   ethnic
+Chaldaeans              pnp   kal-DEE-uhnz                  Chal-dae'ans                  ethnic
+Chaldean                pns   kal-DEE-uhn                   Chal-de'an                    ethnic
+Chaldeans               pnp   kal-DEE-uhnz                  Chal-de'ans                   ethnic
+Chaldee                 pns   KAL-dee                       Chal'dee                      ethnic
+Chaldees                pnp   kal-DEEZ                      Chal-dees'                    ethnic
+Chalphi                 pns   KAL-fiy                       Chal'phi                      person
+Chanaan                 pns   KAY-nuhn                      Cha-naan                      person,place
+Chaphenatha             pns   kuh-FEN-uh-thuh               Cha-phen'a-tha                place
+Charashim               pns   KAR-uh-shim                   Char'a-shim                   place
+Charchemish             pns   KAHR-ki-mish                  Char'che-mish                 place
+Charran                 pns   KAR-uhn                       Char'ran                      person,place
+Chaspho                 pns   KAS-foh                       Chas'pho                      place
+Chebar                  pns   KEE-bahr                      Che'bar                       place
+Chedorlaomer            pns   KED-uhr-lay-OH-muhr           Ched'or-la-o'mer              person
+Chelal                  pns   KEE-lal                       Che'lal                       person
+Chelluh                 pns   KEL-oo                        Chel'luh                      person
+Chelluhi                pns   ki-LOO-hiy                    Chel-lu'hi                    person
+Chelub                  pns   KEE-lub                       Che'lub                       person
+Chelubai                pns   ki-LOO-biy                    Che-lu'bai                    person
+Cheluhi                 pns   ki-LOO-hiy                    Che-lu'hi                     person
+Chemarim                pnp   KEM-uh-rim                    Chem'a-rim                    ethnic
+Chemarims               pnp   KEM-uh-rimz                   Chem'a-rims                   ethnic
+Chemosh                 pns   KEE-mosh                      Che'mosh                      deity
+Chenaanah               pns   ki-NAY-uh-nah                 Che-na'a-nah                  person
+Chenani                 pns   ki-NAY-niy                    Che-na'ni                     person
+Chenaniah               pns   KEN-uh-NIY-uh                 Chen'a-ni'ah                  person
+Chepharammoni           pns   KEE-fahr-AM-uh-niy            Che'phar-am'mo-ni             place
+Chephar-ammoni          pns   KEE-fahr-AM-uh-niy            Che'phar-am'mo-ni             place
+Chepharhaammonai        pns   KEE-fahr-hay-AM-uh-niy        Che'phar-ha-am'mo-nai         place
+Chephar-haammonai       pns   KEE-fahr-hay-AM-uh-niy        Che'phar-ha-am'mo-nai         place
+Chephar_Haammonai       pns   KEE-fahr-hay-AM-uh-niy        Che'phar_Ha-am'mo-nai         place
+Chephirah               pns   ki-FIY-ruh                    Che-phi'rah                   place
+Cheran                  pns   KEE-ruhn                      Che'ran                       person
+Cherethim               pnp   KER-i-thim                    Cher'e-thim                   ethnic
+Cherethims              pnp   KER-i-thimz                   Cher'e-thims                  ethnic
+Cherethite              pns   KER-i-thiyt                   Cher'eth-ite                  ethnic
+Cherethites             pnp   KER-i-thiyts                  Cher'eth-ites                 ethnic
+Cherith                 pns   KEE-rith                      Che'rith                      place
+Cherub                  pns   CHER-uhb                      Cher'ub                       person,place,angel
+Cherubim                pnp   CHER-uh-bim                   Cher'u-bim                    angel
+Cherubims               pnp   CHER-uh-bimz                  Cher'u-bims                   angel
+Chesalon                pns   KES-uh-lon                    Ches'a-lon                    place
+Chesed                  pns   KEE-sed                       Che'sed                       person
+Chesil                  pns   KEE-sil                       Che'sil                       place
+Chesulloth              pns   ki-SUL-oth                    Che-sul'loth                  place
+Cheth                   pns   KAYTH                         Cheth                         writing
+Chezib                  pns   KEE-zib                       Che'zib                       place
+Chidon                  pns   KIY-duhn                      Chi'don                       place
+Chileab                 pns   KIL-ee-ab                     Chil'e-ab                     person
+Chilion                 pns   KIL-ee-on                     Chil'i-on                     person
+Chilmad                 pns   KIL-mad                       Chil'mad                      place
+Chimham                 pns   KIM-ham                       Chim'ham                      person
+Chinnereth              pns   KIN-i-reth                    Chin'ne-reth                  place
+Chinneroth              pns   KIN-i-roth                    Chin'ne-roth                  place
+Chios                   pns   KIY-os                        Chi'os                        place
+Chisleu                 pns   KIS-loo                       Chis'leu                      measure
+Chislev                 pns   KIS-lev                       Chis'lev                      measure
+Chislon                 pns   KIS-lon                       Chis'lon                      person
+Chislothtabor           pns   KIS-loth-TAY-buhr             Chis'loth-ta'bor              place
+Chisloth-tabor          pns   KIS-loth-TAY-buhr             Chis'loth-ta'bor              place
+Chisloth_Tabor          pns   KIS-loth-TAY-buhr             Chis'loth_Ta'bor              place
+Chitlish                pns   KIT-lish                      Chit'lish                     place
+Chittim                 pns   KIT-im                        Chit'tim                      place,ethnic
+Chiun                   pns   KIY-uhn                       Chi'un                        deity
+Chloe                   pns   KLOH-i                        Chlo'e                        person
+Chorashan               pns   KOHR-ASH-uhn                  Chor'ash'an                   place
+Chor-ashan              pns   KOHR-ASH-uhn                  Chor'ash'an                   place
+Chorazin                pns   kuh-RAY-zin                   Cho-ra'zin                    place
+Chozeba                 pns   kuh-ZEE-buh                   Cho-ze'ba                     place
+Christ                  pns   KRIYST                        Christ                        person,divine
+Christian               pns   KRIS-chuhn                    Chris'tian                    title
+Christians              pnp   KRIS-chuhnz                   Chris'tians                   title
+Chronicles              pns   KRON-i-kuhlz                  Chron'i-cles                  writing
+Chub                    pns   KUB                           Chub                          place
+Chun                    pns   KUN                           Chun                          place
+Chushanrishathaim       pns   KOO-shan-RISH-uh-THAY-im      Chu'shan-rish'a-tha'im        person
+Chushan-rishathaim      pns   KOO-shan-RISH-uh-THAY-im      Chu'shan-rish'a-tha'im        person
+Chuza                   pns   KOO-zuh                       Chu'za                        person
+Chuzas                  pns   KOO-zas                       Chuz'as                       person
+Cilicia                 pns   si-LISH-ee-uh                 Ci-li'ci-a                    place
+Cimmerian               pns   si-MEER-ee-uhn                Cim-me'ri-an                  ethnic
+Cimmerians              pnp   si-MEER-ee-uhnz               Cim-me'ri-ans                 ethnic
+Cinneroth               pns   SIN-i-roth                    Cin'ne-roth                   place
+Cis                     pns   SIS                           Cis                           person
+Clauda                  pns   KLAO-duh                      Clau'da                       place
+Claudia                 pns   KLAO-dee-uh                   Clau'di-a                     person
+Claudius                pns   KLAO-dee-uhs                  Clau'di-us                    person
+Claudius_Lysias         pns   KLAO-dee-uhs-LIS-ee-as        Clau'di-us_Lys'i-as           person
+Clement                 pns   KLEM-uhnt                     Clem'ent                      person
+Cleopas                 pns   KLEE-uh-pas                   Cle'o-pas                     person
+Cleopatra               pns   KLEE-uh-PAY-truh              Cle'o-pa'tra                  person
+Cleophas                pns   KLEE-uh-fas                   Cle'o-phas                    person
+Clopas                  pns   KLOH-pas                      Clo'pas                       person
+Cnidus                  pns   NIY-duhs                      Cni'dus                       place
+Coelesyria              pns   SEEL-i-SIR-ee-uh              Coel'e-syr'i-a                place
+Colhozeh                pns   kol-HOH-ze                    Col-ho'zeh                    person
+Col-hozeh               pns   kol-HOH-ze                    Col-ho'zeh                    person
+Colossae                pns   kuh-LOS-ee                    Co-los'sae                    place
+Colosse                 pns   kuh-LOS-ee                    Co-los'se                     place
+Colossian               pns   kuh-LOSH-uhn                  Co-los'sian                   ethnic
+Colossians              pnp   kuh-LOSH-uhnz                 Co-los'sians                  ethnic,writing
+Conaniah                pns   KON-uh-NIY-uh                 Con'a-ni'ah                   person
+Coniah                  pns   koh-NIY-uh                    Co-ni'ah                      person
+Cononiah                pns   KON-uh-NIY-uh                 Con'o-ni'ah                   person
+Coos                    pns   KOH-os                        Co'os                         place
+Corashan                pns   KOHR-AY-shuhn                 Cor'a'shan                    place
+Cor-ashan               pns   KOHR-AY-shuhn                 Cor'a'shan                    place
+Core                    pns   KOH-ri                        Co're                         person
+Corinth                 pns   KOR-inth                      Cor'inth                      place
+Corinthian              pns   kuh-RIN-thee-uhn              Co-rin'thi-an                 ethnic
+Corinthians             pnp   kuh-RIN-thee-uhnz             Co-rin'thi-ans                ethnic,writing
+Cornelius               pns   kohr-NEEL-yuhs                Cor-nel'i-us                  person
+Cos                     pns   KOS                           Cos                           place
+Cosam                   pns   KOH-sam                       Co'sam                        person
+Coz                     pns   KOZ                           Coz                           person
+Cozbi                   pns   KOZ-biy                       Coz'bi                        person
+Cozeba                  pns   kuh-ZEE-buh                   Co-ze'ba                      place
+Crescens                pns   KRES-enz                      Cres'cens                     person
+Cretan                  pns   KREE-tuhn                     Cre'tan                       ethnic
+Cretans                 pnp   KREE-tuhnz                    Cre'tans                      ethnic
+Crete                   pns   KREET                         Crete                         place
+Cretes                  pnp   KREETS                        Cretes                        ethnic
+Cretians                pnp   KREE-shuhns                   Cre'tians                     ethnic
+Crispus                 pns   KRIS-puhs                     Cris'pus                      person
+Cub                     pns   KUB                           Cub                           place
+Cun                     pns   KUN                           Cun                           place
+Cush                    pns   KUSH                          Cush                          person,place,ethnic
+Cushan                  pns   KOO-shan                      Cu'shan                       place,ethnic
+Cushans                 pnp   KOO-shanz                     Cu'shans                      ethnic
+Cushanrishathaim        pns   KOO-shan-RISH-uh-THAY-im      Cu'shan-rish'a-tha'im         person
+Cushan-rishathaim       pns   KOO-shan-RISH-uh-THAY-im      Cu'shan-rish'a-tha'im         person
+Cushi                   pns   KOO-shiy                      Cu'shi                        person
+Cushite                 pns   KUSH-iyt                      Cush'ite                      ethnic
+Cushites                pnp   KUSH-iyts                     Cush'ites                     ethnic
+Cuth                    pns   KUTH                          Cuth                          place
+Cuthah                  pns   KOO-thuh                      Cu'thah                       place
+Cuza                    pns   KOO-zuh                       Cu'za                         person
+Cyprus                  pns   SIY-pruhs                     Cy'prus                       place
+Cyrene                  pns   siy-REE-ni                    Cy-re'ne                      place
+Cyrenian                pns   siy-REE-nee-uhn               Cy-re'ni-an                   ethnic
+Cyrenians               pnp   siy-REE-nee-uhnz              Cy-re'ni-ans                  ethnic
+Cyrenius                pns   siy-REE-nee-uhs               Cy-re'ni-us                   person
+Cyrus                   pns   SIY-ruhs                      Cy'rus                        person
 
 Dabareh                 pns   DAB-uh-re                     Dab'a-reh
 Dabbasheth              pns   DAB-uh-sheth                  Dab'ba-sheth
@@ -2174,8 +2193,8 @@ Gederites               pnp   guh-DIHR-iyts                 Ge-de'rites
 Gederoth                pns   gi-DEE-roth                   Ge-de'roth
 Gederothaim             pns   GED-i-ruh-THAY-im             Ged'e-ro-tha'im
 Gedor                   pns   GEE-dohr                      Ge'dor
-Geharashim              pns   GEE-hah-RAY-shim              Ge'ha-ra'shim
-Ge-harashim             pns   GEE-hah-RAY-shim              Ge'ha-ra'shim
+Geharashim              pns   GEE-hah-RAY-shim              Ge'ha-ra'shim                 place
+Ge-harashim             pns   GEE-hah-RAY-shim              Ge'ha-ra'shim                 place
 Gehazi                  pns   gi-HAY-ziy                    Ge-ha'zi
 Gehenna                 pns   gi-HEN-uh                     Ge-hen'na
 Geliloth                pns   gi-LIY-loth                   Ge-li'loth
@@ -2279,13 +2298,13 @@ Gizrites                pnp   GIZ-riyts                     Giz'rites
 Goah                    pns   GOH-uh                        Go'ah
 Goath                   pns   GOH-ath                       Go'ath
 Gob                     pns   GOB                           Gob
-God                     pns   GOD                           God
+God                     pns   GOD                           God                           divine
 Gog                     pns   GOG                           Gog
 Goiim                   pns   GOY-im                        Goi'im
 Golan                   pns   GOH-lan                       Go'lan
 Golgotha                pns   GOL-guh-thuh                  Gol'go-tha
 Goliath                 pns   guh-LIY-uhth                  Go-li'ath
-Gomer                   pns   GOH-muhr                      Go'mer
+Gomer                   pns   GOH-muhr                      Go'mer                        person,ethnic
 Gomorrah                pns   guh-MOR-uh                    Go-mor'rah
 Gomorrha                pns   guh-MOR-uh                    Go-mor'rha
 Gorgias                 pns   GOHR-jee-as                   Gor'gi-as
@@ -2357,7 +2376,7 @@ Hagrites                pnp   HAG-riyts                     Hag'rites
 Hahiroth                pns   huh-HIY-roth                  Ha-hi'roth
 Hai                     pns   HAY-iy                        Ha'i                          place
 Hakkatan                pns   HAK-uh-tan                    Hak'ka-tan
-Hakkoz                  pns   HAK-oz                        Hak'koz
+Hakkoz                  pns   HAK-oz                        Hak'koz                       person
 Hakupha                 pns   huh-KOO-fuh                   Ha-ku'pha
 Halah                   pns   HAY-luh                       Ha'lah
 Halak                   pns   HAY-lak                       Ha'lak
@@ -2419,7 +2438,7 @@ Haphraim                pns   haf-RAY-im                    Haph-ra'im
 Happizzez               pns   HAP-i-zez                     Hap'piz-zez                   person
 Hara                    pns   HAY-ruh                       Ha'ra
 Haradah                 pns   huh-RAY-duh                   Ha-ra'dah
-Haran                   pns   HAY-ruhn                      Ha'ran
+Haran                   pns   HAY-ruhn                      Ha'ran                        person,place
 Hararite                pns   HAH-ruh-riyt                  Ha'ra-rite                    ethnic
 Hararites               pnp   HAH-ruh-riyts                 Ha'ra-rites                   ethnic
 Harbona                 pns   hahr-BOH-nuh                  Har-bo'na
@@ -2595,7 +2614,7 @@ Herodium                pns   hi-ROH-dee-uhm                He-ro'di-um
 Hesed                   pns   HEE-sed                       He'sed
 Heshbon                 pns   HESH-bon                      Hesh'bon
 Heshmon                 pns   HESH-mon                      Hesh'mon
-Heth                    pns   HETH                          Heth
+Heth                    pns   HAYTH                         Heth                          writing
 Hethlon                 pns   HETH-lon                      Heth'lon
 Hexateuch               pns   HEK-suh-took                  Hex'a-teuch
 Hezeki                  pns   HEZ-i-kiy                     Hez'e-ki
@@ -2607,6 +2626,7 @@ Hezro                   pns   HEZ-roh                       Hez'ro
 Hezron                  pns   HEZ-ron                       Hez'ron
 Hezronite               pns   HEZ-ron-iyt                   Hez'ron-ite
 Hezronites              pnp   HEZ-ron-iyts                  Hez'ron-ites
+Hheth                   pns   HAYTH                         Hheth                         writing
 Hiddai                  pns   HID-iy                        Hid'dai
 Hiddekel                pns   HID-i-kel                     Hid'de-kel
 Hiel                    pns   HIY-el                        Hi'el
@@ -3210,12 +3230,12 @@ Kadmiel                 pns   KAD-mee-el                    Kad'mi-el
 Kadmonite               pns   KAD-muhn-iyt                  Kad'mon-ite
 Kadmonites              pnp   KAD-muhn-iyts                 Kad'mon-ites
 Kain                    pns   KAYN                          Kain
-Kaiwan                  pns   KIY-wahn                      Kai'wan
+Kaiwan                  pns   KIY-wahn                      Kai'wan                       deity
 Kallai                  pns   KAL-iy                        Kal'lai
 Kamon                   pns   KAY-muhn                      Ka'mon                        place
 Kanah                   pns   KAY-nuh                       Ka'nah
 Kaph                    pns   KAHF                          Kaph
-Kareah                  pns   kuh-REE-uh                    Ka-re'ah
+Kareah                  pns   kuh-REE-uh                    Ka-re'ah                      person
 Karka                   pns   KAHR-kuh                      Kar'ka
 Karkaa                  pns   KAHR-kay-uh                   Kar'ka-a
 Karkor                  pns   KAHR-kohr                     Kar'kor
@@ -3223,18 +3243,26 @@ Karnaim                 pns   kahr-NAY-im                   Kar-na'im
 Kartah                  pns   KAHR-tuh                      Kar'tah
 Kartan                  pns   KAHR-tan                      Kar'tan
 Kattath                 pns   KAT-ath                       Kat'tath
+Kebar                   pns   KEE-bahr                      Ke'bar                        place
 Kedar                   pns   KEE-duhr                      Ke'dar
 Kedemah                 pns   KED-i-muh                     Ked'e-mah
 Kedemoth                pns   KED-i-moth                    Ked'e-moth
 Kedesh                  pns   KEE-desh                      Ke'desh
 Kedeshnaphtali          pns   KEE-desh-NAF-tuh-liy          Ke'desh-naph'ta-li
 Kedesh-naphtali         pns   KEE-desh-NAF-tuh-liy          Ke'desh-naph'ta-li
+Kedorlaomer             pns   KED-uhr-lay-OH-muhr           Ked'or-la-o'mer               person
 Kehelathah              pns   KEE-hi-LAY-thuh               Ke'he-la'thah
 Keilah                  pns   kee-IY-luh                    Ke-i'lah
+Kelal                   pns   KEE-lal                       Ke'lal                        person
 Kelaiah                 pns   ki-LAY-yuh                    Ke-la'iah
 Kelita                  pns   KEL-i-tuh                     Kel'i-ta
+Kelub                   pns   KEE-lub                       Ke'lub                        person
+Keluhi                  pns   ki-LOO-hiy                    Ke-lu'hi                      person
 Kemuel                  pns   KEM-yoo-el                    Kem'u-el
+Kenaanah                pns   ki-NAY-uh-nah                 Ke-na'a-nah                   person
 Kenan                   pns   KEE-nuhn                      Ke'nan                        person
+Kenani                  pns   ki-NAY-niy                    Ke-na'ni                      person
+Kenaniah                pns   KEN-uh-NIY-uh                 Ken'a-ni'ah                   person
 Kenath                  pns   KEE-nath                      Ke'nath
 Kenaz                   pns   KEE-naz                       Ke'naz
 Kenezite                pns   KEE-nez-iyt                   Ke'nez-ite
@@ -3243,28 +3271,47 @@ Kenite                  pns   KEE-niyt                      Ke'nite
 Kenites                 pns   KEE-niyts                     Ke'nites
 Kenizzite               pns   KEE-niz-iyt                   Ken'iz-zite
 Kenizzites              pnp   KEE-niz-iyts                  Ken'iz-zites
+Kephar-ammoni           pns   KEE-fahr-AM-uh-niy            Ke'phar-am'mo-ni              place
+Kephar_Ammoni           pns   KEE-fahr-AM-uh-niy            Ke'phar_Am'mo-ni              place
+Kephirah                pns   ki-FIY-ruh                    Ke-phi'rah                    place
+Keran                   pns   KEE-ruhn                      Ke'ran                        person
 Kere                    pns   kuh-RAY                       Ke-re'
 Kerenhappuch            pns   KER-uhn-HAP-uhk               Ker'en-hap'puch
 Keren-happuch           pns   KER-uhn-HAP-uhk               Ker'en-hap'puch
+Kerethite               pns   KER-i-thiyt                   Ker'eth-ite                   ethnic
+Kerethites              pnp   KER-i-thiyts                  Ker'eth-ites                  ethnic
 Kerioth                 pns   KIHR-ee-oth                   Ke'ri-oth
 Keriothhezron           pns   KIHR-ee-oth-HEZ-ron           Ke'ri-oth-hez'ron
 Kerioth-hezron          pns   KIHR-ee-oth-HEZ-ron           Ke'ri-oth-hez'ron
+Kerith                  pns   KEE-rith                      Ke'rith                       place
 Keros                   pns   KEE-ros                       Ke'ros
 Kerygma                 pns   ki-RIG-muh                    Ke-ryg'ma
+Kesalon                 pns   KES-uh-lon                    Kes'a-lon                     place
+Kesed                   pns   KEE-sed                       Ke'sed                        person
+Kesil                   pns   KEE-sil                       Ke'sil                        place
+Kesulloth               pns   ki-SUL-oth                    Ke-sul'loth                   place
 Kethib                  pns   kuh-THEEV                     Ke-thib'
 Kethiv                  pns   kuh-THEEV                     Ke-thiv'
 Keturah                 pns   kuh-TOO-ruh                   Ke-tu'rah
 Keveh                   pns   kuh-VAY                       Ke-veh'
 Kezia                   pns   kuh-ZIY-uh                    Ke-zi'a
 Keziah                  pns   kuh-ZIY-uh                    Ke-zi'ah
+Kezib                   pns   KEE-zib                       Ke'zib                        place
 Keziz                   pns   KEE-ziz                       Ke'ziz
 Khabur                  pns   KAH-BOOR                      Kha'bur'
 Kibrothhattaavah        pns   KIB-roth-huh-TAY-uh-vuh       Kib'roth-hat-ta'a-vah
 Kibroth-hattaavah       pns   KIB-roth-huh-TAY-uh-vuh       Kib'roth-hat-ta'a-vah
 Kibzaim                 pns   kib-ZAY-im                    Kib-za'im
-Kidron                  pns   KID-ron                       Kid'ron
+Kidon                   pns   KIY-duhn                      Ki'don                        place
+Kidron                  pns   KID-ron                       Kid'ron                       place
+Kileab                  pns   KIL-ee-ab                     Kil'e-ab                      person
+Kilion                  pns   KIL-ee-on                     Kil'i-on                      person
+Kilmad                  pns   KIL-mad                       Kil'mad                       place
+Kimham                  pns   KIM-ham                       Kim'ham                       person
 Kinah                   pns   KIY-nuh                       Ki'nah
 Kings                   pns   KINGZ                         Kings
+Kinnereth               pns   KIN-i-reth                    Kin'ne-reth                   place
+Kios                    pns   KIY-os                        Ki'os                         place
 Kir                     pns   KIR                           Kir
 Kirharaseth             pns   KIR-HAR-uh-seth               Kir'har'a-seth
 Kir-haraseth            pns   KIR-HAR-uh-seth               Kir'har'a-seth
@@ -3307,15 +3354,19 @@ Kirjathsannah           pns   KIR-jath-SAN-uh               Kir'jath-san'nah
 Kirjath-sannah          pns   KIR-jath-SAN-uh               Kir'jath-san'nah
 Kirjathsepher           pns   KIR-jath-SEE-fuhr             Dir'jath-se'pher
 Kirjath-sepher          pns   KIR-jath-SEE-fuhr             Dir'jath-se'pher
-Kish                    pns   KISH                          Kish
+Kish                    pns   KISH                          Kish                          person
 Kishi                   pns   KISH-i                        Kish'i
 Kishion                 pns   KISH-ee-on                    Kish'i-on
 Kishon                  pns   KIY-shon                      Ki'shon
+Kislev                  pns   KIS-lev                       Kis'lev                       measure
+Kislon                  pns   KIS-lon                       Kis'lon                       person
+Kisloth_Tabor           pns   KIS-loth-TAY-buhr             Kis'loth_Ta'bor               place
 Kison                   pns   KIY-son                       Ki'son
-Kithlish                pns   KITH-lish                     Kith'lish
+Kithlish                pns   KITH-lish                     Kith'lish                     place
+Kitlish                 pns   KIT-lish                      Kit'lish                      place
 Kitron                  pns   KIT-ron                       Kit'ron
-Kittim                  pns   KIT-im                        Kit'tim
-Kiyyun                  pns   KIY-yuhn                     *Kiy'yun
+Kittim                  pns   KIT-im                        Kit'tim                       place,ethnic
+Kiyyun                  pns   KIY-yuhn                      Kiy'yun                       deity
 Koa                     pns   KOH-uh                        Ko'a
 Kohath                  pns   KOH-hath                      Ko'hath
 Kohathite               pns   KOH-hath-iyt                  Ko'hath-ite
@@ -3323,17 +3374,19 @@ Kohathites              pnp   KOH-hath-iyts                 Ko'hath-ites
 Koheleth                pns   kuh-HEL-eth                   Ko-hel'eth
 Kolaiah                 pns   kuh-LAY-yuh                   Ko-la'iah
 Koph                    pns   KOF                           Koph
-Korah                   pns   KOH-ruh                       Ko'rah
+Korah                   pns   KOH-ruh                       Ko'rah                        person
 Korahite                pns   KOH-ruh-iyt                   Ko'rah-ite
 Korahites               pnp   KOH-ruh-iyts                  Ko'rah-ites
 Korathite               pns   KOH-rath-iyt                  Ko'rath-ite
 Korathites              pnp   KOH-rath-iyts                 Ko'rath-ites
-Kore                    pns   KOH-ri                        Ko're
+Korazin                 pns   kuh-RAY-zin                   Ko-ra'zin                     place
+Kore                    pns   KOH-ri                        Ko're                         person
 Korhite                 pns   KOHR-hiyt                     Kor'hite
 Korhites                pnp   KOHR-hiyts                    Kor'hites
-Koz                     pns   KOZ                           Koz
+Koz                     pns   KOZ                           Koz                           person
 Kue                     pns   kuu-AY                        Ku'e
 Kushaiah                pns   kyoo-SHAY-yuh                 Ku-sha'iah
+Kuza                    pns   KOO-zuh                       Ku'za                         person
 
 Laadah                  pns   LAY-uh-duh                    La'a-dah
 Laadan                  pns   LAY-uh-duhn                   La'a-dan
@@ -3397,7 +3450,7 @@ Libertine               pns   LIB-uhr-teen                  Lib'er-tine
 Libertines              pnp   LIB-uhr-teenz                 Lib'er-tines
 Libnah                  pns   LIB-nuh                       Lib'nah
 Libni                   pns   LIB-niy                       Lib'ni
-Libya                   pns   LIB-ee-uh                     Lib'y-a
+Libya                   pns   LIB-ee-uh                     Lib'y-a                       place
 Libyan                  pns   LIB-ee-uhn                    Lib'y-an
 Libyans                 pnp   LIB-ee-uhnz                   Lib'y-ans
 Likhi                   pns   LIK-hiy                       Lik'hi
@@ -4238,7 +4291,7 @@ Pithon                  pns   PIY-thon                      Pi'thon
 Pleiades                pns   PLEE-yuh-deez                 Ple'ia-des
 Pocherethhazzebaim      pns   POK-i-reth-HA-zi-BAY-im       Poch'e-reth-haz'ze-ba'im
 Pochereth-hazzebaim     pns   POK-i-reth-HA-zi-BAY-im       Poch'e-reth-haz'ze-ba'im
-Pollux                  pns   POL-uks                       Pol'lux
+Pollux                  pns   POL-uks                       Pol'lux                       deity
 Pontius                 pns   PON-shuhs                     Pon'tius
 Pontus                  pns   PON-tuhs                      Pon'tus
 Poratha                 pns   puh-RAY-thuh                  Po-ra'tha
@@ -4282,7 +4335,7 @@ Pyrrhus                 pns   PIR-uhs                       Pyr'rhus
 
 Qoph                    pns   KOHF                          Qoph
 Quartus                 pns   KWOHR-tuhs                    Quar'tus
-Quirinius               pns   kwiy-RIN-ee-uhs               Qui-rin'i-us
+Quirinius               pns   kwiy-RIN-ee-uhs               Qui-rin'i-us                  person
 Qumran                  pns   KUUM-rahn                     Qum'ran
 
 Raama                   pns   RAY-uh-mah                    Ra'a-ma
