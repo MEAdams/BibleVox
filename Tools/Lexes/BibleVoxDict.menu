@@ -811,7 +811,7 @@ Arabians                pnp   uh-RAY-bee-uhnz               A-ra'bi-ans         
 Arad                    pns   AY-rad                        A'rad                         person,place
 Aradus                  pns   AR-uh-duhs                    Ar'a-dus                      place
 Arah                    pns   AY-ruh                        A'rah                         person
-Aram                    pns   AY-ram                        A'ram                         person,place,ethnic
+Aram                    pns   AY-ram                        A'ram                         person,place
 Aramaean                pns   AR-uh-MEE-uhn                 Ar'a-mae'an                   ethnic
 Aramaeans               pnp   AR-uh-MEE-uhnz                Ar'a-mae'ans                  ethnic
 Aramaic                 pns   AR-uh-MAY-ik                  Ar'a-ma'ic                    ethnic
@@ -916,7 +916,7 @@ Asareel                 pns   uh-SAY-ree-el                 A-sa're-el          
 Asarelah                pns   AS-uh-REE-luh                 As'a-re'lah                   person
 Ascalon                 pns   AS-kay-lon                    As'ca-lon                     place
 Asenath                 pns   AS-i-nath                     As'e-nath                     person
-Aser                    pns   AY-suhr                       A'ser                         person,place,ethnic
+Aser                    pns   AY-suhr                       A'ser                         person,place
 Ashan                   pns   AY-shuhn                      A'shan                        place
 Asharelah               pns   ASH-uh-REE-luh                Ash'a-re'lah                  person
 Ashbea                  pns   ASH-bee-uh                    Ash'be-a                      person,place
@@ -931,7 +931,7 @@ Ashdothite              pns   ASH-doth-iyt                  Ash'doth-ite        
 Ashdothites             pnp   ASH-doth-iyts                 Ash'doth-ites                 ethnic
 Ashdothpisgah           pns   ASH-doth-PIZ-guh              Ash'doth-pis'gah              place
 Ashdoth-pisgah          pns   ASH-doth-PIZ-guh              Ash'doth-pis'gah              place
-Asher                   pns   ASH-uhr                       Ash'er                        person,place,ethnic
+Asher                   pns   ASH-uhr                       Ash'er                        person,place
 Asherah                 pns   uh-SHEE-ruh                   A-she'rah                     deity
 Asherim                 pnp   uh-SHEE-rim                   A-she'rim                     deity
 Asherite                pns   ASH-uhr-iyt                   Ash'er-ite                    ethnic
@@ -989,7 +989,7 @@ Assir                   pns   AS-uhr                        As'sir              
 Assos                   pns   AS-os                         As'sos                        place
 Assur                   pns   AHS-soor                      As'sur                        person
 Assyria                 pns   uh-SIR-ee-uh                  As-syr'i-a                    place
-Assyrian                pns   uh-SIR-ee-uhn                 As-syr'i-an                   place,ethnic
+Assyrian                pns   uh-SIR-ee-uhn                 As-syr'i-an                   ethnic
 Assyrians               pnp   uh-SIR-ee-uhnz                As-syr'i-ans                  place
 Astaroth                pns   AS-tuh-roth                   As'ta-roth                    place,deity
 Astarte                 pns   as-TAHR-ti                    As-tar'te                     deity
@@ -1352,8 +1352,8 @@ Bether                  pns   BEE-thuhr                     Be'ther             
 Bethesda                pns   bi-THEZ-duh                   Be-thes'da                    place
 Bethezel                pns   BETH-EE-zel                   Beth'e'zel                    place
 Beth-ezel               pns   BETH-EE-zel                   Beth'e'zel                    place
-Bethgader               pns   BETH-GAY-duhr                 Beth'ga'der                   place,ethnic
-Beth-gader              pns   BETH-GAY-duhr                 Beth'ga'der                   place,ethnic
+Bethgader               pns   BETH-GAY-duhr                 Beth'ga'der                   place
+Beth-gader              pns   BETH-GAY-duhr                 Beth'ga'der                   place
 Bethgamul               pns   BETH-GAY-muhl                 Beth'ga'mul                   place
 Beth-gamul              pns   BETH-GAY-muhl                 Beth'ga'mul                   place
 Bethgilgal              pns   BETH-GIL-gal                  Beth'gil'gal                  place
@@ -1506,6 +1506,7 @@ Bokim                   pns   BOH-kim                       Bo'kim              
 Booz                    pns   BOH-oz                        Bo'oz                         person,thing
 Borashan                pns   BOHR-ASH-uhn                  Bor'ash'an                    place
 Bor-ashan               pns   BOHR-ASH-uhn                  Bor'ash'an                    place
+Bor_Ashan               pns   BOHR-ASH-uhn                  Bor_Ash'an                    place
 Boscath                 pns   BOS-kath                      Bos'cath                      place
 Bosor                   pns   BOH-sohr                      Bo'sor                        person
 Bosora                  pns   BOS-uh-ruh                    Bos'o-ra                      place
@@ -1517,7 +1518,7 @@ Bukkiah                 pns   buh-KIY-uh                    Buk-ki'ah           
 Bul                     pns   BOOL                          Bul                           measure
 Bunah                   pns   BOO-nuh                       Bu'nah                        person
 Bunni                   pns   BUN-iy                        Bun'ni                        person
-Buz                     pns   BUZ                           Buz                           person,ethnic
+Buz                     pns   BUZ                           Buz                           person
 Buzi                    pns   BOO-ziy                       Buz'i                         person
 Buzite                  pns   BOO-ziyt                      Buz'ite                       ethnic
 Buzites                 pnp   BOO-ziyts                     Buz'ites                      ethnic
@@ -1540,6 +1541,7 @@ Calebephratah           pns   KAY-luhb-EF-ruh-tuh           Ca'leb-eph'ra-tah   
 Caleb-ephratah          pns   KAY-luhb-EF-ruh-tuh           Ca'leb-eph'ra-tah             place
 Calebephrathah          pns   KAY-luhb-EF-ruh-thuh          Ca'leb-eph'ra-thah            place
 Caleb-ephrathah         pns   KAY-luhb-EF-ruh-thuh          Ca'leb-eph'ra-thah            place
+Caleb_Ephrathah         pns   KAY-luhb-EF-ruh-thuh          Ca'leb_Eph'ra-thah            place
 Calneh                  pns   KAL-ne                        Cal'neh                       place
 Calno                   pns   KAL-noh                       Cal'no                        place
 Calphi                  pns   KAL-phiy                      Cal'phi                       person
@@ -1663,6 +1665,7 @@ Chisloth-tabor          pns   KIS-loth-TAY-buhr             Chis'loth-ta'bor    
 Chisloth_Tabor          pns   KIS-loth-TAY-buhr             Chis'loth_Ta'bor              place
 Chitlish                pns   KIT-lish                      Chit'lish                     place
 Chittim                 pns   KIT-im                        Chit'tim                      place,ethnic
+Chittims                pns   KIT-imz                       Chit'tims                     ethnic
 Chiun                   pns   KIY-uhn                       Chi'un                        deity
 Chloe                   pns   KLOH-i                        Chlo'e                        person
 Chorashan               pns   KOHR-ASH-uhn                  Chor'ash'an                   place
@@ -1726,7 +1729,7 @@ Cretians                pnp   KREE-shuhns                   Cre'tians           
 Crispus                 pns   KRIS-puhs                     Cris'pus                      person
 Cub                     pns   KUB                           Cub                           place
 Cun                     pns   KUN                           Cun                           place
-Cush                    pns   KUSH                          Cush                          person,place,ethnic
+Cush                    pns   KUSH                          Cush                          person,place
 Cushan                  pns   KOO-shan                      Cu'shan                       place,ethnic
 Cushans                 pnp   KOO-shanz                     Cu'shans                      ethnic
 Cushanrishathaim        pns   KOO-shan-RISH-uh-THAY-im      Cu'shan-rish'a-tha'im         person
@@ -1744,96 +1747,101 @@ Cyrenians               pnp   siy-REE-nee-uhnz              Cy-re'ni-ans        
 Cyrenius                pns   siy-REE-nee-uhs               Cy-re'ni-us                   person
 Cyrus                   pns   SIY-ruhs                      Cy'rus                        person
 
-Dabareh                 pns   DAB-uh-re                     Dab'a-reh
-Dabbasheth              pns   DAB-uh-sheth                  Dab'ba-sheth
-Dabbesheth              pns   DAB-e-sheth                   Dab'be-sheth
-Daberath                pns   DAB-uh-rath                   Dab'e-rath
-Dagon                   pns   DAY-gon                       Da'gon
-Dalaiah                 pns   DAL-ay-IY-uh                  Dal'a-i'ah
-Daleth                  pns   DAH-leth                      Da'leth
-Dalmanutha              pns   DAL-muh-NOO-thuh              Dal'ma-nu'tha
-Dalmatia                pns   dal-MAY-shee-uh               Dal-ma'ti-a
-Dalphon                 pns   DAL-fon                       Dal'phon
-Damaris                 pns   DAM-uh-ris                    Dam'a-ris
-Damascene               pns   DAM-uh-seen                   Dam'a-scene
-Damascus                pns   duh-MAS-kuhs                  Da-mas'cus
-Dan                     pns   DAN                           Dan
-Daniel                  pns   DAN-yuhl                      Dan'iel
-Danite                  pns   DAN-iyt                       Dan'ite
-Danites                 pnp   DAN-iyts                      Dan'ites
-Danjaan                 pns   DAN-JAY-uhn                   Dan'ja'an
-Dan-jaan                pns   DAN-JAY-uhn                   Dan'ja'an
-Dannah                  pns   DAN-uh                        Dan'nah
-Dara                    pns   DEHR-uh                       Da'ra
-Darda                   pns   DAHR-duh                      Dar'da
-Darius                  pns   duh-RIY-uhs                   Da-ri'us
-Darkon                  pns   DAHR-kon                      Dar'kon
-Dathan                  pns   DAY-thuhn                     Da'than
-Dathema                 pns   DATH-i-muh                    Dath'e-ma
-David                   pns   DAY-vid                       Da'vid
-Debir                   pns   DEE-buhr                      De'bir
-Deborah                 pns   DEB-ao-ruh                    Deb'o-rah
-Decapolis               pns   di-KAP-uh-lis                 De-cap'o-lis
-Dedan                   pns   DEE-duhn                      De'dan
-Dedanite                pns   DEE-dan-iyt                   De'dan-ite
-Dedanites               pnp   DEE-dan-iyts                  De'dan-ites
-Dehaite                 pns   di-HAY-iyt                    De-ha'ite
-Dehaites                pnp   di-HAY-iyts                   De-ha'ites
-Dehavite                pns   di-HAY-viyt                   De-ha'vite
-Dehavites               pnp   di-HAY-viyts                  De-ha'vites
-Dekar                   pns   DEE-kahr                      De'kar
-Deker                   pns   DEE-kuhr                      De'ker
-Delaiah                 pns   dee-LAY-yuh                   De-la'iah
-Delilah                 pns   di-LIY-luh                    De-li'lah
-Delos                   pns   DEE-los                       De'los
-Delus                   pns   DEE-luhs                      De'lus
-Demas                   pns   DEE-mas                       De'mas
-Demetrius               pns   di-MEE-tree-uhs               De-me'tri-us
-Derbe                   pns   DUHR-bi                       Der'be
-Deuel                   pns   DOO-el                        Deu'el
-Deuteronomy             pns   DOO-tuhr-ON-uh-mi             Deu'ter-on'o-my
+Dabareh                 pns   DAB-uh-re                     Dab'a-reh                     place
+Dabbasheth              pns   DAB-uh-sheth                  Dab'ba-sheth                  place
+Dabbesheth              pns   DAB-e-sheth                   Dab'be-sheth                  place
+Daberath                pns   DAB-uh-rath                   Dab'e-rath                    place
+Dagon                   pns   DAY-gon                       Da'gon                        deity
+Dalaiah                 pns   DAL-ay-IY-uh                  Dal'a-i'ah                    person
+Daleth                  pns   DAH-leth                      Da'leth                       writing
+Dalmanutha              pns   DAL-muh-NOO-thuh              Dal'ma-nu'tha                 place
+Dalmatia                pns   dal-MAY-shee-uh               Dal-ma'ti-a                   place
+Dalphon                 pns   DAL-fon                       Dal'phon                      person
+Damaris                 pns   DAM-uh-ris                    Dam'a-ris                     person
+Damascene               pns   DAM-uh-seen                   Dam'a-scene                   ethnic
+Damascenes              pnp   DAM-uh-seenz                  Dam'a-scenes                  ethnic
+Damascus                pns   duh-MAS-kuhs                  Da-mas'cus                    place
+Dan                     pns   DAN                           Dan                           person,place
+Daniel                  pns   DAN-yuhl                      Dan'iel                       person,writing
+Danite                  pns   DAN-iyt                       Dan'ite                       ethnic
+Danites                 pnp   DAN-iyts                      Dan'ites                      ethnic
+Danjaan                 pns   DAN-JAY-uhn                   Dan'ja'an                     place
+Dan-jaan                pns   DAN-JAY-uhn                   Dan'ja'an                     place
+Dan_Jaan                pns   DAN-JAY-uhn                   Dan_Ja'an                     place
+Dannah                  pns   DAN-uh                        Dan'nah                       place
+Dara                    pns   DEHR-uh                       Da'ra                         person
+Darda                   pns   DAHR-duh                      Dar'da                        person
+Darius                  pns   duh-RIY-uhs                   Da-ri'us                      person
+Darkon                  pns   DAHR-kon                      Dar'kon                       person
+Dathan                  pns   DAY-thuhn                     Da'than                       person
+Dathema                 pns   DATH-i-muh                    Dath'e-ma                     place
+David                   pns   DAY-vid                       Da'vid                        person,place
+Debir                   pns   DEE-buhr                      De'bir                        person,place
+Deborah                 pns   DEB-ao-ruh                    Deb'o-rah                     person
+Decapolis               pns   di-KAP-uh-lis                 De-cap'o-lis                  place
+Dedan                   pns   DEE-duhn                      De'dan                        person
+Dedanim                 pnp   DEE-duh-nim                   De'da-nim                     ethnic
+Dedanims                pnp   DEE-duh-nimz                  De'da-nims                    ethnic
+Dedanite                pns   DEE-dan-iyt                   De'dan-ite                    ethnic
+Dedanites               pnp   DEE-dan-iyts                  De'dan-ites                   ethnic
+Dehaite                 pns   di-HAY-iyt                    De-ha'ite                     ethnic
+Dehaites                pnp   di-HAY-iyts                   De-ha'ites                    ethnic
+Dehavite                pns   di-HAY-viyt                   De-ha'vite                    ethnic
+Dehavites               pnp   di-HAY-viyts                  De-ha'vites                   ethnic
+Dekar                   pns   DEE-kahr                      De'kar                        person
+Deker                   pns   DEE-kuhr                      De'ker                        person
+Delaiah                 pns   dee-LAY-yuh                   De-la'iah                     person
+Delilah                 pns   di-LIY-luh                    De-li'lah                     person
+Delos                   pns   DEE-los                       De'los                        place
+Delus                   pns   DEE-luhs                      De'lus                        place
+Demas                   pns   DEE-mas                       De'mas                        person
+Demetrius               pns   di-MEE-tree-uhs               De-me'tri-us                  person
+Derbe                   pns   DUHR-bi                       Der'be                        place
+Deuel                   pns   DOO-el                        Deu'el                        person
+Deuteronomy             pns   DOO-tuhr-ON-uh-mi             Deu'ter-on'o-my               writing
 Diana                   pns   diy-AN-uh                     Di-an'a                       deity
-Diaspora                pns   diy-AS-puh-ruh                Di-as'po-ra
-Diblah                  pns   DIB-luh                       Dib'lah
-Diblaim                 pns   dib-LAY-im                    Dib-la'im
-Diblath                 pns   DIB-lath                      Dib'lath
-Dibon                   pns   DIY-bon                       Di'bon
-Dibongad                pns   DIY-bon-GAD                   Di'bon-gad'
-Dibon-gad               pns   DIY-bon-GAD                   Di'bon-gad'
-Dibri                   pns   DIB-riy                       Dib'ri
-Didymus                 pns   DID-i-muhs                    Did'y-mus
-Diklah                  pns   DIK-lah                       Dik'lah
-Dilan                   pns   DIL-an                        Dil'an
-Dilean                  pns   DIL-ee-uhn                    Dil'e-an
-Dimnah                  pns   DIM-nah                       Dim'nah
-Dimon                   pns   DIY-mon                       Di'mon
-Dimonah                 pns   diy-MOH-nuh                   Di-mo'nah
-Dinah                   pns   DIY-nuh                       Di'nah
-Dinaite                 pns   DIY-nuh-iyt                   Di'na-ite
-Dinaites                pnp   DIY-nuh-iyts                  Di'na-ites
-Dinhabah                pns   DIN-huh-bah                   Din'ha-bah
-Dionysius               pns   DIY-uh-NISH-ee-uhs            Di'o-ny'si-us
-Diotrephes              pns   diy-OT-ri-feez                Di-ot're-phes
-Diphath                 pns   DI-fath                       Di'phath
-Dishan                  pns   DIY-shan                      Di'shan
-Dishon                  pns   DIY-shuhn                     Di'shon
-Dives                   pns   DIY-vez                       Di'ves
-Dizahab                 pns   DI-zuh-hab                    Di'za-hab
-Docus                   pns   DOH-kuhs                     *Do'cus
-Dodai                   pns   DOH-diy                       Do'dai
-Dodanim                 pns   DOH-duh-nim                   Do'da-nim
-Dodavah                 pns   DOH-duh-vuh                   Do'da-vah
-Dodavahu                pns   DOH-duh-VAY-hoo               Do'da-va'hu
-Dodo                    pns   DOH-doh                       Do'do
-Doeg                    pns   DOH-eg                        Do'eg
-Dok                     pns   DOK                           Dok
-Dophkah                 pns   DOF-kuh                       Doph'kah
-Dor                     pns   DOHR                          Dor
-Dorcas                  pns   DOHR-kuhs                     Dor'cas
-Dothan                  pns   DOH-thuhn                     Do'than
-Drusilla                pns   droo-SIL-uh                   Dru-sil'la
-Dumah                   pns   DOO-muh                       Du'mah
-Dura                    pns   DOO-ruh                       Du'ra
+Diblah                  pns   DIB-luh                       Dib'lah                       place
+Diblaim                 pns   dib-LAY-im                    Dib-la'im                     person
+Diblath                 pns   DIB-lath                      Dib'lath                      place
+Dibon                   pns   DIY-bon                       Di'bon                        place
+Dibongad                pns   DIY-bon-GAD                   Di'bon-gad'                   place
+Dibon-gad               pns   DIY-bon-GAD                   Di'bon-gad'                   place
+Dibon_Gad               pns   DIY-bon-GAD                   Di'bon_Gad'                   place
+Dibri                   pns   DIB-riy                       Dib'ri                        person
+Didymus                 pns   DID-i-muhs                    Did'y-mus                     person
+Diklah                  pns   DIK-lah                       Dik'lah                       person
+Dilan                   pns   DIL-an                        Dil'an                        place
+Dilean                  pns   DIL-ee-uhn                    Dil'e-an                      place
+Dimnah                  pns   DIM-nah                       Dim'nah                       place
+Dimon                   pns   DIY-mon                       Di'mon                        place
+Dimonah                 pns   diy-MOH-nuh                   Di-mo'nah                     place
+Dinah                   pns   DIY-nuh                       Di'nah                        person
+Dinaite                 pns   DIY-nuh-iyt                   Di'na-ite                     ethnic
+Dinaites                pnp   DIY-nuh-iyts                  Di'na-ites                    ethnic
+Dinhabah                pns   DIN-huh-bah                   Din'ha-bah                    place
+Dionysius               pns   DIY-uh-NISH-ee-uhs            Di'o-ny'si-us                 person
+Diotrephes              pns   diy-OT-ri-feez                Di-ot're-phes                 person
+Diphath                 pns   DI-fath                       Di'phath                      ethnic
+Dishan                  pns   DIY-shan                      Di'shan                       person
+Dishon                  pns   DIY-shuhn                     Di'shon                       person
+Dives                   pns   DIY-vez                       Di'ves                        person
+Dizahab                 pns   DI-zuh-hab                    Di'za-hab                     place
+Docus                   pns   DOH-kuhs                      Do'cus                        place
+Dodai                   pns   DOH-diy                       Do'dai                        person
+Dodanim                 pnp   DOH-duh-nim                   Do'da-nim                     ethnic
+Dodanims                pnp   DOH-duh-nimz                  Do'da-nims                    ethnic
+Dodavah                 pns   DOH-duh-vuh                   Do'da-vah                     person
+Dodavahu                pns   DOH-duh-VAY-hoo               Do'da-va'hu                   person
+Dodo                    pns   DOH-doh                       Do'do                         person
+Doeg                    pns   DOH-eg                        Do'eg                         person
+Dok                     pns   DOK                           Dok                           place
+Dophkah                 pns   DOF-kuh                       Doph'kah                      place
+Dor                     pns   DOHR                          Dor                           place
+Dorcas                  pns   DOHR-kuhs                     Dor'cas                       person
+Dothan                  pns   DOH-thuhn                     Do'than                       place
+Drusilla                pns   droo-SIL-uh                   Dru-sil'la                    person
+Dumah                   pns   DOO-muh                       Du'mah                        person,place
+Dura                    pns   DOO-ruh                       Du'ra                         place
 
 Ebal                    pns   EE-buhl                       E'bal
 Ebed                    pns   EE-bed                        E'bed
@@ -3366,6 +3374,7 @@ Kithlish                pns   KITH-lish                     Kith'lish           
 Kitlish                 pns   KIT-lish                      Kit'lish                      place
 Kitron                  pns   KIT-ron                       Kit'ron
 Kittim                  pns   KIT-im                        Kit'tim                       place,ethnic
+Kittims                 pns   KIT-imz                       Kit'tims                      ethnic
 Kiyyun                  pns   KIY-yuhn                      Kiy'yun                       deity
 Koa                     pns   KOH-uh                        Ko'a
 Kohath                  pns   KOH-hath                      Ko'hath
@@ -4458,13 +4467,14 @@ Rimmon-parez            pns   RIM-uhn-PAY-reez              Rim'mon-pa'rez
 Rimmonperez             pns   RIM-uhn-PEE-reez              Rim'mon-pe'rez
 Rimmon-perez            pns   RIM-uhn-PEE-reez              Rim'mon-pe'rez
 Rinnah                  pns   RIN-uh                        Rin'nah
-Riphath                 pns   RIY-fath                      Ri'phath
+Riphath                 pns   RIY-fath                      Ri'phath                      ethnic
 Rissah                  pns   RIS-uh                        Ris'sah
 Rithmah                 pns   RITH-muh                      Rith'mah
 Rizia                   pns   ri-ZIY-uh                     Ri-zi'a
 Rizpah                  pns   RIZ-pah                       Riz'pah
 Roboam                  pns   ruh-BOH-uhm                   Ro-bo'am
-Rodanim                 pns   ROD-uh-nim                    Rod'a-nim
+Rodanim                 pnp   ROD-uh-nim                    Rod'a-nim                     ethnic
+Rodanims                pnp   ROD-uh-nimz                   Rod'a-nims                    ethnic
 Rogelim                 pns   ROH-gi-lim                    Ro'ge-lim
 Rohgah                  pns   ROH-guh                       Roh'gah
 Romamtiezer             pns   ruh-MAM-ti-EE-zuhr            Ro-mam'ti-e'zer

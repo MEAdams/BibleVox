@@ -2649,6 +2649,8 @@
 (lex.add.entry 
  '("Bor-ashan" nnp (((b ao r) 1) ((ae sh) 1) ((ax n) 0))) )
 (lex.add.entry 
+ '("Bor_Ashan" nnp (((b ao r) 1) ((ae sh) 1) ((ax n) 0))) )
+(lex.add.entry 
  '("Boscath" nnp (((b aa s) 1) ((k ae th) 0))) )
 (lex.add.entry 
  '("Bosor" nnp (((b ow) 1) ((s ao r) 0))) )
@@ -2714,6 +2716,8 @@
  '("Calebephrathah" nnp (((k ey) 1) ((l ax b) 0) ((eh f) 1) ((r ax) 0) ((th ax) 0))) )
 (lex.add.entry 
  '("Caleb-ephrathah" nnp (((k ey) 1) ((l ax b) 0) ((eh f) 1) ((r ax) 0) ((th ax) 0))) )
+(lex.add.entry 
+ '("Caleb_Ephrathah" nnp (((k ey) 1) ((l ax b) 0) ((eh f) 1) ((r ax) 0) ((th ax) 0))) )
 (lex.add.entry 
  '("Calneh" nnp (((k ae l) 1) ((n eh) 0))) )
 (lex.add.entry 
@@ -2961,6 +2965,8 @@
 (lex.add.entry 
  '("Chittim" nnp (((k ih t) 1) ((ih m) 0))) )
 (lex.add.entry 
+ '("Chittims" nnp (((k ih t) 1) ((ih m z) 0))) )
+(lex.add.entry 
  '("Chiun" nnp (((k ay) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Chloe" nnp (((k l ow) 1) ((ih) 0))) )
@@ -3145,6 +3151,8 @@
 (lex.add.entry 
  '("Damascene" nnp (((d ae m) 1) ((ax) 0) ((s iy n) 0))) )
 (lex.add.entry 
+ '("Damascenes" nnps (((d ae m) 1) ((ax) 0) ((s iy n z) 0))) )
+(lex.add.entry 
  '("Damascus" nnp (((d ax) 0) ((m ae s) 1) ((k ax s) 0))) )
 (lex.add.entry 
  '("Dan" nnp (((d ae n) 1))) )
@@ -3158,6 +3166,8 @@
  '("Danjaan" nnp (((d ae n) 1) ((jh ey) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Dan-jaan" nnp (((d ae n) 1) ((jh ey) 1) ((ax n) 0))) )
+(lex.add.entry 
+ '("Dan_Jaan" nnp (((d ae n) 1) ((jh ey) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Dannah" nnp (((d ae n) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -3182,6 +3192,10 @@
  '("Decapolis" nnp (((d ih) 0) ((k ae p) 1) ((ax) 0) ((l ih s) 0))) )
 (lex.add.entry 
  '("Dedan" nnp (((d iy) 1) ((d ax n) 0))) )
+(lex.add.entry 
+ '("Dedanim" nnps (((d iy) 1) ((d ax) 0) ((n ih m) 0))) )
+(lex.add.entry 
+ '("Dedanims" nnps (((d iy) 1) ((d ax) 0) ((n ih m z) 0))) )
 (lex.add.entry 
  '("Dedanite" nnp (((d iy) 1) ((d ae n) 0) ((ay t) 0))) )
 (lex.add.entry 
@@ -3219,8 +3233,6 @@
 (lex.add.entry 
  '("Diana" nnp (((d ay) 0) ((ae n) 1) ((ax) 0))) )
 (lex.add.entry 
- '("Diaspora" nnp (((d ay) 0) ((ae s) 1) ((p ax) 0) ((r ax) 0))) )
-(lex.add.entry 
  '("Diblah" nnp (((d ih b) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Diblaim" nnp (((d ih b) 0) ((l ey) 1) ((ih m) 0))) )
@@ -3232,6 +3244,8 @@
  '("Dibongad" nnp (((d ay) 1) ((b aa n) 0) ((g ae d) 1))) )
 (lex.add.entry 
  '("Dibon-gad" nnp (((d ay) 1) ((b aa n) 0) ((g ae d) 1))) )
+(lex.add.entry 
+ '("Dibon_Gad" nnp (((d ay) 1) ((b aa n) 0) ((g ae d) 1))) )
 (lex.add.entry 
  '("Dibri" nnp (((d ih b) 1) ((r ay) 0))) )
 (lex.add.entry 
@@ -3275,7 +3289,9 @@
 (lex.add.entry 
  '("Dodai" nnp (((d ow) 1) ((d ay) 0))) )
 (lex.add.entry 
- '("Dodanim" nnp (((d ow) 1) ((d ax) 0) ((n ih m) 0))) )
+ '("Dodanim" nnps (((d ow) 1) ((d ax) 0) ((n ih m) 0))) )
+(lex.add.entry 
+ '("Dodanims" nnps (((d ow) 1) ((d ax) 0) ((n ih m z) 0))) )
 (lex.add.entry 
  '("Dodavah" nnp (((d ow) 1) ((d ax) 0) ((v ax) 0))) )
 (lex.add.entry 
@@ -6351,6 +6367,8 @@
 (lex.add.entry 
  '("Kittim" nnp (((k ih t) 1) ((ih m) 0))) )
 (lex.add.entry 
+ '("Kittims" nnp (((k ih t) 1) ((ih m z) 0))) )
+(lex.add.entry 
  '("Kiyyun" nnp (((k ay) 1) ((y ax n) 0))) )
 (lex.add.entry 
  '("Koa" nnp (((k ow) 1) ((ax) 0))) )
@@ -8533,7 +8551,9 @@
 (lex.add.entry 
  '("Roboam" nnp (((r ax) 0) ((b ow) 1) ((ax m) 0))) )
 (lex.add.entry 
- '("Rodanim" nnp (((r aa d) 1) ((ax) 0) ((n ih m) 0))) )
+ '("Rodanim" nnps (((r aa d) 1) ((ax) 0) ((n ih m) 0))) )
+(lex.add.entry 
+ '("Rodanims" nnps (((r aa d) 1) ((ax) 0) ((n ih m z) 0))) )
 (lex.add.entry 
  '("Rogelim" nnp (((r ow) 1) ((g ih) 0) ((l ih m) 0))) )
 (lex.add.entry 
