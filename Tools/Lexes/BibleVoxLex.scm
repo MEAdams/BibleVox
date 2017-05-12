@@ -437,7 +437,9 @@
 (lex.add.entry 
  '("beth" nn (((b eh th) 1))) )
 (lex.add.entry 
- '("Caph" nnp (((k aa f) 1))) )
+ '("gerah" nn (((g iy) 1) ((r ax) 0))) )
+(lex.add.entry 
+ '("gittith" nn (((g ih t) 1) ((ih th) 0))) )
 (lex.add.entry 
  '("maranatha" nn (((m ae r) 1) ((ax) 0) ((n ae th) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -483,51 +485,57 @@
 (lex.add.entry 
  '("Abel-bethmaacah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
- '("Abel_bethmaacah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
+ '("Abel_Bethmaacah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
  '("Abel-beth-maacah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
- '("Abel_beth_maacah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
+ '("Abel_Beth_Maacah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
  '("Abelbethmaachah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
  '("Abel-bethmaachah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
+ '("Abel_Bethmaachah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
+(lex.add.entry 
  '("Abel-beth-maachah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
+(lex.add.entry 
+ '("Abel_Beth_Maachah" nnp (((ey) 1) ((b ax l) 0) ((b eh th) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
  '("Abelcheramim" nnp (((ey) 1) ((b ax l) 0) ((k eh r) 1) ((ax) 0) ((m ih m) 0))) )
 (lex.add.entry 
  '("Abel-cheramim" nnp (((ey) 1) ((b ax l) 0) ((k eh r) 1) ((ax) 0) ((m ih m) 0))) )
 (lex.add.entry 
+ '("Abel_Cheramim" nnp (((ey) 1) ((b ax l) 0) ((k eh r) 1) ((ax) 0) ((m ih m) 0))) )
+(lex.add.entry 
  '("Abelkeramim" nnp (((ey) 1) ((b ax l) 0) ((k eh r) 1) ((ax) 0) ((m ih m) 0))) )
 (lex.add.entry 
  '("Abel-keramim" nnp (((ey) 1) ((b ax l) 0) ((k eh r) 1) ((ax) 0) ((m ih m) 0))) )
 (lex.add.entry 
- '("Abel_keramim" nnp (((ey) 1) ((b ax l) 0) ((k eh r) 1) ((ax) 0) ((m ih m) 0))) )
+ '("Abel_Keramim" nnp (((ey) 1) ((b ax l) 0) ((k eh r) 1) ((ax) 0) ((m ih m) 0))) )
 (lex.add.entry 
  '("Abelmaim" nnp (((ey) 1) ((b ax l) 0) ((m ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Abel-maim" nnp (((ey) 1) ((b ax l) 0) ((m ey) 1) ((ih m) 0))) )
 (lex.add.entry 
- '("Abel_maim" nnp (((ey) 1) ((b ax l) 0) ((m ey) 1) ((ih m) 0))) )
+ '("Abel_Maim" nnp (((ey) 1) ((b ax l) 0) ((m ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Abelmeholah" nnp (((ey) 1) ((b ax l) 0) ((m ih) 0) ((hh ow) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Abel-meholah" nnp (((ey) 1) ((b ax l) 0) ((m ih) 0) ((hh ow) 1) ((l ax) 0))) )
 (lex.add.entry 
- '("Abel_meholah" nnp (((ey) 1) ((b ax l) 0) ((m ih) 0) ((hh ow) 1) ((l ax) 0))) )
+ '("Abel_Meholah" nnp (((ey) 1) ((b ax l) 0) ((m ih) 0) ((hh ow) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Abelmizraim" nnp (((ey) 1) ((b ax l) 0) ((m ih z) 1) ((r ey) 0) ((ih m) 0))) )
 (lex.add.entry 
  '("Abel-mizraim" nnp (((ey) 1) ((b ax l) 0) ((m ih z) 1) ((r ey) 0) ((ih m) 0))) )
 (lex.add.entry 
- '("Abel_mizraim" nnp (((ey) 1) ((b ax l) 0) ((m ih z) 1) ((r ey) 0) ((ih m) 0))) )
+ '("Abel_Mizraim" nnp (((ey) 1) ((b ax l) 0) ((m ih z) 1) ((r ey) 0) ((ih m) 0))) )
 (lex.add.entry 
  '("Abelshittim" nnp (((ey) 1) ((b ax l) 0) ((sh ih t) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Abel-shittim" nnp (((ey) 1) ((b ax l) 0) ((sh ih t) 1) ((ih m) 0))) )
 (lex.add.entry 
- '("Abel_shittim" nnp (((ey) 1) ((b ax l) 0) ((sh ih t) 1) ((ih m) 0))) )
+ '("Abel_Shittim" nnp (((ey) 1) ((b ax l) 0) ((sh ih t) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Abez" nnp (((ey) 1) ((b eh z) 0))) )
 (lex.add.entry 
@@ -688,6 +696,8 @@
  '("Adaminekeb" nnp (((ae d) 1) ((ax) 0) ((m ay) 0) ((n iy) 1) ((k eh b) 0))) )
 (lex.add.entry 
  '("Adami-nekeb" nnp (((ae d) 1) ((ax) 0) ((m ay) 0) ((n iy) 1) ((k eh b) 0))) )
+(lex.add.entry 
+ '("Adami_Nekeb" nnp (((ae d) 1) ((ax) 0) ((m ay) 0) ((n iy) 1) ((k eh b) 0))) )
 (lex.add.entry 
  '("Adar" nnp (((ey) 1) ((d aa r) 0))) )
 (lex.add.entry 
@@ -975,9 +985,13 @@
 (lex.add.entry 
  '("Allon-bacuth" nnp (((ae l) 1) ((ax n) 0) ((b ae k) 1) ((ax th) 0))) )
 (lex.add.entry 
+ '("Allon_Bacuth" nnp (((ae l) 1) ((ax n) 0) ((b ae k) 1) ((ax th) 0))) )
+(lex.add.entry 
  '("Allonbachuth" nnp (((ae l) 1) ((ax n) 0) ((b ae k) 1) ((ax th) 0))) )
 (lex.add.entry 
  '("Allon-bachuth" nnp (((ae l) 1) ((ax n) 0) ((b ae k) 1) ((ax th) 0))) )
+(lex.add.entry 
+ '("Allon_Bachuth" nnp (((ae l) 1) ((ax n) 0) ((b ae k) 1) ((ax th) 0))) )
 (lex.add.entry 
  '("Almodad" nnp (((ae l) 0) ((m ow) 1) ((d ae d) 0))) )
 (lex.add.entry 
@@ -986,6 +1000,8 @@
  '("Almondiblathaim" nnp (((ae l) 1) ((m ax n) 0) ((d ih b) 1) ((l ax) 0) ((th ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Almon-diblathaim" nnp (((ae l) 1) ((m ax n) 0) ((d ih b) 1) ((l ax) 0) ((th ey) 1) ((ih m) 0))) )
+(lex.add.entry 
+ '("Almon_Diblathaim" nnp (((ae l) 1) ((m ax n) 0) ((d ih b) 1) ((l ax) 0) ((th ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Aloth" nnp (((ey) 1) ((l aa th) 0))) )
 (lex.add.entry 
@@ -1233,8 +1249,6 @@
 (lex.add.entry 
  '("Apphia" nnp (((ae f) 1) ((iy) 0) ((ax) 0))) )
 (lex.add.entry 
- '("Appii" nnp (((ae p) 1) ((iy) 0) ((ay) 0))) )
-(lex.add.entry 
  '("Appii_Forum" nnp (((ae p) 1) ((iy) 0) ((ay) 0) ((f ow) 1) ((r ax m) 0))) )
 (lex.add.entry 
  '("Appius" nnp (((ae p) 1) ((iy) 0) ((ax s) 0))) )
@@ -1273,7 +1287,11 @@
 (lex.add.entry 
  '("Aram-bethrehob" nnp (((ey) 1) ((r ae m) 0) ((b eh th) 0) ((r iy) 1) ((hh aa b) 0))) )
 (lex.add.entry 
+ '("Aram_Bethrehob" nnp (((ey) 1) ((r ae m) 0) ((b eh th) 0) ((r iy) 1) ((hh aa b) 0))) )
+(lex.add.entry 
  '("Aram-beth-rehob" nnp (((ey) 1) ((r ae m) 0) ((b eh th) 0) ((r iy) 1) ((hh aa b) 0))) )
+(lex.add.entry 
+ '("Aram_Beth_Rehob" nnp (((ey) 1) ((r ae m) 0) ((b eh th) 0) ((r iy) 1) ((hh aa b) 0))) )
 (lex.add.entry 
  '("Aramean" nnp (((ae r) 1) ((ax) 0) ((m iy) 1) ((ax n) 0))) )
 (lex.add.entry 
@@ -1285,13 +1303,19 @@
 (lex.add.entry 
  '("Aram-maacah" nnp (((ey) 1) ((r ae m) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
+ '("Aram_Maacah" nnp (((ey) 1) ((r ae m) 0) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
+(lex.add.entry 
  '("Aramnaharaim" nnp (((ey) 1) ((r ax m) 0) ((n ey) 1) ((hh ax) 0) ((r ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Aram-naharaim" nnp (((ey) 1) ((r ax m) 0) ((n ey) 1) ((hh ax) 0) ((r ey) 1) ((ih m) 0))) )
 (lex.add.entry 
+ '("Aram_Naharaim" nnp (((ey) 1) ((r ax m) 0) ((n ey) 1) ((hh ax) 0) ((r ey) 1) ((ih m) 0))) )
+(lex.add.entry 
  '("Aramzobah" nnp (((ey) 1) ((r ae m) 0) ((z ow) 1) ((b ax) 0))) )
 (lex.add.entry 
- '("Aram-Zobah" nnp (((ey) 1) ((r ae m) 0) ((z ow) 1) ((b ax) 0))) )
+ '("Aram-zobah" nnp (((ey) 1) ((r ae m) 0) ((z ow) 1) ((b ax) 0))) )
+(lex.add.entry 
+ '("Aram_Zobah" nnp (((ey) 1) ((r ae m) 0) ((z ow) 1) ((b ax) 0))) )
 (lex.add.entry 
  '("Aran" nnp (((ey) 1) ((r ax n) 0))) )
 (lex.add.entry 
@@ -1501,6 +1525,8 @@
 (lex.add.entry 
  '("Ashdoth-pisgah" nnp (((ae sh) 1) ((d aa th) 0) ((p ih z) 1) ((g ax) 0))) )
 (lex.add.entry 
+ '("Ashdoth_Pisgah" nnp (((ae sh) 1) ((d aa th) 0) ((p ih z) 1) ((g ax) 0))) )
+(lex.add.entry 
  '("Asher" nnp (((ae sh) 1) ((er) 0))) )
 (lex.add.entry 
  '("Asherah" nnp (((ax) 0) ((sh iy) 1) ((r ax) 0))) )
@@ -1544,6 +1570,8 @@
  '("Ashterothkarnaim" nnp (((ae sh) 1) ((t ih) 0) ((r aa th) 0) ((k aa r) 0) ((n ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Ashteroth-karnaim" nnp (((ae sh) 1) ((t ih) 0) ((r aa th) 0) ((k aa r) 0) ((n ey) 1) ((ih m) 0))) )
+(lex.add.entry 
+ '("Ashteroth_Karnaim" nnp (((ae sh) 1) ((t ih) 0) ((r aa th) 0) ((k aa r) 0) ((n ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Ashtoreth" nnp (((ae sh) 1) ((t ax) 0) ((r eh th) 0))) )
 (lex.add.entry 
@@ -1641,9 +1669,13 @@
 (lex.add.entry 
  '("Ataroth-adar" nnp (((ae t) 1) ((ax) 0) ((r aa th) 0) ((ey) 1) ((d aa r) 0))) )
 (lex.add.entry 
+ '("Ataroth_Adar" nnp (((ae t) 1) ((ax) 0) ((r aa th) 0) ((ey) 1) ((d aa r) 0))) )
+(lex.add.entry 
  '("Atarothaddar" nnp (((ae t) 1) ((ax) 0) ((r aa th) 0) ((ae) 1) ((d aa r) 0))) )
 (lex.add.entry 
  '("Ataroth-addar" nnp (((ae t) 1) ((ax) 0) ((r aa th) 0) ((ae) 1) ((d aa r) 0))) )
+(lex.add.entry 
+ '("Ataroth_Addar" nnp (((ae t) 1) ((ax) 0) ((r aa th) 0) ((ae) 1) ((d aa r) 0))) )
 (lex.add.entry 
  '("Ater" nnp (((ey) 1) ((t er) 0))) )
 (lex.add.entry 
@@ -1671,11 +1703,17 @@
 (lex.add.entry 
  '("Atroth-bethjoab" nnp (((ae t) 1) ((r aa th) 0) ((b eh th) 0) ((jh ow) 1) ((ae b) 0))) )
 (lex.add.entry 
+ '("Atroth_Bethjoab" nnp (((ae t) 1) ((r aa th) 0) ((b eh th) 0) ((jh ow) 1) ((ae b) 0))) )
+(lex.add.entry 
  '("Atroth-beth-joab" nnp (((ae t) 1) ((r aa th) 0) ((b eh th) 0) ((jh ow) 1) ((ae b) 0))) )
+(lex.add.entry 
+ '("Atroth_Beth_Joab" nnp (((ae t) 1) ((r aa th) 0) ((b eh th) 0) ((jh ow) 1) ((ae b) 0))) )
 (lex.add.entry 
  '("Atrothshophan" nnp (((ae t) 1) ((r aa th) 0) ((sh ow) 1) ((f ae n) 0))) )
 (lex.add.entry 
  '("Atroth-shophan" nnp (((ae t) 1) ((r aa th) 0) ((sh ow) 1) ((f ae n) 0))) )
+(lex.add.entry 
+ '("Atroth_Shophan" nnp (((ae t) 1) ((r aa th) 0) ((sh ow) 1) ((f ae n) 0))) )
 (lex.add.entry 
  '("Attai" nnp (((ae t) 1) ((ay) 0))) )
 (lex.add.entry 
@@ -1757,6 +1795,8 @@
 (lex.add.entry 
  '("Aznoth-tabor" nnp (((ae z) 1) ((n aa th) 0) ((t ey) 1) ((b ao r) 0))) )
 (lex.add.entry 
+ '("Aznoth_Tabor" nnp (((ae z) 1) ((n aa th) 0) ((t ey) 1) ((b ao r) 0))) )
+(lex.add.entry 
  '("Azor" nnp (((ey) 1) ((z ao r) 0))) )
 (lex.add.entry 
  '("Azotus" nnp (((ax) 0) ((z ow) 1) ((t ax s) 0))) )
@@ -1785,6 +1825,8 @@
 (lex.add.entry 
  '("Baalath-beer" nnp (((b ey) 1) ((ax) 0) ((l aa th) 0) ((b iy) 1) ((er) 0))) )
 (lex.add.entry 
+ '("Baalath_Beer" nnp (((b ey) 1) ((ax) 0) ((l aa th) 0) ((b iy) 1) ((er) 0))) )
+(lex.add.entry 
  '("Baalbek" nnp (((b ey) 1) ((ax l) 0) ((b eh k) 0))) )
 (lex.add.entry 
  '("Baalberith" nnp (((b ey) 1) ((ax l) 0) ((b iy) 1) ((r ih th) 0))) )
@@ -1797,13 +1839,19 @@
 (lex.add.entry 
  '("Baale-judah" nnp (((b ey) 1) ((ax) 0) ((l iy) 0) ((jh uw) 1) ((d ax) 0))) )
 (lex.add.entry 
+ '("Baale_Judah" nnp (((b ey) 1) ((ax) 0) ((l iy) 0) ((jh uw) 1) ((d ax) 0))) )
+(lex.add.entry 
  '("Baalgad" nnp (((b ey) 1) ((ax l) 0) ((g ae d) 0))) )
 (lex.add.entry 
  '("Baal-gad" nnp (((b ey) 1) ((ax l) 0) ((g ae d) 0))) )
 (lex.add.entry 
+ '("Baal_Gad" nnp (((b ey) 1) ((ax l) 0) ((g ae d) 0))) )
+(lex.add.entry 
  '("Baalhamon" nnp (((b ey) 1) ((ax l) 0) ((hh ey) 1) ((m ax n) 0))) )
 (lex.add.entry 
  '("Baal-hamon" nnp (((b ey) 1) ((ax l) 0) ((hh ey) 1) ((m ax n) 0))) )
+(lex.add.entry 
+ '("Baal_Hamon" nnp (((b ey) 1) ((ax l) 0) ((hh ey) 1) ((m ax n) 0))) )
 (lex.add.entry 
  '("Baalhanan" nnp (((b ey) 1) ((ax l) 0) ((hh ey) 1) ((n ax n) 0))) )
 (lex.add.entry 
@@ -1813,9 +1861,13 @@
 (lex.add.entry 
  '("Baal-hazor" nnp (((b ey) 1) ((ax l) 0) ((hh ey) 1) ((z er) 0))) )
 (lex.add.entry 
+ '("Baal_Hazor" nnp (((b ey) 1) ((ax l) 0) ((hh ey) 1) ((z er) 0))) )
+(lex.add.entry 
  '("Baalhermon" nnp (((b ey) 1) ((ax l) 0) ((hh er) 1) ((m ax n) 0))) )
 (lex.add.entry 
  '("Baal-hermon" nnp (((b ey) 1) ((ax l) 0) ((hh er) 1) ((m ax n) 0))) )
+(lex.add.entry 
+ '("Baal_Hermon" nnp (((b ey) 1) ((ax l) 0) ((hh er) 1) ((m ax n) 0))) )
 (lex.add.entry 
  '("Baali" nnp (((b ey) 1) ((ax) 0) ((l ay) 0))) )
 (lex.add.entry 
@@ -1827,13 +1879,19 @@
 (lex.add.entry 
  '("Baal-meon" nnp (((b ey) 1) ((ax l) 0) ((m iy) 1) ((aa n) 0))) )
 (lex.add.entry 
+ '("Baal_Meon" nnp (((b ey) 1) ((ax l) 0) ((m iy) 1) ((aa n) 0))) )
+(lex.add.entry 
  '("Baalpeor" nnp (((b ey) 1) ((ax l) 0) ((p iy) 1) ((ao r) 0))) )
 (lex.add.entry 
  '("Baal-peor" nnp (((b ey) 1) ((ax l) 0) ((p iy) 1) ((ao r) 0))) )
 (lex.add.entry 
+ '("Baal_Peor" nnp (((b ey) 1) ((ax l) 0) ((p iy) 1) ((ao r) 0))) )
+(lex.add.entry 
  '("Baalperazim" nnp (((b ey) 1) ((ax l) 0) ((p ih) 0) ((r ey) 1) ((z ih m) 0))) )
 (lex.add.entry 
  '("Baal-perazim" nnp (((b ey) 1) ((ax l) 0) ((p ih) 0) ((r ey) 1) ((z ih m) 0))) )
+(lex.add.entry 
+ '("Baal_Perazim" nnp (((b ey) 1) ((ax l) 0) ((p ih) 0) ((r ey) 1) ((z ih m) 0))) )
 (lex.add.entry 
  '("Baals" nnps (((b ey) 1) ((ax l s) 0))) )
 (lex.add.entry 
@@ -1841,13 +1899,19 @@
 (lex.add.entry 
  '("Baal-shalisha" nnp (((b ey) 1) ((ax l) 0) ((sh ae l) 1) ((ih) 0) ((sh ax) 0))) )
 (lex.add.entry 
+ '("Baal_Shalisha" nnp (((b ey) 1) ((ax l) 0) ((sh ae l) 1) ((ih) 0) ((sh ax) 0))) )
+(lex.add.entry 
  '("Baalshalishah" nnp (((b ey) 1) ((ax l) 0) ((sh ae l) 1) ((ih) 0) ((sh ax) 0))) )
 (lex.add.entry 
  '("Baal-shalishah" nnp (((b ey) 1) ((ax l) 0) ((sh ae l) 1) ((ih) 0) ((sh ax) 0))) )
 (lex.add.entry 
+ '("Baal_Shalishah" nnp (((b ey) 1) ((ax l) 0) ((sh ae l) 1) ((ih) 0) ((sh ax) 0))) )
+(lex.add.entry 
  '("Baaltamar" nnp (((b ey) 1) ((ax l) 0) ((t ey) 1) ((m aa r) 0))) )
 (lex.add.entry 
  '("Baal-tamar" nnp (((b ey) 1) ((ax l) 0) ((t ey) 1) ((m aa r) 0))) )
+(lex.add.entry 
+ '("Baal_Tamar" nnp (((b ey) 1) ((ax l) 0) ((t ey) 1) ((m aa r) 0))) )
 (lex.add.entry 
  '("Baalzebub" nnp (((b ey) 1) ((ax l) 0) ((z iy) 1) ((b ah b) 0))) )
 (lex.add.entry 
@@ -1856,6 +1920,8 @@
  '("Baalzephon" nnp (((b ey) 1) ((ax l) 0) ((z iy) 1) ((f aa n) 0))) )
 (lex.add.entry 
  '("Baal-zephon" nnp (((b ey) 1) ((ax l) 0) ((z iy) 1) ((f aa n) 0))) )
+(lex.add.entry 
+ '("Baal_Zephon" nnp (((b ey) 1) ((ax l) 0) ((z iy) 1) ((f aa n) 0))) )
 (lex.add.entry 
  '("Baalah" nnp (((b ey) 1) ((ax l) 0) ((ax) 0))) )
 (lex.add.entry 
@@ -1923,6 +1989,8 @@
 (lex.add.entry 
  '("Bamoth-baal" nnp (((b ey) 1) ((m aa th) 0) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
+ '("Bamoth_Baal" nnp (((b ey) 1) ((m aa th) 0) ((b ey) 1) ((ax l) 0))) )
+(lex.add.entry 
  '("Bani" nnp (((b ey) 1) ((n ay) 0))) )
 (lex.add.entry 
  '("Barabbas" nnp (((b aa r) 0) ((ae b) 1) ((ax s) 0))) )
@@ -1983,7 +2051,11 @@
 (lex.add.entry 
  '("Bashan-havothjair" nnp (((b ey) 1) ((sh ae n) 0) ((hh ey) 1) ((v aa th) 0) ((jh ey) 1) ((ih r) 0))) )
 (lex.add.entry 
+ '("Bashan_Havothjair" nnp (((b ey) 1) ((sh ae n) 0) ((hh ey) 1) ((v aa th) 0) ((jh ey) 1) ((ih r) 0))) )
+(lex.add.entry 
  '("Bashan-havoth-jair" nnp (((b ey) 1) ((sh ae n) 0) ((hh ey) 1) ((v aa th) 0) ((jh ey) 1) ((ih r) 0))) )
+(lex.add.entry 
+ '("Bashan_Havoth_Jair" nnp (((b ey) 1) ((sh ae n) 0) ((hh ey) 1) ((v aa th) 0) ((jh ey) 1) ((ih r) 0))) )
 (lex.add.entry 
  '("Bashemath" nnp (((b ae sh) 1) ((ih) 0) ((m ae th) 0))) )
 (lex.add.entry 
@@ -1994,6 +2066,8 @@
  '("Bathrabbim" nnp (((b ae th) 1) ((r ae b) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Bath-rabbim" nnp (((b ae th) 1) ((r ae b) 1) ((ih m) 0))) )
+(lex.add.entry 
+ '("Bath_Rabbim" nnp (((b ae th) 1) ((r ae b) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Bathsheba" nnp (((b ae th) 0) ((sh iy) 1) ((b ax) 0))) )
 (lex.add.entry 
@@ -2051,13 +2125,19 @@
 (lex.add.entry 
  '("Beer-elim" nnp (((b iy) 1) ((er) 0) ((iy) 1) ((l ih m) 0))) )
 (lex.add.entry 
+ '("Beer_Elim" nnp (((b iy) 1) ((er) 0) ((iy) 1) ((l ih m) 0))) )
+(lex.add.entry 
  '("Beeri" nnp (((b iy) 0) ((iy) 1) ((r ay) 0))) )
 (lex.add.entry 
  '("Beerlahairoi" nnp (((b iy) 1) ((er) 0) ((l ax) 0) ((hh ay) 1) ((r oy) 0))) )
 (lex.add.entry 
  '("Beer-lahairoi" nnp (((b iy) 1) ((er) 0) ((l ax) 0) ((hh ay) 1) ((r oy) 0))) )
 (lex.add.entry 
+ '("Beer_Lahairoi" nnp (((b iy) 1) ((er) 0) ((l ax) 0) ((hh ay) 1) ((r oy) 0))) )
+(lex.add.entry 
  '("Beer-lahai-roi" nnp (((b iy) 1) ((er) 0) ((l ax) 0) ((hh ay) 1) ((r oy) 0))) )
+(lex.add.entry 
+ '("Beer_Lahai_Roi" nnp (((b iy) 1) ((er) 0) ((l ax) 0) ((hh ay) 1) ((r oy) 0))) )
 (lex.add.entry 
  '("Beeroth" nnp (((b iy) 0) ((iy) 1) ((r aa th) 0))) )
 (lex.add.entry 
@@ -2069,9 +2149,13 @@
 (lex.add.entry 
  '("Beer-sheba" nnp (((b iy) 1) ((er) 0) ((sh iy) 1) ((b ax) 0))) )
 (lex.add.entry 
+ '("Beer_Sheba" nnp (((b iy) 1) ((er) 0) ((sh iy) 1) ((b ax) 0))) )
+(lex.add.entry 
  '("Beeshterah" nnp (((b iy) 0) ((eh sh) 1) ((t iy) 0) ((r ax) 0))) )
 (lex.add.entry 
  '("Be-eshterah" nnp (((b iy) 0) ((eh sh) 1) ((t iy) 0) ((r ax) 0))) )
+(lex.add.entry 
+ '("Be_Eshterah" nnp (((b iy) 0) ((eh sh) 1) ((t iy) 0) ((r ax) 0))) )
 (lex.add.entry 
  '("Beker" nnp (((b iy) 1) ((k er) 0))) )
 (lex.add.entry 
@@ -2121,6 +2205,8 @@
 (lex.add.entry 
  '("Bene-berak" nnp (((b eh n) 1) ((ih) 0) ((b iy) 1) ((r ae k) 0))) )
 (lex.add.entry 
+ '("Bene_Berak" nnp (((b eh n) 1) ((ih) 0) ((b iy) 1) ((r ae k) 0))) )
+(lex.add.entry 
  '("Benejaakan" nnp (((b eh n) 1) ((ih) 0) ((jh ey) 1) ((ax) 0) ((k ax n) 0))) )
 (lex.add.entry 
  '("Bene-jaakan" nnp (((b eh n) 1) ((ih) 0) ((jh ey) 1) ((ax) 0) ((k ax n) 0))) )
@@ -2152,6 +2238,8 @@
  '("Benhinnom" nnp (((b eh n) 1) ((hh ih n) 1) ((ax m) 0))) )
 (lex.add.entry 
  '("Ben-hinnom" nnp (((b eh n) 1) ((hh ih n) 1) ((ax m) 0))) )
+(lex.add.entry 
+ '("Ben_Hinnom" nnp (((b eh n) 1) ((hh ih n) 1) ((ax m) 0))) )
 (lex.add.entry 
  '("Benhur" nnp (((b eh n) 1) ((hh er) 1))) )
 (lex.add.entry 
@@ -2251,9 +2339,13 @@
 (lex.add.entry 
  '("Beth-anath" nnp (((b eh th) 1) ((ey) 1) ((n ae th) 0))) )
 (lex.add.entry 
+ '("Beth_Anath" nnp (((b eh th) 1) ((ey) 1) ((n ae th) 0))) )
+(lex.add.entry 
  '("Bethanoth" nnp (((b eh th) 1) ((ey) 1) ((n aa th) 0))) )
 (lex.add.entry 
  '("Beth-anoth" nnp (((b eh th) 1) ((ey) 1) ((n aa th) 0))) )
+(lex.add.entry 
+ '("Beth_Anoth" nnp (((b eh th) 1) ((ey) 1) ((n aa th) 0))) )
 (lex.add.entry 
  '("Bethany" nnp (((b eh th) 1) ((ax) 0) ((n ih) 0))) )
 (lex.add.entry 
@@ -2261,35 +2353,53 @@
 (lex.add.entry 
  '("Beth-arabah" nnp (((b eh th) 1) ((ae r) 1) ((ax) 0) ((b ax) 0))) )
 (lex.add.entry 
+ '("Beth_Arabah" nnp (((b eh th) 1) ((ae r) 1) ((ax) 0) ((b ax) 0))) )
+(lex.add.entry 
  '("Betharam" nnp (((b eh th) 1) ((ey) 1) ((r ax n) 0))) )
 (lex.add.entry 
  '("Beth-aram" nnp (((b eh th) 1) ((ey) 1) ((r ax n) 0))) )
+(lex.add.entry 
+ '("Beth_Aram" nnp (((b eh th) 1) ((ey) 1) ((r ax n) 0))) )
 (lex.add.entry 
  '("Betharbel" nnp (((b eh th) 1) ((aa r) 1) ((b eh l) 0))) )
 (lex.add.entry 
  '("Beth-arbel" nnp (((b eh th) 1) ((aa r) 1) ((b eh l) 0))) )
 (lex.add.entry 
+ '("Beth_Arbel" nnp (((b eh th) 1) ((aa r) 1) ((b eh l) 0))) )
+(lex.add.entry 
  '("Bethashbea" nnp (((b eh th) 1) ((ae sh) 1) ((b iy) 0) ((ax) 0))) )
 (lex.add.entry 
  '("Beth-ashbea" nnp (((b eh th) 1) ((ae sh) 1) ((b iy) 0) ((ax) 0))) )
+(lex.add.entry 
+ '("Beth_Ashbea" nnp (((b eh th) 1) ((ae sh) 1) ((b iy) 0) ((ax) 0))) )
 (lex.add.entry 
  '("Bethaven" nnp (((b eh th) 1) ((ey) 1) ((v ax n) 0))) )
 (lex.add.entry 
  '("Beth-aven" nnp (((b eh th) 1) ((ey) 1) ((v ax n) 0))) )
 (lex.add.entry 
+ '("Beth_Aven" nnp (((b eh th) 1) ((ey) 1) ((v ax n) 0))) )
+(lex.add.entry 
  '("Bethazmaveth" nnp (((b eh th) 1) ((ae z) 0) ((m ey) 1) ((v eh th) 0))) )
 (lex.add.entry 
  '("Beth-azmaveth" nnp (((b eh th) 1) ((ae z) 0) ((m ey) 1) ((v eh th) 0))) )
+(lex.add.entry 
+ '("Beth_Azmaveth" nnp (((b eh th) 1) ((ae z) 0) ((m ey) 1) ((v eh th) 0))) )
 (lex.add.entry 
  '("Bethbaalmeon" nnp (((b eh th) 1) ((b ey) 1) ((ax l) 0) ((m iy) 1) ((aa n) 0))) )
 (lex.add.entry 
  '("Beth-baalmeon" nnp (((b eh th) 1) ((b ey) 1) ((ax l) 0) ((m iy) 1) ((aa n) 0))) )
 (lex.add.entry 
+ '("Beth_Baalmeon" nnp (((b eh th) 1) ((b ey) 1) ((ax l) 0) ((m iy) 1) ((aa n) 0))) )
+(lex.add.entry 
  '("Beth-baal-meon" nnp (((b eh th) 1) ((b ey) 1) ((ax l) 0) ((m iy) 1) ((aa n) 0))) )
+(lex.add.entry 
+ '("Beth_Baal_Meon" nnp (((b eh th) 1) ((b ey) 1) ((ax l) 0) ((m iy) 1) ((aa n) 0))) )
 (lex.add.entry 
  '("Bethbarah" nnp (((b eh th) 1) ((b eh r) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Beth-barah" nnp (((b eh th) 1) ((b eh r) 1) ((ax) 0))) )
+(lex.add.entry 
+ '("Beth_Barah" nnp (((b eh th) 1) ((b eh r) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Bethbasi" nnp (((b eh th) 1) ((b ey) 1) ((s ay) 0))) )
 (lex.add.entry 
@@ -2297,33 +2407,49 @@
 (lex.add.entry 
  '("Beth-birei" nnp (((b eh th) 1) ((b ih r) 1) ((iy) 0) ((ay) 0))) )
 (lex.add.entry 
+ '("Beth_Birei" nnp (((b eh th) 1) ((b ih r) 1) ((iy) 0) ((ay) 0))) )
+(lex.add.entry 
  '("Bethbiri" nnp (((b eh th) 1) ((b ih r) 1) ((ay) 0))) )
 (lex.add.entry 
  '("Beth-biri" nnp (((b eh th) 1) ((b ih r) 1) ((ay) 0))) )
+(lex.add.entry 
+ '("Beth_Biri" nnp (((b eh th) 1) ((b ih r) 1) ((ay) 0))) )
 (lex.add.entry 
  '("Bethcar" nnp (((b eh th) 1) ((k aa r) 1))) )
 (lex.add.entry 
  '("Beth-car" nnp (((b eh th) 1) ((k aa r) 1))) )
 (lex.add.entry 
+ '("Beth_Car" nnp (((b eh th) 1) ((k aa r) 1))) )
+(lex.add.entry 
  '("Bethdagon" nnp (((b eh th) 1) ((d ey) 1) ((g aa n) 0))) )
 (lex.add.entry 
  '("Beth-dagon" nnp (((b eh th) 1) ((d ey) 1) ((g aa n) 0))) )
+(lex.add.entry 
+ '("Beth_Dagon" nnp (((b eh th) 1) ((d ey) 1) ((g aa n) 0))) )
 (lex.add.entry 
  '("Bethdiblathaim" nnp (((b eh th) 1) ((d ih b) 1) ((l ax) 0) ((th ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Beth-diblathaim" nnp (((b eh th) 1) ((d ih b) 1) ((l ax) 0) ((th ey) 1) ((ih m) 0))) )
 (lex.add.entry 
+ '("Beth_Diblathaim" nnp (((b eh th) 1) ((d ih b) 1) ((l ax) 0) ((th ey) 1) ((ih m) 0))) )
+(lex.add.entry 
  '("Betheden" nnp (((b eh th) 1) ((iy) 1) ((d ax n) 0))) )
 (lex.add.entry 
  '("Beth-eden" nnp (((b eh th) 1) ((iy) 1) ((d ax n) 0))) )
+(lex.add.entry 
+ '("Beth_Eden" nnp (((b eh th) 1) ((iy) 1) ((d ax n) 0))) )
 (lex.add.entry 
  '("Betheked" nnp (((b eh th) 1) ((iy) 1) ((k eh d) 0))) )
 (lex.add.entry 
  '("Beth-eked" nnp (((b eh th) 1) ((iy) 1) ((k eh d) 0))) )
 (lex.add.entry 
+ '("Beth_Eked" nnp (((b eh th) 1) ((iy) 1) ((k eh d) 0))) )
+(lex.add.entry 
  '("Bethel" nnp (((b eh th) 1) ((ax l) 0))) )
 (lex.add.entry 
  '("Beth-el" nnp (((b eh th) 1) ((ax l) 0))) )
+(lex.add.entry 
+ '("Beth_El" nnp (((b eh th) 1) ((ax l) 0))) )
 (lex.add.entry 
  '("Bethelite" nnp (((b eh th) 1) ((ih) 0) ((l ay t) 0))) )
 (lex.add.entry 
@@ -2333,6 +2459,8 @@
 (lex.add.entry 
  '("Beth-emek" nnp (((b eh th) 1) ((iy) 1) ((m eh k) 0))) )
 (lex.add.entry 
+ '("Beth_Emek" nnp (((b eh th) 1) ((iy) 1) ((m eh k) 0))) )
+(lex.add.entry 
  '("Bether" nnp (((b iy) 1) ((th er) 0))) )
 (lex.add.entry 
  '("Bethesda" nnp (((b ih) 0) ((th eh z) 1) ((d ax) 0))) )
@@ -2341,75 +2469,113 @@
 (lex.add.entry 
  '("Beth-ezel" nnp (((b eh th) 1) ((iy) 1) ((z eh l) 0))) )
 (lex.add.entry 
+ '("Beth_Ezel" nnp (((b eh th) 1) ((iy) 1) ((z eh l) 0))) )
+(lex.add.entry 
  '("Bethgader" nnp (((b eh th) 1) ((g ey) 1) ((d er) 0))) )
 (lex.add.entry 
  '("Beth-gader" nnp (((b eh th) 1) ((g ey) 1) ((d er) 0))) )
+(lex.add.entry 
+ '("Beth_Gader" nnp (((b eh th) 1) ((g ey) 1) ((d er) 0))) )
 (lex.add.entry 
  '("Bethgamul" nnp (((b eh th) 1) ((g ey) 1) ((m ax l) 0))) )
 (lex.add.entry 
  '("Beth-gamul" nnp (((b eh th) 1) ((g ey) 1) ((m ax l) 0))) )
 (lex.add.entry 
+ '("Beth_Gamul" nnp (((b eh th) 1) ((g ey) 1) ((m ax l) 0))) )
+(lex.add.entry 
  '("Bethgilgal" nnp (((b eh th) 1) ((g ih l) 1) ((g ae l) 0))) )
 (lex.add.entry 
  '("Beth-gilgal" nnp (((b eh th) 1) ((g ih l) 1) ((g ae l) 0))) )
+(lex.add.entry 
+ '("Beth_Gilgal" nnp (((b eh th) 1) ((g ih l) 1) ((g ae l) 0))) )
 (lex.add.entry 
  '("Bethhaccerem" nnp (((b eh th) 1) ((hh ae k) 1) ((s ih) 0) ((r eh m) 0))) )
 (lex.add.entry 
  '("Beth-haccerem" nnp (((b eh th) 1) ((hh ae k) 1) ((s ih) 0) ((r eh m) 0))) )
 (lex.add.entry 
+ '("Beth_Haccerem" nnp (((b eh th) 1) ((hh ae k) 1) ((s ih) 0) ((r eh m) 0))) )
+(lex.add.entry 
  '("Bethhaccherem" nnp (((b eh th) 1) ((hh ae) 0) ((k iy) 1) ((r eh m) 0))) )
 (lex.add.entry 
  '("Beth-haccherem" nnp (((b eh th) 1) ((hh ae) 0) ((k iy) 1) ((r eh m) 0))) )
+(lex.add.entry 
+ '("Beth_Haccherem" nnp (((b eh th) 1) ((hh ae) 0) ((k iy) 1) ((r eh m) 0))) )
 (lex.add.entry 
  '("Bethhaggan" nnp (((b eh th) 1) ((hh ae g) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Beth-haggan" nnp (((b eh th) 1) ((hh ae g) 1) ((ax n) 0))) )
 (lex.add.entry 
+ '("Beth_Haggan" nnp (((b eh th) 1) ((hh ae g) 1) ((ax n) 0))) )
+(lex.add.entry 
  '("Bethhakkerem" nnp (((b eh th) 1) ((hh ae) 0) ((k iy) 1) ((r eh m) 0))) )
 (lex.add.entry 
  '("Beth-hakkerem" nnp (((b eh th) 1) ((hh ae) 0) ((k iy) 1) ((r eh m) 0))) )
+(lex.add.entry 
+ '("Beth_Hakkerem" nnp (((b eh th) 1) ((hh ae) 0) ((k iy) 1) ((r eh m) 0))) )
 (lex.add.entry 
  '("Bethharam" nnp (((b eh th) 1) ((hh ey) 1) ((r ax m) 0))) )
 (lex.add.entry 
  '("Beth-haram" nnp (((b eh th) 1) ((hh ey) 1) ((r ax m) 0))) )
 (lex.add.entry 
+ '("Beth_Haram" nnp (((b eh th) 1) ((hh ey) 1) ((r ax m) 0))) )
+(lex.add.entry 
  '("Bethharan" nnp (((b eh th) 1) ((hh ey) 1) ((r ax n) 0))) )
 (lex.add.entry 
  '("Beth-haran" nnp (((b eh th) 1) ((hh ey) 1) ((r ax n) 0))) )
+(lex.add.entry 
+ '("Beth_Haran" nnp (((b eh th) 1) ((hh ey) 1) ((r ax n) 0))) )
 (lex.add.entry 
  '("Bethhogla" nnp (((b eh th) 1) ((hh aa g) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Beth-hogla" nnp (((b eh th) 1) ((hh aa g) 1) ((l ax) 0))) )
 (lex.add.entry 
+ '("Beth_Hogla" nnp (((b eh th) 1) ((hh aa g) 1) ((l ax) 0))) )
+(lex.add.entry 
  '("Bethhoglah" nnp (((b eh th) 1) ((hh aa g) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Beth-hoglah" nnp (((b eh th) 1) ((hh aa g) 1) ((l ax) 0))) )
+(lex.add.entry 
+ '("Beth_Hoglah" nnp (((b eh th) 1) ((hh aa g) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Bethhoron" nnp (((b eh th) 1) ((hh ow) 1) ((r aa n) 0))) )
 (lex.add.entry 
  '("Beth-horon" nnp (((b eh th) 1) ((hh ow) 1) ((r aa n) 0))) )
 (lex.add.entry 
+ '("Beth_Horon" nnp (((b eh th) 1) ((hh ow) 1) ((r aa n) 0))) )
+(lex.add.entry 
  '("Bethjeshimoth" nnp (((b eh th) 1) ((jh eh sh) 1) ((ih) 0) ((m aa th) 0))) )
 (lex.add.entry 
  '("Beth-jeshimoth" nnp (((b eh th) 1) ((jh eh sh) 1) ((ih) 0) ((m aa th) 0))) )
+(lex.add.entry 
+ '("Beth_Jeshimoth" nnp (((b eh th) 1) ((jh eh sh) 1) ((ih) 0) ((m aa th) 0))) )
 (lex.add.entry 
  '("Bethjesimoth" nnp (((b eh th) 1) ((jh eh s) 1) ((ih) 0) ((m aa th) 0))) )
 (lex.add.entry 
  '("Beth-jesimoth" nnp (((b eh th) 1) ((jh eh s) 1) ((ih) 0) ((m aa th) 0))) )
 (lex.add.entry 
+ '("Beth_Jesimoth" nnp (((b eh th) 1) ((jh eh s) 1) ((ih) 0) ((m aa th) 0))) )
+(lex.add.entry 
  '("Bethleaphrah" nnp (((b eh th) 1) ((l iy) 0) ((ae f) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Beth-leaphrah" nnp (((b eh th) 1) ((l iy) 0) ((ae f) 1) ((r ax) 0))) )
 (lex.add.entry 
+ '("Beth_Leaphrah" nnp (((b eh th) 1) ((l iy) 0) ((ae f) 1) ((r ax) 0))) )
+(lex.add.entry 
  '("Beth-le-aphrah" nnp (((b eh th) 1) ((l iy) 0) ((ae f) 1) ((r ax) 0))) )
+(lex.add.entry 
+ '("Beth_Le_Aphrah" nnp (((b eh th) 1) ((l iy) 0) ((ae f) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Bethlebaoth" nnp (((b eh th) 1) ((l ih) 0) ((b ey) 1) ((aa th) 0))) )
 (lex.add.entry 
  '("Beth-lebaoth" nnp (((b eh th) 1) ((l ih) 0) ((b ey) 1) ((aa th) 0))) )
 (lex.add.entry 
+ '("Beth_Lebaoth" nnp (((b eh th) 1) ((l ih) 0) ((b ey) 1) ((aa th) 0))) )
+(lex.add.entry 
  '("Bethlehem" nnp (((b eh th) 1) ((l ih) 0) ((hh ax m) 0))) )
 (lex.add.entry 
  '("Beth-lehem" nnp (((b eh th) 1) ((l ih) 0) ((hh ax m) 0))) )
+(lex.add.entry 
+ '("Beth_Lehem" nnp (((b eh th) 1) ((l ih) 0) ((hh ax m) 0))) )
 (lex.add.entry 
  '("Bethlehemite" nnp (((b eh th) 1) ((l ih) 0) ((hh ax m) 0) ((ay t) 0))) )
 (lex.add.entry 
@@ -2429,65 +2595,97 @@
 (lex.add.entry 
  '("Beth-maacah" nnp (((b eh th) 1) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
+ '("Beth_Maacah" nnp (((b eh th) 1) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
+(lex.add.entry 
  '("Bethmaachah" nnp (((b eh th) 1) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
  '("Beth-maachah" nnp (((b eh th) 1) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
+(lex.add.entry 
+ '("Beth_Maachah" nnp (((b eh th) 1) ((m ey) 1) ((ax) 0) ((k ax) 0))) )
 (lex.add.entry 
  '("Bethmarcaboth" nnp (((b eh th) 1) ((m aa r) 1) ((k ax) 0) ((b aa th) 0))) )
 (lex.add.entry 
  '("Beth-marcaboth" nnp (((b eh th) 1) ((m aa r) 1) ((k ax) 0) ((b aa th) 0))) )
 (lex.add.entry 
+ '("Beth_Marcaboth" nnp (((b eh th) 1) ((m aa r) 1) ((k ax) 0) ((b aa th) 0))) )
+(lex.add.entry 
  '("Bethmeon" nnp (((b eh th) 1) ((m iy) 1) ((aa n) 0))) )
 (lex.add.entry 
  '("Beth-meon" nnp (((b eh th) 1) ((m iy) 1) ((aa n) 0))) )
+(lex.add.entry 
+ '("Beth_Meon" nnp (((b eh th) 1) ((m iy) 1) ((aa n) 0))) )
 (lex.add.entry 
  '("Bethmerhak" nnp (((b eh th) 1) ((m er) 1) ((hh ae k) 0))) )
 (lex.add.entry 
  '("Beth-merhak" nnp (((b eh th) 1) ((m er) 1) ((hh ae k) 0))) )
 (lex.add.entry 
+ '("Beth_Merhak" nnp (((b eh th) 1) ((m er) 1) ((hh ae k) 0))) )
+(lex.add.entry 
  '("Bethmillo" nnp (((b eh th) 1) ((m ih l) 1) ((ow) 0))) )
 (lex.add.entry 
  '("Beth-millo" nnp (((b eh th) 1) ((m ih l) 1) ((ow) 0))) )
+(lex.add.entry 
+ '("Beth_Millo" nnp (((b eh th) 1) ((m ih l) 1) ((ow) 0))) )
 (lex.add.entry 
  '("Bethnimrah" nnp (((b eh th) 1) ((n ih m) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Beth-nimrah" nnp (((b eh th) 1) ((n ih m) 1) ((r ax) 0))) )
 (lex.add.entry 
+ '("Beth_Nimrah" nnp (((b eh th) 1) ((n ih m) 1) ((r ax) 0))) )
+(lex.add.entry 
  '("Bethophrah" nnp (((b eh th) 1) ((ow) 1) ((f r ax) 0))) )
 (lex.add.entry 
  '("Beth-ophrah" nnp (((b eh th) 1) ((ow) 1) ((f r ax) 0))) )
+(lex.add.entry 
+ '("Beth_Ophrah" nnp (((b eh th) 1) ((ow) 1) ((f r ax) 0))) )
 (lex.add.entry 
  '("Bethpalet" nnp (((b eh th) 1) ((p ey) 1) ((l eh t) 0))) )
 (lex.add.entry 
  '("Beth-palet" nnp (((b eh th) 1) ((p ey) 1) ((l eh t) 0))) )
 (lex.add.entry 
+ '("Beth_Palet" nnp (((b eh th) 1) ((p ey) 1) ((l eh t) 0))) )
+(lex.add.entry 
  '("Bethpazzez" nnp (((b eh th) 1) ((p ae z) 1) ((eh z) 0))) )
 (lex.add.entry 
  '("Beth-pazzez" nnp (((b eh th) 1) ((p ae z) 1) ((eh z) 0))) )
+(lex.add.entry 
+ '("Beth_Pazzez" nnp (((b eh th) 1) ((p ae z) 1) ((eh z) 0))) )
 (lex.add.entry 
  '("Bethpelet" nnp (((b eh th) 1) ((p iy) 1) ((l eh t) 0))) )
 (lex.add.entry 
  '("Beth-pelet" nnp (((b eh th) 1) ((p iy) 1) ((l eh t) 0))) )
 (lex.add.entry 
+ '("Beth_Pelet" nnp (((b eh th) 1) ((p iy) 1) ((l eh t) 0))) )
+(lex.add.entry 
  '("Bethpeor" nnp (((b eh th) 1) ((p iy) 1) ((ao r) 0))) )
 (lex.add.entry 
  '("Beth-peor" nnp (((b eh th) 1) ((p iy) 1) ((ao r) 0))) )
+(lex.add.entry 
+ '("Beth_Peor" nnp (((b eh th) 1) ((p iy) 1) ((ao r) 0))) )
 (lex.add.entry 
  '("Bethphage" nnp (((b eh th) 1) ((f ax) 0) ((jh iy) 0))) )
 (lex.add.entry 
  '("Beth-phage" nnp (((b eh th) 1) ((f ax) 0) ((jh iy) 0))) )
 (lex.add.entry 
+ '("Beth_Phage" nnp (((b eh th) 1) ((f ax) 0) ((jh iy) 0))) )
+(lex.add.entry 
  '("Bethphelet" nnp (((b eh th) 1) ((f iy) 1) ((l eh t) 0))) )
 (lex.add.entry 
  '("Beth-phelet" nnp (((b eh th) 1) ((f iy) 1) ((l eh t) 0))) )
+(lex.add.entry 
+ '("Beth_Phelet" nnp (((b eh th) 1) ((f iy) 1) ((l eh t) 0))) )
 (lex.add.entry 
  '("Bethrapha" nnp (((b eh th) 1) ((r ey) 1) ((f ax) 0))) )
 (lex.add.entry 
  '("Beth-rapha" nnp (((b eh th) 1) ((r ey) 1) ((f ax) 0))) )
 (lex.add.entry 
+ '("Beth_Rapha" nnp (((b eh th) 1) ((r ey) 1) ((f ax) 0))) )
+(lex.add.entry 
  '("Bethrehob" nnp (((b eh th) 1) ((r iy) 1) ((hh aa b) 0))) )
 (lex.add.entry 
  '("Beth-rehob" nnp (((b eh th) 1) ((r iy) 1) ((hh aa b) 0))) )
+(lex.add.entry 
+ '("Beth_Rehob" nnp (((b eh th) 1) ((r iy) 1) ((hh aa b) 0))) )
 (lex.add.entry 
  '("Bethsaida" nnp (((b eh th) 1) ((s ey) 1) ((ih) 0) ((d ax) 0))) )
 (lex.add.entry 
@@ -2495,13 +2693,19 @@
 (lex.add.entry 
  '("Beth-shan" nnp (((b eh th) 1) ((sh ae n) 1))) )
 (lex.add.entry 
+ '("Beth_Shan" nnp (((b eh th) 1) ((sh ae n) 1))) )
+(lex.add.entry 
  '("Bethshean" nnp (((b eh th) 1) ((sh iy) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Beth-shean" nnp (((b eh th) 1) ((sh iy) 1) ((ax n) 0))) )
 (lex.add.entry 
+ '("Beth_Shean" nnp (((b eh th) 1) ((sh iy) 1) ((ax n) 0))) )
+(lex.add.entry 
  '("Bethshemesh" nnp (((b eh th) 1) ((sh iy) 1) ((m eh sh) 0))) )
 (lex.add.entry 
  '("Beth-shemesh" nnp (((b eh th) 1) ((sh iy) 1) ((m eh sh) 0))) )
+(lex.add.entry 
+ '("Beth_Shemesh" nnp (((b eh th) 1) ((sh iy) 1) ((m eh sh) 0))) )
 (lex.add.entry 
  '("Bethshemite" nnp (((b eh th) 1) ((sh iy) 1) ((m ay t) 0))) )
 (lex.add.entry 
@@ -2515,17 +2719,25 @@
 (lex.add.entry 
  '("Beth-shittah" nnp (((b eh th) 1) ((sh ih t) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Beth_Shittah" nnp (((b eh th) 1) ((sh ih t) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Bethsura" nnp (((b eh th) 1) ((s uw) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Beth-sura" nnp (((b eh th) 1) ((s uw) 1) ((r ax) 0))) )
+(lex.add.entry 
+ '("Beth_Sura" nnp (((b eh th) 1) ((s uw) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Bethtappuah" nnp (((b eh th) 1) ((t ae p) 1) ((y uw) 0) ((ax) 0))) )
 (lex.add.entry 
  '("Beth-tappuah" nnp (((b eh th) 1) ((t ae p) 1) ((y uw) 0) ((ax) 0))) )
 (lex.add.entry 
+ '("Beth_Tappuah" nnp (((b eh th) 1) ((t ae p) 1) ((y uw) 0) ((ax) 0))) )
+(lex.add.entry 
  '("Bethtogarmah" nnp (((b eh th) 1) ((t ax) 0) ((g aa r) 1) ((m ax) 0))) )
 (lex.add.entry 
  '("Beth-togarmah" nnp (((b eh th) 1) ((t ax) 0) ((g aa r) 1) ((m ax) 0))) )
+(lex.add.entry 
+ '("Beth_Togarmah" nnp (((b eh th) 1) ((t ax) 0) ((g aa r) 1) ((m ax) 0))) )
 (lex.add.entry 
  '("Bethuel" nnp (((b ih) 0) ((th uw) 1) ((ax l) 0))) )
 (lex.add.entry 
@@ -2541,13 +2753,19 @@
 (lex.add.entry 
  '("Beth-zaith" nnp (((b eh th) 1) ((z ey) 1) ((ih th) 0))) )
 (lex.add.entry 
+ '("Beth_Zaith" nnp (((b eh th) 1) ((z ey) 1) ((ih th) 0))) )
+(lex.add.entry 
  '("Bethzatha" nnp (((b eh th) 1) ((z ey) 1) ((th ax) 0))) )
 (lex.add.entry 
  '("Beth-zatha" nnp (((b eh th) 1) ((z ey) 1) ((th ax) 0))) )
 (lex.add.entry 
+ '("Beth_Zatha" nnp (((b eh th) 1) ((z ey) 1) ((th ax) 0))) )
+(lex.add.entry 
  '("Bethzur" nnp (((b eh th) 1) ((z er) 1))) )
 (lex.add.entry 
  '("Beth-zur" nnp (((b eh th) 1) ((z er) 1))) )
+(lex.add.entry 
+ '("Beth_Zur" nnp (((b eh th) 1) ((z er) 1))) )
 (lex.add.entry 
  '("Betonim" nnp (((b eh t) 1) ((ax) 0) ((n ih m) 0))) )
 (lex.add.entry 
@@ -2712,6 +2930,8 @@
  '("Calebephratah" nnp (((k ey) 1) ((l ax b) 0) ((eh f) 1) ((r ax) 0) ((t ax) 0))) )
 (lex.add.entry 
  '("Caleb-ephratah" nnp (((k ey) 1) ((l ax b) 0) ((eh f) 1) ((r ax) 0) ((t ax) 0))) )
+(lex.add.entry 
+ '("Caleb_Ephratah" nnp (((k ey) 1) ((l ax b) 0) ((eh f) 1) ((r ax) 0) ((t ax) 0))) )
 (lex.add.entry 
  '("Calebephrathah" nnp (((k ey) 1) ((l ax b) 0) ((eh f) 1) ((r ax) 0) ((th ax) 0))) )
 (lex.add.entry 
@@ -2895,6 +3115,8 @@
 (lex.add.entry 
  '("Chephar-ammoni" nnp (((k iy) 1) ((f aa r) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
 (lex.add.entry 
+ '("Chephar_Ammoni" nnp (((k iy) 1) ((f aa r) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
+(lex.add.entry 
  '("Chepharhaammonai" nnp (((k iy) 1) ((f aa r) 0) ((hh ey) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
 (lex.add.entry 
  '("Chephar-haammonai" nnp (((k iy) 1) ((f aa r) 0) ((hh ey) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
@@ -2975,6 +3197,8 @@
 (lex.add.entry 
  '("Chor-ashan" nnp (((k ao r) 1) ((ae sh) 1) ((ax n) 0))) )
 (lex.add.entry 
+ '("Chor_Ashan" nnp (((k ao r) 1) ((ae sh) 1) ((ax n) 0))) )
+(lex.add.entry 
  '("Chorazin" nnp (((k ax) 0) ((r ey) 1) ((z ih n) 0))) )
 (lex.add.entry 
  '("Chozeba" nnp (((k ax) 0) ((z iy) 1) ((b ax) 0))) )
@@ -3054,6 +3278,8 @@
  '("Corashan" nnp (((k ao r) 1) ((ey) 1) ((sh ax n) 0))) )
 (lex.add.entry 
  '("Cor-ashan" nnp (((k ao r) 1) ((ey) 1) ((sh ax n) 0))) )
+(lex.add.entry 
+ '("Cor_Ashan" nnp (((k ao r) 1) ((ey) 1) ((sh ax n) 0))) )
 (lex.add.entry 
  '("Core" nnp (((k ow) 1) ((r ih) 0))) )
 (lex.add.entry 
@@ -3437,7 +3663,7 @@
 (lex.add.entry 
  '("El-elohe-israel" nnp (((eh l) 1) ((ih) 0) ((l ow) 1) ((hh eh) 0) ((ih s) 1) ((r ey) 0) ((eh l) 0))) )
 (lex.add.entry 
- '("El_Elohe_Esrael" nnp (((eh l) 1) ((ih) 0) ((l ow) 1) ((hh eh) 0) ((ih s) 1) ((r ey) 0) ((eh l) 0))) )
+ '("El_Elohe_Israel" nnp (((eh l) 1) ((ih) 0) ((l ow) 1) ((hh eh) 0) ((ih s) 1) ((r ey) 0) ((eh l) 0))) )
 (lex.add.entry 
  '("Eleph" nnp (((iy) 1) ((l eh f) 0))) )
 (lex.add.entry 
@@ -3561,7 +3787,11 @@
 (lex.add.entry 
  '("Elonbeth-hanan" nnp (((iy) 1) ((l aa n) 0) ((b eh th) 0) ((hh ey) 1) ((n ax n) 0))) )
 (lex.add.entry 
+ '("Elonbeth_Hanan" nnp (((iy) 1) ((l aa n) 0) ((b eh th) 0) ((hh ey) 1) ((n ax n) 0))) )
+(lex.add.entry 
  '("Elon-beth-hanan" nnp (((iy) 1) ((l aa n) 0) ((b eh th) 0) ((hh ey) 1) ((n ax n) 0))) )
+(lex.add.entry 
+ '("Elon_Beth_Hanan" nnp (((iy) 1) ((l aa n) 0) ((b eh th) 0) ((hh ey) 1) ((n ax n) 0))) )
 (lex.add.entry 
  '("Elon_Bethhanan" nnp (((iy) 1) ((l aa n) 0) ((b eh th) 0) ((hh ey) 1) ((n ax n) 0))) )
 (lex.add.entry 
@@ -3949,13 +4179,11 @@
 (lex.add.entry 
  '("Ezrites" nnps (((eh z) 1) ((r ay t s) 0))) )
 (lex.add.entry 
- '("Fair" nnp (((f eh r) 1))) )
+ '("Fair_Havens" nnp (((f eh r) 1) ((hh ey) 1) ((v ax n z) 0))) )
 (lex.add.entry 
  '("Felix" nnp (((f iy) 1) ((l ih k s) 0))) )
 (lex.add.entry 
  '("Festus" nnp (((f eh s) 1) ((t ax s) 0))) )
-(lex.add.entry 
- '("Forum" nnp (((f ow) 1) ((r ax m) 0))) )
 (lex.add.entry 
  '("Fortunatus" nnp (((f ao r) 0) ((t y uw) 0) ((n ey) 1) ((t ax s) 0))) )
 (lex.add.entry 
@@ -3972,6 +4200,8 @@
  '("Gabriel" nnp (((g ey) 1) ((b r iy) 0) ((ax l) 0))) )
 (lex.add.entry 
  '("Gad" nnp (((g ae d) 1))) )
+(lex.add.entry 
+ '("Gadara" nnp (((g ae d) 1) ((ax) 0) ((r ax) 0))) )
 (lex.add.entry 
  '("Gadarene" nnp (((g ae d) 1) ((ax) 0) ((r iy n) 1))) )
 (lex.add.entry 
@@ -4023,11 +4253,13 @@
 (lex.add.entry 
  '("Gallio" nnp (((g ae l) 1) ((iy) 0) ((ow) 0))) )
 (lex.add.entry 
- '("Gamad" nnp (((g ey) 1) ((m ax d) 0))) )
+ '("Gamad" nnps (((g ey) 1) ((m ax d) 0))) )
 (lex.add.entry 
  '("Gamaliel" nnp (((g ax) 0) ((m ey) 1) ((l iy) 0) ((ax l) 0))) )
 (lex.add.entry 
- '("Gammadim" nnp (((g ae m) 1) ((ax) 0) ((d ih m) 0))) )
+ '("Gammad" nnps (((g ae m) 1) ((ax d) 0))) )
+(lex.add.entry 
+ '("Gammadim" nnps (((g ae m) 1) ((ax) 0) ((d ih m) 0))) )
 (lex.add.entry 
  '("Gammadims" nnps (((g ae m) 1) ((ax) 0) ((d ih m z) 0))) )
 (lex.add.entry 
@@ -4049,11 +4281,17 @@
 (lex.add.entry 
  '("Gath-hepher" nnp (((g ae th) 1) ((hh iy) 1) ((f er) 0))) )
 (lex.add.entry 
+ '("Gath_Hepher" nnp (((g ae th) 1) ((hh iy) 1) ((f er) 0))) )
+(lex.add.entry 
  '("Gathrimmon" nnp (((g ae th) 1) ((r ih m) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Gath-rimmon" nnp (((g ae th) 1) ((r ih m) 1) ((ax n) 0))) )
 (lex.add.entry 
+ '("Gath_Rimmon" nnp (((g ae th) 1) ((r ih m) 1) ((ax n) 0))) )
+(lex.add.entry 
  '("Gaul" nnp (((g ao l) 1))) )
+(lex.add.entry 
+ '("Gaulanitis" nnp (((g ao l) 1) ((ax) 0) ((n ay) 1) ((t ih s) 0))) )
 (lex.add.entry 
  '("Gaza" nnp (((g ey) 1) ((z ax) 0))) )
 (lex.add.entry 
@@ -4095,6 +4333,10 @@
 (lex.add.entry 
  '("Gederah" nnp (((g ih) 0) ((d iy) 1) ((r ax) 0))) )
 (lex.add.entry 
+ '("Gederathite" nnp (((g ih) 0) ((d iy) 1) ((r ax) 0) ((th ay t) 0))) )
+(lex.add.entry 
+ '("Gederathites" nnps (((g ih) 0) ((d iy) 1) ((r ax) 0) ((th ay t s) 0))) )
+(lex.add.entry 
  '("Gederite" nnp (((g ax) 0) ((d ih r) 1) ((ay t) 0))) )
 (lex.add.entry 
  '("Gederites" nnps (((g ax) 0) ((d ih r) 1) ((ay t s) 0))) )
@@ -4108,6 +4350,8 @@
  '("Geharashim" nnp (((g iy) 1) ((hh aa) 0) ((r ey) 1) ((sh ih m) 0))) )
 (lex.add.entry 
  '("Ge-harashim" nnp (((g iy) 1) ((hh aa) 0) ((r ey) 1) ((sh ih m) 0))) )
+(lex.add.entry 
+ '("Ge_Harashim" nnp (((g iy) 1) ((hh aa) 0) ((r ey) 1) ((sh ih m) 0))) )
 (lex.add.entry 
  '("Gehazi" nnp (((g ih) 0) ((hh ey) 1) ((z ay) 0))) )
 (lex.add.entry 
@@ -4135,13 +4379,15 @@
 (lex.add.entry 
  '("Gera" nnp (((g iy) 1) ((r ax) 0))) )
 (lex.add.entry 
- '("Gerah" nnp (((g iy) 1) ((r ax) 0))) )
-(lex.add.entry 
  '("Gerar" nnp (((g iy) 1) ((r aa r) 0))) )
+(lex.add.entry 
+ '("Gerasa" nnp (((g eh r) 1) ((ax) 0) ((s ax) 0))) )
 (lex.add.entry 
  '("Gerasene" nnp (((g eh r) 1) ((ax) 0) ((s iy n) 0))) )
 (lex.add.entry 
  '("Gerasenes" nnps (((g eh r) 1) ((ax) 0) ((s iy n z) 0))) )
+(lex.add.entry 
+ '("Gergesa" nnp (((g er) 1) ((g eh) 0) ((s ax) 0))) )
 (lex.add.entry 
  '("Gergesene" nnp (((g er) 1) ((g eh) 0) ((s iy n) 1))) )
 (lex.add.entry 
@@ -4161,7 +4407,9 @@
 (lex.add.entry 
  '("Gershonites" nnps (((g er) 1) ((sh aa n) 0) ((ay t s) 0))) )
 (lex.add.entry 
- '("Geruth" nnp (((g iy) 1) ((r uw th) 0))) )
+ '("Geruth_Chimham" nnp (((g iy) 1) ((r uw th) 0) ((k ih m) 1) ((hh ae m) 0))) )
+(lex.add.entry 
+ '("Geruth_Kimham" nnp (((g iy) 1) ((r uw th) 0) ((k ih m) 1) ((hh ae m) 0))) )
 (lex.add.entry 
  '("Gerzite" nnp (((g er) 1) ((z ay t) 0))) )
 (lex.add.entry 
@@ -4175,7 +4423,7 @@
 (lex.add.entry 
  '("Geshur" nnp (((g iy) 1) ((sh er) 0))) )
 (lex.add.entry 
- '("Geshuri" nnp (((g ih) 0) ((sh uw) 1) ((r ay) 0))) )
+ '("Geshuri" nnps (((g ih) 0) ((sh uw) 1) ((r ay) 0))) )
 (lex.add.entry 
  '("Geshurite" nnp (((g eh sh) 1) ((y uw) 0) ((r ay t) 0))) )
 (lex.add.entry 
@@ -4209,11 +4457,17 @@
 (lex.add.entry 
  '("Gibeath-elohim" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((eh) 0) ((l ow) 1) ((hh ih m) 0))) )
 (lex.add.entry 
+ '("Gibeath_Elohim" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((eh) 0) ((l ow) 1) ((hh ih m) 0))) )
+(lex.add.entry 
  '("Gibeathhaaraloth" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((hh aa) 0) ((aa r) 1) ((ax) 0) ((l aa th) 0))) )
 (lex.add.entry 
  '("Gibeath-haaraloth" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((hh aa) 0) ((aa r) 1) ((ax) 0) ((l aa th) 0))) )
 (lex.add.entry 
+ '("Gibeath_Haaraloth" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((hh aa) 0) ((aa r) 1) ((ax) 0) ((l aa th) 0))) )
+(lex.add.entry 
  '("Gibeath-ha-araloth" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((hh aa) 0) ((aa r) 1) ((ax) 0) ((l aa th) 0))) )
+(lex.add.entry 
+ '("Gibeath_Ha_Araloth" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((hh aa) 0) ((aa r) 1) ((ax) 0) ((l aa th) 0))) )
 (lex.add.entry 
  '("Gibeathite" nnp (((g ih b) 1) ((iy) 0) ((ae th) 0) ((ay t) 0))) )
 (lex.add.entry 
@@ -4253,8 +4507,6 @@
 (lex.add.entry 
  '("Gilgal" nnp (((g ih l) 1) ((g ae l) 0))) )
 (lex.add.entry 
- '("Gilo" nnp (((g ay) 1) ((l ow) 0))) )
-(lex.add.entry 
  '("Giloh" nnp (((g ay) 1) ((l ow) 0))) )
 (lex.add.entry 
  '("Gilonite" nnp (((g ay) 1) ((l ax) 0) ((n ay t) 0))) )
@@ -4293,13 +4545,13 @@
 (lex.add.entry 
  '("Gittah-hepher" nnp (((g ih t) 1) ((aa) 0) ((hh iy) 1) ((f er) 0))) )
 (lex.add.entry 
+ '("Gittah_Hepher" nnp (((g ih t) 1) ((aa) 0) ((hh iy) 1) ((f er) 0))) )
+(lex.add.entry 
  '("Gittaim" nnp (((g ih t) 1) ((ey) 0) ((ih m) 0))) )
 (lex.add.entry 
  '("Gittite" nnp (((g ih t) 1) ((ay t) 0))) )
 (lex.add.entry 
  '("Gittites" nnps (((g ih t) 1) ((ay t s) 0))) )
-(lex.add.entry 
- '("Gittith" nnp (((g ih t) 1) ((ih th) 0))) )
 (lex.add.entry 
  '("Gizonite" nnp (((g ay) 1) ((z ax) 0) ((n ay t) 0))) )
 (lex.add.entry 
@@ -4319,7 +4571,9 @@
 (lex.add.entry 
  '("Gog" nnp (((g aa g) 1))) )
 (lex.add.entry 
- '("Goiim" nnp (((g oy) 1) ((ih m) 0))) )
+ '("Goiim" nnps (((g oy) 1) ((ih m) 0))) )
+(lex.add.entry 
+ '("Goiims" nnps (((g oy) 1) ((ih m z) 0))) )
 (lex.add.entry 
  '("Golan" nnp (((g ow) 1) ((l ae n) 0))) )
 (lex.add.entry 
@@ -4339,6 +4593,8 @@
 (lex.add.entry 
  '("Goshen" nnp (((g ow) 1) ((sh ax n) 0))) )
 (lex.add.entry 
+ '("Goyim" nnp (((g ow) 1) ((y ih m) 0))) )
+(lex.add.entry 
  '("Gozan" nnp (((g ow) 1) ((z ae n) 0))) )
 (lex.add.entry 
  '("Grecia" nnp (((g r iy) 1) ((sh iy) 0) ((ax) 0))) )
@@ -4357,11 +4613,17 @@
 (lex.add.entry 
  '("Guni" nnp (((g uw) 1) ((n ay) 0))) )
 (lex.add.entry 
+ '("Gunite" nnp (((g uw) 1) ((n ay t) 0))) )
+(lex.add.entry 
+ '("Gunites" nnps (((g uw) 1) ((n ay t s) 0))) )
+(lex.add.entry 
  '("Gur" nnp (((g er) 1))) )
 (lex.add.entry 
  '("Gurbaal" nnp (((g er) 1) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
  '("Gur-baal" nnp (((g er) 1) ((b ey) 1) ((ax l) 0))) )
+(lex.add.entry 
+ '("Gur_Baal" nnp (((g er) 1) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
  '("Haahashtari" nnp (((hh ey) 1) ((ax) 0) ((hh ae sh) 1) ((t ax) 0) ((r ay) 0))) )
 (lex.add.entry 
@@ -5063,9 +5325,13 @@
 (lex.add.entry 
  '("Hor-haggidgad" nnp (((hh ao r) 1) ((hh ae) 0) ((g ih d) 1) ((g ae d) 0))) )
 (lex.add.entry 
+ '("Hor_Haggidgad" nnp (((hh ao r) 1) ((hh ae) 0) ((g ih d) 1) ((g ae d) 0))) )
+(lex.add.entry 
  '("Horhagidgad" nnp (((hh ao r) 1) ((hh ax) 0) ((g ih d) 1) ((g ae d) 0))) )
 (lex.add.entry 
  '("Hor-hagidgad" nnp (((hh ao r) 1) ((hh ax) 0) ((g ih d) 1) ((g ae d) 0))) )
+(lex.add.entry 
+ '("Hor_Hagidgad" nnp (((hh ao r) 1) ((hh ax) 0) ((g ih d) 1) ((g ae d) 0))) )
 (lex.add.entry 
  '("Hori" nnp (((hh ow) 1) ((r ay) 0))) )
 (lex.add.entry 
@@ -8298,6 +8564,8 @@
  '("Poratha" nnp (((p ax) 0) ((r ey) 1) ((th ax) 0))) )
 (lex.add.entry 
  '("Porcius" nnp (((p ao r) 1) ((sh iy) 0) ((ax s) 0))) )
+(lex.add.entry 
+ '("Porcius_Festus" nnp (((p ao r) 1) ((sh iy) 0) ((ax s) 0) ((f eh s) 1) ((t ax s) 0))) )
 (lex.add.entry 
  '("Potiphar" nnp (((p aa t) 1) ((ax) 0) ((f er) 0))) )
 (lex.add.entry 

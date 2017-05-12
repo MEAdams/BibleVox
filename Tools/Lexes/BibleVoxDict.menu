@@ -393,7 +393,8 @@ beliar                  cns   BEE-lee-uhr                   be'li-ar            
 belias                  cns   BEE-leee-uhs                  be'li-as                      saying
 beth                    cns   BETH                          beth                          writing
 
-Caph                    pns   KAHF                          Caph                          writing
+gerah                   cns   GEE-ruh                       ge'rah                        measure
+gittith                 cns   GIT-ith                       git'tith                      music
 
 maranatha               cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
 maran-atha              cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
@@ -422,29 +423,32 @@ Abed-nego               pns   uh-BED-ni-goh                 A-bed'ne-go         
 Abel                    pns   AY-buhl                       A'bel                         person,place
 Abelbethmaacah          pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-cah           place
 Abel-bethmaacah         pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-cah           place
-Abel_bethmaacah         pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-cah           place
+Abel_Bethmaacah         pns   AY-buhl-beth-MAY-uh-kuh       A'bel_Beth-ma'a-cah           place
 Abel-beth-maacah        pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-cah           place
-Abel_beth_maacah        pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-cah           place
+Abel_Beth_Maacah        pns   AY-buhl-beth-MAY-uh-kuh       A'bel_Beth_Ma'a-cah           place
 Abelbethmaachah         pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-chah          place
 Abel-bethmaachah        pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-chah          place
+Abel_Bethmaachah        pns   AY-buhl-beth-MAY-uh-kuh       A'bel_Beth-ma'a-chah          place
 Abel-beth-maachah       pns   AY-buhl-beth-MAY-uh-kuh       A'bel-beth-ma'a-chah          place
+Abel_Beth_Maachah       pns   AY-buhl-beth-MAY-uh-kuh       A'bel_Beth_Ma'a-chah          place
 Abelcheramim            pns   AY-buhl-KEHR-uh-mim           A'bel-cher'a-mim              place
 Abel-cheramim           pns   AY-buhl-KEHR-uh-mim           A'bel-cher'a-mim              place
+Abel_Cheramim           pns   AY-buhl-KEHR-uh-mim           A'bel_Cher'a-mim              place
 Abelkeramim             pns   AY-buhl-KEHR-uh-mim           A'bel-ker'a-mim               place
 Abel-keramim            pns   AY-buhl-KEHR-uh-mim           A'bel-ker'a-mim               place
-Abel_keramim            pns   AY-buhl-KEHR-uh-mim           A'bel-ker'a-mim               place
+Abel_Keramim            pns   AY-buhl-KEHR-uh-mim           A'bel_Ker'a-mim               place
 Abelmaim                pns   AY-buhl-MAY-im                A'bel-ma'im                   place
 Abel-maim               pns   AY-buhl-MAY-im                A'bel-ma'im                   place
-Abel_maim               pns   AY-buhl-MAY-im                A'bel-ma'im                   place
+Abel_Maim               pns   AY-buhl-MAY-im                A'bel_Ma'im                   place
 Abelmeholah             pns   AY-buhl-mi-HOH-luh            A'bel-me-ho'lah               place
 Abel-meholah            pns   AY-buhl-mi-HOH-luh            A'bel-me-ho'lah               place
-Abel_meholah            pns   AY-buhl-mi-HOH-luh            A'bel-me-ho'lah               place
+Abel_Meholah            pns   AY-buhl-mi-HOH-luh            A'bel_Me-ho'lah               place
 Abelmizraim             pns   AY-buhl-MIZ-ray-im            A'bel-miz'ra-im               place
 Abel-mizraim            pns   AY-buhl-MIZ-ray-im            A'bel-miz'ra-im               place
-Abel_mizraim            pns   AY-buhl-MIZ-ray-im            A'bel-miz'ra-im               place
+Abel_Mizraim            pns   AY-buhl-MIZ-ray-im            A'bel_Miz'ra-im               place
 Abelshittim             pns   AY-buhl-SHIT-im               A'bel-shit'tim                place
 Abel-shittim            pns   AY-buhl-SHIT-im               A'bel-shit'tim                place
-Abel_shittim            pns   AY-buhl-SHIT-im               A'bel-shit'tim                place
+Abel_Shittim            pns   AY-buhl-SHIT-im               A'bel_Shit'tim                place
 Abez                    pns   AY-bez                        A'bez                         place
 Abi                     pns   AY-biy                        A'bi                          person,title
 Abia                    pns   uh-BIY-uh                     A-bi'a                        person
@@ -525,6 +529,7 @@ Adamah                  pns   AD-uh-muh                     Ad'a-mah            
 Adami                   pns   AD-uh-miy                     Ad'a-mi                       place
 Adaminekeb              pns   AD-uh-miy-NEE-keb             Ad'a-mi-ne'keb                place
 Adami-nekeb             pns   AD-uh-miy-NEE-keb             Ad'a-mi-ne'keb                place
+Adami_Nekeb             pns   AD-uh-miy-NEE-keb             Ad'a-mi_Ne'keb                place
 Adar                    pns   AY-dahr                       A'dar                         person,place
 Adasa                   pns   AD-uh-suh                     Ad'a-sa                       place
 Adbeel                  pns   AD-bee-el                     Ad'be-el                      person
@@ -668,12 +673,15 @@ Allemeth                pns   AL-i-meth                     Al'le-meth          
 Allon                   pns   AL-uhn                        Al'lon                        person,place
 Allonbacuth             pns   AL-uhn-BAK-uhth               Al'lon-bac'uth                place
 Allon-bacuth            pns   AL-uhn-BAK-uhth               Al'lon-bac'uth                place
+Allon_Bacuth            pns   AL-uhn-BAK-uhth               Al'lon_Bac'uth                place
 Allonbachuth            pns   AL-uhn-BAK-uhth               Al'lon-bach'uth               place
 Allon-bachuth           pns   AL-uhn-BAK-uhth               Al'lon-bach'uth               place
+Allon_Bachuth           pns   AL-uhn-BAK-uhth               Al'lon_Bach'uth               place
 Almodad                 pns   al-MOH-dad                    Al-mo'dad                     person
 Almon                   pns   AL-muhn                       Al'mon                        place
 Almondiblathaim         pns   AL-muhn-DIB-luh-THAY-im       Al'mon-dib'la-tha'im          place
 Almon-diblathaim        pns   AL-muhn-DIB-luh-THAY-im       Al'mon-dib'la-tha'im          place
+Almon_Diblathaim        pns   AL-muhn-DIB-luh-THAY-im       Al'mon_Dib'la-tha'im          place
 Aloth                   pns   AY-loth                       A'loth                        place
 Alpha                   pns   AL-fuh                        Al'pha                        title,writing
 Alphaeus                pns   al-FEE-uhs                    Al-phae'us                    person
@@ -797,7 +805,6 @@ Apollos                 pns   uh-POL-uhs                    A-pol'los           
 Apollyon                pns   uh-POL-yuhn                   A-pol'lyon                    person
 Appaim                  pns   AP-ay-im                      Ap-pa'im                      person
 Apphia                  pns   AF-ee-uh                      Ap'phi-a                      person
-Appii                   pns   AP-ee-iy                      Ap'pi-i_                      place
 Appii_Forum             pns   AP-ee-iy-FOH-ruhm             Ap'pi-i_Fo'rum                place
 Appius                  pns   AP-ee-uhs                     Ap'pi-us                      place
 Aquila                  pns   AK-wi-luh                     Aq'ui-la                      person
@@ -815,18 +822,23 @@ Aram                    pns   AY-ram                        A'ram               
 Aramaean                pns   AR-uh-MEE-uhn                 Ar'a-mae'an                   ethnic
 Aramaeans               pnp   AR-uh-MEE-uhnz                Ar'a-mae'ans                  ethnic
 Aramaic                 pns   AR-uh-MAY-ik                  Ar'a-ma'ic                    ethnic
-Arambethrehob           pns   AY-ram-beth-REE-hob           A'ram-Beth-re'hob             place
-Aram-bethrehob          pns   AY-ram-beth-REE-hob           A'ram-Beth-re'hob             place
+Arambethrehob           pns   AY-ram-beth-REE-hob           A'ram-beth-re'hob             place
+Aram-bethrehob          pns   AY-ram-beth-REE-hob           A'ram-beth-re'hob             place
+Aram_Bethrehob          pns   AY-ram-beth-REE-hob           A'ram-Beth-re'hob             place
 Aram-beth-rehob         pns   AY-ram-beth-REE-hob           A'ram-Beth-re'hob             place
+Aram_Beth_Rehob         pns   AY-ram-beth-REE-hob           A'ram-Beth_Re'hob             place
 Aramean                 pns   AR-uh-MEE-uhn                 Ar'a-me'an                    ethnic
 Arameans                pnp   AR-uh-MEE-uhnz                Ar'a-me'ans                   ethnic
 Aramitess               pns   AR-uh-MIYT-es                 Ar'a-mit'ess                  ethnic
 Arammaacah              pns   AY-ram-MAY-uh-kuh             A'ram-ma'a-cah                place
 Aram-maacah             pns   AY-ram-MAY-uh-kuh             A'ram-ma'a-cah                place
+Aram_Maacah             pns   AY-ram-MAY-uh-kuh             A'ram_Ma'a-cah                place
 Aramnaharaim            pns   AY-ruhm-NAY-huh-RAY-im        A'ram-na'ha-ra'im             place
 Aram-naharaim           pns   AY-ruhm-NAY-huh-RAY-im        A'ram-na'ha-ra'im             place
-Aramzobah               pns   AY-ram-ZOH-buh                A'ram-Zo'bah                  place
-Aram-Zobah              pns   AY-ram-ZOH-buh                A'ram-Zo'bah                  place
+Aram_Naharaim           pns   AY-ruhm-NAY-huh-RAY-im        A'ram_Na'ha-ra'im             place
+Aramzobah               pns   AY-ram-ZOH-buh                A'ram-zo'bah                  place
+Aram-zobah              pns   AY-ram-ZOH-buh                A'ram-zo'bah                  place
+Aram_Zobah              pns   AY-ram-ZOH-buh                A'ram_Zo'bah                  place
 Aran                    pns   AY-ruhn                       A'ran                         person
 Ararat                  pns   AR-uh-rat                     Ar'a-rat                      place
 Ararite                 pns   AR-uh-riyt                    Ar'a-rite                     ethnic
@@ -931,6 +943,7 @@ Ashdothite              pns   ASH-doth-iyt                  Ash'doth-ite        
 Ashdothites             pnp   ASH-doth-iyts                 Ash'doth-ites                 ethnic
 Ashdothpisgah           pns   ASH-doth-PIZ-guh              Ash'doth-pis'gah              place
 Ashdoth-pisgah          pns   ASH-doth-PIZ-guh              Ash'doth-pis'gah              place
+Ashdoth_Pisgah          pns   ASH-doth-PIZ-guh              Ash'doth_Pis'gah              place
 Asher                   pns   ASH-uhr                       Ash'er                        person,place
 Asherah                 pns   uh-SHEE-ruh                   A-she'rah                     deity
 Asherim                 pnp   uh-SHEE-rim                   A-she'rim                     deity
@@ -953,6 +966,7 @@ Ashterathite            pns   ASH-ti-rath-iyt               Ash'te-rath-ite     
 Ashterathites           pnp   ASH-ti-rath-iyts              Ash'te-rath-ites              ethnic
 Ashterothkarnaim        pns   ASH-ti-roth-kahr-NAY-im       Ash'te-roth-kar-na'im         place
 Ashteroth-karnaim       pns   ASH-ti-roth-kahr-NAY-im       Ash'te-roth-kar-na'im         place
+Ashteroth_Karnaim       pns   ASH-ti-roth-kahr-NAY-im       Ash'te-roth_Kar-na'im         place
 Ashtoreth               pns   ASH-tuh-reth                  Ash'to-reth                   place,deity
 Ashur                   pns   ASH-uhr                       Ash'ur                        person
 Ashurbanipal            pns   A-shuur-BAH-ni-puhl           A'shur-ba'ni-pal              person
@@ -1001,8 +1015,10 @@ Atargatis               pns   uh-TAHR-guh-tis               A-tar'ga-tis        
 Ataroth                 pns   AT-uh-roth                    At'a-roth                     place
 Atarothadar             pns   AT-uh-roth-AY-dahr            At'a-roth-a'dar               place
 Ataroth-adar            pns   AT-uh-roth-AY-dahr            At'a-roth-a'dar               place
+Ataroth_Adar            pns   AT-uh-roth-AY-dahr            At'a-roth_A'dar               place
 Atarothaddar            pns   AT-uh-roth-A-dahr             At'a-roth-ad'dar              place
 Ataroth-addar           pns   AT-uh-roth-A-dahr             At'a-roth-ad'dar              place
+Ataroth_Addar           pns   AT-uh-roth-A-dahr             At'a-roth_Ad'dar              place
 Ater                    pns   AY-tuhr                       A'ter                         person
 Athach                  pns   AY-thak                       A'thach                       place
 Athaiah                 pns   uh-THAY-yuh                   A-tha'iah                     person
@@ -1016,9 +1032,12 @@ Athlai                  pns   ATH-liy                       Ath'lai             
 Atroth                  pns   AT-roth                       At'roth                       place
 Atrothbethjoab          pns   AT-roth-beth-JOH-ab           At'roth-beth-jo'ab            place
 Atroth-bethjoab         pns   AT-roth-beth-JOH-ab           At'roth-beth-jo'ab            place
+Atroth_Bethjoab         pns   AT-roth-beth-JOH-ab           At'roth_Beth-jo'ab            place
 Atroth-beth-joab        pns   AT-roth-beth-JOH-ab           At'roth-beth-jo'ab            place
+Atroth_Beth_Joab        pns   AT-roth-beth-JOH-ab           At'roth_Beth_Jo'ab            place
 Atrothshophan           pns   AT-roth-SHOH-fan              At'roth-sho'phan              place
 Atroth-shophan          pns   AT-roth-SHOH-fan              At'roth-sho'phan              place
+Atroth_Shophan          pns   AT-roth-SHOH-fan              At'roth_Sho'phan              place
 Attai                   pns   AT-iy                         At'tai                        person
 Attalia                 pns   AT-uh-LIY-uh                  At'ta-li'a                    place
 Attalus                 pns   AT-uh-luhs                    At'ta-lus                     person
@@ -1059,6 +1078,7 @@ Azmaveth                pns   az-MAY-veth                   Az-ma'veth          
 Azmon                   pns   AZ-mon                        Az'mon                        place
 Aznothtabor             pns   AZ-noth-TAY-bohr              Az'noth-ta'bor                place
 Aznoth-tabor            pns   AZ-noth-TAY-bohr              Az'noth-ta'bor                place
+Aznoth_Tabor            pns   AZ-noth-TAY-bohr              Az'noth_Ta'bor                place
 Azor                    pns   AY-zohr                       A'zor                         person
 Azotus                  pns   uh-ZOH-tuhs                   A-zo'tus                      place
 Azriel                  pns   AZ-ree-el                     Az'ri-el                      person
@@ -1074,42 +1094,55 @@ Baalah                  pns   BAY-uh-luh                    Ba'al-ah            
 Baalath                 pns   BAY-uhl-ath                   Ba'al-ath                     place
 Baalathbeer             pns   BAY-uh-lahth-BEE-uhr          Ba'al-ath-be'er               place
 Baalath-beer            pns   BAY-uh-lahth-BEE-uhr          Ba'al-ath-be'er               place
+Baalath_Beer            pns   BAY-uh-lahth-BEE-uhr          Ba'al-ath_Be'er               place
 Baalbek                 pns   BAY-uhl-bek                   Ba'al-bek                     place
 Baalberith              pns   BAY-uhl-BEE-rith              Ba'al-be'rith                 deity
 Baal-berith             pns   BAY-uhl-BEE-rith              Ba'al-be'rith                 deity
 Baale                   pns   BAY-uh-lee                    Ba'al-e                       place
 Baalejudah              pns   BAY-uh-lee-JOO-duh            Ba'al-e-ju'dah                place
 Baale-judah             pns   BAY-uh-lee-JOO-duh            Ba'al-e-ju'dah                place
+Baale_Judah             pns   BAY-uh-lee-JOO-duh            Ba'al-e_Ju'dah                place
 Baalgad                 pns   BAY-uhl-gad                   Ba'al-gad                     place
 Baal-gad                pns   BAY-uhl-gad                   Ba'al-gad                     place
+Baal_Gad                pns   BAY-uhl-gad                   Ba'al_Gad                     place
 Baalhamon               pns   BAY-uhl-HAY-muhn              Ba'al-ha'mon                  place
 Baal-hamon              pns   BAY-uhl-HAY-muhn              Ba'al-ha'mon                  place
+Baal_Hamon              pns   BAY-uhl-HAY-muhn              Ba'al_Ha'mon                  place
 Baalhanan               pns   BAY-uhl-HAY-nuhn              Ba'al-ha'nan                  person
 Baal-hanan              pns   BAY-uhl-HAY-nuhn              Ba'al-ha'nan                  person
 Baalhazor               pns   BAY-uhl-HAY-zuhr              Ba'al-ha'zor                  place
 Baal-hazor              pns   BAY-uhl-HAY-zuhr              Ba'al-ha'zor                  place
+Baal_Hazor              pns   BAY-uhl-HAY-zuhr              Ba'al_Ha'zor                  place
 Baalhermon              pns   BAY-uhl-HUHR-muhn             Ba'al-her'mon                 place
 Baal-hermon             pns   BAY-uhl-HUHR-muhn             Ba'al-her'mon                 place
+Baal_Hermon             pns   BAY-uhl-HUHR-muhn             Ba'al_Her'mon                 place
 Baali                   pns   BAY-uh-liy                    Ba'al-i                       title
 Baalim                  pnp   BAY-uhl-im                    Ba'al-im                      deity
 Baalis                  pns   BAY-uh-lis                    Ba'a-lis                      person
 Baalmeon                pns   BAY-uhl-MEE-on                Ba'al-me'on                   place
 Baal-meon               pns   BAY-uhl-MEE-on                Ba'al-me'on                   place
+Baal_Meon               pns   BAY-uhl-MEE-on                Ba'al_Me'on                   place
 Baalpeor                pns   BAY-uhl-PEE-ohr               Ba'al-pe'or                   place,deity
 Baal-peor               pns   BAY-uhl-PEE-ohr               Ba'al-pe'or                   place,deity
+Baal_Peor               pns   BAY-uhl-PEE-ohr               Ba'al_Pe'or                   place,deity
 Baalperazim             pns   BAY-uhl-pi-RAY-zim            Ba'al-pe-ra'zim               place
 Baal-perazim            pns   BAY-uhl-pi-RAY-zim            Ba'al-pe-ra'zim               place
+Baal_Perazim            pns   BAY-uhl-pi-RAY-zim            Ba'al_Pe-ra'zim               place
 Baals                   pnp   BAY-uhls                      Ba'als                        deity
 Baalshalisha            pns   BAY-uhl-SHAL-i-shuh           Ba'al-shal'i-sha              place
 Baal-shalisha           pns   BAY-uhl-SHAL-i-shuh           Ba'al-shal'i-sha              place
+Baal_Shalisha           pns   BAY-uhl-SHAL-i-shuh           Ba'al_Shal'i-sha              place
 Baalshalishah           pns   BAY-uhl-SHAL-i-shuh           Ba'al-shal'i-shah             place
 Baal-shalishah          pns   BAY-uhl-SHAL-i-shuh           Ba'al-shal'i-shah             place
+Baal_Shalishah          pns   BAY-uhl-SHAL-i-shuh           Ba'al_Shal'i-shah             place
 Baaltamar               pns   BAY-uhl-TAY-mahr              Ba'al-ta'mar                  place
 Baal-tamar              pns   BAY-uhl-TAY-mahr              Ba'al-ta'mar                  place
+Baal_Tamar              pns   BAY-uhl-TAY-mahr              Ba'al_Ta'mar                  place
 Baalzebub               pns   BAY-uhl-ZEE-bub               Ba'al-ze'bub                  deity
 Baal-zebub              pns   BAY-uhl-ZEE-bub               Ba'al-ze'bub                  deity
 Baalzephon              pns   BAY-uhl-ZEE-fon               Ba'al-ze'phon                 place
 Baal-zephon             pns   BAY-uhl-ZEE-fon               Ba'al-ze'phon                 place
+Baal_Zephon             pns   BAY-uhl-ZEE-fon               Ba'al_Ze'phon                 place
 Baalah                  pns   BAY-uhl-uh                    Ba'al-ah                      place
 Baana                   pns   BAY-uh-nuh                    Ba'a-na                       person
 Baanah                  pns   BAY-uh-nuh                    Ba'a-nah                      person
@@ -1143,6 +1176,7 @@ Bamah                   pns   BAH-mah                       Ba'mah              
 Bamoth                  pns   BAY-moth                      Ba'moth                       place
 Bamothbaal              pns   BAY-moth-BAY-uhl              Ba'moth-ba'al                 place
 Bamoth-baal             pns   BAY-moth-BAY-uhl              Ba'moth-ba'al                 place
+Bamoth_Baal             pns   BAY-moth-BAY-uhl              Ba'moth_Ba'al                 place
 Bani                    pns   BAY-niy                       Ba'ni                         person
 Barabbas                pns   bahr-AB-uhs                   Bar-ab'bas                    person
 Barachel                pns   BAR-uh-kel                    Bar'a-chel                    person
@@ -1173,12 +1207,15 @@ Basemath                pns   BAS-i-math                    Bas'e-math          
 Bashan                  pns   BAY-shan                      Ba'shan                       place
 Bashanhavothjair        pns   BAY-shan-HAY-voth-JAY-ir      Ba'shan-ha'voth-ja'ir         place
 Bashan-havothjair       pns   BAY-shan-HAY-voth-JAY-ir      Ba'shan-ha'voth-ja'ir         place
+Bashan_Havothjair       pns   BAY-shan-HAY-voth-JAY-ir      Ba'shan_Ha'voth-ja'ir         place
 Bashan-havoth-jair      pns   BAY-shan-HAY-voth-JAY-ir      Ba'shan-ha'voth-ja'ir         place
+Bashan_Havoth_Jair      pns   BAY-shan-HAY-voth-JAY-ir      Ba'shan_Ha'voth_Ja'ir         place
 Bashemath               pns   BASH-i-math                   Bash'e-math                   person
 Baskama                 pns   BAS-kuh-muh                   Bas'ka-ma                     place
 Basmath                 pns   BAS-math                      Bas'math                      person
 Bathrabbim              pns   BATH-RAB-im                   Bath'rab'bim                  place
 Bath-rabbim             pns   BATH-RAB-im                   Bath'rab'bim                  place
+Bath_Rabbim             pns   BATH-RAB-im                   Bath_Rab'bim                  place
 Bathsheba               pns   bath-SHEE-buh                 Bath-she'ba                   person
 Bath-sheba              pns   bath-SHEE-buh                 Bath-she'ba                   person
 Bathshua                pns   BATH-SHOO-uh                  Bath'shu'a                    person
@@ -1207,17 +1244,22 @@ Beera                   pns   bee-EE-ruh                    Be-e'ra             
 Beerah                  pns   bee-EE-ruh                    Be-e'rah                      person
 Beerelim                pns   BEE-uhr-EE-lim                Be'er-e'lim                   place
 Beer-elim               pns   BEE-uhr-EE-lim                Be'er-e'lim                   place
+Beer_Elim               pns   BEE-uhr-EE-lim                Be'er_E'lim                   place
 Beeri                   pns   bee-EE-riy                    Be-e'ri                       person
 Beerlahairoi            pns   BEE-uhr-luh-HIY-roy           Be'er-la-hai'roi              place
 Beer-lahairoi           pns   BEE-uhr-luh-HIY-roy           Be'er-la-hai'roi              place
+Beer_Lahairoi           pns   BEE-uhr-luh-HIY-roy           Be'er_La-hai'roi              place
 Beer-lahai-roi          pns   BEE-uhr-luh-HIY-roy           Be'er-la-hai'roi              place
+Beer_Lahai_Roi          pns   BEE-uhr-luh-HIY-roy           Be'er_La-hai_Roi              place
 Beeroth                 pns   bee-EE-roth                   Be-e'roth                     place
 Beerothite              pns   bee-EE-roth-iyt               Be-e'roth-ite                 ethnic
 Beerothites             pnp   bee-EE-roth-iyts              Be-e'roth-ites                ethnic
 Beersheba               pns   BEE-uhr-SHEE-buh              Be'er-she'ba                  place
 Beer-sheba              pns   BEE-uhr-SHEE-buh              Be'er-she'ba                  place
+Beer_Sheba              pns   BEE-uhr-SHEE-buh              Be'er_She'ba                  place
 Beeshterah              pns   bee-ESH-tee-ruh               Be-esh'te-rah                 place
 Be-eshterah             pns   bee-ESH-tee-ruh               Be-esh'te-rah                 place
+Be_Eshterah             pns   bee-ESH-tee-ruh               Be_Esh'te-rah                 place
 Beker                   pns   BEE-kuhr                      Be'ker                        person
 Bekerite                pns   BEE-kuhr-iyt                  Be'ker-ite                    ethnic
 Bekerites               pnp   BEE-kuhr-iyts                 Be'ker-ites                   ethnic
@@ -1242,6 +1284,7 @@ Bendeker                pns   BEN-DEE-kuhr                  Ben'de'ker          
 Ben-deker               pns   BEN-DEE-kuhr                  Ben'de'ker                    person
 Beneberak               pns   BEN-i-BEE-rak                 Ben'e-be'rak                  place
 Bene-berak              pns   BEN-i-BEE-rak                 Ben'e-be'rak                  place
+Bene_Berak              pns   BEN-i-BEE-rak                 Ben'e_Be'rak                  place
 Benejaakan              pns   BEN-i-JAY-uh-kuhn             Ben'e-ja'a-kan                ethnic
 Bene-jaakan             pns   BEN-i-JAY-uh-kuhn             Ben'e-ja'a-kan                ethnic
 Benekedem               pns   BEN-i-KEE-dem                 Ben'e-ke'dem                  ethnic
@@ -1258,6 +1301,7 @@ Benhesed                pns   BEN-HEE-sed                   Ben'he'sed          
 Ben-hesed               pns   BEN-HEE-sed                   Ben'he'sed                    person
 Benhinnom               pns   BEN-HIN-uhm                   Ben'hin'nom                   place
 Ben-hinnom              pns   BEN-HIN-uhm                   Ben'hin'nom                   place
+Ben_Hinnom              pns   BEN-HIN-uhm                   Ben_Hin'nom                   place
 Benhur                  pns   BEN-HUHR                      Ben'hur'                      person
 Ben-hur                 pns   BEN-HUHR                      Ben'hur'                      person
 Beninu                  pns   bi-NIY-noo                    Be-ni'nu                      person
@@ -1307,86 +1351,125 @@ Bethabara               pns   BETH-AB-uh-ruh                Beth'ab'a-ra        
 Bethabarah              pns   BETH-AB-uh-ruh                Beth'ab'a-rah                 place
 Bethanath               pns   BETH-AY-nath                  Beth'a'nath                   place
 Beth-anath              pns   BETH-AY-nath                  Beth'a'nath                   place
+Beth_Anath              pns   BETH-AY-nath                  Beth_A'nath                   place
 Bethanoth               pns   BETH-AY-noth                  Beth'a'noth                   place
 Beth-anoth              pns   BETH-AY-noth                  Beth'a'noth                   place
+Beth_Anoth              pns   BETH-AY-noth                  Beth_A'noth                   place
 Bethany                 pns   BETH-uh-ni                    Beth'a-ny                     place
 Betharabah              pns   BETH-AR-uh-buh                Beth'ar'a-bah                 place
 Beth-arabah             pns   BETH-AR-uh-buh                Beth'ar'a-bah                 place
+Beth_Arabah             pns   BETH-AR-uh-buh                Beth_Ar'a-bah                 place
 Betharam                pns   BETH-AY-ruhn                  Beth'a'ram                    place
 Beth-aram               pns   BETH-AY-ruhn                  Beth'a'ram                    place
+Beth_Aram               pns   BETH-AY-ruhn                  Beth_A'ram                    place
 Betharbel               pns   BETH-AHR-bel                  Beth'ar'bel                   place
 Beth-arbel              pns   BETH-AHR-bel                  Beth'ar'bel                   place
+Beth_Arbel              pns   BETH-AHR-bel                  Beth_Ar'bel                   place
 Bethashbea              pns   BETH-ASH-bee-uh               Beth'ash'bea                  place
 Beth-ashbea             pns   BETH-ASH-bee-uh               Beth'ash'bea                  place
+Beth_Ashbea             pns   BETH-ASH-bee-uh               Beth_Ash'bea                  place
 Bethaven                pns   BETH-AY-vuhn                  Beth'a'ven                    place
 Beth-aven               pns   BETH-AY-vuhn                  Beth'a'ven                    place
+Beth_Aven               pns   BETH-AY-vuhn                  Beth_A'ven                    place
 Bethazmaveth            pns   BETH-az-MAY-veth              Beth'az-ma'veth               place
 Beth-azmaveth           pns   BETH-az-MAY-veth              Beth'az-ma'veth               place
+Beth_Azmaveth           pns   BETH-az-MAY-veth              Beth_Az-ma'veth               place
 Bethbaalmeon            pns   BETH-BAY-uhl-MEE-on           Beth'ba'al-me'on              place
 Beth-baalmeon           pns   BETH-BAY-uhl-MEE-on           Beth'ba'al-me'on              place
+Beth_Baalmeon           pns   BETH-BAY-uhl-MEE-on           Beth_Ba'al-me'on              place
 Beth-baal-meon          pns   BETH-BAY-uhl-MEE-on           Beth'ba'al-me'on              place
+Beth_Baal_Meon          pns   BETH-BAY-uhl-MEE-on           Beth_Ba'al_Me'on              place
 Bethbarah               pns   BETH-BEHR-uh                  Beth'bar'ah                   place
 Beth-barah              pns   BETH-BEHR-uh                  Beth'bar'ah                   place
+Beth_Barah              pns   BETH-BEHR-uh                  Beth_Bar'ah                   place
 Bethbasi                pns   BETH-BAY-siy                  Beth'ba'si                    place
 Bethbirei               pns   BETH-BIR-ee-iy                Beth'bir'e-i                  place
 Beth-birei              pns   BETH-BIR-ee-iy                Beth'bir'e-i                  place
+Beth_Birei              pns   BETH-BIR-ee-iy                Beth_Bir'e-i                  place
 Bethbiri                pns   BETH-BIR-iy                   Beth'bir'i                    place
 Beth-biri               pns   BETH-BIR-iy                   Beth'bir'i                    place
+Beth_Biri               pns   BETH-BIR-iy                   Beth_Bir'i                    place
 Bethcar                 pns   BETH-KAHR                     Beth'car'                     place
 Beth-car                pns   BETH-KAHR                     Beth'car'                     place
+Beth_Car                pns   BETH-KAHR                     Beth_Car'                     place
 Bethdagon               pns   BETH-DAY-gon                  Beth'da'gon                   place
 Beth-dagon              pns   BETH-DAY-gon                  Beth'da'gon                   place
+Beth_Dagon              pns   BETH-DAY-gon                  Beth_Da'gon                   place
 Bethdiblathaim          pns   BETH-DIB-luh-THAY-im          Beth'dib'la-tha'im            place
 Beth-diblathaim         pns   BETH-DIB-luh-THAY-im          Beth'dib'la-tha'im            place
+Beth_Diblathaim         pns   BETH-DIB-luh-THAY-im          Beth_Dib'la-tha'im            place
 Betheden                pns   BETH-EE-duhn                  Beth'e'den                    place
 Beth-eden               pns   BETH-EE-duhn                  Beth'e'den                    place
+Beth_Eden               pns   BETH-EE-duhn                  Beth_E'den                    place
 Betheked                pns   BETH-EE-ked                   Beth'e'ked                    place
 Beth-eked               pns   BETH-EE-ked                   Beth'e'ked                    place
+Beth_Eked               pns   BETH-EE-ked                   Beth_E'ked                    place
 Bethel                  pns   BETH-uhl                      Beth'el                       place
 Beth-el                 pns   BETH-uhl                      Beth'el                       place
+Beth_El                 pns   BETH-uhl                      Beth_El                       place
 Bethelite               pns   BETH-i-liyt                   Beth'e-lite                   ethnic
 Bethelites              pnp   BETH-i-liyts                  Beth'e-lites                  ethnic
 Bethemek                pns   BETH-EE-mek                   Beth'e'mek                    place
 Beth-emek               pns   BETH-EE-mek                   Beth'e'mek                    place
+Beth_Emek               pns   BETH-EE-mek                   Beth_E'mek                    place
 Bether                  pns   BEE-thuhr                     Be'ther                       place
 Bethesda                pns   bi-THEZ-duh                   Be-thes'da                    place
 Bethezel                pns   BETH-EE-zel                   Beth'e'zel                    place
 Beth-ezel               pns   BETH-EE-zel                   Beth'e'zel                    place
+Beth_Ezel               pns   BETH-EE-zel                   Beth_E'zel                    place
 Bethgader               pns   BETH-GAY-duhr                 Beth'ga'der                   place
 Beth-gader              pns   BETH-GAY-duhr                 Beth'ga'der                   place
+Beth_Gader              pns   BETH-GAY-duhr                 Beth_Ga'der                   place
 Bethgamul               pns   BETH-GAY-muhl                 Beth'ga'mul                   place
 Beth-gamul              pns   BETH-GAY-muhl                 Beth'ga'mul                   place
+Beth_Gamul              pns   BETH-GAY-muhl                 Beth_Ga'mul                   place
 Bethgilgal              pns   BETH-GIL-gal                  Beth'gil'gal                  place
 Beth-gilgal             pns   BETH-GIL-gal                  Beth'gil'gal                  place
+Beth_Gilgal             pns   BETH-GIL-gal                  Beth_Gil'gal                  place
 Bethhaccerem            pns   BETH-HAK-si-rem               Beth'hac'ce-rem               place
 Beth-haccerem           pns   BETH-HAK-si-rem               Beth'hac'ce-rem               place
+Beth_Haccerem           pns   BETH-HAK-si-rem               Beth_Hac'ce-rem               place
 Bethhaccherem           pns   BETH-ha-KEE-rem               Beth'hac-che'rem              place
 Beth-haccherem          pns   BETH-ha-KEE-rem               Beth'hac-che'rem              place
+Beth_Haccherem          pns   BETH-ha-KEE-rem               Beth_Hac-che'rem              place
 Bethhaggan              pns   BETH-HAG-uhn                  Beth'hag'gan                  place
 Beth-haggan             pns   BETH-HAG-uhn                  Beth'hag'gan                  place
+Beth_Haggan             pns   BETH-HAG-uhn                  Beth_Hag'gan                  place
 Bethhakkerem            pns   BETH-ha-KEE-rem               Beth'hak-ke'rem               place
 Beth-hakkerem           pns   BETH-ha-KEE-rem               Beth'hak-ke'rem               place
+Beth_Hakkerem           pns   BETH-ha-KEE-rem               Beth_Hak-ke'rem               place
 Bethharam               pns   BETH-HAY-ruhm                 Beth'ha'ram                   place
 Beth-haram              pns   BETH-HAY-ruhm                 Beth'ha'ram                   place
+Beth_Haram              pns   BETH-HAY-ruhm                 Beth_Ha'ram                   place
 Bethharan               pns   BETH-HAY-ruhn                 Beth'ha'ran                   place
 Beth-haran              pns   BETH-HAY-ruhn                 Beth'ha'ran                   place
+Beth_Haran              pns   BETH-HAY-ruhn                 Beth_Ha'ran                   place
 Bethhogla               pns   BETH-HOG-luh                  Beth'hog'la                   place
 Beth-hogla              pns   BETH-HOG-luh                  Beth'hog'la                   place
+Beth_Hogla              pns   BETH-HOG-luh                  Beth_Hog'la                   place
 Bethhoglah              pns   BETH-HOG-luh                  Beth'hog'lah                  place
 Beth-hoglah             pns   BETH-HOG-luh                  Beth'hog'lah                  place
+Beth_Hoglah             pns   BETH-HOG-luh                  Beth_Hog'lah                  place
 Bethhoron               pns   BETH-HOH-ron                  Beth'ho'ron                   place
 Beth-horon              pns   BETH-HOH-ron                  Beth'ho'ron                   place
+Beth_Horon              pns   BETH-HOH-ron                  Beth_Ho'ron                   place
 Bethjeshimoth           pns   BETH-JESH-i-moth              Beth'jesh'i-moth              place
 Beth-jeshimoth          pns   BETH-JESH-i-moth              Beth'jesh'i-moth              place
+Beth_Jeshimoth          pns   BETH-JESH-i-moth              Beth_Jesh'i-moth              place
 Bethjesimoth            pns   BETH-JES-i-moth               Beth'jes'i-moth               place
 Beth-jesimoth           pns   BETH-JES-i-moth               Beth'jes'i-moth               place
+Beth_Jesimoth           pns   BETH-JES-i-moth               Beth_Jes'i-moth               place
 Bethleaphrah            pns   BETH-lee-AF-ruh               Beth'le-aph'rah               place
 Beth-leaphrah           pns   BETH-lee-AF-ruh               Beth'le-aph'rah               place
+Beth_Leaphrah           pns   BETH-lee-AF-ruh               Beth_Le-aph'rah               place
 Beth-le-aphrah          pns   BETH-lee-AF-ruh               Beth'le-aph'rah               place
+Beth_Le_Aphrah          pns   BETH-lee-AF-ruh               Beth_Le_Aph'rah               place
 Bethlebaoth             pns   BETH-li-BAY-oth               Beth'le-ba'oth                place
 Beth-lebaoth            pns   BETH-li-BAY-oth               Beth'le-ba'oth                place
+Beth_Lebaoth            pns   BETH-li-BAY-oth               Beth_Le-ba'oth                place
 Bethlehem               pns   BETH-li-huhm                  Beth'le-hem                   place
 Beth-lehem              pns   BETH-li-huhm                  Beth'le-hem                   place
+Beth_Lehem              pns   BETH-li-huhm                  Beth_Le-hem                   place
 Bethlehemite            pns   BETH-li-huhm-iyt              Beth'le-hem-ite               ethnic
 Beth-lehemite           pns   BETH-li-huhm-iyt              Beth'le-hem-ite               ethnic
 Bethlehemites           pnp   BETH-li-huhm-iyts             Beth'le-hem-ites              ethnic
@@ -1396,55 +1479,79 @@ Bethlehem-judah         pns   BETH-li-huhm-JOO-dah          Beth'le-hem-ju'dah  
 Beth-lehem-judah        pns   BETH-li-huhm-JOO-dah          Beth'le-hem-ju'dah            ethnic
 Bethmaacah              pns   BETH-MAY-uh-kuh               Beth'ma'a-cah                 place
 Beth-maacah             pns   BETH-MAY-uh-kuh               Beth'ma'a-cah                 place
+Beth_Maacah             pns   BETH-MAY-uh-kuh               Beth_Ma'a-cah                 place
 Bethmaachah             pns   BETH-MAY-uh-kuh               Beth'ma'a-chah                place
 Beth-maachah            pns   BETH-MAY-uh-kuh               Beth'ma'a-chah                place
+Beth_Maachah            pns   BETH-MAY-uh-kuh               Beth_Ma'a-chah                place
 Bethmarcaboth           pns   BETH-MAHR-kuh-both            Beth'mar'ca-both              place
 Beth-marcaboth          pns   BETH-MAHR-kuh-both            Beth'mar'ca-both              place
+Beth_Marcaboth          pns   BETH-MAHR-kuh-both            Beth_Mar'ca-both              place
+
 Bethmeon                pns   BETH-MEE-on                   Beth'me'on                    place
 Beth-meon               pns   BETH-MEE-on                   Beth'me'on                    place
+Beth_Meon               pns   BETH-MEE-on                   Beth_Me'on                    place
 Bethmerhak              pns   BETH-MUHR-hak                 Beth'mer'hak                  place
 Beth-merhak             pns   BETH-MUHR-hak                 Beth'mer'hak                  place
+Beth_Merhak             pns   BETH-MUHR-hak                 Beth_Mer'hak                  place
 Bethmillo               pns   BETH-MIL-oh                   Beth'mil'lo                   place
 Beth-millo              pns   BETH-MIL-oh                   Beth'mil'lo                   place
+Beth_Millo              pns   BETH-MIL-oh                   Beth_Mil'lo                   place
 Bethnimrah              pns   BETH-NIM-ruh                  Beth'nim'rah                  place
 Beth-nimrah             pns   BETH-NIM-ruh                  Beth'nim'rah                  place
+Beth_Nimrah             pns   BETH-NIM-ruh                  Beth_Nim'rah                  place
 Bethophrah              pns   BETH-OH-fruh                  Beth'O'phrah                  place
-Beth-ophrah             pns   BETH-OH-fruh                  Beth'O'phrah                  place
+Beth-ophrah             pns   BETH-OH-fruh                  Beth'o'phrah                  place
+Beth_Ophrah             pns   BETH-OH-fruh                  Beth_O'phrah                  place
 Bethpalet               pns   BETH-PAY-let                  Beth'pa'let                   place
 Beth-palet              pns   BETH-PAY-let                  Beth'pa'let                   place
+Beth_Palet              pns   BETH-PAY-let                  Beth_Pa'let                   place
 Bethpazzez              pns   BETH-PAZ-ez                   Beth'paz'zez                  place
 Beth-pazzez             pns   BETH-PAZ-ez                   Beth'paz'zez                  place
+Beth_Pazzez             pns   BETH-PAZ-ez                   Beth_Paz'zez                  place
 Bethpelet               pns   BETH-PEE-let                  Beth'pe'let                   place
 Beth-pelet              pns   BETH-PEE-let                  Beth'pe'let                   place
+Beth_Pelet              pns   BETH-PEE-let                  Beth_Pe'let                   place
 Bethpeor                pns   BETH-PEE-ohr                  Beth'pe'or                    place
 Beth-peor               pns   BETH-PEE-ohr                  Beth'pe'or                    place
+Beth_Peor               pns   BETH-PEE-ohr                  Beth_Pe'or                    place
 Bethphage               pns   BETH-fuh-jee                  Beth'pha-ge                   place
 Beth-phage              pns   BETH-fuh-jee                  Beth'pha-ge                   place
+Beth_Phage              pns   BETH-fuh-jee                  Beth_Pha-ge                   place
 Bethphelet              pns   BETH-FEE-let                  Beth'phe'let                  place
 Beth-phelet             pns   BETH-FEE-let                  Beth'phe'let                  place
-Bethrapha               pns   BETH-RAY-fuh                  Beth'ra'pha                   person
-Beth-rapha              pns   BETH-RAY-fuh                  Beth'ra'pha                   person
+Beth_Phelet             pns   BETH-FEE-let                  Beth_Phe'let                  place
+Bethrapha               pns   BETH-RAY-fuh                  Beth'ra'pha                   person,place
+Beth-rapha              pns   BETH-RAY-fuh                  Beth'ra'pha                   person,place
+Beth_Rapha              pns   BETH-RAY-fuh                  Beth_Ra'pha                   person,place
 Bethrehob               pns   BETH-REE-hob                  Beth're'hob                   place
 Beth-rehob              pns   BETH-REE-hob                  Beth're'hob                   place
+Beth_Rehob              pns   BETH-REE-hob                  Beth_Re'hob                   place
 Bethsaida               pns   BETH-SAY-i-duh                Beth'sa'i-da                  place
 Bethshan                pns   BETH-SHAN                     Beth'shan'                    place
 Beth-shan               pns   BETH-SHAN                     Beth'shan'                    place
+Beth_Shan               pns   BETH-SHAN                     Beth_Shan'                    place
 Bethshean               pns   BETH-SHEE-uhn                 Beth'she'an                   place
 Beth-shean              pns   BETH-SHEE-uhn                 Beth'she'an                   place
+Beth_Shean              pns   BETH-SHEE-uhn                 Beth_She'an                   place
 Bethshemesh             pns   BETH-SHEE-mesh                Beth'she'mesh                 place
 Beth-shemesh            pns   BETH-SHEE-mesh                Beth'she'mesh                 place
+Beth_Shemesh            pns   BETH-SHEE-mesh                Beth_She'mesh                 place
 Bethshemite             pns   BETH-SHEE-miyt                Beth'she'mite                 ethnic
 Beth-shemite            pns   BETH-SHEE-miyt                Beth'she'mite                 ethnic
 Bethshemites            pnp   BETH-SHEE-miyts               Beth'she'mites                ethnic
 Beth-shemites           pnp   BETH-SHEE-miyts               Beth'she'mites                ethnic
 Bethshittah             pns   BETH-SHIT-uh                  Beth'shit'tah                 place
 Beth-shittah            pns   BETH-SHIT-uh                  Beth'shit'tah                 place
+Beth_Shittah            pns   BETH-SHIT-uh                  Beth_Shit'tah                 place
 Bethsura                pns   BETH-SOO-ruh                  Beth'su'ra                    place
 Beth-sura               pns   BETH-SOO-ruh                  Beth'su'ra                    place
+Beth_Sura               pns   BETH-SOO-ruh                  Beth_Su'ra                    place
 Bethtappuah             pns   BETH-TAP-yoo-uh               Beth'tap'pu-ah                place
 Beth-tappuah            pns   BETH-TAP-yoo-uh               Beth'tap'pu-ah                place
+Beth_Tappuah            pns   BETH-TAP-yoo-uh               Beth'tap'pu-ah                place
 Bethtogarmah            pns   BETH-tuh-GAHR-muh             Beth'to-gar'mah               place
 Beth-togarmah           pns   BETH-tuh-GAHR-muh             Beth'to-gar'mah               place
+Beth_Togarmah           pns   BETH-tuh-GAHR-muh             Beth_To-gar'mah               place
 Bethuel                 pns   bi-THOO-uhl                   Be-thu'el                     person,place
 Bethul                  pns   BETH-uhl                      Beth'ul                       place
 Bethulia                pns   bi-THOO-liy-uh                Be-thu'li-a                   place
@@ -1452,10 +1559,13 @@ Bethzacharias           pns   BETH-zak-uh-RIY-uhs           Beth'zach-a-ri'as   
 Bethzechariah           pns   BETH-zek-uh-RIY-uh            Beth'zech-a-ri'ah             place
 Bethzaith               pns   BETH-ZAY-ith                  Beth'za'ith                   place
 Beth-zaith              pns   BETH-ZAY-ith                  Beth'za'ith                   place
+Beth_Zaith              pns   BETH-ZAY-ith                  Beth_Za'ith                   place
 Bethzatha               pns   BETH-ZAY-thuh                 Beth'za'tha                   place
 Beth-zatha              pns   BETH-ZAY-thuh                 Beth'za'tha                   place
+Beth_Zatha              pns   BETH-ZAY-thuh                 Beth_Za'tha                   place
 Bethzur                 pns   BETH-ZUHR                     Beth'zur'                     place
 Beth-zur                pns   BETH-ZUHR                     Beth'zur'                     place
+Beth_Zur                pns   BETH-ZUHR                     Beth_Zur'                     place
 Betonim                 pns   BET-uh-nim                    Bet'o-nim                     place
 Beulah                  pns   BOO-luh                       Beu'lah                       place
 Bezaanannim             pns   bi-zay-uh-NAN-im              Be-za-a-nan'nim               person,place
@@ -1527,7 +1637,7 @@ Byblos                  pns   BIB-los                       Byb'los             
 Cabbon                  pns   KAB-uhn                       Cab'bon                       place
 Cabul                   pns   KAY-buhl                      Ca'bul                        place
 Caesar                  pns   SEE-zuhr                      Cae'sar                       person,title
-Caesarea                pns   SES-uh-REE-uh                 Caes'a-re'a_                  place
+Caesarea                pns   SES-uh-REE-uh                 Caes'a-re'a                   place
 Caesarea_Philippi       pns   SES-uh-REE-uh-fi-LIP-iy       Caes'a-re'a_Phi-lip'pi        place
 Caiaphas                pns   KAY-yuh-fuhs                  Ca'ia-phas                    person
 Cain                    pns   KAYN                          Cain                          person
@@ -1539,6 +1649,7 @@ Calebite                pns   KAY-luhb-iyt                  Ca'leb-ite          
 Calebites               pnp   KAY-luhb-iyts                 Ca'leb-ites                   ethnic
 Calebephratah           pns   KAY-luhb-EF-ruh-tuh           Ca'leb-eph'ra-tah             place
 Caleb-ephratah          pns   KAY-luhb-EF-ruh-tuh           Ca'leb-eph'ra-tah             place
+Caleb_Ephratah          pns   KAY-luhb-EF-ruh-tuh           Ca'leb_Eph'ra-tah             place
 Calebephrathah          pns   KAY-luhb-EF-ruh-thuh          Ca'leb-eph'ra-thah            place
 Caleb-ephrathah         pns   KAY-luhb-EF-ruh-thuh          Ca'leb-eph'ra-thah            place
 Caleb_Ephrathah         pns   KAY-luhb-EF-ruh-thuh          Ca'leb_Eph'ra-thah            place
@@ -1630,6 +1741,7 @@ Chenani                 pns   ki-NAY-niy                    Che-na'ni           
 Chenaniah               pns   KEN-uh-NIY-uh                 Chen'a-ni'ah                  person
 Chepharammoni           pns   KEE-fahr-AM-uh-niy            Che'phar-am'mo-ni             place
 Chephar-ammoni          pns   KEE-fahr-AM-uh-niy            Che'phar-am'mo-ni             place
+Chephar_Ammoni          pns   KEE-fahr-AM-uh-niy            Che'phar_Am'mo-ni             place
 Chepharhaammonai        pns   KEE-fahr-hay-AM-uh-niy        Che'phar-ha-am'mo-nai         place
 Chephar-haammonai       pns   KEE-fahr-hay-AM-uh-niy        Che'phar-ha-am'mo-nai         place
 Chephar_Haammonai       pns   KEE-fahr-hay-AM-uh-niy        Che'phar_Ha-am'mo-nai         place
@@ -1670,6 +1782,7 @@ Chiun                   pns   KIY-uhn                       Chi'un              
 Chloe                   pns   KLOH-i                        Chlo'e                        person
 Chorashan               pns   KOHR-ASH-uhn                  Chor'ash'an                   place
 Chor-ashan              pns   KOHR-ASH-uhn                  Chor'ash'an                   place
+Chor_Ashan              pns   KOHR-ASH-uhn                  Chor_Ash'an                   place
 Chorazin                pns   kuh-RAY-zin                   Cho-ra'zin                    place
 Chozeba                 pns   kuh-ZEE-buh                   Cho-ze'ba                     place
 Christ                  pns   KRIYST                        Christ                        person,divine
@@ -1710,6 +1823,7 @@ Cononiah                pns   KON-uh-NIY-uh                 Con'o-ni'ah         
 Coos                    pns   KOH-os                        Co'os                         place
 Corashan                pns   KOHR-AY-shuhn                 Cor'a'shan                    place
 Cor-ashan               pns   KOHR-AY-shuhn                 Cor'a'shan                    place
+Cor_Ashan               pns   KOHR-AY-shuhn                 Cor_A'shan                    place
 Core                    pns   KOH-ri                        Co're                         person
 Corinth                 pns   KOR-inth                      Cor'inth                      place
 Corinthian              pns   kuh-RIN-thee-uhn              Co-rin'thi-an                 ethnic
@@ -1901,9 +2015,9 @@ Elealeh                 pns   EE-lee-AY-le                  E'le-a'leh          
 Eleasa                  pns   EL-ee-AY-suh                  El'e-a'sa                     person
 Eleasah                 pns   EL-ee-AY-suh                  El'e-a'sah                    person
 Eleazar                 pns   EL-ee-AY-zuhr                 El'e-a'zar                    person
-Eleloheisrael           pns   EL-i-LOH-he-IS-ray-el         El'e-lo'he-is'ra-el           thing
-El-elohe-israel         pns   EL-i-LOH-he-IS-ray-el         El'e-lo'he-is'ra-el           thing
-El_Elohe_Esrael         pns   EL-i-LOH-he-IS-ray-el         El_E-lo'he_Is'ra-el           thing
+Eleloheisrael           pns   EL-i-LOH-he-IS-ray-el         El'e-lo'he-is'ra-el           place,thing
+El-elohe-israel         pns   EL-i-LOH-he-IS-ray-el         El'e-lo'he-is'ra-el           place,thing
+El_Elohe_Israel         pns   EL-i-LOH-he-IS-ray-el         El_E-lo'he_Is'ra-el           place,thing
 Eleph                   pns   EE-lef                        E'leph                        place
 Elephantine             pns   EL-i-fan-TIY-ni               El'e-phan-ti-ne               place
 Eleutherus              pns   i-LOO-thuhr-uhs               E-leu'ther-us                 place
@@ -1965,7 +2079,9 @@ Eloi                    pns   i-LOH-iy                      E-lo'i              
 Elon                    pns   EE-lon                        E'lon                         person,place
 Elonbethhanan           pns   EE-lon-beth-HAY-nuhn          E'lon-beth-ha'nan             place
 Elonbeth-hanan          pns   EE-lon-beth-HAY-nuhn          E'lon-beth-ha'nan             place
+Elonbeth_Hanan          pns   EE-lon-beth-HAY-nuhn          E'lon-beth_Ha'nan             place
 Elon-beth-hanan         pns   EE-lon-beth-HAY-nuhn          E'lon-beth-ha'nan             place
+Elon_Beth_Hanan         pns   EE-lon-beth-HAY-nuhn          E'lon_Beth_Ha'nan             place
 Elon_Bethhanan          pns   EE-lon-beth-HAY-nuhn          E'lon_Beth-ha'nan             place
 Elon_Beth_Hanan         pns   EE-lon-beth-HAY-nuhn          E'lon_Beth_Ha'nan             place
 Elonite                 pns   EE-lon-iyt                    E'lon-ite                     ethnic
@@ -2160,214 +2276,230 @@ Ezri                    pns   EZ-riy                        Ez'ri               
 Ezrite                  pns   EZ-riyt                       Ez'rite                       ethnic
 Ezrites                 pnp   EZ-riyts                      Ez'rites                      ethnic
 
-Fair                    pns   FEHR                          Fair_
-Felix                   pns   FEE-liks                      Fe'lix
-Festus                  pns   FES-tuhs                      Fes'tus
-Forum                   pns   FOH-ruhm                     _Fo'rum                        place
-Fortunatus              pns   fohr-tyoo-NAY-tuhs            For-tu-na'tus
+Fair_Havens             pns   FEHR-HAY-vuhnz                Fair_Ha'vens                  place
+Felix                   pns   FEE-liks                      Fe'lix                        person
+Festus                  pns   FES-tuhs                      Fes'tus                       person
+Fortunatus              pns   fohr-tyoo-NAY-tuhs            For-tu-na'tus                 person
 
-Gaal                    pns   GAY-uhl                       Ga'al
-Gaash                   pns   GAY-ash                       Ga'ash
-Gaba                    pns   GAY-buh                       Ga'ba
-Gabbai                  pns   GAB-iy                        Gab'bai
-Gabbatha                pns   GAB-uh-thuh                   Gab'ba-tha
-Gabriel                 pns   GAY-bree-uhl                  Ga'bri-el
-Gad                     pns   GAD                           Gad
-Gadarene                pns   GAD-uh-REEN                   Gad'a-rene'
-Gadarenes               pnp   GAD-uh-REENZ                  Gad'a-renes'
-Gaddi                   pns   GAD-iy                        Gad'di
-Gaddiel                 pns   GAD-ee-uhl                    Gad'di-el
-Gadi                    pns   GAY-diy                       Ga'di
-Gadite                  pns   GAD-iyt                      *Gad'ite
-Gadites                 pnp   GAD-iyts                     *Gad'ites
-Gaham                   pns   GAY-huhm                      Ga'ham
-Gahar                   pns   GAY-hahr                      Ga'har
-Gai                     pns   GAY-iy                        Ga'i
-Gaius                   pns   GAY-yuhs                      Ga'ius
-Galaad                  pns   GAL-ay-ad                     Gal'a-ad
-Galal                   pns   GAY-lal                       Ga'lal
-Galatia                 pns   guh-LAY-shee-uh               Ga-la'ti-a
-Galatian                pns   guh-LAY-shuhn                 Ga-la'tian
-Galatians               pnp   guh-LAY-shuhnz                Ga-la'tians
-Galeed                  pns   GAL-ee-ed                     Gal'e-ed
-Galgala                 pns   GAL-guh-luh                   Gal'ga-la
-Galilaean               pns   GAL-uh-LEE-uhn                Gal'i-lae'an
-Galilaeans              pnp   GAL-uh-LEE-uhnz               Gal'i-lae'ans
-Galilean                pns   GAL-uh-LEE-uhn                Gal'i-le'an
-Galileans               pnp   GAL-uh-LEE-uhnz               Gal'i-le'ans
-Galilee                 pns   GAL-uh-lee                    Gal'i-lee
-Gallim                  pns   GAL-im                        Gal'lim
-Gallio                  pns   GAL-ee-oh                     Gal'li-o
-Gamad                   pns   GAY-muhd                      Ga'mad
-Gamaliel                pns   guh-MAY-lee-uhl               Ga-ma'li-el
-Gammadim                pns   GAM-uh-dim                    Gam'ma-dim
-Gammadims               pnp   GAM-uh-dimz                   Gam'ma-dims
-Gamul                   pns   GAY-muhl                      Ga'mul
-Gareb                   pns   GAY-reb                       Ga'reb
-Garmite                 pns   GAHR-miyt                     Gar'mite
-Garmites                pnp   GAHR-miyts                    Gar'mites
-Gashmu                  pns   GASH-moo                      Gash'mu
-Gatam                   pns   GAY-tuhm                      Ga'tam
-Gath                    pns   GATH                          Gath
-Gathhepher              pns   GATH-HEE-fuhr                 Gath'he'pher
-Gath-hepher             pns   GATH-HEE-fuhr                 Gath'he'pher
-Gathrimmon              pns   GATH-RIM-uhn                  Gath'rim'mon
-Gath-rimmon             pns   GATH-RIM-uhn                  Gath'rim'mon
-Gaul                    pns   GAOL                          Gaul
-Gaza                    pns   GAY-zuh                       Ga'za
-Gazara                  pns   guh-ZAY-ruh                   Ga-za'ra
-Gazathite               pns   GAY-zath-iyt                  Ga'zath-ite
-Gazathites              pnp   GAY-zath-iyts                 Ga'zath-ites
-Gazer                   pns   GAY-zuhr                      Ga'zer
-Gazera                  pns   guh-ZEE-ruh                   Ga-ze'ra
-Gazez                   pns   GAY-zez                       Ga'zez
-Gazite                  pns   GAY-ziyt                      Ga'zite
-Gazites                 pnp   GAY-ziyts                     Ga'zites
-Gazzam                  pns   GAZ-uhm                       Gaz'zam
-Geba                    pns   GEE-buh                       Ge'ba
-Gebal                   pns   GEE-buhl                      Ge'bal
-Gebalite                pns   GEE-buhl-iyt                  Ge'bal-ite
-Gebalites               pnp   GEE-buhl-iyts                 Ge'bal-ites
-Geber                   pns   GEE-buhr                      Ge'ber
-Gebim                   pns   GEE-bim                       Ge'bim
-Gedaliah                pns   GED-uh-LIY-uh                 Ged'a-li'ah
-Gedeon                  pns   GED-ee-uhn                    Ged'e-on
-Geder                   pns   GEE-duhr                      Ge'der
-Gederah                 pns   gi-DEE-ruh                    Ge-de'rah
-Gederite                pns   guh-DIHR-iyt                  Ge-de'rite
-Gederites               pnp   guh-DIHR-iyts                 Ge-de'rites
-Gederoth                pns   gi-DEE-roth                   Ge-de'roth
-Gederothaim             pns   GED-i-ruh-THAY-im             Ged'e-ro-tha'im
-Gedor                   pns   GEE-dohr                      Ge'dor
+Gaal                    pns   GAY-uhl                       Ga'al                         person
+Gaash                   pns   GAY-ash                       Ga'ash                        place
+Gaba                    pns   GAY-buh                       Ga'ba                         place
+Gabbai                  pns   GAB-iy                        Gab'bai                       person
+Gabbatha                pns   GAB-uh-thuh                   Gab'ba-tha                    place
+Gabriel                 pns   GAY-bree-uhl                  Ga'bri-el                     angel
+Gad                     pns   GAD                           Gad                           person,deity
+Gadara                  pns   GAD-uh-ruh                    Gad'a-ra                      place
+Gadarene                pns   GAD-uh-REEN                   Gad'a-rene'                   ethnic
+Gadarenes               pnp   GAD-uh-REENZ                  Gad'a-renes'                  ethnic
+Gaddi                   pns   GAD-iy                        Gad'di                        person
+Gaddiel                 pns   GAD-ee-uhl                    Gad'di-el                     person
+Gadi                    pns   GAY-diy                       Ga'di                         person
+Gadite                  pns   GAD-iyt                       Gad'ite                       ethnic
+Gadites                 pnp   GAD-iyts                      Gad'ites                      ethnic
+Gaham                   pns   GAY-huhm                      Ga'ham                        person
+Gahar                   pns   GAY-hahr                      Ga'har                        person
+Gai                     pns   GAY-iy                        Ga'i                          place
+Gaius                   pns   GAY-yuhs                      Ga'ius                        person
+Galaad                  pns   GAL-ay-ad                     Gal'a-ad                      person,place
+Galal                   pns   GAY-lal                       Ga'lal                        person
+Galatia                 pns   guh-LAY-shee-uh               Ga-la'ti-a                    place
+Galatian                pns   guh-LAY-shuhn                 Ga-la'tian                    ethnic
+Galatians               pnp   guh-LAY-shuhnz                Ga-la'tians                   ethnic,writing
+Galeed                  pns   GAL-ee-ed                     Gal'e-ed                      place,thing
+Galgala                 pns   GAL-guh-luh                   Gal'ga-la                     place
+Galilaean               pns   GAL-uh-LEE-uhn                Gal'i-lae'an                  ethnic
+Galilaeans              pnp   GAL-uh-LEE-uhnz               Gal'i-lae'ans                 ethnic
+Galilean                pns   GAL-uh-LEE-uhn                Gal'i-le'an                   ethnic
+Galileans               pnp   GAL-uh-LEE-uhnz               Gal'i-le'ans                  ethnic
+Galilee                 pns   GAL-uh-lee                    Gal'i-lee                     place
+Gallim                  pns   GAL-im                        Gal'lim                       place
+Gallio                  pns   GAL-ee-oh                     Gal'li-o                      person
+Gamad                   pnp   GAY-muhd                      Ga'mad                        ethnic
+Gamaliel                pns   guh-MAY-lee-uhl               Ga-ma'li-el                   person
+Gammad                  pnp   GAM-uhd                       Gam'mad                       ethnic
+Gammadim                pnp   GAM-uh-dim                    Gam'ma-dim                    ethnic
+Gammadims               pnp   GAM-uh-dimz                   Gam'ma-dims                   ethnic
+Gamul                   pns   GAY-muhl                      Ga'mul                        person
+Gareb                   pns   GAY-reb                       Ga'reb                        person,place
+Garmite                 pns   GAHR-miyt                     Gar'mite                      ethnic
+Garmites                pnp   GAHR-miyts                    Gar'mites                     ethnic
+Gashmu                  pns   GASH-moo                      Gash'mu                       person
+Gatam                   pns   GAY-tuhm                      Ga'tam                        person
+Gath                    pns   GATH                          Gath                          place
+Gathhepher              pns   GATH-HEE-fuhr                 Gath'he'pher                  place
+Gath-hepher             pns   GATH-HEE-fuhr                 Gath'he'pher                  place
+Gath_Hepher             pns   GATH-HEE-fuhr                 Gath_He'pher                  place
+Gathrimmon              pns   GATH-RIM-uhn                  Gath'rim'mon                  place
+Gath-rimmon             pns   GATH-RIM-uhn                  Gath'rim'mon                  place
+Gath_Rimmon             pns   GATH-RIM-uhn                  Gath_Rim'mon                  place
+Gaul                    pns   GAOL                          Gaul                          place
+Gaulanitis              pns   GAOL-uh-NIY-tis               Gaul'a-ni'tis                 place
+Gaza                    pns   GAY-zuh                       Ga'za                         place
+Gazara                  pns   guh-ZAY-ruh                   Ga-za'ra                      place
+Gazathite               pns   GAY-zath-iyt                  Ga'zath-ite                   ethnic
+Gazathites              pnp   GAY-zath-iyts                 Ga'zath-ites                  ethnic
+Gazer                   pns   GAY-zuhr                      Ga'zer                        place
+Gazera                  pns   guh-ZEE-ruh                   Ga-ze'ra                      place
+Gazez                   pns   GAY-zez                       Ga'zez                        person
+Gazite                  pns   GAY-ziyt                      Ga'zite                       ethnic
+Gazites                 pnp   GAY-ziyts                     Ga'zites                      ethnic
+Gazzam                  pns   GAZ-uhm                       Gaz'zam                       person
+Geba                    pns   GEE-buh                       Ge'ba                         place
+Gebal                   pns   GEE-buhl                      Ge'bal                        place
+Gebalite                pns   GEE-buhl-iyt                  Ge'bal-ite                    ethnic
+Gebalites               pnp   GEE-buhl-iyts                 Ge'bal-ites                   ethnic
+Geber                   pns   GEE-buhr                      Ge'ber                        person
+Gebim                   pns   GEE-bim                       Ge'bim                        place
+Gedaliah                pns   GED-uh-LIY-uh                 Ged'a-li'ah                   person
+Gedeon                  pns   GED-ee-uhn                    Ged'e-on                      person
+Geder                   pns   GEE-duhr                      Ge'der                        place
+Gederah                 pns   gi-DEE-ruh                    Ge-de'rah                     place
+Gederathite             pns   gi-DEE-ruh-thiyt              Ge-de'ra-thite                ethnic
+Gederathites            pnp   gi-DEE-ruh-thiyts             Ge-de'ra-thites               ethnic
+Gederite                pns   guh-DIHR-iyt                  Ge-de'rite                    ethnic
+Gederites               pnp   guh-DIHR-iyts                 Ge-de'rites                   ethnic
+Gederoth                pns   gi-DEE-roth                   Ge-de'roth                    place
+Gederothaim             pns   GED-i-ruh-THAY-im             Ged'e-ro-tha'im               place
+Gedor                   pns   GEE-dohr                      Ge'dor                        person,place
 Geharashim              pns   GEE-hah-RAY-shim              Ge'ha-ra'shim                 place
 Ge-harashim             pns   GEE-hah-RAY-shim              Ge'ha-ra'shim                 place
-Gehazi                  pns   gi-HAY-ziy                    Ge-ha'zi
-Gehenna                 pns   gi-HEN-uh                     Ge-hen'na
-Geliloth                pns   gi-LIY-loth                   Ge-li'loth
-Gemalli                 pns   gi-MAL-i                      Ge-mal'li
-Gemariah                pns   GEM-uh-RIY-uh                 Gem'a-ri'ah
-Genesis                 pns   JEN-i-sis                     Gen'e-sis
-Gennesar                pns   ge-NEE-sahr                   Gen-ne'sar
-Gennesaret              pns   ge-NES-uh-ret                 Gen-nes'a-ret
-Gennesareth             pns   ge-NES-uh-reth                Gen-nes'a-reth
-Gentile                 pns   JEN-tiyl                      Gen'tile
-Gentiles                pnp   JEN-tiylz                     Gen'tiles
-Genubath                pns   gi-NOO-bath                   Ge-nu'bath
-Gera                    pns   GEE-ruh                       Ge'ra
-Gerah                   pns   GEE-ruh                       Ge'rah
-Gerar                   pns   GEE-rahr                      Ge'rar
-Gerasene                pns   GER-uh-seen                   Ger'a-sene
-Gerasenes               pnp   GER-uh-seenz                  Ger'a-senes
-Gergesene               pns   GUHR-ge-SEEN                  Ger'ge-sene'
-Gergesenes              pnp   GUHR-ge-SEENZ                 Ger'ge-senes'
-Gerizim                 pns   guh-RIY-zim                   Ge-ri'zim
-Gershom                 pns   GUHR-shuhm                    Ger'shom
-Gershomite              pns   GUHR-shom-iyt                 Ger'shom-ite
-Gershomites             pnp   GUHR-shom-iyts                Ger'shom-ites
-Gershon                 pns   GUHR-shon                     Ger'shon
-Gershonite              pns   GUHR-shon-iyt                 Ger'shon-ite
-Gershonites             pnp   GUHR-shon-iyts                Ger'shon-ites
-Geruth                  pns   GEE-rooth                     Ge'ruth_
-Gerzite                 pns   GUHR-ziyt                     Ger'zite
-Gerzites                pnp   GUHR-ziyts                    Ger'zites
-Gesham                  pns   GEE-sham                      Ge'sham
-Geshan                  pns   GEE-shan                      Ge'shan
-Geshem                  pns   GEE-shem                      Ge'shem
-Geshur                  pns   GEE-shuhr                     Ge'shur
-Geshuri                 pns   gi-SHOO-riy                   Ge-shu'ri
-Geshurite               pns   GESH-yoo-riyt                 Gesh'u-rite
-Geshurites              pnp   GESH-yoo-riyts                Gesh'u-rites
-Gether                  pns   GEE-thuhr                     Ge'ther
-Gethsemane              pns   geth-SEM-uh-ni                Geth-sem'a-ne
-Geuel                   pns   gee-OO-el                     Ge-u'el
-Gezer                   pns   GEE-zuhr                      Ge'zer
-Gezrite                 pns   GEZ-riyt                      Gez'rite
-Gezrites                pnp   GEZ-riyts                     Gez'rites
-Giah                    pns   GIY-uh                        Gi'ah
-Gibbar                  pns   GIB-ahr                       Gib'bar
-Gibbethon               pns   GIB-i-thon                    Gib'be-thon
-Gibea                   pns   GIB-ee-uh                     Gib'e-a
-Gibeah                  pns   GIB-ee-uh                     Gib'e-ah
-Gibeath                 pns   GIB-ee-ath                    Gib'e-ath
-Gibeathelohim           pns   GIB-ee-ath-e-LOH-him          Gib'e-ath-e-lo'him
-Gibeath-elohim          pns   GIB-ee-ath-e-LOH-him          Gib'e-ath-e-lo'him
-Gibeathhaaraloth        pns   GIB-ee-ath-hah-AHR-uh-loth   *Gib'e-ath-ha'ar-a-loth
-Gibeath-haaraloth       pns   GIB-ee-ath-hah-AHR-uh-loth   *Gib'e-ath-ha'ar-a-loth
-Gibeath-ha-araloth      pns   GIB-ee-ath-hah-AHR-uh-loth   *Gib'e-ath-ha'ar-a-loth
-Gibeathite              pns   GIB-ee-ath-iyt                Gib'e-ath-ite
-Gibeathites             pnp   GIB-ee-ath-iyts               Gib'e-ath-ites
-Gibeon                  pns   GIB-ee-uhn                    Gib'e-on
-Gibeonite               pns   GIB-ee-uhn-iyt                Gib'e-on-ite
-Gibeonites              pnp   GIB-ee-uhn-iyts               Gib'e-on-ites
-Giblite                 pns   GIB-liyt                      Gib'lite
-Giblites                pnp   GIB-liyts                     Gib'lites
-Giddalti                pns   gi-DAL-tiy                    Gid-dal'ti
-Giddel                  pns   GID-uhl                       Gid'del
-Gideon                  pns   GID-ee-uhn                    Gid'e-on
-Gideoni                 pns   GID-ee-OH-niy                 Gid'e-o'ni
-Gidom                   pns   GIY-dom                       Gi'dom
-Gihon                   pns   GIY-hon                       Gi'hon
-Gilalai                 pns   GIL-uh-liy                    Gil'a-lai
-Gilboa                  pns   gil-BOH-uh                    Gil-bo'a
-Gilead                  pns   GIL-ee-uhd                    Gil'e-ad
-Gileadite               pns   GIL-ee-uhd-iyt               *Gil'e-ad-ite
-Gileadites              pnp   GIL-ee-uhd-iyts              *Gil'e-ad-ites
-Gilgal                  pns   GIL-gal                       Gil'gal
-Gilo                    pns   GIY-loh                      *Gi'lo
-Giloh                   pns   GIY-loh                       Gi'loh
-Gilonite                pns   GIY-luh-niyt                  Gi'lo-nite
-Gilonites               pnp   GIY-luh-niyts                 Gi'lo-nites
-Gimel                   pns   GIM-uhl                       Gim'el
-Gimzo                   pns   GIM-zoh                       Gim'zo
-Ginath                  pns   GIY-nath                      Gi'nath
-Ginnetho                pns   GIN-uh-thoh                   Gin'ne-tho
-Ginnethoi               pns   GIN-uh-thoh-iy                Gin'ne-tho'i
-Ginnethon               pns   GIN-uh-thon                   Gin'ne-thon
-Girgashite              pns   GUHR-guh-shiyt                Gir'ga-shite
-Girgashites             pnp   GUHR-guh-shiyts               Gir'ga-shites
-Girgasite               pns   GUHR-guh-siyt                 Gir'ga-site
-Girgasites              pnp   GUHR-guh-siyts                Gir'ga-sites
-Girzite                 pns   GUHR-ziyt                     Gir'zite
-Girzites                pnp   GUHR-ziyts                    Gir'zites
-Gishpa                  pns   GISH-puh                      Gish'pa
-Gispa                   pns   GIS-puh                       Gis'pa
-Gittahhepher            pns   GIT-ah-HEE-fuhr               Git'tah-he'pher
-Gittah-hepher           pns   GIT-ah-HEE-fuhr               Git'tah-he'pher
-Gittaim                 pns   GIT-ay-im                     Git'ta-im
-Gittite                 pns   GIT-iyt                       Git-tite
-Gittites                pnp   GIT-iyts                      Git-tites
-Gittith                 pns   GIT-ith                       Git'tith
-Gizonite                pns   GIY-zuh-niyt                  Gi'zo-nite
-Gizonites               pnp   GIY-zuh-niyts                 Gi'zo-nites
-Gizrite                 pns   GIZ-riyt                      Giz'rite
-Gizrites                pnp   GIZ-riyts                     Giz'rites
-Goah                    pns   GOH-uh                        Go'ah
-Goath                   pns   GOH-ath                       Go'ath
-Gob                     pns   GOB                           Gob
+Ge_Harashim             pns   GEE-hah-RAY-shim              Ge_Ha-ra'shim                 place
+Gehazi                  pns   gi-HAY-ziy                    Ge-ha'zi                      person
+Gehenna                 pns   gi-HEN-uh                     Ge-hen'na                     place
+Geliloth                pns   gi-LIY-loth                   Ge-li'loth                    place
+Gemalli                 pns   gi-MAL-i                      Ge-mal'li                     person
+Gemariah                pns   GEM-uh-RIY-uh                 Gem'a-ri'ah                   person
+Genesis                 pns   JEN-i-sis                     Gen'e-sis                     writing
+Gennesar                pns   ge-NEE-sahr                   Gen-ne'sar                    place
+Gennesaret              pns   ge-NES-uh-ret                 Gen-nes'a-ret                 place
+Gennesareth             pns   ge-NES-uh-reth                Gen-nes'a-reth                place
+Gentile                 pns   JEN-tiyl                      Gen'tile                      ethnic
+Gentiles                pnp   JEN-tiylz                     Gen'tiles                     ethnic
+Genubath                pns   gi-NOO-bath                   Ge-nu'bath                    person
+Gera                    pns   GEE-ruh                       Ge'ra                         person
+Gerar                   pns   GEE-rahr                      Ge'rar                        place
+Gerasa                  pns   GER-uh-suh                    Ger'a-sa                      place
+Gerasene                pns   GER-uh-seen                   Ger'a-sene                    ethnic
+Gerasenes               pnp   GER-uh-seenz                  Ger'a-senes                   ethnic
+Gergesa                 pns   GUHR-ge-suh                   Ger'ge-sa                     place
+Gergesene               pns   GUHR-ge-SEEN                  Ger'ge-sene'                  ethnic
+Gergesenes              pnp   GUHR-ge-SEENZ                 Ger'ge-senes'                 ethnic
+Gerizim                 pns   guh-RIY-zim                   Ge-ri'zim                     place
+Gershom                 pns   GUHR-shuhm                    Ger'shom                      person
+Gershomite              pns   GUHR-shom-iyt                 Ger'shom-ite                  ethnic
+Gershomites             pnp   GUHR-shom-iyts                Ger'shom-ites                 ethnic
+Gershon                 pns   GUHR-shon                     Ger'shon                      person
+Gershonite              pns   GUHR-shon-iyt                 Ger'shon-ite                  ethnic
+Gershonites             pnp   GUHR-shon-iyts                Ger'shon-ites                 ethnic
+Geruth_Chimham          pns   GEE-rooth-KIM-ham             Ge'ruth_Chim'ham              place
+Geruth_Kimham           pns   GEE-rooth-KIM-ham             Ge'ruth_Kim'ham               place
+Gerzite                 pns   GUHR-ziyt                     Ger'zite                      ethnic
+Gerzites                pnp   GUHR-ziyts                    Ger'zites                     ethnic
+Gesham                  pns   GEE-sham                      Ge'sham                       person
+Geshan                  pns   GEE-shan                      Ge'shan                       person
+Geshem                  pns   GEE-shem                      Ge'shem                       person
+Geshur                  pns   GEE-shuhr                     Ge'shur                       place
+Geshuri                 pnp   gi-SHOO-riy                   Ge-shu'ri                     ethnic
+Geshurite               pns   GESH-yoo-riyt                 Gesh'u-rite                   ethnic
+Geshurites              pnp   GESH-yoo-riyts                Gesh'u-rites                  ethnic
+Gether                  pns   GEE-thuhr                     Ge'ther                       person
+Gethsemane              pns   geth-SEM-uh-ni                Geth-sem'a-ne                 place
+Geuel                   pns   gee-OO-el                     Ge-u'el                       person
+Gezer                   pns   GEE-zuhr                      Ge'zer                        place
+Gezrite                 pns   GEZ-riyt                      Gez'rite                      ethnic
+Gezrites                pnp   GEZ-riyts                     Gez'rites                     ethnic
+Giah                    pns   GIY-uh                        Gi'ah                         place
+Gibbar                  pns   GIB-ahr                       Gib'bar                       person
+Gibbethon               pns   GIB-i-thon                    Gib'be-thon                   place
+Gibea                   pns   GIB-ee-uh                     Gib'e-a                       person,place
+Gibeah                  pns   GIB-ee-uh                     Gib'e-ah                      place
+Gibeath                 pns   GIB-ee-ath                    Gib'e-ath                     place
+Gibeathelohim           pns   GIB-ee-ath-e-LOH-him          Gib'e-ath-e-lo'him            place
+Gibeath-elohim          pns   GIB-ee-ath-e-LOH-him          Gib'e-ath-e-lo'him            place
+Gibeath_Elohim          pns   GIB-ee-ath-e-LOH-him          Gib'e-ath_E-lo'him            place
+Gibeathhaaraloth        pns   GIB-ee-ath-hah-AHR-uh-loth    Gib'e-ath-ha-ar'a-loth        place
+Gibeath-haaraloth       pns   GIB-ee-ath-hah-AHR-uh-loth    Gib'e-ath-ha-ar'a-loth        place
+Gibeath_Haaraloth       pns   GIB-ee-ath-hah-AHR-uh-loth    Gib'e-ath_Ha-ar'a-loth        place
+Gibeath-ha-araloth      pns   GIB-ee-ath-hah-AHR-uh-loth    Gib'e-ath-ha-ar'a-loth        place
+Gibeath_Ha_Araloth      pns   GIB-ee-ath-hah-AHR-uh-loth    Gib'e-ath_Ha_Ar'a-loth        place
+Gibeathite              pns   GIB-ee-ath-iyt                Gib'e-ath-ite                 ethnic
+Gibeathites             pnp   GIB-ee-ath-iyts               Gib'e-ath-ites                ethnic
+Gibeon                  pns   GIB-ee-uhn                    Gib'e-on                      place
+Gibeonite               pns   GIB-ee-uhn-iyt                Gib'e-on-ite                  ethnic
+Gibeonites              pnp   GIB-ee-uhn-iyts               Gib'e-on-ites                 ethnic
+Giblite                 pns   GIB-liyt                      Gib'lite                      ethnic
+Giblites                pnp   GIB-liyts                     Gib'lites                     ethnic
+Giddalti                pns   gi-DAL-tiy                    Gid-dal'ti                    person
+Giddel                  pns   GID-uhl                       Gid'del                       person
+Gideon                  pns   GID-ee-uhn                    Gid'e-on                      person
+Gideoni                 pns   GID-ee-OH-niy                 Gid'e-o'ni                    person
+Gidom                   pns   GIY-dom                       Gi'dom                        place
+Gihon                   pns   GIY-hon                       Gi'hon                        place
+Gilalai                 pns   GIL-uh-liy                    Gil'a-lai                     person
+Gilboa                  pns   gil-BOH-uh                    Gil-bo'a                      place
+Gilead                  pns   GIL-ee-uhd                    Gil'e-ad                      person,place
+Gileadite               pns   GIL-ee-uhd-iyt                Gil'e-ad-ite                  ethnic
+Gileadites              pnp   GIL-ee-uhd-iyts               Gil'e-ad-ites                 ethnic
+Gilgal                  pns   GIL-gal                       Gil'gal                       place
+Giloh                   pns   GIY-loh                       Gi'loh                        place
+Gilonite                pns   GIY-luh-niyt                  Gi'lo-nite                    ethnic
+Gilonites               pnp   GIY-luh-niyts                 Gi'lo-nites                   ethnic
+Gimel                   pns   GIM-uhl                       Gim'el                        writing
+Gimzo                   pns   GIM-zoh                       Gim'zo                        place
+Ginath                  pns   GIY-nath                      Gi'nath                       person
+Ginnetho                pns   GIN-uh-thoh                   Gin'ne-tho                    person,place
+Ginnethoi               pns   GIN-uh-thoh-iy                Gin'ne-tho'i                  person,place
+Ginnethon               pns   GIN-uh-thon                   Gin'ne-thon                   person,place
+Girgashite              pns   GUHR-guh-shiyt                Gir'ga-shite                  ethnic
+Girgashites             pnp   GUHR-guh-shiyts               Gir'ga-shites                 ethnic
+Girgasite               pns   GUHR-guh-siyt                 Gir'ga-site                   ethnic
+Girgasites              pnp   GUHR-guh-siyts                Gir'ga-sites                  ethnic
+Girzite                 pns   GUHR-ziyt                     Gir'zite                      ethnic
+Girzites                pnp   GUHR-ziyts                    Gir'zites                     ethnic
+Gishpa                  pns   GISH-puh                      Gish'pa                       person
+Gispa                   pns   GIS-puh                       Gis'pa                        person
+Gittahhepher            pns   GIT-ah-HEE-fuhr               Git'tah-he'pher               place
+Gittah-hepher           pns   GIT-ah-HEE-fuhr               Git'tah-he'pher               place
+Gittah_Hepher           pns   GIT-ah-HEE-fuhr               Git'tah_He'pher               place
+Gittaim                 pns   GIT-ay-im                     Git'ta-im                     place
+Gittite                 pns   GIT-iyt                       Git-tite                      ethnic
+Gittites                pnp   GIT-iyts                      Git-tites                     ethnic
+Gizonite                pns   GIY-zuh-niyt                  Gi'zo-nite                    ethnic
+Gizonites               pnp   GIY-zuh-niyts                 Gi'zo-nites                   ethnic
+Gizrite                 pns   GIZ-riyt                      Giz'rite                      ethnic
+Gizrites                pnp   GIZ-riyts                     Giz'rites                     ethnic
+Goah                    pns   GOH-uh                        Go'ah                         place
+Goath                   pns   GOH-ath                       Go'ath                        place
+Gob                     pns   GOB                           Gob                           place
 God                     pns   GOD                           God                           divine
-Gog                     pns   GOG                           Gog
-Goiim                   pns   GOY-im                        Goi'im
-Golan                   pns   GOH-lan                       Go'lan
-Golgotha                pns   GOL-guh-thuh                  Gol'go-tha
-Goliath                 pns   guh-LIY-uhth                  Go-li'ath
+Gog                     pns   GOG                           Gog                           person
+Goiim                   pnp   GOY-im                        Goi'im                        ethnic
+Goiims                  pnp   GOY-imz                       Goi'ims                       ethnic
+Golan                   pns   GOH-lan                       Go'lan                        place
+Golgotha                pns   GOL-guh-thuh                  Gol'go-tha                    place
+Goliath                 pns   guh-LIY-uhth                  Go-li'ath                     person
 Gomer                   pns   GOH-muhr                      Go'mer                        person,ethnic
-Gomorrah                pns   guh-MOR-uh                    Go-mor'rah
-Gomorrha                pns   guh-MOR-uh                    Go-mor'rha
-Gorgias                 pns   GOHR-jee-as                   Gor'gi-as
-Gortyna                 pns   gohr-TIY-nuh                  Gor-ty'na
-Goshen                  pns   GOH-shuhn                     Go'shen
-Gozan                   pns   GOH-zan                       Go'zan
-Grecia                  pns   GREE-shee-uh                  Gre'ci-a
-Grecian                 pns   GREE-shuhn                    Gre'cian
-Grecians                pnp   GREE-shuhnz                   Gre'cians
-Greece                  pns   GREES                         Greece
-Greek                   pns   GREEK                         Greek
-Greeks                  pnp   GREEKS                        Greeks
-Gudgodah                pns   gud-GOH-duh                   Gud-go'dah
-Guni                    pns   GOO-niy                       Gu'ni
-Gur                     pns   GUHR                          Gur
-Gurbaal                 pns   GUHR-BAY-uhl                  Gur'ba'al
-Gur-baal                pns   GUHR-BAY-uhl                  Gur'ba'al
+Gomorrah                pns   guh-MOR-uh                    Go-mor'rah                    place
+Gomorrha                pns   guh-MOR-uh                    Go-mor'rha                    place
+Gorgias                 pns   GOHR-jee-as                   Gor'gi-as                     person
+Gortyna                 pns   gohr-TIY-nuh                  Gor-ty'na                     place
+Goshen                  pns   GOH-shuhn                     Go'shen                       place
+Goyim                   pns   GOH-yim                       Go'yim                        place
+Gozan                   pns   GOH-zan                       Go'zan                        place
+Grecia                  pns   GREE-shee-uh                  Gre'ci-a                      place
+Grecian                 pns   GREE-shuhn                    Gre'cian                      ethnic
+Grecians                pnp   GREE-shuhnz                   Gre'cians                     ethnic
+Greece                  pns   GREES                         Greece                        place
+Greek                   pns   GREEK                         Greek                         ethnic
+Greeks                  pnp   GREEKS                        Greeks                        ethnic
+Gudgodah                pns   gud-GOH-duh                   Gud-go'dah                    place
+Guni                    pns   GOO-niy                       Gu'ni                         person
+Gunite                  pns   GOO-niyt                      Gu'nite                       ethnic
+Gunites                 pnp   GOO-niyts                     Gu'nites                      ethnic
+Gur                     pns   GUHR                          Gur                           place
+Gurbaal                 pns   GUHR-BAY-uhl                  Gur'ba'al                     place
+Gur-baal                pns   GUHR-BAY-uhl                  Gur'ba'al                     place
+Gur_Baal                pns   GUHR-BAY-uhl                  Gur_Ba'al                     place
 
 Haahashtari             pns   HAY-uh-HASH-tuh-riy           Ha'a-hash'ta-ri
 Habaiah                 pns   huh-BAY-yuh                   Ha-ba'iah
@@ -2717,10 +2849,12 @@ Horam                   pns   HOH-ram                       Ho'ram
 Horeb                   pns   HOH-reb                       Ho'reb
 Horem                   pns   HOH-rem                       Ho'rem
 Horesh                  pns   HOH-resh                      Ho'resh
-Horhaggidgad            pns   HOHR-ha-GID-gad               Hor'hag-gid'gad
-Hor-haggidgad           pns   HOHR-ha-GID-gad               Hor'hag-gid'gad
-Horhagidgad             pns   HOHR-huh-GID-gad              Hor'ha-gid'gad
-Hor-hagidgad            pns   HOHR-huh-GID-gad              Hor'ha-gid'gad
+Horhaggidgad            pns   HOHR-ha-GID-gad               Hor'hag-gid'gad               place
+Hor-haggidgad           pns   HOHR-ha-GID-gad               Hor'hag-gid'gad               place
+Hor_Haggidgad           pns   HOHR-ha-GID-gad               Hor_Hag-gid'gad               place
+Horhagidgad             pns   HOHR-huh-GID-gad              Hor'ha-gid'gad                place
+Hor-hagidgad            pns   HOHR-huh-GID-gad              Hor'ha-gid'gad                place
+Hor_Hagidgad            pns   HOHR-huh-GID-gad              Hor_Ha-gid'gad                place
 Hori                    pns   HOH-riy                       Ho'ri
 Horims                  pns   HOH-rimz                      Ho'rims
 Horite                  pns   HOH-riyt                      Ho'rite
@@ -3748,7 +3882,7 @@ Memucan                 pns   mi-MOO-kuhn                   Me-mu'can
 Menahem                 pns   MEN-uh-hem                    Men'a-hem
 Menan                   pns   MEE-nan                       Me'nan
 Mene                    pns   MEE-ni                        Me'ne
-Meni                    pns   MEE-niy                       Me'ni
+Meni                    pns   MEE-niy                       Me'ni                         deity
 Menna                   pns   MEN-ah                        Men'na
 Menuchah                pns   me-NOO-kah                    Me-nu'chah
 Menuhah                 pns   me-NOO-hah                    Me-nu'hah
@@ -4344,7 +4478,8 @@ Pollux                  pns   POL-uks                       Pol'lux             
 Pontius                 pns   PON-shuhs                     Pon'tius
 Pontus                  pns   PON-tuhs                      Pon'tus
 Poratha                 pns   puh-RAY-thuh                  Po-ra'tha
-Porcius                 pns   POHR-shee-uhs                 Por'ci-us
+Porcius                 pns   POHR-shee-uhs                 Por'ci-us                     person
+Porcius_Festus          pns   POHR-shee-uhs-FES-tuhs        Por'ci-us_Fes'tus             person
 Potiphar                pns   POT-uh-fuhr                   Pot'i-phar
 Potiphera               pns   puh-TIF-uhr-uh                Po-tiph'er-a
 Potipherah              pns   puh-TIF-uhr-uh                Po-tiph'er-ah
