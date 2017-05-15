@@ -371,9 +371,6 @@ zealously               adj   ZEL-uhs-li                    zeal'ous-ly
 ### Bible: conflicting words ###
 ################################
 # Adar                  pns   uh-DAHR                       A-dar'                        measure
-# He                    pns   HAY                           He                            writing
-
-# cab                   cns   KAB                           cab                           measure
 
 
 ########################################
@@ -704,6 +701,7 @@ Amasai                  pns   uh-MAS-iy                     A-mas'ai            
 Amashai                 pns   uh-MASH-iy                    A-mash'ai                     person
 Amashsai                pns   uh-MASH-siy                   A-mash'sai                    person
 Amasiah                 pns   AM-uh-SIY-uh                  Am'a-si'ah                    person
+Amathis                 pns   AM-uh-this                    Am'a-this                     place
 Amaw                    pns   AY-mao                        A'maw                         place
 Amaziah                 pns   AM-uh-ZIY-uh                  Am'a-zi'ah                    person
 Ami                     pns   AY-miy                        A'mi                          person
@@ -879,7 +877,7 @@ Ariarthes               pns   UHR-ee-AHR-theez              Ar'i-ar'thes        
 Aridai                  pns   uh-RID-iy                     A-rid'ai                      person
 Aridatha                pns   uh-RID-uh-thuh                A-rid'a-tha                   person
 Arieh                   pns   uh-RIY-e                      A-ri'eh                       person
-Ariel                   pns   EHR-ee-el                     A'ri-el                       person,title
+Ariel                   pns   EHR-ee-el                     A'ri-el                       person,place,thing
 Arimathaea              pns   AR-i-muh-THEE-uh              Ar'i-ma-thae'a                place
 Arimathea               pns   AR-i-muh-THEE-uh              Ar'i-ma-the'a                 place
 Arioch                  pns   AR-ee-ok                      Ar'i-och                      person
@@ -889,7 +887,7 @@ Aristobulus             pns   uh-RIS-tuh-BOO-luhs           A-ris'to-bu'lus     
 Arius                   pns   uh-RIY-uhs                    A-ri'us                       person
 Arkite                  pns   AHR-kiyt                      Ar'kite                       ethnic
 Arkites                 pnp   AHR-kiyts                     Ar'kites                      ethnic
-Armageddon              pns   AHR-muh-GED-uhn               Ar'ma-ged'don                 title
+Armageddon              pns   AHR-muh-GED-uhn               Ar'ma-ged'don                 place,title
 Armenia                 pns   ahr-MEE-nee-uh                Ar-me'ni-a                    place
 Armoni                  pns   ahr-MOH-niy                   Ar-mo'ni                      person
 Arnan                   pns   AHR-nuhn                      Ar'nan                        person
@@ -2501,406 +2499,450 @@ Gurbaal                 pns   GUHR-BAY-uhl                  Gur'ba'al           
 Gur-baal                pns   GUHR-BAY-uhl                  Gur'ba'al                     place
 Gur_Baal                pns   GUHR-BAY-uhl                  Gur_Ba'al                     place
 
-Haahashtari             pns   HAY-uh-HASH-tuh-riy           Ha'a-hash'ta-ri
-Habaiah                 pns   huh-BAY-yuh                   Ha-ba'iah
-Habakkuk                pns   huh-BAK-uhk                   Ha-bak'kuk
-Habaziniah              pns   HAB-uh-zi-NIY-uh              Hab'a-zi-ni'ah
-Habazziniah             pns   HAB-uh-zi-NIY-uh              Hab'az-zi-ni'ah
-Habiru                  pns   HAH-bee-roo                   Ha'bi-ru
-Habor                   pns   HAY-bohr                      Ha'bor
-Hacaliah                pns   HAK-uh-LIY-uh                 Hac'a-li'ah
-Hachaliah               pns   HAK-uh-LIY-uh                 Hach'a-li'ah
-Hachilah                pns   huh-KIY-luh                   Ha-chi'lah
-Hachmoni                pns   HAK-muh-niy                   Hach'mo-ni
-Hachmonite              pns   HAK-muh-niyt                 *Hach'mo-nite
-Hachmonites             pnp   HAK-muh-niyts                *Hach'mo-nites
-Hadad                   pns   HAY-dad                       Ha'dad
-Hadadezer               pns   HAD-ad-EE-zuhr                Had'ad-e'zer
-Hadadrimmon             pns   HAY-dad-RIM-uhn               Ha'dad-rim'mon
-Hadar                   pns   HAY-dahr                      Ha'dar
-Hadarezer               pns   HAD-uh-REE-zuhr               Had'a-re'zer
-Hadashah                pns   huh-DASH-uh                   Ha-dash'ah
-Hadassah                pns   huh-DAS-uh                    Ha-das'sah
-Hadattah                pns   huh-DAT-uh                    Ha-dat'tah
-Hades                   pns   HAY-deez                      Ha'des
+Haahashtari             pns   HAY-uh-HASH-tuh-riy           Ha'a-hash'ta-ri               person
+Habaiah                 pns   huh-BAY-yuh                   Ha-ba'iah                     person
+Habakkuk                pns   huh-BAK-uhk                   Ha-bak'kuk                    person,writing
+Habaziniah              pns   HAB-uh-zi-NIY-uh              Hab'a-zi-ni'ah                person
+Habazziniah             pns   HAB-uh-zi-NIY-uh              Hab'az-zi-ni'ah               person
+Habiru                  pns   HAH-bee-roo                   Ha'bi-ru                      ethnic
+Habor                   pns   HAY-bohr                      Ha'bor                        place
+Hacaliah                pns   HAK-uh-LIY-uh                 Hac'a-li'ah                   person
+Hachaliah               pns   HAK-uh-LIY-uh                 Hach'a-li'ah                  person
+Hachilah                pns   huh-KIY-luh                   Ha-chi'lah                    place
+Hachmoni                pns   HAK-muh-niy                   Hach'mo-ni                    person
+Hachmonite              pns   HAK-muh-niyt                  Hach'mo-nite                  ethnic
+Hachmonites             pnp   HAK-muh-niyts                 Hach'mo-nites                 ethnic
+Hadad                   pns   HAY-dad                       Ha'dad                        person,deity
+Hadadezer               pns   HAD-ad-EE-zuhr                Had'ad-e'zer                  person
+Hadadrimmon             pns   HAY-dad-RIM-uhn               Ha'dad-rim'mon                place
+Hadad_Rimmon            pns   HAY-dad-RIM-uhn               Ha'dad_Rim'mon                place
+Hadar                   pns   HAY-dahr                      Ha'dar                        person,deity
+Hadarezer               pns   HAD-uh-REE-zuhr               Had'a-re'zer                  person
+Hadashah                pns   huh-DASH-uh                   Ha-dash'ah                    place
+Hadassah                pns   huh-DAS-uh                    Ha-das'sah                    person
+Hadattah                pns   huh-DAT-uh                    Ha-dat'tah                    place
+Hades                   pns   HAY-deez                      Ha'des                        place
 Hadid                   pns   HAY-did                       Ha'did                        place
-Hadlai                  pns   HAD-liy                       Had'lai
-Hadoram                 pns   huh-DOH-ruhm                  Ha-do'ram
-Hadrach                 pns   HAY-drak                      Ha'drach
+Hadlai                  pns   HAD-liy                       Had'lai                       person
+Hadoram                 pns   huh-DOH-ruhm                  Ha-do'ram                     person
+Hadrach                 pns   HAY-drak                      Ha'drach                      place
 Haeleph                 pns   hay-EE-lef                    Ha-e'leph                     place
-Hagab                   pns   HAY-gab                       Ha'gab
-Hagaba                  pns   HAG-uh-bah                    Hag'a-ba
-Hagabah                 pns   HAG-uh-bah                    Hag'a-bah
-Hagar                   pns   HAY-gahr                      Ha'gar
-Hagarene                pns   HAG-uh-REEN                   Hag'a-rene'
-Hagarenes               pnp   HAG-uh-REENZ                  Hag'a-renes'
-Hagarite                pns   HAY-gahr-iyt                  Ha'gar-ite
-Hagarites               pnp   HAY-gahr-iyts                 Ha'gar-ites
-Hagerite                pns   HAY-guhr-iyt                  Ha'ger-ite
-Hagerites               pnp   HAY-guhr-iyts                 Ha'ger-ites
-Haggadah                pns   huh-GAH-dah                   Hag-ga'dah
-Haggai                  pns   HAG-iy                        Hag'gai
-Haggedolim              pns   HAG-guh-DOH-lim               Hag'ge-do'lim
-Haggeri                 pns   HAG-uh-riy                    Hag'ge-ri
-Haggi                   pns   HAG-iy                        Hag'gi
-Haggiah                 pns   huh-GIY-uh                    Hag-gi'ah
-Haggite                 pns   HAG-iyt                       Hag'gite
-Haggites                pnp   HAG-iyts                      Hag'gites
-Haggith                 pns   HAG-ith                       Hag'gith
-Hagiographa             pns   HAG-i-OG-ruh-fuh              Hag'i-og'ra-pha
-Hagri                   pns   HAG-riy                       Hag'ri
-Hagrite                 pns   HAG-riyt                      Hag'rite
-Hagrites                pnp   HAG-riyts                     Hag'rites
-Hahiroth                pns   huh-HIY-roth                  Ha-hi'roth
+Hagab                   pns   HAY-gab                       Ha'gab                        person
+Hagaba                  pns   HAG-uh-bah                    Hag'a-ba                      person
+Hagabah                 pns   HAG-uh-bah                    Hag'a-bah                     person
+Hagar                   pns   HAY-gahr                      Ha'gar                        person
+Hagarene                pns   HAG-uh-REEN                   Hag'a-rene'                   ethnic
+Hagarenes               pnp   HAG-uh-REENZ                  Hag'a-renes'                  ethnic
+Hagarite                pns   HAY-gahr-iyt                  Ha'gar-ite                    ethnic
+Hagarites               pnp   HAY-gahr-iyts                 Ha'gar-ites                   ethnic
+Hagerite                pns   HAY-guhr-iyt                  Ha'ger-ite                    ethnic
+Hagerites               pnp   HAY-guhr-iyts                 Ha'ger-ites                   ethnic
+Haggadah                pns   huh-GAH-dah                   Hag-ga'dah                    writing
+Haggai                  pns   HAG-iy                        Hag'gai                       person,writing
+Haggedolim              pns   HAG-guh-DOH-lim               Hag'ge-do'lim                 person
+Haggeri                 pns   HAG-uh-riy                    Hag'ge-ri                     person
+Haggi                   pns   HAG-iy                        Hag'gi                        person
+Haggiah                 pns   huh-GIY-uh                    Hag-gi'ah                     person
+Haggite                 pns   HAG-iyt                       Hag'gite                      ethnic
+Haggites                pnp   HAG-iyts                      Hag'gites                     ethnic
+Haggith                 pns   HAG-ith                       Hag'gith                      person
+Hagiographa             pns   HAG-i-OG-ruh-fuh              Hag'i-og'ra-pha               writing
+Hagri                   pns   HAG-riy                       Hag'ri                        person
+Hagrite                 pns   HAG-riyt                      Hag'rite                      ethnic
+Hagrites                pnp   HAG-riyts                     Hag'rites                     ethnic
+Hahiroth                pns   huh-HIY-roth                  Ha-hi'roth                    place
 Hai                     pns   HAY-iy                        Ha'i                          place
-Hakkatan                pns   HAK-uh-tan                    Hak'ka-tan
+Hakilah                 pns   huh-KIY-luh                   Ha-ki'lah                     place
+Hakkatan                pns   HAK-uh-tan                    Hak'ka-tan                    person
 Hakkoz                  pns   HAK-oz                        Hak'koz                       person
-Hakupha                 pns   huh-KOO-fuh                   Ha-ku'pha
-Halah                   pns   HAY-luh                       Ha'lah
-Halak                   pns   HAY-lak                       Ha'lak
-Halakah                 pns   hah-LAH-kah                   Ha-la'ka
-Halhul                  pns   HAL-hul                       Hal'hul
-Hali                    pns   HAY-liy                       Ha'li
-Halicarnassus           pns   HAL-i-kahr-NAS-uhs            Hal'i-car-nas'sus
-Hallel                  pns   huh-LAYL                      Hal-lel'
-Hallohesh               pns   ha-LOH-hesh                   Hal-lo'hesh
-Halohesh                pns   ha-LOH-hesh                   Ha-lo'hesh
-Ham                     pns   HAM                           Ham
-Haman                   pns   HAY-muhn                      Ha'man
-Hamath                  pns   HAY-math                      Ha'math
-Hamathite               pns   HAY-math-iyt                  Ha'math-ite
-Hamathites              pnp   HAY-math-iyts                 Ha'math-ites
-Hamathzobah             pns   HAY-math-ZOH-buh              Ha'math-zo'bah
-Hamath-zobah            pns   HAY-math-ZOH-buh              Ha'math-zo'bah
-Hammath                 pns   HAM-ath                       Ham'math
-Hammeah                 pns   ha-MEE-uh                     Ham-me'ah
-Hammedatha              pns   HAM-i-DAY-thuh                Ham'me-da'tha
-Hammelech               pns   HAM-uh-lek                    Ham'me-lech
-Hammiphkad              pns   ham-MIF-kad                   Ham-miph'kad
-Hammolecheth            pns   hay-MOL-i-keth                Ham-mol'e-cheth
-Hammoleketh             pns   hay-MOL-i-keth                Ham-mol'e-keth
-Hammon                  pns   HAM-uhn                       Ham'mon
-Hammothdor              pns   HAM-oth-DOHR                  Ham'moth-dor'
-Hammoth-dor             pns   HAM-oth-DOHR                  Ham'moth-dor'
-Hammuel                 pns   HAM-yoo-el                    Ham'mu-el
-Hammurabi               pns   HAHM-uu-RAH-bi                Ham'mu-ra'bi
-Hamonah                 pns   huh-MOH-nuh                   Ha-mo'nah
-Hamongog                pns   HAY-mon-GOG                   Ha'mom-gog'
-Hamon-gog               pns   HAY-mon-GOG                   Ha'mom-gog'
+Hakupha                 pns   huh-KOO-fuh                   Ha-ku'pha                     person
+Halah                   pns   HAY-luh                       Ha'lah                        place
+Halak                   pns   HAY-lak                       Ha'lak                        place
+Halakah                 pns   hah-LAH-kah                   Ha-la'ka                      writing
+Halhul                  pns   HAL-hul                       Hal'hul                       place
+Hali                    pns   HAY-liy                       Ha'li                         place
+Halicarnassus           pns   HAL-i-kahr-NAS-uhs            Hal'i-car-nas'sus             place
+Hallel                  pns   huh-LAYL                      Hal-lel'                      music
+Hallohesh               pns   ha-LOH-hesh                   Hal-lo'hesh                   person
+Halohesh                pns   ha-LOH-hesh                   Ha-lo'hesh                    person
+Ham                     pns   HAM                           Ham                           person,place
+Haman                   pns   HAY-muhn                      Ha'man                        person
+Hamath                  pns   HAY-math                      Ha'math                       place
+Hamathite               pns   HAY-math-iyt                  Ha'math-ite                   ethnic
+Hamathites              pnp   HAY-math-iyts                 Ha'math-ites                  ethnic
+Hamathzobah             pns   HAY-math-ZOH-buh              Ha'math-zo'bah                place
+Hamath-zobah            pns   HAY-math-ZOH-buh              Ha'math-zo'bah                place
+Hamath_Zobah            pns   HAY-math-ZOH-buh              Ha'math_Zo'bah                place
+Hamite                  pns   HAY-muhth-iyt                 Ha'math-ite                   ethnic
+Hamites                 pnp   HAY-muhth-iyts                Ha'math-ites                  ethnic
+Hammath                 pns   HAM-ath                       Ham'math                      person,place
+Hammeah                 pns   ha-MEE-uh                     Ham-me'ah                     place
+Hammedatha              pns   HAM-i-DAY-thuh                Ham'me-da'tha                 person
+Hammelech               pns   HAM-uh-lek                    Ham'me-lech                   person
+Hammiphkad              pns   ham-MIF-kad                   Ham-miph'kad                  place
+Hammolecheth            pns   hay-MOL-i-keth                Ham-mol'e-cheth               person
+Hammoleketh             pns   hay-MOL-i-keth                Ham-mol'e-keth                person
+Hammon                  pns   HAM-uhn                       Ham'mon                       place
+Hammothdor              pns   HAM-oth-DOHR                  Ham'moth-dor'                 place
+Hammoth-dor             pns   HAM-oth-DOHR                  Ham'moth-dor'                 place
+Hammoth_Dor             pns   HAM-oth-DOHR                  Ham'moth_Dor'                 place
+Hammuel                 pns   HAM-yoo-el                    Ham'mu-el                     person
+Hammurabi               pns   HAHM-uu-RAH-bi                Ham'mu-ra'bi                  person
+Hamonah                 pns   huh-MOH-nuh                   Ha-mo'nah                     place
+Hamongog                pns   HAY-mon-GOG                   Ha'mom-gog'                   place
+Hamon-gog               pns   HAY-mon-GOG                   Ha'mom-gog'                   place
+Hamon_Gog               pns   HAY-mon-GOG                   Ha'mom_Gog'                   place
 Hamor                   pns   HAY-mohr                      Ha'mor                        person
-Hamran                  pns   HAM-ruhn                      Ham'ran
-Hamuel                  pns   HAM-yoo-el                    Ham'u-el
-Hamul                   pns   HAY-mul                       Ha'mul
-Hamulite                pns   HAY-muhl-iyt                  Ha'mul-ite
-Hamulites               pnp   HAY-muhl-iyts                 Ha'mul-ites
-Hamutal                 pns   huh-MOO-tuhl                  Ha-mu'tal
-Hanamel                 pns   HAN-uh-mel                    Han'a-mel
-Hanameel                pns   HAN-uh-meel                   Han'a-meel
-Hanan                   pns   HAY-nuhn                      Ha'nan
-Hananel                 pns   HAN-uh-nel                    Han-a-nel
-Hananeel                pns   huh-NAN-ee-el                 Ha-nan'e-el
-Hanani                  pns   huh-NAY-niy                   Ha-na'ni
-Hananiah                pns   HAN-uh-NIY-uh                 Han'a-ni'ah
-Hanes                   pns   HAY-neez                      Ha'nes
-Haniel                  pns   HAN-ee-el                     Han'i-el
-Hannah                  pns   HAN-uh                        Han'nah
-Hannathon               pns   HAN-uh-thon                   Han'na-thon
-Hanniel                 pns   HAN-ee-el                     Han'ni-el
-Hanukkah                pns   HAH-nuu-kah                   Ha'nuk-kah
-Hanoch                  pns   HAY-nok                       Ha'noch
-Hanochite               pns   HAY-nok-iyt                   Ha'noch-ite
-Hanochites              pnp   HAY-nok-iyts                  Ha'noch-ites
-Hanun                   pns   HAY-nuhn                      Ha'nun
-Hapharaim               pns   HAF-uh-RAY-im                 Haph'a-ra'im
-Haphraim                pns   haf-RAY-im                    Haph-ra'im
+Hamran                  pns   HAM-ruhn                      Ham'ran                       person
+Hamuel                  pns   HAM-yoo-el                    Ham'u-el                      person
+Hamul                   pns   HAY-mul                       Ha'mul                        person
+Hamulite                pns   HAY-muhl-iyt                  Ha'mul-ite                    ethnic
+Hamulites               pnp   HAY-muhl-iyts                 Ha'mul-ites                   ethnic
+Hamutal                 pns   huh-MOO-tuhl                  Ha-mu'tal                     person
+Hanamel                 pns   HAN-uh-mel                    Han'a-mel                     person
+Hanameel                pns   HAN-uh-meel                   Han'a-meel                    person
+Hanan                   pns   HAY-nuhn                      Ha'nan                        person
+Hananel                 pns   HAN-uh-nel                    Han-a-nel                     place
+Hananeel                pns   huh-NAN-ee-el                 Ha-nan'e-el                   place
+Hanani                  pns   huh-NAY-niy                   Ha-na'ni                      person
+Hananiah                pns   HAN-uh-NIY-uh                 Han'a-ni'ah                   person
+Hanes                   pns   HAY-neez                      Ha'nes                        place
+Haniel                  pns   HAN-ee-el                     Han'i-el                      person
+Hannah                  pns   HAN-uh                        Han'nah                       person
+Hannathon               pns   HAN-uh-thon                   Han'na-thon                   place
+Hanniel                 pns   HAN-ee-el                     Han'ni-el                     person
+Hanukkah                pns   HAH-nuu-kah                   Ha'nuk-kah                    measure
+Hanoch                  pns   HAY-nok                       Ha'noch                       person
+Hanochite               pns   HAY-nok-iyt                   Ha'noch-ite                   ethnic
+Hanochites              pnp   HAY-nok-iyts                  Ha'noch-ites                  ethnic
+Hanun                   pns   HAY-nuhn                      Ha'nun                        person
+Hapharaim               pns   HAF-uh-RAY-im                 Haph'a-ra'im                  place
+Haphraim                pns   haf-RAY-im                    Haph-ra'im                    place
 Happizzez               pns   HAP-i-zez                     Hap'piz-zez                   person
-Hara                    pns   HAY-ruh                       Ha'ra
-Haradah                 pns   huh-RAY-duh                   Ha-ra'dah
+Hara                    pns   HAY-ruh                       Ha'ra                         place
+Haradah                 pns   huh-RAY-duh                   Ha-ra'dah                     place
 Haran                   pns   HAY-ruhn                      Ha'ran                        person,place
 Hararite                pns   HAH-ruh-riyt                  Ha'ra-rite                    ethnic
 Hararites               pnp   HAH-ruh-riyts                 Ha'ra-rites                   ethnic
-Harbona                 pns   hahr-BOH-nuh                  Har-bo'na
-Harbonah                pns   hahr-BOH-nuh                  Har-bo'nah
-Harel                   pns   HAHR-el                       Har'el
-Hareph                  pns   HAY-ref                       Ha'reph
-Hareth                  pns   HAY-reth                      Ha'reth
-Harhaiah                pns   hahr-HAY-yuh                  Har-ha'iah
-Harhas                  pns   HAHR-has                      Har'has
-Harheres                pns   hahr-HEE-reez                 Har-he'res
-Har-heres               pns   hahr-HEE-reez                 Har-he'res
-Harhur                  pns   HAHR-huhr                     Har'hur
-Harim                   pns   HAY-rim                       Ha'rim
-Hariph                  pns   HAY-rif                       Ha'riph
-Harmagedon              pns   HAHR-muh-GED-uhn              Har'ma-ged'on
-Har-magedon             pns   HAHR-muh-GED-uhn              Har'ma-ged'on
-Harmon                  pns   HAHR-muhn                     Har'mon
-Harnepher               pns   HAHR-nuh-fuhr                 Har'ne-pher
-Harod                   pns   HAY-rod                       Ha'rod
-Harodite                pns   HAY-rod-iyt                   Ha'rod-ite
-Harodites               pnp   HAY-rod-iyts                  Ha'rod-ites
-Haroeh                  pns   huh-ROH-e                     Ha-ro'eh
-Harorite                pns   HAY-ruh-riyt                  Ha'ro-rite
-Harorites               pnp   HAY-ruh-riyts                 Ha'ro-rites
-Harosheth               pns   huh-ROH-sheth                 Ha-ro'sheth
-Haroshethhagoiim        pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goi'im
-Harosheth-hagoiim       pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goi'im
-Harosheth-ha-goiim      pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goi'im
-Haroshethhagoyim        pns   huh-ROH-sheth-huh-GOY-im     *Ha-ro'sheth-ha-goy'im
-Harosheth-hagoyim       pns   huh-ROH-sheth-huh-GOY-im     *Ha-ro'sheth-ha-goy'im
-Harosheth-ha-goyim      pns   huh-ROH-sheth-huh-GOY-im     *Ha-ro'sheth-ha-goy'im
-Harsha                  pns   HAHR-shuh                     Har'sha
-Harum                   pns   HAY-ruhm                      Ha'rum
-Harumaph                pns   huh-ROO-maf                   Ha-ru'maph
-Haruphite               pns   huh-ROO-fiyt                  Ha-ru'phite
-Haruphites              pnp   huh-ROO-fiyts                 Ha-ru'phites
-Haruz                   pns   HAY-ruz                       Ha'ruz
-Hasadiah                pns   HAS-uh-DIY-uh                 Has'a-di'ah
-Hasenuah                pns   HAS-i-NOO-uh                  Has'e-nu'ah
-Hashabiah               pns   HASH-uh-BIY-uh                Hash'a-bi'ah
-Hashabnah               pns   huh-SHAB-nuh                  Ha-shab'nah
-Hashabneiah             pns   HASH-ab-nee-IY-uh             Hash'ab-ne-i'ah
-Hashabniah              pns   HASH-ab-NIY-uh                Hash'ab-ni'ah
-Hashbadana              pns   hash-BAD-uh-nuh               Hash-bad'a-na
-Hashbaddanah            pns   hash-BAD-uh-nuh               Hash-bad'da-nah
-Hashem                  pns   HAY-shem                      Ha'shem
-Hashmonah               pns   hash-MOH-nuh                  Hash-mo'nah
-Hashshahar              pns   hash-SHAY-hahr               _Hash-sha'har                  music
-Hash-shahar             pns   hash-SHAY-hahr               _Hash-sha'har                  music
-Hashub                  pns   HAY-shub                      Ha'shub
-Hashubah                pns   huh-SHOO-buh                  Ha-shu'bah
-Hashum                  pns   HAY-shum                      Ha'shum
-Hashupha                pns   huh-SHOO-fuh                  Ha-shu'pha
+Harbona                 pns   hahr-BOH-nuh                  Har-bo'na                     person
+Harbonah                pns   hahr-BOH-nuh                  Har-bo'nah                    person
+Harel                   pns   HAHR-el                       Har'el                        thing
+Hareph                  pns   HAY-ref                       Ha'reph                       person
+Hareth                  pns   HAY-reth                      Ha'reth                       place
+Harhaiah                pns   hahr-HAY-yuh                  Har-ha'iah                    person
+Harhas                  pns   HAHR-has                      Har'has                       person
+Harheres                pns   hahr-HEE-reez                 Har-he'res                    place
+Har-heres               pns   hahr-HEE-reez                 Har-he'res                    place
+Har_Heres               pns   hahr-HEE-reez                 Har_He'res                    place
+Harhur                  pns   HAHR-huhr                     Har'hur                       person
+Harim                   pns   HAY-rim                       Ha'rim                        person
+Hariph                  pns   HAY-rif                       Ha'riph                       person
+Harmagedon              pns   HAHR-muh-GED-uhn              Har'ma-ged'on                 place,title
+Har-magedon             pns   HAHR-muh-GED-uhn              Har'ma-ged'on                 place,title
+Har_Magedon             pns   HAHR-muh-GED-uhn              Har_Ma-ged'on                 place,title
+Harmon                  pns   HAHR-muhn                     Har'mon                       place
+Harnepher               pns   HAHR-nuh-fuhr                 Har'ne-pher                   person
+Harod                   pns   HAY-rod                       Ha'rod                        place
+Harodite                pns   HAY-rod-iyt                   Ha'rod-ite                    ethnic
+Harodites               pnp   HAY-rod-iyts                  Ha'rod-ites                   ethnic
+Haroeh                  pns   huh-ROH-e                     Ha-ro'eh                      person
+Harorite                pns   HAY-ruh-riyt                  Ha'ro-rite                    ethnic
+Harorites               pnp   HAY-ruh-riyts                 Ha'ro-rites                   ethnic
+Harosheth               pns   huh-ROH-sheth                 Ha-ro'sheth                   place
+Haroshethhaggoyim       pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-hag-goi'im        place
+Harosheth-haggoyim      pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-hag-goi'im        place
+Harosheth_Haggoyim      pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth_Hag-goi'im        place
+Haroshethhagoiim        pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goi'im         place
+Harosheth-hagoiim       pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goi'im         place
+Harosheth_Hagoiim       pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth_Ha-goi'im         place
+Harosheth-ha-goiim      pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goi'im         place
+Harosheth_Ha_Goiim      pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth_Ha_Goi'im         place
+Haroshethhagoyim        pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goy'im         place
+Harosheth-hagoyim       pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goy'im         place
+Harosheth_Hagoyim       pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth_Ha-goy'im         place
+Harosheth-ha-goyim      pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth-ha-goy'im         place
+Harosheth_Ha_Goyim      pns   huh-ROH-sheth-huh-GOY-im      Ha-ro'sheth_Ha_Goy'im         place
+Harsha                  pns   HAHR-shuh                     Har'sha                       person
+Harum                   pns   HAY-ruhm                      Ha'rum                        person
+Harumaph                pns   huh-ROO-maf                   Ha-ru'maph                    person
+Haruphite               pns   huh-ROO-fiyt                  Ha-ru'phite                   ethnic
+Haruphites              pnp   huh-ROO-fiyts                 Ha-ru'phites                  ethnic
+Haruz                   pns   HAY-ruz                       Ha'ruz                        person
+Hasadiah                pns   HAS-uh-DIY-uh                 Has'a-di'ah                   person
+Hasenuah                pns   HAS-i-NOO-uh                  Has'e-nu'ah                   person
+Hashabiah               pns   HASH-uh-BIY-uh                Hash'a-bi'ah                  person
+Hashabnah               pns   huh-SHAB-nuh                  Ha-shab'nah                   person
+Hashabneiah             pns   HASH-ab-nee-IY-uh             Hash'ab-ne-i'ah               person
+Hashabniah              pns   HASH-ab-NIY-uh                Hash'ab-ni'ah                 person
+Hashbadana              pns   hash-BAD-uh-nuh               Hash-bad'a-na                 person
+Hashbaddana             pns   hash-BAD-uh-nuh               Hash-bad'da-na                person
+Hashbaddanah            pns   hash-BAD-uh-nuh               Hash-bad'da-nah               person
+Hashem                  pns   HAY-shem                      Ha'shem                       person
+Hashmonah               pns   hash-MOH-nuh                  Hash-mo'nah                   place
+Hashub                  pns   HAY-shub                      Ha'shub                       person
+Hashubah                pns   huh-SHOO-buh                  Ha-shu'bah                    person
+Hashum                  pns   HAY-shum                      Ha'shum                       person
+Hashupha                pns   huh-SHOO-fuh                  Ha-shu'pha                    person
 Hasidaean               pns   HAS-i-DEE-uhn                 Has'i-dae'an                  ethnic
 Hasidaeans              pnp   HAS-i-DEE-uhnz                Has'i-dae'ans                 ethnic
 Hasidean                pns   HAS-i-DEE-uhn                 Has'i-de'an                   ethnic
 Hasideans               pnp   HAS-i-DEE-uhnz                Has'i-de'ans                  ethnic
 Hasmonaean              pns   HAZ-muh-NEE-uhn               Has'mo-nae'an                 ethnic
 Hasmonaeans             pnp   HAZ-muh-NEE-uhnz              Has'mo-nae'ans                ethnic
-Hasrah                  pns   HAZ-ruh                       Has'rah
-Hassenaah               pns   HAS-i-NAY-uh                  Has'se-na'ah
-Hassenuah               pns   HAS-i-NOO-uh                  Has'se-nu'ah
-Hasshub                 pns   HASH-ub                       Has'shub
-Hassophereth            pns   HAS-uh-FEE-reth               Has'so-phe'reth
-Hasupha                 pns   huh-SOO-fuh                   Ha-su'pha
-Hatach                  pns   HAY-tak                       Ha'tach
-Hathach                 pns   HAY-thak                      Ha'thach
-Hathath                 pns   HAY-thath                     Ha'thath
-Hatipha                 pns   huh-TIY-fuh                   Ha-ti'pha
-Hatita                  pns   huh-TIY-tuh                   Ha-ti'ta
-Hattil                  pns   HAT-il                        Hat'til
-Hattin                  pns   HAT-teen                      Hat'tin
-Hattush                 pns   HAT-ush                       Hat'tush
-Hauran                  pns   HAH-uu-RAHN                   Ha'u-ran'
-Havens                  pns   HAY-vuhnz                    _Ha'vens
-Havilah                 pns   HAV-i-lah                     Hav'i-lah
-Havothjair              pns   HAY-voth-JAY-ir               Ha'voth-ja'ir
-Havoth-jair             pns   HAY-voth-JAY-ir               Ha'voth-ja'ir
-Havvothjair             pns   HAV-oth-JAY-ir                Hav'voth-ja'ir
-Havvoth-jair            pns   HAV-oth-JAY-ir                Hav'voth-ja'ir
-Hazael                  pns   HAZ-ay-el                     Haz'a-el
-Hazaiah                 pns   huh-ZAY-yuh                   Ha-za'iah
-Hazaraddar              pns   HAY-zahr-AD-ahr               Ha'zar-ad'dar
-Hazar-addar             pns   HAY-zahr-AD-ahr               Ha'zar-ad'dar
-Hazarenan               pns   HAY-zahr-EE-nuhn              Ha'zar-e'nan
-Hazar-enan              pns   HAY-zahr-EE-nuhn              Ha'zar-e'nan
-Hazarenon               pns   HAY-zahr-EE-nuhn              Ha'zar-e'non
-Hazar-enon              pns   HAY-zahr-EE-nuhn              Ha'zar-e'non
-Hazargaddah             pns   HAY-zahr-GAD-uh               Ha'zar-gad'dah
-Hazar-gaddah            pns   HAY-zahr-GAD-uh               Ha'zar-gad'dah
-Hazarhatticon           pns   HAY-zahr-HAT-i-kon            Ha'zar-hat'ti-con
-Hazar-hatticon          pns   HAY-zahr-HAT-i-kon            Ha'zar-hat'ti-con
-Hazarmaveth             pns   HAY-zahr-MAY-veth             Ha'zar-ma'veth
-Hazar-maveth            pns   HAY-zahr-MAY-veth             Ha'zar-ma'veth
-Hazarshual              pns   HAY-zahr-SHOO-uhl             Ha'zar-shu'al
-Hazar-shual             pns   HAY-zahr-SHOO-uhl             Ha'zar-shu'al
-Hazarsusah              pns   HAY-zahr-SOO-suh              Ha'zar-su'sah
-Hazar-susah             pns   HAY-zahr-SOO-suh              Ha'zar-su'sah
-Hazarsusim              pns   HAY-zahr-SOO-sim              Ha'zar-su'sim
-Hazar-susim             pns   HAY-zahr-SOO-sim              Ha'zar-su'sim
-Hazazontamar            pns   HAZ-uh-zon-TAY-muhr           Haz'a-zon-ta'mar
-Hazazon-tamar           pns   HAZ-uh-zon-TAY-muhr           Haz'a-zon-ta'mar
-Hazelelponi             pns   HAZ-uh-lel-POH-niy            Haz'e-lel-po'ni
-Hazerhatticon           pns   HAY-zuhr-HAT-i-kon            Ha'zer-hat'ti-con
-Hazer-hatticon          pns   HAY-zuhr-HAT-i-kon            Ha'zer-hat'ti-con
-Hazerim                 pns   huh-ZEE-rim                   Ha-ze'rim
-Hazeroth                pns   huh-ZEE-roth                  Ha-ze'roth
-Hazezontamar            pns   HAZ-i-zon-TAY-muhr            Haz'e-zon-ta'mar
-Hazezon-tamar           pns   HAZ-i-zon-TAY-muhr            Haz'e-zon-ta'mar
-Haziel                  pns   HAY-zee-el                    Ha'zi-el
-Hazo                    pns   HAY-zoh                       Ha'zo
-Hazor                   pns   HAY-zohr                      Ha'zor
-Hazorhadattah           pns   HAY-zohr-huh-DAT-uh           Ha'zor-ha-dat'tah
-Hazor-hadattah          pns   HAY-zohr-huh-DAT-uh           Ha'zor-ha-dat'tah
-Hazzelelponi            pns   HAZ-uh-lel-POH-niy            Haz'ze-lel-po'ni
-Hebel                   pns   HEE-bel                       He'bel
+Hasrah                  pns   HAZ-ruh                       Has'rah                       person
+Hassenaah               pns   HAS-i-NAY-uh                  Has'se-na'ah                  person
+Hassenuah               pns   HAS-i-NOO-uh                  Has'se-nu'ah                  person
+Hasshub                 pns   HASH-ub                       Has'shub                      person
+Hassophereth            pns   HAS-uh-FEE-reth               Has'so-phe'reth               person,title
+Hasupha                 pns   huh-SOO-fuh                   Ha-su'pha                     person
+Hatach                  pns   HAY-tak                       Ha'tach                       person
+Hathach                 pns   HAY-thak                      Ha'thach                      person
+Hathath                 pns   HAY-thath                     Ha'thath                      person
+Hatipha                 pns   huh-TIY-fuh                   Ha-ti'pha                     person
+Hatita                  pns   huh-TIY-tuh                   Ha-ti'ta                      person
+Hattil                  pns   HAT-il                        Hat'til                       person
+Hattin                  pns   HAT-teen                      Hat'tin                       place
+Hattush                 pns   HAT-ush                       Hat'tush                      person
+Hauran                  pns   HAH-uu-RAHN                   Ha'u-ran'                     place
+Havilah                 pns   HAV-i-lah                     Hav'i-lah                     person,place
+Havothjair              pns   HAY-voth-JAY-ir               Ha'voth-ja'ir                 place
+Havoth-jair             pns   HAY-voth-JAY-ir               Ha'voth-ja'ir                 place
+Havoth_Jair             pns   HAY-voth-JAY-ir               Ha'voth_Ja'ir                 place
+Havvothjair             pns   HAV-oth-JAY-ir                Hav'voth-ja'ir                place
+Havvoth-jair            pns   HAV-oth-JAY-ir                Hav'voth-ja'ir                place
+Havvoth_Jair            pns   HAV-oth-JAY-ir                Hav'voth_Ja'ir                place
+Hazael                  pns   HAZ-ay-el                     Haz'a-el                      person
+Hazaiah                 pns   huh-ZAY-yuh                   Ha-za'iah                     person
+Hazaraddar              pns   HAY-zahr-AD-ahr               Ha'zar-ad'dar                 place
+Hazar-addar             pns   HAY-zahr-AD-ahr               Ha'zar-ad'dar                 place
+Hazar_Addar             pns   HAY-zahr-AD-ahr               Ha'zar_Ad'dar                 place
+Hazarenan               pns   HAY-zahr-EE-nuhn              Ha'zar-e'nan                  place
+Hazar-enan              pns   HAY-zahr-EE-nuhn              Ha'zar-e'nan                  place
+Hazar_Enan              pns   HAY-zahr-EE-nuhn              Ha'zar_E'nan                  place
+Hazarenon               pns   HAY-zahr-EE-nuhn              Ha'zar-e'non                  place
+Hazar-enon              pns   HAY-zahr-EE-nuhn              Ha'zar-e'non                  place
+Hazar_Enon              pns   HAY-zahr-EE-nuhn              Ha'zar_E'non                  place
+Hazargaddah             pns   HAY-zahr-GAD-uh               Ha'zar-gad'dah                place
+Hazar-gaddah            pns   HAY-zahr-GAD-uh               Ha'zar-gad'dah                place
+Hazar_Gaddah            pns   HAY-zahr-GAD-uh               Ha'zar_Gad'dah                place
+Hazarhatticon           pns   HAY-zahr-HAT-i-kon            Ha'zar-hat'ti-con             place
+Hazar-hatticon          pns   HAY-zahr-HAT-i-kon            Ha'zar-hat'ti-con             place
+Hazar_Hatticon          pns   HAY-zahr-HAT-i-kon            Ha'zar_Hat'ti-con             place
+Hazarmaveth             pns   HAY-zahr-MAY-veth             Ha'zar-ma'veth                person,place
+Hazar-maveth            pns   HAY-zahr-MAY-veth             Ha'zar-ma'veth                person,place
+Hazar_Maveth            pns   HAY-zahr-MAY-veth             Ha'zar_Ma'veth                person,place
+Hazarshual              pns   HAY-zahr-SHOO-uhl             Ha'zar-shu'al                 place
+Hazar-shual             pns   HAY-zahr-SHOO-uhl             Ha'zar-shu'al                 place
+Hazar_Shual             pns   HAY-zahr-SHOO-uhl             Ha'zar_Shu'al                 place
+Hazarsusah              pns   HAY-zahr-SOO-suh              Ha'zar-su'sah                 place
+Hazar-susah             pns   HAY-zahr-SOO-suh              Ha'zar-su'sah                 place
+Hazar_Susah             pns   HAY-zahr-SOO-suh              Ha'zar_Su'sah                 place
+Hazarsusim              pns   HAY-zahr-SOO-sim              Ha'zar-su'sim                 place
+Hazar-susim             pns   HAY-zahr-SOO-sim              Ha'zar-su'sim                 place
+Hazar_Susim             pns   HAY-zahr-SOO-sim              Ha'zar_Su'sim                 place
+Hazazontamar            pns   HAZ-uh-zon-TAY-muhr           Haz'a-zon-ta'mar              place
+Hazazon-tamar           pns   HAZ-uh-zon-TAY-muhr           Haz'a-zon-ta'mar              place
+Hazazon_Tamar           pns   HAZ-uh-zon-TAY-muhr           Haz'a-zon_Ta'mar              place
+Hazelelponi             pns   HAZ-uh-lel-POH-niy            Haz'e-lel-po'ni               person
+Hazerhatticon           pns   HAY-zuhr-HAT-i-kon            Ha'zer-hat'ti-con             place
+Hazer-hatticon          pns   HAY-zuhr-HAT-i-kon            Ha'zer-hat'ti-con             place
+Hazer_Hatticon          pns   HAY-zuhr-HAT-i-kon            Ha'zer_Hat'ti-con             place
+Hazerim                 pns   huh-ZEE-rim                   Ha-ze'rim                     place
+Hazeroth                pns   huh-ZEE-roth                  Ha-ze'roth                    place
+Hazezontamar            pns   HAZ-i-zon-TAY-muhr            Haz'e-zon-ta'mar              place
+Hazezon-tamar           pns   HAZ-i-zon-TAY-muhr            Haz'e-zon-ta'mar              place
+Hazezon_Tamar           pns   HAZ-i-zon-TAY-muhr            Haz'e-zon_Ta'mar              place
+Haziel                  pns   HAY-zee-el                    Ha'zi-el                      person
+Hazo                    pns   HAY-zoh                       Ha'zo                         person
+Hazor                   pns   HAY-zohr                      Ha'zor                        place
+Hazorhadattah           pns   HAY-zohr-huh-DAT-uh           Ha'zor-ha-dat'tah             place
+Hazor-hadattah          pns   HAY-zohr-huh-DAT-uh           Ha'zor-ha-dat'tah             place
+Hazor_Hadattah          pns   HAY-zohr-huh-DAT-uh           Ha'zor_Ha-dat'tah             place
+Hazzelelponi            pns   HAZ-uh-lel-POH-niy            Haz'ze-lel-po'ni              person
+Hazzobebah              pns   HAZ-uh-BEE-buh                Haz'zo-be'bah                 person
+He                      pns   HAY                           He                            writing
+Hebel                   pns   HEE-bel                       He'bel                        place
 Heber                   pns   HEE-buhr                      He'ber                        person
-Hebrew                  pns   HEE-broo                      He'brew
-Hebrews                 pnp   HEE-brooz                     He'brews
-Hebron                  pns   HEE-bruhn                     He'bron
-Hebronite               pns   HEE-bruhn-iyt                 He'bron-ite
-Hebronites              pnp   HEE-bruhn-iyts                He'bron-ites
-Hegai                   pns   HEG-iy                        He'gai
-Hege                    pns   HEE-gee                       He'ge
-Heglam                  pns   HEG-lam                       Heg'lam
-Helah                   pns   HEE-lah                       He'lah
-Helam                   pns   HEE-luhm                      He'lam
-Helbah                  pns   HEL-buh                       Hel'bah
-Helbon                  pns   HEL-bon                       Hel'bon
-Heldai                  pns   HEL-diy                       Hel'dai
-Heleb                   pns   HEE-leb                       He'leb
-Helech                  pns   HEE-lek                       He'lech
-Heled                   pns   HEE-led                       He'led
-Helek                   pns   HEE-lek                       He'lek
-Helem                   pns   HEE-lem                       He'lem
-Heleph                  pns   HEE-lef                       He'leph
-Helez                   pns   HEE-lez                       He'lez
-Heli                    pns   HEE-liy                       He'li
-Heliodorus              pns   HEE-lee-oh-DOH-ruhs           Se'li-o-do'rus
-Heliopolis              pns   HEE-lee-OP-uh-lis             He'li-op'o-lis
-Helkai                  pns   HEL-kiy                       Hel'kai
-Helkath                 pns   HEL-kath                      Hel'kath
-Helkathhazzurim         pns   HEL-kath-HAZ-yoo-rim          Hel'kath-haz'zu-rim
-Helkath-hazzurim        pns   HEL-kath-HAZ-yoo-rim          Hel'kath-haz'zu-rim
-Hellenist               pns   HEL-en-ist                    Hel'len-ist
-Hellenists              pnp   HEL-en-ists                   Hel'len-ists
-Helon                   pns   HEE-lon                       He'lon
-Hemam                   pns   HEE-mam                       He'mam
-Heman                   pns   HEE-muhn                      He'man
-Hemath                  pns   HEE-math                      He'math
-Hemdan                  pns   HEM-dan                       Hem'dan
-Hen                     pns   HEN                           Hen
-Hena                    pns   HEE-nuh                       He'na
-Henadad                 pns   HEN-uh-dad                    Hen'a-dad
+Heberite                pns   HEE-buhr-iyt                  He'ber-ite                    ethnic
+Heberites               pnp   HEE-buhr-iyts                 He'ber-ites                   ethnic
+Hebrew                  pns   HEE-broo                      He'brew                       ethnic
+Hebrews                 pnp   HEE-brooz                     He'brews                      ethnic,writing
+Hebron                  pns   HEE-bruhn                     He'bron                       person,place
+Hebronite               pns   HEE-bruhn-iyt                 He'bron-ite                   ethnic
+Hebronites              pnp   HEE-bruhn-iyts                He'bron-ites                  ethnic
+Hegai                   pns   HEG-iy                        He'gai                        person
+Hege                    pns   HEE-gee                       He'ge                         person
+Heglam                  pns   HEG-lam                       Heg'lam                       person
+Helah                   pns   HEE-lah                       He'lah                        person
+Helam                   pns   HEE-luhm                      He'lam                        place
+Helbah                  pns   HEL-buh                       Hel'bah                       place
+Helbon                  pns   HEL-bon                       Hel'bon                       place
+Heldai                  pns   HEL-diy                       Hel'dai                       person
+Heleb                   pns   HEE-leb                       He'leb                        person
+Helech                  pns   HEE-lek                       He'lech                       place
+Heled                   pns   HEE-led                       He'led                        person
+Helek                   pns   HEE-lek                       He'lek                        person
+Helekite                pns   HEE-lek-iyt                   He'lek-ite                    ethnic
+Helekites               pns   HEE-lek-iyts                  He'lek-ites                   ethnic
+Helem                   pns   HEE-lem                       He'lem                        person
+Heleph                  pns   HEE-lef                       He'leph                       place
+Helez                   pns   HEE-lez                       He'lez                        person
+Heli                    pns   HEE-liy                       He'li                         person
+Heliodorus              pns   HEE-lee-oh-DOH-ruhs           He'li-o-do'rus                person
+Heliopolis              pns   HEE-lee-OP-uh-lis             He'li-op'o-lis                place
+Helkai                  pns   HEL-kiy                       Hel'kai                       person
+Helkath                 pns   HEL-kath                      Hel'kath                      place
+Helkathhazzurim         pns   HEL-kath-HAZ-yoo-rim          Hel'kath-haz'zu-rim           place
+Helkath-hazzurim        pns   HEL-kath-HAZ-yoo-rim          Hel'kath-haz'zu-rim           place
+Helkath_Hazzurim        pns   HEL-kath-HAZ-yoo-rim          Hel'kath_Haz'zu-rim           place
+Hellenist               pns   HEL-en-ist                    Hel'len-ist                   ethnic,title
+Hellenists              pnp   HEL-en-ists                   Hel'len-ists                  ethnic,title
+Helon                   pns   HEE-lon                       He'lon                        person
+Hemam                   pns   HEE-mam                       He'mam                        person
+Heman                   pns   HEE-muhn                      He'man                        person
+Hemath                  pns   HEE-math                      He'math                       person,place
+Hemdan                  pns   HEM-dan                       Hem'dan                       person
+Hen                     pns   HEN                           Hen                           person
+Hena                    pns   HEE-nuh                       He'na                         place
+Henadad                 pns   HEN-uh-dad                    Hen'a-dad                     person
 Henoch                  pns   HEE-nuhk                      He'noch                       person
-Hepher                  pns   HEE-fuhr                      He'pher
-Hephzibah               pns   HEF-zi-buh                    Heph'zi-bah
-Heres                   pns   HEE-reez                      He'res
-Heresh                  pns   HEE-resh                      He'resh
-Hereth                  pns   HEE-reth                      He'reth
-Hermas                  pns   HUHR-muhs                     Her'mas
-Hermes                  pns   HUHR-meez                     Her'mes
-Hermogenes              pns   huhr-MOJ-i-neez               Her-mog'e-nes
-Hermon                  pns   HUHR-muhn                     Her'mon
-Hermonite               pns   HUHR-muhn-iyt                 Her'mon-ite
-Hermonites              pnp   HUHR-muhn-iyts                Her'mon-ites
-Herod                   pns   HEHR-uhd                      Her'od
-Herodian                pns   hi-ROH-dee-an                 He-ro'di-an
-Herodians               pnp   hi-ROH-dee-anz                He-ro'di-ans
-Herodias                pns   hi-ROH-dee-as                 He-ro'di-as
-Herodion                pns   hi-ROH-dee-on                 He-ro'di-on
-Herodium                pns   hi-ROH-dee-uhm                He-ro'di-um
-Hesed                   pns   HEE-sed                       He'sed
-Heshbon                 pns   HESH-bon                      Hesh'bon
-Heshmon                 pns   HESH-mon                      Hesh'mon
+Hepher                  pns   HEE-fuhr                      He'pher                       person,place
+Hepherite               pns   HEE-fuhr-iyt                  He'pher-ite                   ethnic
+Hepherites              pnp   HEE-fuhr-iyts                 He'pher-ites                  ethnic
+Hephzibah               pns   HEF-zi-buh                    Heph'zi-bah                   person,place
+Heres                   pns   HEE-reez                      He'res                        place
+Heresh                  pns   HEE-resh                      He'resh                       person
+Hereth                  pns   HEE-reth                      He'reth                       place
+Hermas                  pns   HUHR-muhs                     Her'mas                       person
+Hermes                  pns   HUHR-meez                     Her'mes                       person,deity
+Hermogenes              pns   huhr-MOJ-i-neez               Her-mog'e-nes                 person
+Hermon                  pns   HUHR-muhn                     Her'mon                       place
+Hermonite               pns   HUHR-muhn-iyt                 Her'mon-ite                   ethnic
+Hermonites              pnp   HUHR-muhn-iyts                Her'mon-ites                  ethnic
+Herod                   pns   HEHR-uhd                      Her'od                        person
+Herodian                pns   hi-ROH-dee-an                 He-ro'di-an                   ethnic
+Herodians               pnp   hi-ROH-dee-anz                He-ro'di-ans                  ethnic
+Herodias                pns   hi-ROH-dee-as                 He-ro'di-as                   person
+Herodion                pns   hi-ROH-dee-on                 He-ro'di-on                   person
+Herodium                pns   hi-ROH-dee-uhm                He-ro'di-um                   place
+Hesed                   pns   HEE-sed                       He'sed                        person
+Heshbon                 pns   HESH-bon                      Hesh'bon                      place
+Heshmon                 pns   HESH-mon                      Hesh'mon                      place
 Hesli                   pns   HESH-liy                      Hesh'li                       person
-Heth                    pns   HAYTH                         Heth                          writing
-Hethlon                 pns   HETH-lon                      Heth'lon
-Hexateuch               pns   HEK-suh-took                  Hex'a-teuch
-Hezeki                  pns   HEZ-i-kiy                     Hez'e-ki
+Heth                    pns   HAYTH                         Heth                          person,writing
+Hethlon                 pns   HETH-lon                      Heth'lon                      place
+Hexateuch               pns   HEK-suh-took                  Hex'a-teuch                   writing
+Hezeki                  pns   HEZ-i-kiy                     Hez'e-ki                      person
 Hezekiah                pns   HEZ-i-KIY-uh                  Hez'e-ki'ah                   person
-Hezion                  pns   HEE-zee-uhn                   He'zi-on
-Hezir                   pns   HEE-zuhr                      He'zir
-Hezrai                  pns   HEEZ-riy                      Hez'rai
-Hezro                   pns   HEZ-roh                       Hez'ro
+Hezion                  pns   HEE-zee-uhn                   He'zi-on                      person
+Hezir                   pns   HEE-zuhr                      He'zir                        person
+Hezrai                  pns   HEEZ-riy                      Hez'rai                       person
+Hezro                   pns   HEZ-roh                       Hez'ro                        person
 Hezron                  pns   HEZ-ron                       Hez'ron                       person,place
-Hezronite               pns   HEZ-ron-iyt                   Hez'ron-ite
-Hezronites              pnp   HEZ-ron-iyts                  Hez'ron-ites
+Hezronite               pns   HEZ-ron-iyt                   Hez'ron-ite                   ethnic
+Hezronites              pnp   HEZ-ron-iyts                  Hez'ron-ites                  ethnic
 Hheth                   pns   HAYTH                         Hheth                         writing
-Hiddai                  pns   HID-iy                        Hid'dai
-Hiddekel                pns   HID-i-kel                     Hid'de-kel
-Hiel                    pns   HIY-el                        Hi'el
-Hierapolis              pns   HIY-uhr-AP-uh-lis             Hi'er-ap'o-lis
-Higgaion                pns   hi-GAY-yon                    Hig-ga'ion
-Hilen                   pns   HIY-len                       Hi'len
-Hilkiah                 pns   hil-KIY-uh                    Hil-ki'ah
-Hillel                  pns   HIL-el                        Hil'lel
-Hinnom                  pns   HIN-uhm                       Hin'nom
-Hirah                   pns   HIY-ruh                       Hi'rah
-Hiram                   pns   HIY-ruhm                      Hi'ram
-Hittite                 pns   HIT-iyt                       Hit'tite
-Hittites                pnp   HIT-iyts                      Hit'tites
-Hivite                  pns   HIY-viyt                      Hi'vite
-Hivites                 pnp   HIY-viyts                     Hi'vites
-Hizki                   pns   HIZ-kiy                       Hiz'ki
+Hiddai                  pns   HID-iy                        Hid'dai                       person
+Hiddekel                pns   HID-i-kel                     Hid'de-kel                    place
+Hiel                    pns   HIY-el                        Hi'el                         person
+Hierapolis              pns   HIY-uhr-AP-uh-lis             Hi'er-ap'o-lis                place
+Higgaion                pns   hi-GAY-yon                    Hig-ga'ion                    music
+Hilen                   pns   HIY-len                       Hi'len                        place
+Hilkiah                 pns   hil-KIY-uh                    Hil-ki'ah                     person
+Hillel                  pns   HIL-el                        Hil'lel                       person
+Hinnom                  pns   HIN-uhm                       Hin'nom                       place
+Hirah                   pns   HIY-ruh                       Hi'rah                        person
+Hiram                   pns   HIY-ruhm                      Hi'ram                        person
+Hittite                 pns   HIT-iyt                       Hit'tite                      ethnic
+Hittites                pnp   HIT-iyts                      Hit'tites                     ethnic
+Hivite                  pns   HIY-viyt                      Hi'vite                       ethnic
+Hivites                 pnp   HIY-viyts                     Hi'vites                      ethnic
+Hizki                   pns   HIZ-kiy                       Hiz'ki                        person
 Hizkiah                 pns   hiz-KIY-uh                    Hiz-ki'ah                     person
 Hizkijah                pns   hiz-KIY-juh                   Hiz-ki'jah                    person
-Hobab                   pns   HOH-bab                       Ho'bab
-Hobah                   pns   HOH-buh                       Ho'bah
-Hobaiah                 pns   huh-BAY-yuh                   Ho-ba'iah
-Hod                     pns   HOD                           Hod
-Hodaiah                 pns   huh-DAY-yuh                   Ho-da'iah
-Hodaviah                pns   HOH-duh-VIY-uh                Hod'a-vi'ah
-Hodeiah                 pns   huh-DEE-yuh                   Ha-de'iah
-Hodesh                  pns   HOH-desh                      Ho'desh
-Hodevah                 pns   huh-DEE-vuh                   Ho-de'vah
-Hodiah                  pns   huh-DIY-uh                    Ho-di'ah
-Hodijah                 pns   huh-DIY-juh                   Ho-di'jah
-Hoglah                  pns   HOG-luh                       Hog'lah
-Hoham                   pns   HOH-ham                       Ho'ham
-Holofernes              pns   HOL-uh-FUHR-neez              Hol'o-fer'nes
-Holon                   pns   HOH-lon                       Ho'lon
-Holy                    pns   HOH-li                        Ho'ly_
-Homam                   pns   HOH-mam                       Ho'mam
-Hoopoe                  pns   HOO-poo                       Hoo'poe
-Hophni                  pns   HOF-niy                       Hoph'ni
-Hophra                  pns   HOF-ruh                       Hoph'ra
-Hor                     pns   HOHR                          Hor
-Horam                   pns   HOH-ram                       Ho'ram
-Horeb                   pns   HOH-reb                       Ho'reb
-Horem                   pns   HOH-rem                       Ho'rem
-Horesh                  pns   HOH-resh                      Ho'resh
+Hobab                   pns   HOH-bab                       Ho'bab                        person
+Hobah                   pns   HOH-buh                       Ho'bah                        place
+Hobaiah                 pns   huh-BAY-yuh                   Ho-ba'iah                     person
+Hod                     pns   HOD                           Hod                           person
+Hodaiah                 pns   huh-DAY-yuh                   Ho-da'iah                     person
+Hodaviah                pns   HOH-duh-VIY-uh                Hod'a-vi'ah                   person
+Hodeiah                 pns   huh-DEE-yuh                   Ha-de'iah                     person
+Hodesh                  pns   HOH-desh                      Ho'desh                       person
+Hodevah                 pns   huh-DEE-vuh                   Ho-de'vah                     person
+Hodiah                  pns   huh-DIY-uh                    Ho-di'ah                      person
+Hodijah                 pns   huh-DIY-juh                   Ho-di'jah                     person
+Hoglah                  pns   HOG-luh                       Hog'lah                       person
+Hoham                   pns   HOH-ham                       Ho'ham                        person
+Holofernes              pns   HOL-uh-FUHR-neez              Hol'o-fer'nes                 person
+Holon                   pns   HOH-lon                       Ho'lon                        place
+Holy_Ghost              pns   HOH-li-GOHST                  Ho'ly_Ghost                   divine
+Holy_Spirit             pns   HOH-li-SPIR-it                Ho'ly_Spir'it                 divine
+Homam                   pns   HOH-mam                       Ho'mam                        person
+Hophni                  pns   HOF-niy                       Hoph'ni                       person
+Hophra                  pns   HOF-ruh                       Hoph'ra                       person
+Hor                     pns   HOHR                          Hor                           place
+Horam                   pns   HOH-ram                       Ho'ram                        person
+Horeb                   pns   HOH-reb                       Ho'reb                        place
+Horem                   pns   HOH-rem                       Ho'rem                        place
+Horesh                  pns   HOH-resh                      Ho'resh                       place
 Horhaggidgad            pns   HOHR-ha-GID-gad               Hor'hag-gid'gad               place
 Hor-haggidgad           pns   HOHR-ha-GID-gad               Hor'hag-gid'gad               place
 Hor_Haggidgad           pns   HOHR-ha-GID-gad               Hor_Hag-gid'gad               place
 Horhagidgad             pns   HOHR-huh-GID-gad              Hor'ha-gid'gad                place
 Hor-hagidgad            pns   HOHR-huh-GID-gad              Hor'ha-gid'gad                place
 Hor_Hagidgad            pns   HOHR-huh-GID-gad              Hor_Ha-gid'gad                place
-Hori                    pns   HOH-riy                       Ho'ri
-Horims                  pns   HOH-rimz                      Ho'rims
-Horite                  pns   HOH-riyt                      Ho'rite
-Horites                 pnp   HOH-riyts                     Ho'rites
-Hormah                  pns   HOHR-muh                      Hor'mah
-Horonaim                pns   HOHR-uh-NAY-im                Hor'o-na'im
-Horonite                pns   HOHR-uh-niyt                  Hor'o-nite
-Horonites               pnp   HOHR-uh-niyts                 Hor'o-nites
-Hosah                   pns   HOH-suh                       Ho'sah
-Hosea                   pns   huh-ZEE-uh                    Ho-se'a
-Hoshaiah                pns   huh-SHAY-yuh                  Ho-sha'iah
-Hoshama                 pns   HOSH-uh-muh                   Hosh'a-ma
-Hoshea                  pns   huh-SHEE-uh                   Ho-she'a
-Hotham                  pns   HOH-thuhm                     Ho'tham
-Hothan                  pns   HOH-thuhn                     Ho'than
-Hothir                  pns   HOH-thuhr                     Ho'thir
-Hozai                   pns   HOH-ziy                       Ho'zai
-Hukkok                  pns   HUK-ok                        Huk'kok
-Hukok                   pns   HOO-kok                       Hu'kok
-Hul                     pns   HUL                           Hul
-Huldah                  pns   HUL-duh                       Hul'dah
-Humtah                  pns   HUM-tuh                       Hum'tah
-Hupham                  pns   HOO-fuhm                      Hu'pham
-Huppah                  pns   HUP-uh                        Hup'pah
-Huppim                  pns   HUP-im                        Hup'pim
-Hur                     pns   HUHR                          Hur
-Hurai                   pns   HOO-riy                       Hu'rai
-Huram                   pns   HOO-ruhm                      Hu'ram
-Huramabi                pns   HOO-ram-AH-biy                Hu'ram-a'bi
-Huram-abi               pns   HOO-ram-AH-biy                Hu'ram-a'bi
-Huri                    pns   HOO-riy                       Hu'ri
-Hurrian                 pns   HUUR-ee-uhn                   Hur'ri-an
-Hurrians                pns   HUUR-ee-uhnz                  Hur'ri-ans
-Hushah                  pns   HOO-shuh                      Hu'shah
-Hushai                  pns   HOO-shiy                      Hu'shai
-Husham                  pns   HOO-shuhm                     Hu'sham
-Hushathite              pns   HOO-shath-iyt                 Hu'shath-ite
-Hushathites             pnp   HOO-shath-iyts                Hu'shath-ites
-Hushim                  pns   HOO-shim                      Hu'shim
-Huz                     pns   HUZ                           Huz
-Huzzab                  pns   HUZ-uhb                       Huz'zab
-Hydaspes                pns   hiy-DAS-peez                  Hy-das'pes
-Hyksos                  pns   HIK-SOHS                      Hyk'sos
-Hymenaeus               pns   HIY-muh-NEE-uhs               Hy'me-nae'us
-Hyrcania                pns   huhr-KAY-nee-uh               Hyr-ca'ni-a
-Hyrcanus                pns   huhr-KAY-nuhs                 Hyr-ca'nus
+Hori                    pns   HOH-riy                       Ho'ri                         person,ethnic
+Horim                   pnp   HOH-rim                       Ho'rim                        ethnic
+Horims                  pnp   HOH-rimz                      Ho'rims                       ethnic
+Horite                  pns   HOH-riyt                      Ho'rite                       ethnic
+Horites                 pnp   HOH-riyts                     Ho'rites                      ethnic
+Hormah                  pns   HOHR-muh                      Hor'mah                       place
+Horonaim                pns   HOHR-uh-NAY-im                Hor'o-na'im                   place
+Horonite                pns   HOHR-uh-niyt                  Hor'o-nite                    ethnic
+Horonites               pnp   HOHR-uh-niyts                 Hor'o-nites                   ethnic
+Hosah                   pns   HOH-suh                       Ho'sah                        person,place
+Hosea                   pns   huh-ZEE-uh                    Ho-se'a                       person,writing
+Hoshaiah                pns   huh-SHAY-yuh                  Ho-sha'iah                    person
+Hoshama                 pns   HOSH-uh-muh                   Hosh'a-ma                     person
+Hoshea                  pns   huh-SHEE-uh                   Ho-she'a                      person
+Hotham                  pns   HOH-thuhm                     Ho'tham                       person
+Hothan                  pns   HOH-thuhn                     Ho'than                       person
+Hothir                  pns   HOH-thuhr                     Ho'thir                       person
+Hozai                   pns   HOH-ziy                       Ho'zai                        person
+Hubbah                  pns   HUH-buh                       Hub'bah                       person
+Hukkok                  pns   HUK-ok                        Huk'kok                       place
+Hukok                   pns   HOO-kok                       Hu'kok                        place
+Hul                     pns   HUL                           Hul                           person
+Huldah                  pns   HUL-duh                       Hul'dah                       person
+Humtah                  pns   HUM-tuh                       Hum'tah                       place
+Hupham                  pns   HOO-fuhm                      Hu'pham                       person
+Huphamite               pns   HOO-fuhm-iyt                  Hu'pham-ite                   ethnic
+Huphamites              pnp   HOO-fuhm-iyts                 Hu'pham-ites                  ethnic
+Huppah                  pns   HUP-uh                        Hup'pah                       person
+Huppim                  pns   HUP-im                        Hup'pim                       person
+Hur                     pns   HUHR                          Hur                           person
+Hurai                   pns   HOO-riy                       Hu'rai                        person
+Huram                   pns   HOO-ruhm                      Hu'ram                        person
+Huramabi                pns   HOO-ram-AH-biy                Hu'ram-a'bi                   person
+Huram-abi               pns   HOO-ram-AH-biy                Hu'ram-a'bi                   person
+Huri                    pns   HOO-riy                       Hu'ri                         person
+Hurrian                 pns   HUUR-ee-uhn                   Hur'ri-an                     ethnic
+Hurrians                pnp   HUUR-ee-uhnz                  Hur'ri-ans                    ethnic
+Hushah                  pns   HOO-shuh                      Hu'shah                       person,place
+Hushai                  pns   HOO-shiy                      Hu'shai                       person
+Husham                  pns   HOO-shuhm                     Hu'sham                       person
+Hushathite              pns   HOO-shath-iyt                 Hu'shath-ite                  ethnic
+Hushathites             pnp   HOO-shath-iyts                Hu'shath-ites                 ethnic
+Hushim                  pns   HOO-shim                      Hu'shim                       person
+Hushite                 pns   HOO-shiyt                     Hu'shite                      ethnic
+Hushites                pnp   HOO-shiyts                    Hu'shites                     ethnic
+Huz                     pns   HUZ                           Huz                           person,place
+Huzzab                  pns   HUZ-uhb                       Huz'zab                       person
+Hydaspes                pns   hiy-DAS-peez                  Hy-das'pes                    place
+Hyksos                  pns   HIK-SOHS                      Hyk'sos                       place,ethnic
+Hymenaeus               pns   HIY-muh-NEE-uhs               Hy'me-nae'us                  person
+Hyrcania                pns   huhr-KAY-nee-uh               Hyr-ca'ni-a                   place
+Hyrcanus                pns   huhr-KAY-nuhs                 Hyr-ca'nus                    person
 
 Ibhar                   pns   IB-hahr                       Ib'har
 Ibleam                  pns   IB-lee-am                     Ib'le-am                      place
@@ -3829,7 +3871,7 @@ Matthew                 pns   MATH-oo                       Mat'thew
 Matthias                pns   muh-THIY-uhs                  Mat-thi'as
 Mattithiah              pns   MAT-i-THIY-uh                 Mat'ti-thi'ah
 Mazzaroth               pns   MAZ-uh-roth                   Maz'za-roth
-Meah                    pns   MEE-uh                        Me'ah
+Meah                    pns   MEE-uh                        Me'ah                         place
 Mearah                  pns   mee-AY-ruh                    Me-a'rah
 Mebunnai                pns   mi-BUN-iy                     Me-bun'nai
 Mecherathite            pns   mi-KEE-rath-iyt               Me-che'rath-ite
@@ -3992,7 +4034,7 @@ Millo                   pns   MIL-oh                        Mil'lo
 Miniamin                pns   MIN-yuh-min                   Min'ia-min
 Minni                   pns   MIN-iy                        Min'ni
 Minnith                 pns   MIN-ith                       Min'nith
-Miphkad                 pns   MIF-kad                       Miph'kad
+Miphkad                 pns   MIF-kad                       Miph'kad                      place
 Miriam                  pns   MIR-ee-uhm                    Mir'i-am
 Mirma                   pns   MUHR-muh                      Mir'ma
 Mirmah                  pns   MUHR-muh                      Mir'mah
@@ -4288,7 +4330,7 @@ Orthosia                pns   OHR-thuh-SIY-uh               Or'tho-si'a
 Orthosias               pns   OHR-thuh-SIY-uhs              Or'tho-si'as
 Osee                    pns   OH-zee                       *O'see
 Osnappar                pns   os-NAP-uhr                    Os-nap'par                    person
-Oshea                   pns   uh-SHEE-uh                   *O-she'a
+Oshea                   pns   uh-SHEE-uh                    O-she'a                       person
 Othni                   pns   OTH-niy                       Oth'ni
 Othniel                 pns   OTH-nee-el                    Oth'ni-el
 Ozem                    pns   OH-zem                        O'zem
@@ -4451,8 +4493,9 @@ Phygellus               pns   fi-JEL-uhs                    Phy-gel'lus
 Phygelus                pns   FIY-je-luhs                   Phy'ge-lus
 Pibeseth                pns   piy-BEE-seth                  Pi-be'seth
 Pi-beseth               pns   piy-BEE-seth                  Pi-be'seth
-Pihahiroth              pns   PIY-huh-HIY-roth              Pi'ha-hi'roth
-Pi-hahiroth             pns   PIY-huh-HIY-roth              Pi'ha-hi'roth
+Pihahiroth              pns   PIY-huh-HIY-roth              Pi'ha-hi'roth                 place
+Pi-hahiroth             pns   PIY-huh-HIY-roth              Pi'ha-hi'roth                 place
+Pi_Hahiroth             pns   PIY-huh-HIY-roth              Pi_Ha-hi'roth                 place
 Pilate                  pns   PIY-luht                      Pi'late
 Pildash                 pns   PIL-dash                      Pil'dash
 Pileha                  pns   PIL-i-hah                     Pil'e-ha
@@ -4577,8 +4620,8 @@ Raphon                  pns   RAY-fon                       Ra'phon
 Raphu                   pns   RAY-foo                       Ra'phu
 Ras                     pns   RAHS                          Ras_
 Rathamin                pns   RATH-uh-min                   Rath'a-min
-Reaia                   pns   ree-AY-yuh                    Re-a'ia
-Reaiah                  pns   ree-AY-yuh                    Re-a'iah
+Reaia                   pns   ree-AY-yuh                    Re-a'ia                       person
+Reaiah                  pns   ree-AY-yuh                    Re-a'iah                      person
 Reba                    pns   REE-buh                       Re'ba
 Rebecca                 pns   ri-BEK-uh                     Re-bec'ca
 Rebekah                 pns   ri-BEK-uh                     Re-bek'ah
@@ -4764,11 +4807,11 @@ Semachiah               pns   SEM-uh-KIY-uh                 Sem'a-chi'ah
 Semei                   pns   SEM-ee-iy                     Sem'e-i
 Semein                  pns   SEM-ee-in                     Sem'e-in
 Semitic                 pns   si-MIT-ik                     Se-mit'ic
-Senaah                  pns   si-NAY-uh                     Se-na'ah
+Senaah                  pns   si-NAY-uh                     Se-na'ah                      person
 Seneh                   pns   SEE-ne                        Se'neh
 Senir                   pns   SEE-nir                       Se'nir
 Sennacherib             pns   suh-NAK-uhr-ib                Sen-nach'er-ib
-Senuah                  pns   si-NOO-uh                     Se-nu'ah
+Senuah                  pns   si-NOO-uh                     Se-nu'ah                      person
 Seorim                  pns   see-OH-rim                    Se-o'rim
 Sephar                  pns   SEE-fahr                      Se'phar
 Sepharad                pns   si-FAY-rad                    Se-pha'rad
@@ -5109,7 +5152,7 @@ Sotai                   pns   SOH-tiy                       So'tai
 Spain                   pns   SPAYN                         Spain
 Spartan                 pns   SPAHR-tuhn                    Spar'tan
 Spartans                pnp   SPAHR-tuhnz                   Spar'tans
-Spirit                  pns   SPIR-it                      _Spir'it
+Spirit                  pns   SPIR-it                       Spir'it                       divine
 Stachys                 pns   STAY-kis                      Sta'chys
 Stephanas               pns   STEF-uh-nas                   Steph'a-nas
 Stephen                 pns   STEE-vuhn                     Ste'phen

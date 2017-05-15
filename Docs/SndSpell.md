@@ -165,6 +165,6 @@ BibleVox SndSpell is a spelling syntax in some ways similar to the many other re
 ## Example usage:
 (By convention, single syllable words are always respelled accented.)
 
-Biy: MIY-kuhl ED-wuhrd AD-uhms, FRUM YUNGZ-town, OF muh-HOHN-ing KOWN-tee, oh-HIY-oh. HOHM OF DHUH YUNGZ-town STAYT YOO-ni-VUHR-si-tee PEN-gwinz AND MIY AHL-muh MAH-tuhr.
+BIY: MIY-kuhl ED-wuhrd AD-uhms, FRUM YUNGZ-town, OF muh-HOHN-ing KOWN-tee, oh-HIY-oh. HOHM OF DHUH YUNGZ-town STAYT YOO-ni-VUHR-si-tee PEN-gwinz AND MIY AHL-muh MAH-tuhr.
 
-By:  Michael Edward Adams, from Youngstown, of Mahoning County, Ohio. Home of the Youngstown State University Penguins and my alma mater.
+By: Michael Edward Adams, from Youngstown, of Mahoning County, Ohio. Home of the Youngstown State University Penguins and my alma mater.
