@@ -5815,6 +5815,10 @@
 (lex.add.entry 
  '("Jaakan" nnp (((jh ey) 1) ((ax) 0) ((k ae n) 0))) )
 (lex.add.entry 
+ '("Jaakanite" nnp (((jh ey) 1) ((ax) 0) ((k ax n) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Jaakanites" nnps (((jh ey) 1) ((ax) 0) ((k ax n) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Jaakobah" nnp (((jh ey) 1) ((ax) 0) ((k ow) 1) ((b ax) 0))) )
 (lex.add.entry 
  '("Jaala" nnp (((jh ey) 1) ((ax) 0) ((l ax) 0))) )
@@ -5859,6 +5863,8 @@
 (lex.add.entry 
  '("Jabesh-gilead" nnp (((jh ey) 1) ((b eh sh) 0) ((g ih l) 1) ((iy) 0) ((ax d) 0))) )
 (lex.add.entry 
+ '("Jabesh_Gilead" nnp (((jh ey) 1) ((b eh sh) 0) ((g ih l) 1) ((iy) 0) ((ax d) 0))) )
+(lex.add.entry 
  '("Jabez" nnp (((jh ey) 1) ((b eh z) 0))) )
 (lex.add.entry 
  '("Jabin" nnp (((jh ey) 1) ((b ih n) 0))) )
@@ -5873,9 +5879,15 @@
 (lex.add.entry 
  '("Jachin" nnp (((jh ey) 1) ((k ih n) 0))) )
 (lex.add.entry 
+ '("Jachinite" nnp (((jh ey) 1) ((k ih n) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Jachinites" nnps (((jh ey) 1) ((k ih n) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Jacob" nnp (((jh ey) 1) ((k ax b) 0))) )
 (lex.add.entry 
  '("Jada" nnp (((jh ey) 1) ((d ax) 0))) )
+(lex.add.entry 
+ '("Jadah" nnp (((jh ey) 1) ((d ax) 0))) )
 (lex.add.entry 
  '("Jadau" nnp (((jh ey) 1) ((d ao) 0))) )
 (lex.add.entry 
@@ -5911,11 +5923,19 @@
 (lex.add.entry 
  '("Jahleel" nnp (((jh aa) 1) ((l iy) 0) ((eh l) 0))) )
 (lex.add.entry 
+ '("Jahleelite" nnp (((jh aa) 1) ((l iy) 0) ((eh l) 0) ((ih t eh) 0))) )
+(lex.add.entry 
+ '("Jahleelites" nnps (((jh aa) 1) ((l iy) 0) ((eh l) 0) ((ih t eh s) 0))) )
+(lex.add.entry 
  '("Jahmai" nnp (((jh aa) 1) ((m ay) 0))) )
 (lex.add.entry 
  '("Jahzah" nnp (((jh aa) 1) ((z ax) 0))) )
 (lex.add.entry 
  '("Jahzeel" nnp (((jh aa) 1) ((z iy) 0) ((eh l) 0))) )
+(lex.add.entry 
+ '("Jahzeelite" nnp (((jh aa) 1) ((z iy) 0) ((eh l) 0) ((ih t eh) 0))) )
+(lex.add.entry 
+ '("Jahzeelites" nnps (((jh aa) 1) ((z iy) 0) ((eh l) 0) ((ih t eh s) 0))) )
 (lex.add.entry 
  '("Jahzeiah" nnp (((jh aa) 0) ((z iy) 1) ((y ax) 0))) )
 (lex.add.entry 
@@ -5937,6 +5957,8 @@
 (lex.add.entry 
  '("Jakim" nnp (((jh ey) 1) ((k ih m) 0))) )
 (lex.add.entry 
+ '("Jakin" nnp (((jh ey) 1) ((k ih n) 0))) )
+(lex.add.entry 
  '("Jalam" nnp (((jh ey) 1) ((l ax m) 0))) )
 (lex.add.entry 
  '("Jalon" nnp (((jh ey) 1) ((l aa n) 0))) )
@@ -5948,6 +5970,10 @@
  '("James" nnp (((jh ey m z) 1))) )
 (lex.add.entry 
  '("Jamin" nnp (((jh ey) 1) ((m ih n) 0))) )
+(lex.add.entry 
+ '("Jaminite" nnp (((jh ey) 1) ((m ih n) 0) ((ih t eh) 0))) )
+(lex.add.entry 
+ '("Jaminites" nnp (((jh ey) 1) ((m ih n) 0) ((ih t eh s) 0))) )
 (lex.add.entry 
  '("Jamlech" nnp (((jh ae m) 1) ((l eh k) 0))) )
 (lex.add.entry 
@@ -5999,6 +6025,8 @@
 (lex.add.entry 
  '("Jaroah" nnp (((jh ax) 0) ((r ow) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Jasau" nnp (((jh ey) 1) ((s ao) 0))) )
+(lex.add.entry 
  '("Jashar" nnp (((jh ey) 1) ((sh er) 0))) )
 (lex.add.entry 
  '("Jashen" nnp (((jh ey) 1) ((sh ax n) 0))) )
@@ -6010,6 +6038,14 @@
  '("Jashub" nnp (((jh ey) 1) ((sh ah b) 0))) )
 (lex.add.entry 
  '("Jashubilehem" nnp (((jh ax) 0) ((sh uw) 1) ((b ay) 0) ((l iy) 1) ((hh eh m) 0))) )
+(lex.add.entry 
+ '("Jashubi-lehem" nnp (((jh ax) 0) ((sh uw) 1) ((b ay) 0) ((l iy) 1) ((hh eh m) 0))) )
+(lex.add.entry 
+ '("Jashubi_Lehem" nnp (((jh ax) 0) ((sh uw) 1) ((b ay) 0) ((l iy) 1) ((hh eh m) 0))) )
+(lex.add.entry 
+ '("Jashubite" nnp (((jh ey) 1) ((sh ah b) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Jashubites" nnps (((jh ey) 1) ((sh ah b) 0) ((ay t s) 0))) )
 (lex.add.entry 
  '("Jasiel" nnp (((jh ey) 1) ((s iy) 0) ((eh l) 0))) )
 (lex.add.entry 
@@ -6032,6 +6068,8 @@
  '("Jeatherai" nnp (((jh iy) 0) ((ae th) 1) ((ih) 0) ((r ay) 0))) )
 (lex.add.entry 
  '("Jeberechiah" nnp (((jh ih) 0) ((b eh r) 1) ((ih) 0) ((k ay) 1) ((ax) 0))) )
+(lex.add.entry 
+ '("Jeberekiah" nnp (((jh ih) 0) ((b eh r) 1) ((ih) 0) ((k ay) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Jebus" nnp (((jh iy) 1) ((b ax s) 0))) )
 (lex.add.entry 
@@ -6075,6 +6113,8 @@
 (lex.add.entry 
  '("Jegar-sahadutha" nnp (((jh iy) 1) ((g aa r) 0) ((s ey) 1) ((hh ax) 0) ((d uw) 1) ((th ax) 0))) )
 (lex.add.entry 
+ '("Jegar_Sahadutha" nnp (((jh iy) 1) ((g aa r) 0) ((s ey) 1) ((hh ax) 0) ((d uw) 1) ((th ax) 0))) )
+(lex.add.entry 
  '("Jahaleleel" nnp (((jh iy) 1) ((hh ax) 0) ((l iy) 1) ((l iy) 0) ((eh l) 0))) )
 (lex.add.entry 
  '("Jehalelel" nnp (((jh ih) 0) ((hh ae l) 1) ((ih) 0) ((l eh l) 0))) )
@@ -6092,6 +6132,10 @@
  '("Jehiel" nnp (((jh ih) 0) ((hh ay) 1) ((eh l) 0))) )
 (lex.add.entry 
  '("Jehieli" nnp (((jh ih) 0) ((hh ay) 1) ((ax) 0) ((l ay) 0))) )
+(lex.add.entry 
+ '("Jehielite" nnp (((jh ih) 0) ((hh ay) 1) ((ax) 0) ((l ay t) 0))) )
+(lex.add.entry 
+ '("Jehielites" nnps (((jh ih) 0) ((hh ay) 1) ((ax) 0) ((l ay t s) 0))) )
 (lex.add.entry 
  '("Jehizkiah" nnp (((jh iy) 1) ((hh ih z) 0) ((k ay) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -6139,13 +6183,19 @@
 (lex.add.entry 
  '("Jehovah-jireh" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((jh ay) 1) ((r eh) 0))) )
 (lex.add.entry 
+ '("Jehovah_Jireh" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((jh ay) 1) ((r eh) 0))) )
+(lex.add.entry 
  '("Jehovahnissi" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((n ih s) 1) ((ay) 0))) )
 (lex.add.entry 
  '("Jehovah-nissi" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((n ih s) 1) ((ay) 0))) )
 (lex.add.entry 
+ '("Jehovah_Nissi" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((n ih s) 1) ((ay) 0))) )
+(lex.add.entry 
  '("Jehovahshalom" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((sh ey) 1) ((l aa m) 0))) )
 (lex.add.entry 
  '("Jehovah-shalom" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((sh ey) 1) ((l aa m) 0))) )
+(lex.add.entry 
+ '("Jehovah_Shalom" nnp (((jh ih) 0) ((hh ow) 1) ((v ax) 0) ((sh ey) 1) ((l aa m) 0))) )
 (lex.add.entry 
  '("Jehozabad" nnp (((jh ih) 0) ((hh aa z) 1) ((ax) 0) ((b ae d) 0))) )
 (lex.add.entry 
@@ -6192,6 +6242,10 @@
  '("Jerah" nnp (((jh iy) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Jerahmeel" nnp (((jh ih) 0) ((r aa) 1) ((m iy) 0) ((eh l) 0))) )
+(lex.add.entry 
+ '("Jerahmeelite" nnp (((jh ih) 0) ((r aa) 1) ((m iy) 0) ((eh l) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Jerahmeelites" nnps (((jh ih) 0) ((r aa) 1) ((m iy) 0) ((eh l) 0) ((ay t s) 0))) )
 (lex.add.entry 
  '("Jered" nnp (((jh iy) 1) ((r eh d) 0))) )
 (lex.add.entry 
@@ -6249,6 +6303,8 @@
 (lex.add.entry 
  '("Jesher" nnp (((jh iy) 1) ((sh er) 0))) )
 (lex.add.entry 
+ '("Jeshiah" nnp (((jh ih) 0) ((sh ay) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Jeshimon" nnp (((jh ih) 0) ((sh ay) 1) ((m aa n) 0))) )
 (lex.add.entry 
  '("Jeshishai" nnp (((jh ih) 0) ((sh ih sh) 1) ((ay) 0))) )
@@ -6269,9 +6325,15 @@
 (lex.add.entry 
  '("Jesui" nnp (((jh eh s) 1) ((y uw) 0) ((ay) 0))) )
 (lex.add.entry 
+ '("Jesuite" nnp (((jh eh s) 1) ((y uw) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Jesuites" nnps (((jh eh s) 1) ((y uw) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Jesurun" nnp (((jh eh s) 1) ((y uw) 0) ((r ah n) 0))) )
 (lex.add.entry 
  '("Jesus" nnp (((jh iy) 1) ((z ax s) 0))) )
+(lex.add.entry 
+ '("Jesus_Christ" nnp (((jh iy) 1) ((z ax s) 0) ((k r ay s t) 1))) )
 (lex.add.entry 
  '("Jether" nnp (((jh iy) 1) ((th er) 0))) )
 (lex.add.entry 
@@ -6305,6 +6367,10 @@
 (lex.add.entry 
  '("Jezer" nnp (((jh iy) 1) ((z er) 0))) )
 (lex.add.entry 
+ '("Jezerite" nnp (((jh iy) 1) ((z er) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Jezerites" nnps (((jh iy) 1) ((z er) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Jeziah" nnp (((jh ih) 0) ((z ay) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Jeziel" nnp (((jh iy) 1) ((z iy) 0) ((eh l) 0))) )
@@ -6331,6 +6397,10 @@
 (lex.add.entry 
  '("Jimnah" nnp (((jh ih m) 1) ((n ax) 0))) )
 (lex.add.entry 
+ '("Jimnite" nnp (((jh ih m) 1) ((n ay t) 0))) )
+(lex.add.entry 
+ '("Jimnites" nnps (((jh ih m) 1) ((n ay t s) 0))) )
+(lex.add.entry 
  '("Jiphtah" nnp (((jh ih f) 1) ((t ax) 0))) )
 (lex.add.entry 
  '("Jiphtahel" nnp (((jh ih f) 1) ((t ax) 0) ((eh l) 0))) )
@@ -6338,6 +6408,8 @@
  '("Jiphthahel" nnp (((jh ih f) 1) ((th ax) 0) ((eh l) 0))) )
 (lex.add.entry 
  '("Jiphthah-el" nnp (((jh ih f) 1) ((th ax) 0) ((eh l) 0))) )
+(lex.add.entry 
+ '("Jiphthah_El" nnp (((jh ih f) 1) ((th ax) 0) ((eh l) 0))) )
 (lex.add.entry 
  '("Joab" nnp (((jh ow) 1) ((ae b) 0))) )
 (lex.add.entry 
@@ -6363,7 +6435,7 @@
 (lex.add.entry 
  '("Jochebed" nnp (((jh aa k) 1) ((ax) 0) ((b eh d) 0))) )
 (lex.add.entry 
- '("Jod" nnp (((jh ow d) 1))) )
+ '("Jod" nnp (((jh aa d) 1))) )
 (lex.add.entry 
  '("Joda" nnp (((jh ow) 1) ((d ax) 0))) )
 (lex.add.entry 
@@ -6419,11 +6491,17 @@
 (lex.add.entry 
  '("Jonathan" nnp (((jh aa n) 1) ((ax) 0) ((th ax n) 0))) )
 (lex.add.entry 
- '("Jonath" nnp (((jh ow) 1) ((n ae th) 0))) )
-(lex.add.entry 
  '("Jonathelemrechokim" nnp (((jh ow) 1) ((n ae th) 0) ((iy) 1) ((l eh m) 0) ((r ih) 0) ((k ow) 1) ((k ih m) 0))) )
 (lex.add.entry 
  '("Jonath-elem-rechokim" nnp (((jh ow) 1) ((n ae th) 0) ((iy) 1) ((l eh m) 0) ((r ih) 0) ((k ow) 1) ((k ih m) 0))) )
+(lex.add.entry 
+ '("Jonath_Elem_Rechokim" nnp (((jh ow) 1) ((n ae th) 0) ((iy) 1) ((l eh m) 0) ((r ih) 0) ((k ow) 1) ((k ih m) 0))) )
+(lex.add.entry 
+ '("Jonathelemrehokim" nnp (((jh ow) 1) ((n ae th) 0) ((iy) 1) ((l eh m) 0) ((r ih) 0) ((hh ow) 1) ((k ih m) 0))) )
+(lex.add.entry 
+ '("Jonath-elem-rehokim" nnp (((jh ow) 1) ((n ae th) 0) ((iy) 1) ((l eh m) 0) ((r ih) 0) ((hh ow) 1) ((k ih m) 0))) )
+(lex.add.entry 
+ '("Jonath_Elem_Rehokim" nnp (((jh ow) 1) ((n ae th) 0) ((iy) 1) ((l eh m) 0) ((r ih) 0) ((hh ow) 1) ((k ih m) 0))) )
 (lex.add.entry 
  '("Joppa" nnp (((jh aa p) 1) ((aa) 0))) )
 (lex.add.entry 
@@ -6516,6 +6594,10 @@
  '("Judaism" nnp (((jh uw) 1) ((d ey) 0) ((ih z) 0) ((ax m) 0))) )
 (lex.add.entry 
  '("Judas" nnp (((jh uw) 1) ((d ax s) 0))) )
+(lex.add.entry 
+ '("Judas-iscariot" nnp (((jh uw) 1) ((d ax s) 0) ((ih s) 0) ((k ae r) 1) ((iy) 0) ((ax t) 0))) )
+(lex.add.entry 
+ '("Judas_Iscariot" nnp (((jh uw) 1) ((d ax s) 0) ((ih s) 0) ((k ae r) 1) ((iy) 0) ((ax t) 0))) )
 (lex.add.entry 
  '("Jude" nnp (((jh uw d) 1))) )
 (lex.add.entry 
@@ -6757,6 +6839,8 @@
 (lex.add.entry 
  '("Kiriath-arim" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((ey) 1) ((r ih m) 0))) )
 (lex.add.entry 
+ '("Kiriath_Arim" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((ey) 1) ((r ih m) 0))) )
+(lex.add.entry 
  '("Kiriathbaal" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
  '("Kiriath-baal" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((b ey) 1) ((ax l) 0))) )
@@ -6768,6 +6852,8 @@
  '("Kiriathjearim" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Kiriath-jearim" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
+(lex.add.entry 
+ '("Kiriath_Jearim" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Kiriathsannah" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((s ae n) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -6802,6 +6888,8 @@
  '("Kirjathjearim" nnp (((k ih r) 1) ((jh ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Kirjath-jearim" nnp (((k ih r) 1) ((jh ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
+(lex.add.entry 
+ '("Kirjath_Jearim" nnp (((k ih r) 1) ((jh ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Kirjathsannah" nnp (((k ih r) 1) ((jh ae th) 0) ((s ae n) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -10514,6 +10602,8 @@
  '("Yah" nnp (((y aa) 1))) )
 (lex.add.entry 
  '("Yiron" nnp (((y ay) 1) ((r aa n) 0))) )
+(lex.add.entry 
+ '("Yod" nnp (((y aa d) 1))) )
 (lex.add.entry 
  '("Yodh" nnp (((y ow d) 1))) )
 (lex.add.entry 
