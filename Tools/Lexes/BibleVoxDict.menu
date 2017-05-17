@@ -2091,7 +2091,7 @@ Elparan                 pns   el-PAY-ruhn                   El-pa'ran           
 El-paran                pns   el-PAY-ruhn                   El-pa'ran                     place
 El_Paran                pns   el-PAY-ruhn                   El_Pa'ran                     place
 Elpelet                 pns   el-PEE-let                    El-pe'let                     person
-El_Shaddai              pns   el-SHAD-iy                    El_Shad'dai                   divine
+El_Shaddai              pns   el-SHAD-iy                    El_Shad'dai                   person
 Elteke                  pns   EL-ti-kee                     El'te-ke                      place
 Eltekeh                 pns   EL-ti-kee                     El'te-keh                     place
 Eltekon                 pns   EL-ti-kon                     El'te-kon                     place
@@ -2109,7 +2109,7 @@ Emim                    pnp   EE-mim                        E'mim               
 Emims                   pnp   EE-mimz                       E'mims                        ethnic
 Emite                   pns   EE-miyt                       E'mite                        ethnic
 Emites                  pnp   EE-miyts                      E'mites                       ethnic
-Emmanuel                pns   e-MAN-yoo-el                  Em-man'u-el                   devine
+Emmanuel                pns   e-MAN-yoo-el                  Em-man'u-el                   person
 Emmaus                  pns   e-MAY-uhs                     Em-ma'us                      place
 Emmor                   pns   EM-uhr                        Em'mor                        person
 Enaim                   pns   i-NAY-im                      E-na'im                       place
@@ -2944,139 +2944,155 @@ Hymenaeus               pns   HIY-muh-NEE-uhs               Hy'me-nae'us        
 Hyrcania                pns   huhr-KAY-nee-uh               Hyr-ca'ni-a                   place
 Hyrcanus                pns   huhr-KAY-nuhs                 Hyr-ca'nus                    person
 
-Ibhar                   pns   IB-hahr                       Ib'har
+Ibhar                   pns   IB-hahr                       Ib'har                        person
 Ibleam                  pns   IB-lee-am                     Ib'le-am                      place
-Ibneiah                 pns   IB-NEE-yuh                    Ib'ne'iah
-Ibnijah                 pns   ib-NIY-juh                    Ib-ni'jah
-Ibri                    pns   IB-riy                        Ib'ri
-Ibsam                   pns   IB-suhm                       Ib'sam
-Ibzan                   pns   IB-zan                        Ib'zan
-Ichabod                 pns   IK-uh-bod                     Ich'a-bod
-Iconium                 pns   iy-KOH-nee-uhm                I-co'ni-um
-Idalah                  pns   ID-uh-luh                     Id'a-lah
-Idbash                  pns   ID-bash                       Id'bash
-Iddo                    pns   ID-oh                         Id'do
+Ibneiah                 pns   IB-NEE-yuh                    Ib'ne'iah                     place
+Ibnijah                 pns   ib-NIY-juh                    Ib-ni'jah                     person
+Ibri                    pns   IB-riy                        Ib'ri                         person
+Ibsam                   pns   IB-suhm                       Ib'sam                        person
+Ibzan                   pns   IB-zan                        Ib'zan                        person
+Ichabod                 pns   IK-uh-bod                     Ich'a-bod                     person
+Iconium                 pns   iy-KOH-nee-uhm                I-co'ni-um                    place
+Idalah                  pns   ID-uh-luh                     Id'a-lah                      place
+Idbash                  pns   ID-bash                       Id'bash                       person
+Iddo                    pns   ID-oh                         Id'do                         person
 Idumaea                 pns   ID-yoo-MEE-uh                 Id'u-mae'a                    place
 Idumea                  pns   ID-yoo-MEE-uh                 Id'u-me'a                     place
-Iezer                   pns   iy-EE-zuhr                    I-e'zer
-Iezerite                pns   iy-EE-zuhr-iyt                I-e'zer-ite
-Iezerites               pnp   iy-EE-zuhr-iyts               I-e'zer-ites
-Igal                    pns   IY-gal                        I'gal
-Igdaliah                pns   IG-duh-LIY-uh                 Ig'da-li'ah
-Igeal                   pns   IY-gee-uhl                    I'ge-al
-Iim                     pns   IY-im                         I'im
-Ijeabarim               pns   IY-jee-AB-uh-rim              I'je-ab'a-rim
-Ije-abarim              pns   IY-jee-AB-uh-rim              I'je-ab'a-rim
-Ijon                    pns   IY-jon                        I'jon
-Ikkesh                  pns   IK-esh                        Ik'kesh
-Ilai                    pns   IY-liy                        I'lai
-Illyricum               pns   i-LIR-i-kuhm                  Il-lyr'i-cum
-Imalcue                 pns   iy-mal-KOO-ee                 I-mal-cu'e
-Imalkue                 pns   iy-mal-KOO-ee                 I-mal-ku'e
-Imla                    pns   IM-luh                        Im'la
-Imlah                   pns   IM-luh                        Im'lah
-Immanuel                pns   i-MAN-yoo-uhl                 Im-man'u-el                   devine
-Immer                   pns   IM-uhr                        Im'mer
-Imna                    pns   IM-nuh                        Im'na
-Imnah                   pns   IM-nuh                        Im'nah
-Imrah                   pns   IM-ruh                        Im'rah
-Imri                    pns   IM-riy                        Im'ri
-India                   pns   IN-dee-uh                     In'di-a
-Iob                     pns   YOHB                          Iob
-Iphdeiah                pns   if-DEE-yuh                    Iph-de'iah
-Iphedeiah               pns   IF-i-DEE-yuh                  Iph'e-de'iah
-Iphtah                  pns   IF-tuh                        Iph'tah
-Iphtahel                pns   IF-tuh-el                     Iph'tah-el
-Iphtah-el               pns   IF-tuh-el                     Iph'tah-el
-Ir                      pns   IR                            Ir
-Ira                     pns   IY-ruh                        I'ra
-Irad                    pns   IY-rad                        I'rad
-Iram                    pns   IY-ram                        I'ram
-Iri                     pns   IY-riy                        I'ri
-Irijah                  pns   iy-RIY-juh                    I-ri'jah
-Irnahash                pns   IR-NAY-hash                   Ir'na'hash
-Ir-nahash               pns   IR-NAY-hash                   Ir'na'hash
-Irpeel                  pns   IR-pee-el                     Ir'pe-el
-Irshemesh               pns   IR-SHE-mesh                   Ir'she-mesh
-Ir-shemesh              pns   IR-SHE-mesh                   Ir'she-mesh
-Iru                     pns   IY-roo                        I'ru
-Isaac                   pns   IY-zuhk                       I'saac
-Isaiah                  pns   iy-ZAY-yuh                    I-sa'iah
-Iscah                   pns   IS-kuh                        Is'cah
-Iscariot                pns   is-KAR-ee-uht                 Is-car'i-ot
-Ishbah                  pns   ISH-buh                       Ish'bah
-Ishbak                  pns   ISH-bak                       Ish'bak
-Ishbibenob              pns   ISH-biy-BEE-nob               Ish'bi-be'nob
-Ishbi-benob             pns   ISH-biy-BEE-nob               Ish'bi-be'nob
-Ishbosheth              pns   ISH-BOH-sheth                 Ish'bo'sheth
+Iezer                   pns   iy-EE-zuhr                    I-e'zer                       person
+Iezerite                pns   iy-EE-zuhr-iyt                I-e'zer-ite                   ethnic
+Iezerites               pnp   iy-EE-zuhr-iyts               I-e'zer-ites                  ethnic
+Igal                    pns   IY-gal                        I'gal                         person
+Igdaliah                pns   IG-duh-LIY-uh                 Ig'da-li'ah                   person
+Igeal                   pns   IY-gee-uhl                    I'ge-al                       person
+Iim                     pns   IY-im                         I'im                          place
+Ijeabarim               pns   IY-jee-AB-uh-rim              I'je-ab'a-rim                 place
+Ije-abarim              pns   IY-jee-AB-uh-rim              I'je-ab'a-rim                 place
+Ije_Abarim              pns   IY-jee-AB-uh-rim              I'je_Ab'a-rim                 place
+Ijon                    pns   IY-jon                        I'jon                         place
+Ikkesh                  pns   IK-esh                        Ik'kesh                       person
+Ilai                    pns   IY-liy                        I'lai                         person
+Illyricum               pns   i-LIR-i-kuhm                  Il-lyr'i-cum                  place
+Imalcue                 pns   iy-mal-KOO-ee                 I-mal-cu'e                    person
+Imalkue                 pns   iy-mal-KOO-ee                 I-mal-ku'e                    person
+Imla                    pns   IM-luh                        Im'la                         person
+Imlah                   pns   IM-luh                        Im'lah                        person
+Immanuel                pns   i-MAN-yoo-uhl                 Im-man'u-el                   person
+Immer                   pns   IM-uhr                        Im'mer                        person
+Imna                    pns   IM-nuh                        Im'na                         person
+Imnah                   pns   IM-nuh                        Im'nah                        person
+Imrah                   pns   IM-ruh                        Im'rah                        person
+Imri                    pns   IM-riy                        Im'ri                         person
+India                   pns   IN-dee-uh                     In'di-a                       place
+Iob                     pns   YOHB                          Iob                           person
+Iphdeiah                pns   if-DEE-yuh                    Iph-de'iah                    person
+Iphedeiah               pns   IF-i-DEE-yuh                  Iph'e-de'iah                  person
+Iphtah                  pns   IF-tuh                        Iph'tah                       place
+Iphtahel                pns   IF-tuh-el                     Iph'tah-el                    place
+Iphtah-el               pns   IF-tuh-el                     Iph'tah-el                    place
+Iphtah_El               pns   IF-tuh-el                     Iph'tah_El                    place
+Ir                      pns   IR                            Ir                            person
+Ira                     pns   IY-ruh                        I'ra                          person
+Irad                    pns   IY-rad                        I'rad                         person
+Iram                    pns   IY-ram                        I'ram                         person
+Irhahares               pns   IR-huh-HAY-res                Ir'ha'ha-res                  place
+Ir-hahares              pns   IR-huh-HAY-res                Ir'ha'ha-res                  place
+Ir_Hahares              pns   IR-huh-HAY-res                Ir'Ha'ha-res                  place
+Irhaheres               pns   IR-huh-HEE-res                Ir'ha'he-res                  place
+Ir-haheres              pns   IR-huh-HEE-res                Ir'ha'he-res                  place
+Ir_Haheres              pns   IR-huh-HEE-res                Ir'Ha'he-res                  place
+Iri                     pns   IY-riy                        I'ri                          person
+Irijah                  pns   iy-RIY-juh                    I-ri'jah                      person
+Irnahash                pns   IR-NAY-hash                   Ir'na'hash                    place
+Ir-nahash               pns   IR-NAY-hash                   Ir'na'hash                    place
+Ir_Nahash               pns   IR-NAY-hash                   Ir_Na'hash                    place
+Iron                    pns   IY-ron                        I'ron                         place
+Irpeel                  pns   IR-pee-el                     Ir'pe-el                      place
+Irshemesh               pns   IR-SHE-mesh                   Ir'she-mesh                   place
+Ir-shemesh              pns   IR-SHE-mesh                   Ir'she-mesh                   place
+Ir_Shemesh              pns   IR-SHE-mesh                   Ir_She-mesh                   place
+Iru                     pns   IY-roo                        I'ru                          person
+Isaac                   pns   IY-zuhk                       I'saac                        person
+Isaiah                  pns   iy-ZAY-yuh                    I-sa'iah                      person,writing
+Iscah                   pns   IS-kuh                        Is'cah                        person
+Iscariot                pns   is-KAR-ee-uht                 Is-car'i-ot                   person
+Ishbah                  pns   ISH-buh                       Ish'bah                       person
+Ishbak                  pns   ISH-bak                       Ish'bak                       person
+Ishbibenob              pns   ISH-biy-BEE-nob               Ish'bi-be'nob                 person
+Ishbi-benob             pns   ISH-biy-BEE-nob               Ish'bi-be'nob                 person
+Ishbosheth              pns   ISH-BOH-sheth                 Ish'bo'sheth                  person
 Ish-bosheth             pns   ISH-BOH-sheth                 Ish'bo'sheth                  person
-Ishhod                  pns   ISH-HOD                       Ish'hod'
-Ishi                    pns   ISH-iy                        Ish'i
-Ishiah                  pns   iy-SHIY-uh                    I-shi'ah
-Ishijah                 pns   iy-SHIY-juh                   I-shi'jah
-Ishma                   pns   ISH-muh                       Ish'ma
-Ishmael                 pns   ISH-may-uhl                   Ish'ma-el
-Ishmaelite              pns   ISH-may-uhl-iyt               Ish'ma-el-ite
-Ishmaelites             pnp   ISH-may-uhl-iyts              Ish'ma-el-ites
-Ishmaiah                pns   ish-MAY-yuh                   Ish-ma'iah
-Ishmeelite              pns   ISH-mee-uhl-iyt               Ish'me-el-ite
-Ishmeelites             pnp   ISH-mee-uhl-iyts              Ish'me-el-ites
-Ishmerai                pns   ISH-mi-riy                    Ish'me-rai
-Ishod                   pns   IY-shod                       I'shod
-Ishpah                  pns   ISH-puh                       Ish'pah
-Ishpan                  pns   ISH-pan                       Ish'pan
-Ishtob                  pns   ISH-tob                       Ish'tob
-Ishuah                  pns   ISH-yoo-uh                    Ish'u-ah
-Ishuai                  pns   ISH-yoo-iy                    Ish'u-ai
-Ishui                   pns   ISH-yoo-iy                    Ish'u-i
-Ishvah                  pns   ISH-vuh                       Ish'vah
-Ishvi                   pns   ISH-viy                       Ish'vi
-Ismachiah               pns   IS-muh-KIY-uh                 Is'ma-chi'ah
-Ismaiah                 pns   is-MAY-yuh                    Is-ma'iah
-Ispah                   pns   IS-puh                        Is'pah
-Israel                  pns   IS-ray-el                     Is'ra-el
-Israelite               pns   IZ-ree-el-iyt                 Is'ra-el-ite
-Israelites              pnp   IZ-ree-uhl-iyts               Is'ra-el-ites
-Issachar                pns   IS-uh-kahr                    Is'sa-char
-Isshiah                 pns   is-SHIY-uh                    Is-shi'ah
-Isshijah                pns   is-SHIY-juh                   Is-shi'jah
-Isuah                   pns   IS-yoo-uh                     Is'u-ah
-Isui                    pns   IS-yoo-iy                     Is'u-i
-Italy                   pns   IT-uh-li                      It'a-ly
-Ithai                   pns   ITH-iy                        Ith'ai
-Ithamar                 pns   ITH-uh-mahr                   Ith'a-mar
-Ithiel                  pns   ITH-ee-el                     Ith'i-el
-Ithlah                  pns   ITH-luh                       Ith'lah
-Ithmah                  pns   ITH-mah                       Ith'mah
-Ithnan                  pns   ITH-nan                       Ith'nan
-Ithra                   pns   ITH-ruh                       Ith'ra
-Ithran                  pns   ITH-ran                       Ith'ran
-Ithream                 pns   ITH-ree-am                    Ith're-am
-Ithrite                 pns   ITH-riyt                      Ith'rite
-Ithrites                pnp   ITH-riyts                     Ith'rites
+Ishhod                  pns   ISH-HOD                       Ish'hod'                      person
+Ishi                    pns   ISH-iy                        Ish'i                         person
+Ishiah                  pns   iy-SHIY-uh                    I-shi'ah                      person
+Ishijah                 pns   iy-SHIY-juh                   I-shi'jah                     person
+Ishma                   pns   ISH-muh                       Ish'ma                        person
+Ishmael                 pns   ISH-may-uhl                   Ish'ma-el                     person
+Ishmaelite              pns   ISH-may-uhl-iyt               Ish'ma-el-ite                 ethnic
+Ishmaelites             pnp   ISH-may-uhl-iyts              Ish'ma-el-ites                ethnic
+Ishmaiah                pns   ish-MAY-yuh                   Ish-ma'iah                    person
+Ishmeelite              pns   ISH-mee-uhl-iyt               Ish'me-el-ite                 ethnic
+Ishmeelites             pnp   ISH-mee-uhl-iyts              Ish'me-el-ites                ethnic
+Ishmerai                pns   ISH-mi-riy                    Ish'me-rai                    person
+Ishod                   pns   IY-shod                       I'shod                        person
+Ishpah                  pns   ISH-puh                       Ish'pah                       person
+Ishpan                  pns   ISH-pan                       Ish'pan                       person
+Ishtob                  pns   ISH-tob                       Ish'tob                       place
+Ishuah                  pns   ISH-yoo-uh                    Ish'u-ah                      person
+Ishuai                  pns   ISH-yoo-iy                    Ish'u-ai                      person
+Ishui                   pns   ISH-yoo-iy                    Ish'u-i                       person
+Ishvah                  pns   ISH-vuh                       Ish'vah                       person
+Ishvi                   pns   ISH-viy                       Ish'vi                        person
+Ismachiah               pns   IS-muh-KIY-uh                 Is'ma-chi'ah                  person
+Ismaiah                 pns   is-MAY-yuh                    Is-ma'iah                     person
+Ismakiah                pns   IS-muh-KIY-uh                 Is'ma-ki'ah                   person
+Ispah                   pns   IS-puh                        Is'pah                        person
+Israel                  pns   IS-ray-el                     Is'ra-el                      person,place,ethnic
+Israelite               pns   IZ-ree-el-iyt                 Is'ra-el-ite                  ethnic
+Israelites              pnp   IZ-ree-uhl-iyts               Is'ra-el-ites                 ethnic
+Israelitish             pns   Iz-ree-uhl-iyt-ish            Is'ra-el-it-ish               ethnic
+Issachar                pns   IS-uh-kahr                    Is'sa-char                    person
+Isshiah                 pns   is-SHIY-uh                    Is-shi'ah                     person
+Isshijah                pns   is-SHIY-juh                   Is-shi'jah                    person
+Isuah                   pns   IS-yoo-uh                     Is'u-ah                       person
+Isui                    pns   IS-yoo-iy                     Is'u-i                        person
+Italian                 pns   i-TAL-ee-uhn                  I-tal'ian                     ethnic
+Italy                   pns   IT-uh-li                      It'a-ly                       place
+Ithai                   pns   ITH-iy                        Ith'ai                        person
+Ithamar                 pns   ITH-uh-mahr                   Ith'a-mar                     person
+Ithiel                  pns   ITH-ee-el                     Ith'i-el                      person
+Ithlah                  pns   ITH-luh                       Ith'lah                       place
+Ithmah                  pns   ITH-mah                       Ith'mah                       person
+Ithnan                  pns   ITH-nan                       Ith'nan                       place
+Ithra                   pns   ITH-ruh                       Ith'ra                        person
+Ithran                  pns   ITH-ran                       Ith'ran                       person
+Ithream                 pns   ITH-ree-am                    Ith're-am                     person
+Ithrite                 pns   ITH-riyt                      Ith'rite                      ethnic
+Ithrites                pnp   ITH-riyts                     Ith'rites                     ethnic
 Ittahkazin              pns   IT-uh-KAY-zin                 It'tah-ka'zin                 place
 Ittah-kazin             pns   IT-uh-KAY-zin                 It'tah-ka'zin                 place
 Ittah_Kazin             pns   IT-uh-KAY-zin                 It'tah_Ka'zin                 place
-Ittai                   pns   IT-iy                         It'tai
-Ituraea                 pns   IT-yoo-REE-uh                 It'u-rae'a
-Ivah                    pns   I-vah                         I'vah
-Ivvah                   pns   IV-uh                         Iv'vah
-Iyar                    pns   EE-yahr                       I'yar
-Iyeabarim               pns   IY-yee-AB-uh-rim              I'ye-ab'a-rim
-Iye-abarim              pns   IY-yee-AB-uh-rim              I'ye-ab'a-rim
-Iyim                    pns   IY-yim                        I'yim
-Izehar                  pns   IZ-i-hahr                     Iz'e-har
-Izeharite               pns   IZ-i-hahr-iyt                 Iz'e-har-ite
-Izeharites              pnp   IZ-i-hahr-iyts                Iz'e-har-ites
-Izhar                   pns   IZ-hahr                       Iz'har
-Izharite                pns   IZ-hahr-iyt                   Iz'har-ite
-Izharites               pnp   IZ-hahr-iyts                  Iz'har-ites
-Izliah                  pns   iz-LIY-uh                     Iz-li'ah
-Izrahiah                pns   IZ-ruh-HIY-uh                 Iz'ra-hi'ah
-Izrahite                pns   IZ-ruh-hiyt                   Iz'ra-hite
-Izrahites               pnp   IZ-ruh-hiyts                  Iz'ra-hites
-Izri                    pns   IZ-riy                        Iz'ri
-Izziah                  pns   iz-IY-uh                      Iz-zi'ah
+Ittai                   pns   IT-iy                         It'tai                        person
+Ituraea                 pns   IT-yoo-REE-uh                 It'u-rae'a                    place
+Iturea                  pns   IT-yoo-REE-uh                 It'u-re'a                     place
+Ivah                    pns   I-vah                         I'vah                         place
+Ivvah                   pns   IV-uh                         Iv'vah                        place
+Iyar                    pns   EE-yahr                       I'yar                         measure
+Iyeabarim               pns   IY-yee-AB-uh-rim              I'ye-ab'a-rim                 place
+Iye-abarim              pns   IY-yee-AB-uh-rim              I'ye-ab'a-rim                 place
+Iye_Abarim              pns   IY-yee-AB-uh-rim              I'ye_Ab'a-rim                 place
+Iyim                    pns   IY-yim                        I'yim                         place
+Izehar                  pns   IZ-i-hahr                     Iz'e-har                      person
+Izeharite               pns   IZ-i-hahr-iyt                 Iz'e-har-ite                  ethnic
+Izeharites              pnp   IZ-i-hahr-iyts                Iz'e-har-ites                 ethnic
+Izhar                   pns   IZ-hahr                       Iz'har                        person
+Izharite                pns   IZ-hahr-iyt                   Iz'har-ite                    ethnic
+Izharites               pnp   IZ-hahr-iyts                  Iz'har-ites                   ethnic
+Izliah                  pns   iz-LIY-uh                     Iz-li'ah                      person
+Izrahiah                pns   IZ-ruh-HIY-uh                 Iz'ra-hi'ah                   person
+Izrahite                pns   IZ-ruh-hiyt                   Iz'ra-hite                    ethnic
+Izrahites               pnp   IZ-ruh-hiyts                  Iz'ra-hites                   ethnic
+Izri                    pns   IZ-riy                        Iz'ri                         person
+Izziah                  pns   iz-IY-uh                      Iz-zi'ah                      person
 
 Jaakan                  pns   JAY-uh-kan                    Ja'a-kan                      person
 Jaakobah                pns   JAY-uh-KOH-buh                Ja'a-ko'bah
@@ -3302,15 +3318,15 @@ Jeshohaiah              pns   JESH-uh-HAY-yuh               Jesh'o-ha'iah
 Jeshua                  pns   JESH-yoo-uh                   Jesh'u-a
 Jeshuah                 pns   JESH-yoo-uh                   Jesh'u-ah
 Jeshurun                pns   JESH-yoo-run                  Jesh'u-run
-Jesiah                  pns   ji-SIY-uh                     Je-si'ah
+Jesiah                  pns   ji-SIY-uh                     Je-si'ah                      person
 Jesimiel                pns   ji-SIM-ee-el                  Je-sim'i-el
 Jesse                   pns   JES-i                         Jes'se
-Jesui                   pns   JES-yoo-iy                    Jes'u-i
+Jesui                   pns   JES-yoo-iy                    Jes'u-i                       person
 Jesurun                 pns   JES-yoo-run                   Jes'u-run
 Jesus                   pns   JEE-zuhs                      Je'sus
 Jether                  pns   JEE-thuhr                     Je'ther
 Jetheth                 pns   JEE-theth                     Je'theth
-Jethlah                 pns   JETH-luh                      Jeth'lah
+Jethlah                 pns   JETH-luh                      Jeth'lah                      place
 Jethro                  pns   JETH-roh                      Jeth'ro
 Jetur                   pns   JEE-tuhr                      Je'tur
 Jeuel                   pns   ji-OO-el                      Je-u'el
@@ -3324,9 +3340,9 @@ Jewry                   pns   JOO-ri                        Jew'ry
 Jezaniah                pns   JEZ-uh-NIY-uh                 Jez'a-ni'ah
 Jezebel                 pns   JEZ-uh-buhl                   Jez'e-bel
 Jezer                   pns   JEE-zuhr                      Je'zer
-Jeziah                  pns   ji-ZIY-uh                     Je-zi'ah
+Jeziah                  pns   ji-ZIY-uh                     Je-zi'ah                      person
 Jeziel                  pns   JEE-zee-el                    Je'zi-el
-Jezliah                 pns   jez-LIY-uh                    Jez-li'ah
+Jezliah                 pns   jez-LIY-uh                    Jez-li'ah                     person
 Jezoar                  pns   ji-ZOH-uhr                    Je-zo'ar
 Jezrahiah               pns   JEZ-ruh-HIY-uh                Jez'ra-hi'ah
 Jezreel                 pns   JEZ-ree-el                    Jez're-el                     person,place
@@ -3335,11 +3351,11 @@ Jezreelites             pnp   JEZ-ree-uhl-iyts              Jez're-el-ites
 Jezreelitess            pns   JEZ-ree-uhl-IYT-es            Jez're-el-it'ess
 Jibsam                  pns   JIB-suhm                      Jib'sam
 Jidlaph                 pns   JID-laf                       Jid'laph
-Jimna                   pns   JIM-nuh                       Jim'na
-Jimnah                  pns   JIM-nuh                       Jim'nah
+Jimna                   pns   JIM-nuh                       Jim'na                        person
+Jimnah                  pns   JIM-nuh                       Jim'nah                       person
 Jiphtah                 pns   JIF-tuh                       Jiph'tah
 Jiphtahel               pns   JIF-tuh-el                   *Jiph'tah-el
-Jiphthahel              pns   JIF-thuh-el                   Jiph'thah-el
+Jiphthahel              pns   JIF-thuh-el                   Jiph'thah-el                  place
 Jiphthah-el             pns   JIF-thuh-el                   Jiph'thah-el
 Joab                    pns   JOH-ab                        Jo'ab
 Joah                    pns   JOH-uh                        Jo'ah
@@ -5110,7 +5126,7 @@ Silla                   pns   SIL-uh                        Sil'la
 Siloah                  pns   si-LOH-uh                     Si-lo'ah
 Siloam                  pns   siy-LOH-uhm                   Si-lo'am
 Silvanus                pns   sil-VAY-nuhs                  Sil-va'nus
-Simalcue                pns   SIY-mal-KOO-ee                Si'mal-cu'e
+Simalcue                pns   SIY-mal-KOO-ee                Si'mal-cu'e                   person
 Simeon                  pns   SIM-ee-uhn                    Sim'e-on
 Simon                   pns   SIY-muhn                      Si'mon
 Simri                   pns   SIM-riy                       Sim'ri

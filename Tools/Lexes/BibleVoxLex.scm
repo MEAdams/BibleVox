@@ -5561,6 +5561,8 @@
 (lex.add.entry 
  '("Ije-abarim" nnp (((ay) 1) ((jh iy) 0) ((ae b) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
+ '("Ije_Abarim" nnp (((ay) 1) ((jh iy) 0) ((ae b) 1) ((ax) 0) ((r ih m) 0))) )
+(lex.add.entry 
  '("Ijon" nnp (((ay) 1) ((jh aa n) 0))) )
 (lex.add.entry 
  '("Ikkesh" nnp (((ih k) 1) ((eh sh) 0))) )
@@ -5603,6 +5605,8 @@
 (lex.add.entry 
  '("Iphtah-el" nnp (((ih f) 1) ((t ax) 0) ((eh l) 0))) )
 (lex.add.entry 
+ '("Iphtah_El" nnp (((ih f) 1) ((t ax) 0) ((eh l) 0))) )
+(lex.add.entry 
  '("Ir" nnp (((ih r) 1))) )
 (lex.add.entry 
  '("Ira" nnp (((ay) 1) ((r ax) 0))) )
@@ -5610,6 +5614,18 @@
  '("Irad" nnp (((ay) 1) ((r ae d) 0))) )
 (lex.add.entry 
  '("Iram" nnp (((ay) 1) ((r ae m) 0))) )
+(lex.add.entry 
+ '("Irhahares" nnp (((ih r) 1) ((hh ax) 0) ((hh ey) 1) ((r eh s) 0))) )
+(lex.add.entry 
+ '("Ir-hahares" nnp (((ih r) 1) ((hh ax) 0) ((hh ey) 1) ((r eh s) 0))) )
+(lex.add.entry 
+ '("Ir_Hahares" nnp (((ih r) 1) ((hh ax) 0) ((hh ey) 1) ((r eh s) 0))) )
+(lex.add.entry 
+ '("Irhaheres" nnp (((ih r) 1) ((hh ax) 0) ((hh iy) 1) ((r eh s) 0))) )
+(lex.add.entry 
+ '("Ir-haheres" nnp (((ih r) 1) ((hh ax) 0) ((hh iy) 1) ((r eh s) 0))) )
+(lex.add.entry 
+ '("Ir_Haheres" nnp (((ih r) 1) ((hh ax) 0) ((hh iy) 1) ((r eh s) 0))) )
 (lex.add.entry 
  '("Iri" nnp (((ay) 1) ((r ay) 0))) )
 (lex.add.entry 
@@ -5619,11 +5635,17 @@
 (lex.add.entry 
  '("Ir-nahash" nnp (((ih r) 1) ((n ey) 1) ((hh ae sh) 0))) )
 (lex.add.entry 
+ '("Ir_Nahash" nnp (((ih r) 1) ((n ey) 1) ((hh ae sh) 0))) )
+(lex.add.entry 
+ '("Iron" nnp (((ay) 1) ((r aa n) 0))) )
+(lex.add.entry 
  '("Irpeel" nnp (((ih r) 1) ((p iy) 0) ((eh l) 0))) )
 (lex.add.entry 
  '("Irshemesh" nnp (((ih r) 1) ((sh eh) 1) ((m eh sh) 0))) )
 (lex.add.entry 
  '("Ir-shemesh" nnp (((ih r) 1) ((sh eh) 1) ((m eh sh) 0))) )
+(lex.add.entry 
+ '("Ir_Shemesh" nnp (((ih r) 1) ((sh eh) 1) ((m eh sh) 0))) )
 (lex.add.entry 
  '("Iru" nnp (((ay) 1) ((r uw) 0))) )
 (lex.add.entry 
@@ -5693,6 +5715,8 @@
 (lex.add.entry 
  '("Ismaiah" nnp (((ih s) 0) ((m ey) 1) ((y ax) 0))) )
 (lex.add.entry 
+ '("Ismakiah" nnp (((ih s) 1) ((m ax) 0) ((k ay) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Ispah" nnp (((ih s) 1) ((p ax) 0))) )
 (lex.add.entry 
  '("Israel" nnp (((ih s) 1) ((r ey) 0) ((eh l) 0))) )
@@ -5700,6 +5724,8 @@
  '("Israelite" nnp (((ih z) 1) ((r iy) 0) ((eh l) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Israelites" nnps (((ih z) 1) ((r iy) 0) ((ax l) 0) ((ay t s) 0))) )
+(lex.add.entry 
+ '("Israelitish" nnp (((ih z) 0) ((r iy) 0) ((ax l) 0) ((ay t) 0) ((ih sh) 0))) )
 (lex.add.entry 
  '("Issachar" nnp (((ih s) 1) ((ax) 0) ((k aa r) 0))) )
 (lex.add.entry 
@@ -5710,6 +5736,8 @@
  '("Isuah" nnp (((ih s) 1) ((y uw) 0) ((ax) 0))) )
 (lex.add.entry 
  '("Isui" nnp (((ih s) 1) ((y uw) 0) ((ay) 0))) )
+(lex.add.entry 
+ '("Italian" nnp (((ih) 0) ((t ae l) 1) ((iy) 0) ((ax n) 0))) )
 (lex.add.entry 
  '("Italy" nnp (((ih t) 1) ((ax) 0) ((l ih) 0))) )
 (lex.add.entry 
@@ -5745,6 +5773,8 @@
 (lex.add.entry 
  '("Ituraea" nnp (((ih t) 1) ((y uw) 0) ((r iy) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Iturea" nnp (((ih t) 1) ((y uw) 0) ((r iy) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Ivah" nnp (((ih) 1) ((v aa) 0))) )
 (lex.add.entry 
  '("Ivvah" nnp (((ih v) 1) ((ax) 0))) )
@@ -5754,6 +5784,8 @@
  '("Iyeabarim" nnp (((ay) 1) ((y iy) 0) ((ae b) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Iye-abarim" nnp (((ay) 1) ((y iy) 0) ((ae b) 1) ((ax) 0) ((r ih m) 0))) )
+(lex.add.entry 
+ '("Iye_Abarim" nnp (((ay) 1) ((y iy) 0) ((ae b) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
  '("Iyim" nnp (((ay) 1) ((y ih m) 0))) )
 (lex.add.entry 
