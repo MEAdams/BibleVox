@@ -3504,173 +3504,191 @@ Jutah                   pns   JOO-tuh                       Ju'tah              
 Juttah                  pns   JUT-uh                        Jut'tah                       place
 
 Kabzeel                 pns   KAB-zee-el                    Kab'ze-el                     place
-Kadesh                  pns   KAY-desh                      Ka'desh
-Kadeshbarnea            pns   KAY-desh-BAHR-nee-uh          Ka'desh-bar'ne-a
-Kadesh-barnea           pns   KAY-desh-BAHR-nee-uh          Ka'desh-bar'ne-a
-Kadmiel                 pns   KAD-mee-el                    Kad'mi-el
-Kadmonite               pns   KAD-muhn-iyt                  Kad'mon-ite
-Kadmonites              pnp   KAD-muhn-iyts                 Kad'mon-ites
-Kain                    pns   KAYN                          Kain
+Kadesh                  pns   KAY-desh                      Ka'desh                       place
+Kadeshbarnea            pns   KAY-desh-BAHR-nee-uh          Ka'desh-bar'ne-a              place
+Kadesh-barnea           pns   KAY-desh-BAHR-nee-uh          Ka'desh-bar'ne-a              place
+Kadesh_Barnea           pns   KAY-desh-BAHR-nee-uh          Ka'desh_Bar'ne-a              place
+Kadmiel                 pns   KAD-mee-el                    Kad'mi-el                     person
+Kadmonite               pns   KAD-muhn-iyt                  Kad'mon-ite                   ethnic
+Kadmonites              pnp   KAD-muhn-iyts                 Kad'mon-ites                  ethnic
+Kain                    pns   KAYN                          Kain                          place
 Kaiwan                  pns   KIY-wahn                      Kai'wan                       deity
-Kallai                  pns   KAL-iy                        Kal'lai
+Kallai                  pns   KAL-iy                        Kal'lai                       person
 Kamon                   pns   KAY-muhn                      Ka'mon                        place
-Kanah                   pns   KAY-nuh                       Ka'nah
-Kaph                    pns   KAHF                          Kaph
+Kanah                   pns   KAY-nuh                       Ka'nah                        place
+Kaph                    pns   KAHF                          Kaph                          writing
 Kareah                  pns   kuh-REE-uh                    Ka-re'ah                      person
-Karka                   pns   KAHR-kuh                      Kar'ka
-Karkaa                  pns   KAHR-kay-uh                   Kar'ka-a
-Karkor                  pns   KAHR-kohr                     Kar'kor
-Karnaim                 pns   kahr-NAY-im                   Kar-na'im
-Kartah                  pns   KAHR-tuh                      Kar'tah
-Kartan                  pns   KAHR-tan                      Kar'tan
-Kattath                 pns   KAT-ath                       Kat'tath
+Karka                   pns   KAHR-kuh                      Kar'ka                        place
+Karkaa                  pns   KAHR-kay-uh                   Kar'ka-a                      place
+Karkor                  pns   KAHR-kohr                     Kar'kor                       place
+Karnaim                 pns   kahr-NAY-im                   Kar-na'im                     place
+Kartah                  pns   KAHR-tuh                      Kar'tah                       place
+Kartan                  pns   KAHR-tan                      Kar'tan                       place
+Kattah                  pns   KAT-uh                        Kat'tah                       place
+Kattath                 pns   KAT-ath                       Kat'tath                      place
 Kebar                   pns   KEE-bahr                      Ke'bar                        place
-Kedar                   pns   KEE-duhr                      Ke'dar
-Kedemah                 pns   KED-i-muh                     Ked'e-mah
-Kedemoth                pns   KED-i-moth                    Ked'e-moth
-Kedesh                  pns   KEE-desh                      Ke'desh
-Kedeshnaphtali          pns   KEE-desh-NAF-tuh-liy          Ke'desh-naph'ta-li
-Kedesh-naphtali         pns   KEE-desh-NAF-tuh-liy          Ke'desh-naph'ta-li
+Kedar                   pns   KEE-duhr                      Ke'dar                        person
+Kedemah                 pns   KED-i-muh                     Ked'e-mah                     person
+Kedemoth                pns   KED-i-moth                    Ked'e-moth                    place
+Kedesh                  pns   KEE-desh                      Ke'desh                       place
+Kedeshnaphtali          pns   KEE-desh-NAF-tuh-liy          Ke'desh-naph'ta-li            place
+Kedesh-naphtali         pns   KEE-desh-NAF-tuh-liy          Ke'desh-naph'ta-li            place
+Kedesh_Naphtali         pns   KEE-desh-NAF-tuh-liy          Ke'desh_Naph'ta-li            place
 Kedorlaomer             pns   KED-uhr-lay-OH-muhr           Ked'or-la-o'mer               person
-Kehelathah              pns   KEE-hi-LAY-thuh               Ke'he-la'thah
-Keilah                  pns   kee-IY-luh                    Ke-i'lah
+Kehelathah              pns   KEE-hi-LAY-thuh               Ke'he-la'thah                 place
+Keilah                  pns   kee-IY-luh                    Ke-i'lah                      person,place
 Kelal                   pns   KEE-lal                       Ke'lal                        person
-Kelaiah                 pns   ki-LAY-yuh                    Ke-la'iah
-Kelita                  pns   KEL-i-tuh                     Kel'i-ta
+Kelaiah                 pns   ki-LAY-yuh                    Ke-la'iah                     person
+Kelita                  pns   KEL-i-tuh                     Kel'i-ta                      person
 Kelub                   pns   KEE-lub                       Ke'lub                        person
 Keluhi                  pns   ki-LOO-hiy                    Ke-lu'hi                      person
-Kemuel                  pns   KEM-yoo-el                    Kem'u-el
+Kemuel                  pns   KEM-yoo-el                    Kem'u-el                      person
 Kenaanah                pns   ki-NAY-uh-nah                 Ke-na'a-nah                   person
 Kenan                   pns   KEE-nuhn                      Ke'nan                        person
 Kenani                  pns   ki-NAY-niy                    Ke-na'ni                      person
 Kenaniah                pns   KEN-uh-NIY-uh                 Ken'a-ni'ah                   person
-Kenath                  pns   KEE-nath                      Ke'nath
-Kenaz                   pns   KEE-naz                       Ke'naz
-Kenezite                pns   KEE-nez-iyt                   Ke'nez-ite
-Kenezites               pnp   KEE-nez-iyts                  Ke'nez-ites
-Kenite                  pns   KEE-niyt                      Ke'nite
-Kenites                 pns   KEE-niyts                     Ke'nites
-Kenizzite               pns   KEE-niz-iyt                   Ken'iz-zite
-Kenizzites              pnp   KEE-niz-iyts                  Ken'iz-zites
+Kenath                  pns   KEE-nath                      Ke'nath                       place
+Kenaz                   pns   KEE-naz                       Ke'naz                        person
+Kenez                   pns   KEE-nez                       Ke'nez                        person
+Kenezite                pns   KEE-nez-iyt                   Ke'nez-ite                    ethnic
+Kenezites               pnp   KEE-nez-iyts                  Ke'nez-ites                   ethnic
+Kenite                  pns   KEE-niyt                      Ke'nite                       ethnic
+Kenites                 pnp   KEE-niyts                     Ke'nites                      ethnic
+Kenizzite               pns   KEE-niz-iyt                   Ken'iz-zite                   ethnic
+Kenizzites              pnp   KEE-niz-iyts                  Ken'iz-zites                  ethnic
+Kepharammoni            pns   KEE-fahr-AM-uh-niy            Ke'phar-am'mo-ni              place
 Kephar-ammoni           pns   KEE-fahr-AM-uh-niy            Ke'phar-am'mo-ni              place
 Kephar_Ammoni           pns   KEE-fahr-AM-uh-niy            Ke'phar_Am'mo-ni              place
 Kephirah                pns   ki-FIY-ruh                    Ke-phi'rah                    place
 Keran                   pns   KEE-ruhn                      Ke'ran                        person
-Kere                    pns   kuh-RAY                       Ke-re'
-Kerenhappuch            pns   KER-uhn-HAP-uhk               Ker'en-hap'puch
-Keren-happuch           pns   KER-uhn-HAP-uhk               Ker'en-hap'puch
+Kerenhappuch            pns   KER-uhn-HAP-uhk               Ker'en-hap'puch               person
+Keren-happuch           pns   KER-uhn-HAP-uhk               Ker'en-hap'puch               person
 Kerethite               pns   KER-i-thiyt                   Ker'eth-ite                   ethnic
 Kerethites              pnp   KER-i-thiyts                  Ker'eth-ites                  ethnic
-Kerioth                 pns   KIHR-ee-oth                   Ke'ri-oth
-Keriothhezron           pns   KIHR-ee-oth-HEZ-ron           Ke'ri-oth-hez'ron
-Kerioth-hezron          pns   KIHR-ee-oth-HEZ-ron           Ke'ri-oth-hez'ron
+Kerioth                 pns   KIHR-ee-oth                   Ke'ri-oth                     place
+Keriothhezron           pns   KIHR-ee-oth-HEZ-ron           Ke'ri-oth-hez'ron             place
+Kerioth-hezron          pns   KIHR-ee-oth-HEZ-ron           Ke'ri-oth-hez'ron             place
+Kerioth_Hezron          pns   KIHR-ee-oth-HEZ-ron           Ke'ri-oth_Hez'ron             place
 Kerith                  pns   KEE-rith                      Ke'rith                       place
-Keros                   pns   KEE-ros                       Ke'ros
-Kerygma                 pns   ki-RIG-muh                    Ke-ryg'ma
+Keros                   pns   KEE-ros                       Ke'ros                        person
+Kerub                   pns   KEE-ruhb                      Ke'rub                        place
 Kesalon                 pns   KES-uh-lon                    Kes'a-lon                     place
 Kesed                   pns   KEE-sed                       Ke'sed                        person
 Kesil                   pns   KEE-sil                       Ke'sil                        place
 Kesulloth               pns   ki-SUL-oth                    Ke-sul'loth                   place
-Kethib                  pns   kuh-THEEV                     Ke-thib'
-Kethiv                  pns   kuh-THEEV                     Ke-thiv'
-Keturah                 pns   kuh-TOO-ruh                   Ke-tu'rah
-Keveh                   pns   kuh-VAY                       Ke-veh'
-Kezia                   pns   kuh-ZIY-uh                    Ke-zi'a
-Keziah                  pns   kuh-ZIY-uh                    Ke-zi'ah
+Keturah                 pns   kuh-TOO-ruh                   Ke-tu'rah                     person
+Keveh                   pns   kuh-VAY                       Ke-veh'                       person,place
+Kezia                   pns   kuh-ZIY-uh                    Ke-zi'a                       person
+Keziah                  pns   kuh-ZIY-uh                    Ke-zi'ah                      person
 Kezib                   pns   KEE-zib                       Ke'zib                        place
-Keziz                   pns   KEE-ziz                       Ke'ziz
-Khabur                  pns   KAH-BOOR                      Kha'bur'
-Kibrothhattaavah        pns   KIB-roth-huh-TAY-uh-vuh       Kib'roth-hat-ta'a-vah
-Kibroth-hattaavah       pns   KIB-roth-huh-TAY-uh-vuh       Kib'roth-hat-ta'a-vah
-Kibzaim                 pns   kib-ZAY-im                    Kib-za'im
+Keziz                   pns   KEE-ziz                       Ke'ziz                        place
+Khabur                  pns   KAH-BOOR                      Kha'bur'                      place
+Kibrothhattaavah        pns   KIB-roth-huh-TAY-uh-vuh       Kib'roth-hat-ta'a-vah         place
+Kibroth-hattaavah       pns   KIB-roth-huh-TAY-uh-vuh       Kib'roth-hat-ta'a-vah         place
+Kibroth_Hattaavah       pns   KIB-roth-huh-TAY-uh-vuh       Kib'roth_Hat-ta'a-vah         place
+Kibzaim                 pns   kib-ZAY-im                    Kib-za'im                     place
 Kidon                   pns   KIY-duhn                      Ki'don                        place
 Kidron                  pns   KID-ron                       Kid'ron                       place
 Kileab                  pns   KIL-ee-ab                     Kil'e-ab                      person
 Kilion                  pns   KIL-ee-on                     Kil'i-on                      person
 Kilmad                  pns   KIL-mad                       Kil'mad                       place
 Kimham                  pns   KIM-ham                       Kim'ham                       person
-Kinah                   pns   KIY-nuh                       Ki'nah
-Kings                   pns   KINGZ                         Kings
+Kinah                   pns   KIY-nuh                       Ki'nah                        place
+Kings                   pns   KINGZ                         Kings                         writing
 Kinnereth               pns   KIN-i-reth                    Kin'ne-reth                   place
 Kios                    pns   KIY-os                        Ki'os                         place
-Kir                     pns   KIR                           Kir
-Kirharaseth             pns   KIR-HAR-uh-seth               Kir'har'a-seth
-Kir-haraseth            pns   KIR-HAR-uh-seth               Kir'har'a-seth
-Kirhareseth             pns   KIR-HAR-i-seth                Kir'har'e-seth
-Kir-hareseth            pns   KIR-HAR-i-seth                Kir'har'e-seth
-Kirharesh               pns   KIR-HAY-resh                  Kir'ha'resh
-Kir-haresh              pns   KIR-HAY-resh                  Kir'ha'resh
-Kirheres                pns   KIR-HEE-res                   Kir'he'res
-Kir-heres               pns   KIR-HEE-res                   Kir'he'res
-Kiriath                 pns   KIR-ee-ath                    Kir'i-ath
-Kiriathaim              pns   KIR-ee-uh-THAY-im             Kir'i-a-tha'im
-Kiriatharba             pns   KIR-ee-ath-AHR-buh            Kir'i-ath-ar'ba
-Kiriath-arba            pns   KIR-ee-ath-AHR-buh            Kir'i-ath-ar'ba
+Kir                     pns   KIR                           Kir                           place
+Kirharaseth             pns   KIR-HAR-uh-seth               Kir'har'a-seth                place
+Kir-haraseth            pns   KIR-HAR-uh-seth               Kir'har'a-seth                place
+Kir_Haraseth            pns   KIR-HAR-uh-seth               Kir_Har'a-seth                place
+Kirhareseth             pns   KIR-HAR-i-seth                Kir'har'e-seth                place
+Kir-hareseth            pns   KIR-HAR-i-seth                Kir'har'e-seth                place
+Kir_Hareseth            pns   KIR-HAR-i-seth                Kir_Har'e-seth                place
+Kirharesh               pns   KIR-HAY-resh                  Kir'ha'resh                   place
+Kir-haresh              pns   KIR-HAY-resh                  Kir'ha'resh                   place
+Kir_Haresh              pns   KIR-HAY-resh                  Kir_Ha'resh                   place
+Kirheres                pns   KIR-HEE-res                   Kir'he'res                    place
+Kir-heres               pns   KIR-HEE-res                   Kir'he'res                    place
+Kir_Heres               pns   KIR-HEE-res                   Kir_He'res                    place
+Kiriath                 pns   KIR-ee-ath                    Kir'i-ath                     place
+Kiriathaim              pns   KIR-ee-uh-THAY-im             Kir'i-a-tha'im                place
+Kiriatharba             pns   KIR-ee-ath-AHR-buh            Kir'i-ath-ar'ba               place
+Kiriath-arba            pns   KIR-ee-ath-AHR-buh            Kir'i-ath-ar'ba               place
+Kiriath_Arba            pns   KIR-ee-ath-AHR-buh            Kir'i-ath_Ar'ba               place
 Kiriatharim             pns   KIR-ee-ath-AY-rim             Kir'i-ath-a'rim               place
 Kiriath-arim            pns   KIR-ee-ath-AY-rim             Kir'i-ath-a'rim               place
 Kiriath_Arim            pns   KIR-ee-ath-AY-rim             Kir'i-ath_A'rim               place
-Kiriathbaal             pns   KIR-ee-ath-BAY-uhl            Kir'i-ath-ba'al
-Kiriath-baal            pns   KIR-ee-ath-BAY-uhl            Kir'i-ath-ba'al
-Kiriathhuzoth           pns   KIR-ee-ath-HOO-zoth           Kir'i-ath-hu'zoth
-Kiriath-huzoth          pns   KIR-ee-ath-HOO-zoth           Kir'i-ath-hu'zoth
+Kiriathbaal             pns   KIR-ee-ath-BAY-uhl            Kir'i-ath-ba'al               place
+Kiriath-baal            pns   KIR-ee-ath-BAY-uhl            Kir'i-ath-ba'al               place
+Kiriath_Baal            pns   KIR-ee-ath-BAY-uhl            Kir'i-ath_Ba'al               place
+Kiriathhuzoth           pns   KIR-ee-ath-HOO-zoth           Kir'i-ath-hu'zoth             place
+Kiriath-huzoth          pns   KIR-ee-ath-HOO-zoth           Kir'i-ath-hu'zoth             place
+Kiriath_Huzoth          pns   KIR-ee-ath-HOO-zoth           Kir'i-ath_Hu'zoth             place
 Kiriathjearim           pns   KIR-ee-ath-JEE-uh-rim         Kir'i-ath-je'a-rim            place
 Kiriath-jearim          pns   KIR-ee-ath-JEE-uh-rim         Kir'i-ath-je'a-rim            place
 Kiriath_Jearim          pns   KIR-ee-ath-JEE-uh-rim         Kir'i-ath_Je'a-rim            place
-Kiriathsannah           pns   KIR-ee-ath-SAN-uh             Kir'i-ath-san'nah
-Kiriath-sannah          pns   KIR-ee-ath-SAN-uh             Kir'i-ath-san'nah
-Kiriathsepher           pns   KIR-ee-ath-SEE-fuhr           Kir-i-ath-se'pher
-Kiriath-sepher          pns   KIR-ee-ath-SEE-fuhr           Kir-i-ath-se'pher
-Kirioth                 pns   KIR-ee-oth                    Kir'i-oth
-Kirjath                 pns   KIR-jath                      Kir'jath
-Kirjathaim              pns   KIR-juh-THAY-im               Kir'ja-tha'im
-Kirjatharba             pns   KIR-jath-AHR-buh              Kir'jath-ar'ba
-Kirjath-arba            pns   KIR-jath-AHR-buh              Kir'jath-ar'ba
-Kirjatharim             pns   KIR-jath-AY-rim               Kir'jath-a'rim
-Kirjath-arim            pns   KIR-jath-AY-rim               Kir'jath-a'rim
-Kirjathbaal             pns   KIR-jath-BAY-uhl              Kir'jath-ba'al
-Kirjath-baal            pns   KIR-jath-BAY-uhl              Kir'jath-ba'al
-Kirjathhuzoth           pns   KIR-jath-HOO-zoth             Kir'jath-hu'zoth
-Kirjath-huzoth          pns   KIR-jath-HOO-zoth             Kir'jath-hu'zoth
+Kiriathsannah           pns   KIR-ee-ath-SAN-uh             Kir'i-ath-san'nah             place
+Kiriath-sannah          pns   KIR-ee-ath-SAN-uh             Kir'i-ath-san'nah             place
+Kiriath_Sannah          pns   KIR-ee-ath-SAN-uh             Kir'i-ath_San'nah             place
+Kiriathsepher           pns   KIR-ee-ath-SEE-fuhr           Kir-i-ath-se'pher             place
+Kiriath-sepher          pns   KIR-ee-ath-SEE-fuhr           Kir-i-ath-se'pher             place
+Kiriath_Sepher          pns   KIR-ee-ath-SEE-fuhr           Kir-i-ath_Se'pher             place
+Kirioth                 pns   KIR-ee-oth                    Kir'i-oth                     place
+Kirjath                 pns   KIR-jath                      Kir'jath                      place
+Kirjathaim              pns   KIR-juh-THAY-im               Kir'ja-tha'im                 place
+Kirjatharba             pns   KIR-jath-AHR-buh              Kir'jath-ar'ba                place
+Kirjath-arba            pns   KIR-jath-AHR-buh              Kir'jath-ar'ba                place
+Kirjath_Arba            pns   KIR-jath-AHR-buh              Kir'jath_Ar'ba                place
+Kirjatharim             pns   KIR-jath-AY-rim               Kir'jath-a'rim                place
+Kirjath-arim            pns   KIR-jath-AY-rim               Kir'jath-a'rim                place
+Kirjath_Arim            pns   KIR-jath-AY-rim               Kir'jath_A'rim                place
+Kirjathbaal             pns   KIR-jath-BAY-uhl              Kir'jath-ba'al                place
+Kirjath-baal            pns   KIR-jath-BAY-uhl              Kir'jath-ba'al                place
+Kirjath_Baal            pns   KIR-jath-BAY-uhl              Kir'jath_Ba'al                place
+Kirjathhuzoth           pns   KIR-jath-HOO-zoth             Kir'jath-hu'zoth              place
+Kirjath-huzoth          pns   KIR-jath-HOO-zoth             Kir'jath-hu'zoth              place
+Kirjath_Huzoth          pns   KIR-jath-HOO-zoth             Kir'jath_Hu'zoth              place
 Kirjathjearim           pns   KIR-jath-JEE-uh-rim           Kir'jath-je'a-rim             place
 Kirjath-jearim          pns   KIR-jath-JEE-uh-rim           Kir'jath-je'a-rim             place
 Kirjath_Jearim          pns   KIR-jath-JEE-uh-rim           Kir'jath_Je'a-rim             place
-Kirjathsannah           pns   KIR-jath-SAN-uh               Kir'jath-san'nah
-Kirjath-sannah          pns   KIR-jath-SAN-uh               Kir'jath-san'nah
-Kirjathsepher           pns   KIR-jath-SEE-fuhr             Dir'jath-se'pher
-Kirjath-sepher          pns   KIR-jath-SEE-fuhr             Dir'jath-se'pher
-Kish                    pns   KISH                          Kish                          person
-Kishi                   pns   KISH-i                        Kish'i
-Kishion                 pns   KISH-ee-on                    Kish'i-on
-Kishon                  pns   KIY-shon                      Ki'shon
+Kirjathsannah           pns   KIR-jath-SAN-uh               Kir'jath-san'nah              place
+Kirjath-sannah          pns   KIR-jath-SAN-uh               Kir'jath-san'nah              place
+Kirjath_Sannah          pns   KIR-jath-SAN-uh               Kir'jath_San'nah              place
+Kirjathsepher           pns   KIR-jath-SEE-fuhr             Dir'jath-se'pher              place
+Kirjath-sepher          pns   KIR-jath-SEE-fuhr             Dir'jath-se'pher              place
+Kirjath_Sepher          pns   KIR-jath-SEE-fuhr             Dir'jath_Se'pher              place
+Kish                    pns   KISH                          Kish                          person,place
+Kishi                   pns   KISH-i                        Kish'i                        person
+Kishion                 pns   KISH-ee-on                    Kish'i-on                     place
+Kishon                  pns   KIY-shon                      Ki'shon                       place
 Kislev                  pns   KIS-lev                       Kis'lev                       measure
 Kislon                  pns   KIS-lon                       Kis'lon                       person
 Kisloth_Tabor           pns   KIS-loth-TAY-buhr             Kis'loth_Ta'bor               place
-Kison                   pns   KIY-son                       Ki'son
+Kison                   pns   KIY-son                       Ki'son                        place
 Kithlish                pns   KITH-lish                     Kith'lish                     place
 Kitlish                 pns   KIT-lish                      Kit'lish                      place
-Kitron                  pns   KIT-ron                       Kit'ron
+Kitron                  pns   KIT-ron                       Kit'ron                       place
 Kittim                  pns   KIT-im                        Kit'tim                       place,ethnic
 Kittims                 pns   KIT-imz                       Kit'tims                      ethnic
 Kiyyun                  pns   KIY-yuhn                      Kiy'yun                       deity
-Koa                     pns   KOH-uh                        Ko'a
-Kohath                  pns   KOH-hath                      Ko'hath
-Kohathite               pns   KOH-hath-iyt                  Ko'hath-ite
-Kohathites              pnp   KOH-hath-iyts                 Ko'hath-ites
-Koheleth                pns   kuh-HEL-eth                   Ko-hel'eth
-Kolaiah                 pns   kuh-LAY-yuh                   Ko-la'iah
-Koph                    pns   KOF                           Koph
+Koa                     pns   KOH-uh                        Ko'a                          place,ethnic
+Kohath                  pns   KOH-hath                      Ko'hath                       person
+Kohathite               pns   KOH-hath-iyt                  Ko'hath-ite                   ethnic
+Kohathites              pnp   KOH-hath-iyts                 Ko'hath-ites                  ethnic
+Kolaiah                 pns   kuh-LAY-yuh                   Ko-la'iah                     person
+Koph                    pns   KOF                           Koph                          writing
 Korah                   pns   KOH-ruh                       Ko'rah                        person
-Korahite                pns   KOH-ruh-iyt                   Ko'rah-ite
-Korahites               pnp   KOH-ruh-iyts                  Ko'rah-ites
-Korathite               pns   KOH-rath-iyt                  Ko'rath-ite
-Korathites              pnp   KOH-rath-iyts                 Ko'rath-ites
+Korahite                pns   KOH-ruh-iyt                   Ko'rah-ite                    ethnic
+Korahites               pnp   KOH-ruh-iyts                  Ko'rah-ites                   ethnic
+Korathite               pns   KOH-rath-iyt                  Ko'rath-ite                   ethnic
+Korathites              pnp   KOH-rath-iyts                 Ko'rath-ites                  ethnic
 Korazin                 pns   kuh-RAY-zin                   Ko-ra'zin                     place
 Kore                    pns   KOH-ri                        Ko're                         person
-Korhite                 pns   KOHR-hiyt                     Kor'hite
-Korhites                pnp   KOHR-hiyts                    Kor'hites
+Korhite                 pns   KOHR-hiyt                     Kor'hite                      ethnic
+Korhites                pnp   KOHR-hiyts                    Kor'hites                     ethnic
 Koz                     pns   KOZ                           Koz                           person
-Kue                     pns   kuu-AY                        Ku'e
-Kushaiah                pns   kyoo-SHAY-yuh                 Ku-sha'iah
+Kue                     pns   kuu-AY                        Ku'e                          person,place
+Kushaiah                pns   kyoo-SHAY-yuh                 Ku-sha'iah                    person
 Kuza                    pns   KOO-zuh                       Ku'za                         person
 
 Laadah                  pns   LAY-uh-duh                    La'a-dah
@@ -4620,7 +4638,7 @@ Putiel                  pns   POO-tee-el                    Pu'ti-el
 Puvah                   pns   POO-vuh                       Pu'vah
 Pyrrhus                 pns   PIR-uhs                       Pyr'rhus
 
-Qoph                    pns   KOHF                          Qoph
+Qoph                    pns   KOHF                          Qoph                          writing
 Quartus                 pns   KWOHR-tuhs                    Quar'tus
 Quirinius               pns   kwiy-RIN-ee-uhs               Qui-rin'i-us                  person
 Qumran                  pns   KUUM-rahn                     Qum'ran

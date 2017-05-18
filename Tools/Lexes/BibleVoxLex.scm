@@ -6637,6 +6637,8 @@
 (lex.add.entry 
  '("Kadesh-barnea" nnp (((k ey) 1) ((d eh sh) 0) ((b aa r) 1) ((n iy) 0) ((ax) 0))) )
 (lex.add.entry 
+ '("Kadesh_Barnea" nnp (((k ey) 1) ((d eh sh) 0) ((b aa r) 1) ((n iy) 0) ((ax) 0))) )
+(lex.add.entry 
  '("Kadmiel" nnp (((k ae d) 1) ((m iy) 0) ((eh l) 0))) )
 (lex.add.entry 
  '("Kadmonite" nnp (((k ae d) 1) ((m ax n) 0) ((ay t) 0))) )
@@ -6669,6 +6671,8 @@
 (lex.add.entry 
  '("Kartan" nnp (((k aa r) 1) ((t ae n) 0))) )
 (lex.add.entry 
+ '("Kattah" nnp (((k ae t) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Kattath" nnp (((k ae t) 1) ((ae th) 0))) )
 (lex.add.entry 
  '("Kebar" nnp (((k iy) 1) ((b aa r) 0))) )
@@ -6684,6 +6688,8 @@
  '("Kedeshnaphtali" nnp (((k iy) 1) ((d eh sh) 0) ((n ae f) 1) ((t ax) 0) ((l ay) 0))) )
 (lex.add.entry 
  '("Kedesh-naphtali" nnp (((k iy) 1) ((d eh sh) 0) ((n ae f) 1) ((t ax) 0) ((l ay) 0))) )
+(lex.add.entry 
+ '("Kedesh_Naphtali" nnp (((k iy) 1) ((d eh sh) 0) ((n ae f) 1) ((t ax) 0) ((l ay) 0))) )
 (lex.add.entry 
  '("Kedorlaomer" nnp (((k eh d) 1) ((er) 0) ((l ey) 0) ((ow) 1) ((m er) 0))) )
 (lex.add.entry 
@@ -6715,17 +6721,21 @@
 (lex.add.entry 
  '("Kenaz" nnp (((k iy) 1) ((n ae z) 0))) )
 (lex.add.entry 
+ '("Kenez" nnp (((k iy) 1) ((n eh z) 0))) )
+(lex.add.entry 
  '("Kenezite" nnp (((k iy) 1) ((n eh z) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Kenezites" nnps (((k iy) 1) ((n eh z) 0) ((ay t s) 0))) )
 (lex.add.entry 
  '("Kenite" nnp (((k iy) 1) ((n ay t) 0))) )
 (lex.add.entry 
- '("Kenites" nnp (((k iy) 1) ((n ay t s) 0))) )
+ '("Kenites" nnps (((k iy) 1) ((n ay t s) 0))) )
 (lex.add.entry 
  '("Kenizzite" nnp (((k iy) 1) ((n ih z) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Kenizzites" nnps (((k iy) 1) ((n ih z) 0) ((ay t s) 0))) )
+(lex.add.entry 
+ '("Kepharammoni" nnp (((k iy) 1) ((f aa r) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
 (lex.add.entry 
  '("Kephar-ammoni" nnp (((k iy) 1) ((f aa r) 0) ((ae m) 1) ((ax) 0) ((n ay) 0))) )
 (lex.add.entry 
@@ -6734,8 +6744,6 @@
  '("Kephirah" nnp (((k ih) 0) ((f ay) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Keran" nnp (((k iy) 1) ((r ax n) 0))) )
-(lex.add.entry 
- '("Kere" nnp (((k ax) 0) ((r ey) 1))) )
 (lex.add.entry 
  '("Kerenhappuch" nnp (((k eh r) 1) ((ax n) 0) ((hh ae p) 1) ((ax k) 0))) )
 (lex.add.entry 
@@ -6751,11 +6759,13 @@
 (lex.add.entry 
  '("Kerioth-hezron" nnp (((k ih r) 1) ((iy) 0) ((aa th) 0) ((hh eh z) 1) ((r aa n) 0))) )
 (lex.add.entry 
+ '("Kerioth_Hezron" nnp (((k ih r) 1) ((iy) 0) ((aa th) 0) ((hh eh z) 1) ((r aa n) 0))) )
+(lex.add.entry 
  '("Kerith" nnp (((k iy) 1) ((r ih th) 0))) )
 (lex.add.entry 
  '("Keros" nnp (((k iy) 1) ((r aa s) 0))) )
 (lex.add.entry 
- '("Kerygma" nnp (((k ih) 0) ((r ih g) 1) ((m ax) 0))) )
+ '("Kerub" nnp (((k iy) 1) ((r ax b) 0))) )
 (lex.add.entry 
  '("Kesalon" nnp (((k eh s) 1) ((ax) 0) ((l aa n) 0))) )
 (lex.add.entry 
@@ -6764,10 +6774,6 @@
  '("Kesil" nnp (((k iy) 1) ((s ih l) 0))) )
 (lex.add.entry 
  '("Kesulloth" nnp (((k ih) 0) ((s ah l) 1) ((aa th) 0))) )
-(lex.add.entry 
- '("Kethib" nnp (((k ax) 0) ((th iy v) 1))) )
-(lex.add.entry 
- '("Kethiv" nnp (((k ax) 0) ((th iy v) 1))) )
 (lex.add.entry 
  '("Keturah" nnp (((k ax) 0) ((t uw) 1) ((r ax) 0))) )
 (lex.add.entry 
@@ -6786,6 +6792,8 @@
  '("Kibrothhattaavah" nnp (((k ih b) 1) ((r aa th) 0) ((hh ax) 0) ((t ey) 1) ((ax) 0) ((v ax) 0))) )
 (lex.add.entry 
  '("Kibroth-hattaavah" nnp (((k ih b) 1) ((r aa th) 0) ((hh ax) 0) ((t ey) 1) ((ax) 0) ((v ax) 0))) )
+(lex.add.entry 
+ '("Kibroth_Hattaavah" nnp (((k ih b) 1) ((r aa th) 0) ((hh ax) 0) ((t ey) 1) ((ax) 0) ((v ax) 0))) )
 (lex.add.entry 
  '("Kibzaim" nnp (((k ih b) 0) ((z ey) 1) ((ih m) 0))) )
 (lex.add.entry 
@@ -6815,17 +6823,25 @@
 (lex.add.entry 
  '("Kir-haraseth" nnp (((k ih r) 1) ((hh ae r) 1) ((ax) 0) ((s eh th) 0))) )
 (lex.add.entry 
+ '("Kir_Haraseth" nnp (((k ih r) 1) ((hh ae r) 1) ((ax) 0) ((s eh th) 0))) )
+(lex.add.entry 
  '("Kirhareseth" nnp (((k ih r) 1) ((hh ae r) 1) ((ih) 0) ((s eh th) 0))) )
 (lex.add.entry 
  '("Kir-hareseth" nnp (((k ih r) 1) ((hh ae r) 1) ((ih) 0) ((s eh th) 0))) )
+(lex.add.entry 
+ '("Kir_Hareseth" nnp (((k ih r) 1) ((hh ae r) 1) ((ih) 0) ((s eh th) 0))) )
 (lex.add.entry 
  '("Kirharesh" nnp (((k ih r) 1) ((hh ey) 1) ((r eh sh) 0))) )
 (lex.add.entry 
  '("Kir-haresh" nnp (((k ih r) 1) ((hh ey) 1) ((r eh sh) 0))) )
 (lex.add.entry 
+ '("Kir_Haresh" nnp (((k ih r) 1) ((hh ey) 1) ((r eh sh) 0))) )
+(lex.add.entry 
  '("Kirheres" nnp (((k ih r) 1) ((hh iy) 1) ((r eh s) 0))) )
 (lex.add.entry 
  '("Kir-heres" nnp (((k ih r) 1) ((hh iy) 1) ((r eh s) 0))) )
+(lex.add.entry 
+ '("Kir_Heres" nnp (((k ih r) 1) ((hh iy) 1) ((r eh s) 0))) )
 (lex.add.entry 
  '("Kiriath" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0))) )
 (lex.add.entry 
@@ -6834,6 +6850,8 @@
  '("Kiriatharba" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((aa r) 1) ((b ax) 0))) )
 (lex.add.entry 
  '("Kiriath-arba" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((aa r) 1) ((b ax) 0))) )
+(lex.add.entry 
+ '("Kiriath_Arba" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((aa r) 1) ((b ax) 0))) )
 (lex.add.entry 
  '("Kiriatharim" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((ey) 1) ((r ih m) 0))) )
 (lex.add.entry 
@@ -6845,9 +6863,13 @@
 (lex.add.entry 
  '("Kiriath-baal" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
+ '("Kiriath_Baal" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((b ey) 1) ((ax l) 0))) )
+(lex.add.entry 
  '("Kiriathhuzoth" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((hh uw) 1) ((z aa th) 0))) )
 (lex.add.entry 
  '("Kiriath-huzoth" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((hh uw) 1) ((z aa th) 0))) )
+(lex.add.entry 
+ '("Kiriath_Huzoth" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((hh uw) 1) ((z aa th) 0))) )
 (lex.add.entry 
  '("Kiriathjearim" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
@@ -6859,9 +6881,13 @@
 (lex.add.entry 
  '("Kiriath-sannah" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((s ae n) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Kiriath_Sannah" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((s ae n) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Kiriathsepher" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((s iy) 1) ((f er) 0))) )
 (lex.add.entry 
  '("Kiriath-sepher" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((s iy) 1) ((f er) 0))) )
+(lex.add.entry 
+ '("Kiriath_Sepher" nnp (((k ih r) 1) ((iy) 0) ((ae th) 0) ((s iy) 1) ((f er) 0))) )
 (lex.add.entry 
  '("Kirioth" nnp (((k ih r) 1) ((iy) 0) ((aa th) 0))) )
 (lex.add.entry 
@@ -6873,17 +6899,25 @@
 (lex.add.entry 
  '("Kirjath-arba" nnp (((k ih r) 1) ((jh ae th) 0) ((aa r) 1) ((b ax) 0))) )
 (lex.add.entry 
+ '("Kirjath_Arba" nnp (((k ih r) 1) ((jh ae th) 0) ((aa r) 1) ((b ax) 0))) )
+(lex.add.entry 
  '("Kirjatharim" nnp (((k ih r) 1) ((jh ae th) 0) ((ey) 1) ((r ih m) 0))) )
 (lex.add.entry 
  '("Kirjath-arim" nnp (((k ih r) 1) ((jh ae th) 0) ((ey) 1) ((r ih m) 0))) )
+(lex.add.entry 
+ '("Kirjath_Arim" nnp (((k ih r) 1) ((jh ae th) 0) ((ey) 1) ((r ih m) 0))) )
 (lex.add.entry 
  '("Kirjathbaal" nnp (((k ih r) 1) ((jh ae th) 0) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
  '("Kirjath-baal" nnp (((k ih r) 1) ((jh ae th) 0) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
+ '("Kirjath_Baal" nnp (((k ih r) 1) ((jh ae th) 0) ((b ey) 1) ((ax l) 0))) )
+(lex.add.entry 
  '("Kirjathhuzoth" nnp (((k ih r) 1) ((jh ae th) 0) ((hh uw) 1) ((z aa th) 0))) )
 (lex.add.entry 
  '("Kirjath-huzoth" nnp (((k ih r) 1) ((jh ae th) 0) ((hh uw) 1) ((z aa th) 0))) )
+(lex.add.entry 
+ '("Kirjath_Huzoth" nnp (((k ih r) 1) ((jh ae th) 0) ((hh uw) 1) ((z aa th) 0))) )
 (lex.add.entry 
  '("Kirjathjearim" nnp (((k ih r) 1) ((jh ae th) 0) ((jh iy) 1) ((ax) 0) ((r ih m) 0))) )
 (lex.add.entry 
@@ -6895,9 +6929,13 @@
 (lex.add.entry 
  '("Kirjath-sannah" nnp (((k ih r) 1) ((jh ae th) 0) ((s ae n) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Kirjath_Sannah" nnp (((k ih r) 1) ((jh ae th) 0) ((s ae n) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Kirjathsepher" nnp (((k ih r) 1) ((jh ae th) 0) ((s iy) 1) ((f er) 0))) )
 (lex.add.entry 
  '("Kirjath-sepher" nnp (((k ih r) 1) ((jh ae th) 0) ((s iy) 1) ((f er) 0))) )
+(lex.add.entry 
+ '("Kirjath_Sepher" nnp (((k ih r) 1) ((jh ae th) 0) ((s iy) 1) ((f er) 0))) )
 (lex.add.entry 
  '("Kish" nnp (((k ih sh) 1))) )
 (lex.add.entry 
@@ -6934,8 +6972,6 @@
  '("Kohathite" nnp (((k ow) 1) ((hh ae th) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Kohathites" nnps (((k ow) 1) ((hh ae th) 0) ((ay t s) 0))) )
-(lex.add.entry 
- '("Koheleth" nnp (((k ax) 0) ((hh eh l) 1) ((eh th) 0))) )
 (lex.add.entry 
  '("Kolaiah" nnp (((k ax) 0) ((l ey) 1) ((y ax) 0))) )
 (lex.add.entry 
