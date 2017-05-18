@@ -7021,6 +7021,8 @@
 (lex.add.entry 
  '("Lahai-roi" nnp (((l ax) 0) ((hh ay) 1) ((r oy) 0))) )
 (lex.add.entry 
+ '("Lahai_Roi" nnp (((l ax) 0) ((hh ay) 1) ((r oy) 0))) )
+(lex.add.entry 
  '("Lahmam" nnp (((l aa) 1) ((m ae m) 0))) )
 (lex.add.entry 
  '("Lahmas" nnp (((l aa) 1) ((m ae s) 0))) )
@@ -7041,11 +7043,11 @@
 (lex.add.entry 
  '("Lamedh" nnp (((l aa) 1) ((m eh d) 0))) )
 (lex.add.entry 
- '("Lamentation" nnp (((l ae m) 1) ((eh n) 0) ((t ey) 1) ((sh ax n) 0))) )
-(lex.add.entry 
  '("Lamentations" nnps (((l ae m) 1) ((eh n) 0) ((t ey) 1) ((sh ax n z) 0))) )
 (lex.add.entry 
  '("Laodicea" nnp (((l ey) 0) ((aa d) 1) ((ih) 0) ((s iy) 1) ((ax) 0))) )
+(lex.add.entry 
+ '("Laodicean" nnp (((l ey) 0) ((aa d) 1) ((ih) 0) ((s iy) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Lapidoth" nnp (((l ae p) 1) ((ih) 0) ((d aa th) 0))) )
 (lex.add.entry 
@@ -7079,13 +7081,19 @@
 (lex.add.entry 
  '("Lebbaeus" nnp (((l ax) 0) ((b iy) 1) ((ax s) 0))) )
 (lex.add.entry 
+ '("Lebbeus" nnp (((l ax) 0) ((b iy) 1) ((ax s) 0))) )
+(lex.add.entry 
  '("Lebkamai" nnp (((l eh b) 1) ((k ey) 1) ((m ay) 0))) )
 (lex.add.entry 
  '("Leb-kamai" nnp (((l eh b) 1) ((k ey) 1) ((m ay) 0))) )
 (lex.add.entry 
+ '("Leb_Kamai" nnp (((l eh b) 1) ((k ey) 1) ((m ay) 0))) )
+(lex.add.entry 
  '("Lebohamath" nnp (((l iy) 1) ((b ow) 0) ((hh ey) 1) ((m ae th) 0))) )
 (lex.add.entry 
  '("Lebo-hamath" nnp (((l iy) 1) ((b ow) 0) ((hh ey) 1) ((m ae th) 0))) )
+(lex.add.entry 
+ '("Lebo_Hamath" nnp (((l iy) 1) ((b ow) 0) ((hh ey) 1) ((m ae th) 0))) )
 (lex.add.entry 
  '("Lebonah" nnp (((l ih) 0) ((b ow) 1) ((n ax) 0))) )
 (lex.add.entry 
@@ -7093,7 +7101,13 @@
 (lex.add.entry 
  '("Legion" nnp (((l iy) 1) ((jh ax n) 0))) )
 (lex.add.entry 
- '("Lehabim" nnp (((l ih) 0) ((hh ey) 1) ((b ih m) 0))) )
+ '("Lehabim" nnps (((l ih) 0) ((hh ey) 1) ((b ih m) 0))) )
+(lex.add.entry 
+ '("Lehabims" nnps (((l ih) 0) ((hh ey) 1) ((b ih m s) 0))) )
+(lex.add.entry 
+ '("Lehabite" nnp (((l ih) 0) ((hh ey) 1) ((b ay t) 0))) )
+(lex.add.entry 
+ '("Lehabites" nnps (((l ih) 0) ((hh ey) 1) ((b ay t s) 0))) )
 (lex.add.entry 
  '("Lehem" nnp (((l iy) 1) ((hh ax m) 0))) )
 (lex.add.entry 
@@ -7103,19 +7117,23 @@
 (lex.add.entry 
  '("Leshem" nnp (((l iy) 1) ((sh eh m) 0))) )
 (lex.add.entry 
- '("Letushim" nnp (((l ih) 0) ((t uw) 1) ((sh ih m) 0))) )
+ '("Letushim" nnps (((l ih) 0) ((t uw) 1) ((sh ih m) 0))) )
 (lex.add.entry 
- '("Leummim" nnp (((l iy) 0) ((ah m) 1) ((ih m) 0))) )
+ '("Letushims" nnps (((l ih) 0) ((t uw) 1) ((sh ih m) 0))) )
+(lex.add.entry 
+ '("Leummim" nnps (((l iy) 0) ((ah m) 1) ((ih m) 0))) )
+(lex.add.entry 
+ '("Leummims" nnps (((l iy) 0) ((ah m) 1) ((ih m s) 0))) )
+(lex.add.entry 
+ '("Leummite" nnp (((l iy) 0) ((ah m) 1) ((ay t) 0))) )
+(lex.add.entry 
+ '("Leummites" nnps (((l iy) 0) ((ah m) 1) ((ay t s) 0))) )
 (lex.add.entry 
  '("Levi" nnp (((l iy) 1) ((v ay) 0))) )
-(lex.add.entry 
- '("Leviathan" nnp (((l ih) 0) ((v ay) 1) ((ax) 0) ((th ax n) 0))) )
 (lex.add.entry 
  '("Levite" nnp (((l iy) 1) ((v ay t) 0))) )
 (lex.add.entry 
  '("Levites" nnps (((l iy) 1) ((v ay t s) 0))) )
-(lex.add.entry 
- '("Levitical" nnp (((l ih) 0) ((v ih t) 1) ((ih) 0) ((k ax l) 0))) )
 (lex.add.entry 
  '("Leviticus" nnp (((l ih) 0) ((v ih t) 1) ((ih) 0) ((k ax s) 0))) )
 (lex.add.entry 
@@ -7126,6 +7144,10 @@
  '("Libnah" nnp (((l ih b) 1) ((n ax) 0))) )
 (lex.add.entry 
  '("Libni" nnp (((l ih b) 1) ((n ay) 0))) )
+(lex.add.entry 
+ '("Libnite" nnp (((l ih b) 1) ((n ay t) 0))) )
+(lex.add.entry 
+ '("Libnites" nnps (((l ih b) 1) ((n ay t s) 0))) )
 (lex.add.entry 
  '("Libya" nnp (((l ih b) 1) ((iy) 0) ((ax) 0))) )
 (lex.add.entry 
@@ -7147,6 +7169,8 @@
 (lex.add.entry 
  '("Lo-debar" nnp (((l ow) 1) ((d iy) 1) ((b aa r) 0))) )
 (lex.add.entry 
+ '("Lo_Debar" nnp (((l ow) 1) ((d iy) 1) ((b aa r) 0))) )
+(lex.add.entry 
  '("Lois" nnp (((l ow) 1) ((ih s) 0))) )
 (lex.add.entry 
  '("Loruhamah" nnp (((l ow) 1) ((r uw) 0) ((hh aa) 1) ((m aa) 0))) )
@@ -7157,7 +7181,9 @@
 (lex.add.entry 
  '("Lotan" nnp (((l ow) 1) ((t ax n) 0))) )
 (lex.add.entry 
- '("Lubim" nnp (((l uw) 1) ((b ih m) 0))) )
+ '("Lubim" nnps (((l uw) 1) ((b ih m) 0))) )
+(lex.add.entry 
+ '("Lubims" nnps (((l uw) 1) ((b ih m s) 0))) )
 (lex.add.entry 
  '("Lucas" nnp (((l uw) 1) ((k ax s) 0))) )
 (lex.add.entry 
@@ -7184,6 +7210,10 @@
  '("Lydda" nnp (((l ih d) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Lydia" nnp (((l ih d) 1) ((iy) 0) ((ax) 0))) )
+(lex.add.entry 
+ '("Lydian" nnp (((l ih d) 1) ((iy) 0) ((ax n) 0))) )
+(lex.add.entry 
+ '("Lydians" nnps (((l ih d) 1) ((iy) 0) ((ax n z) 0))) )
 (lex.add.entry 
  '("Lysanias" nnp (((l ay) 0) ((s ey) 1) ((n iy) 0) ((ae s) 0))) )
 (lex.add.entry 

@@ -3691,101 +3691,116 @@ Kue                     pns   kuu-AY                        Ku'e                
 Kushaiah                pns   kyoo-SHAY-yuh                 Ku-sha'iah                    person
 Kuza                    pns   KOO-zuh                       Ku'za                         person
 
-Laadah                  pns   LAY-uh-duh                    La'a-dah
-Laadan                  pns   LAY-uh-duhn                   La'a-dan
-Laban                   pns   LAY-buhn                      La'ban
-Lachish                 pns   LAY-kish                      La'chish
-Ladan                   pns   LAY-duhn                      La'dan
-Lael                    pns   LAY-uhl                       La'el
-Lahad                   pns   LAY-had                       La'had
-Lahairoi                pns   luh-HIY-roy                   La-hai'roi
-Lahai-roi               pns   luh-HIY-roy                   La-hai'roi
-Lahmam                  pns   LAH-mam                       Lah'mam
-Lahmas                  pns   LAH-mas                       Lah'mas
-Lahmi                   pns   LAH-miy                       Lah'mi
-Laish                   pns   LAY-ish                       La'ish
-Laishah                 pns   LAY-i-shuh                    La'i-shah
-Lakkum                  pns   LAK-uhm                       Lak'kum
-Lakum                   pns   LAY-kuhm                      La'kum
-Lamech                  pns   LAY-mek                       La'mech
-Lamed                   pns   LAH-med                       La'med
-Lamedh                  pns   LAH-med                       La'medh
-Lamentation             pns   LAM-en-TAY-shuhn              Lam-en-ta'tion
-Lamentations            pnp   LAM-en-TAY-shuhnz             Lam-en-ta'tions
-Laodicea                pns   lay-OD-i-SEE-uh               La-od'i-ce'a
-Lapidoth                pns   LAP-i-doth                    Lap'i-doth
-Lappidoth               pns   LAP-i-doth                    Lap'pi-doth
-Lasea                   pns   luh-SEE-uh                    La-se'a
-Lasha                   pns   LAY-shuh                      La'sha
-Lasharon                pns   luh-SHAY-ruhn                 La-sha'ron
-Lassharon               pns   luh-SHAY-ruhn                 Las-sha'ron
-Lasthenes               pns   LAS-thi-nez                   Las'the-nes
-Latin                   pns   LAT-in                        Lat'in
-Lazarus                 pns   LAZ-uh-ruhs                   Laz'a-rus
-Leah                    pns   LEE-uh                        Le'ah
-Leannoth                pns   lee-AN-oth                    Le-an'noth
-Lebana                  pns   li-BAY-nuh                    Le-ba'na
-Lebanah                 pns   li-BAY-nuh                    Le-ba'nah
-Lebanon                 pns   LEB-uh-nuhn                   Leb'a-non
-Lebaoth                 pns   li-BAY-oth                    Le-ba'oth
-Lebbaeus                pns   luh-BEE-uhs                   Leb-bae'us
-Lebkamai                pns   LEB-KAY-miy                   Leb'ka'mai
-Leb-kamai               pns   LEB-KAY-miy                   Leb'ka'mai
-Lebohamath              pns   LEE-boh-HAY-math             *Le'bo-ha'math
-Lebo-hamath             pns   LEE-boh-HAY-math             *Le'bo-ha'math
-Lebonah                 pns   li-BOH-nuh                    Le-bo'nah
-Lecah                   pns   LEE-kuh                       Le'cah
-Legion                  pns   LEE-juhn                     *Le'gion
-Lehabim                 pns   li-HAY-bim                    Le-ha'bim
+Laadah                  pns   LAY-uh-duh                    La'a-dah                      person
+Laadan                  pns   LAY-uh-duhn                   La'a-dan                      person
+Laban                   pns   LAY-buhn                      La'ban                        person,place
+Lachish                 pns   LAY-kish                      La'chish                      place
+Ladan                   pns   LAY-duhn                      La'dan                        person
+Lael                    pns   LAY-uhl                       La'el                         person
+Lahad                   pns   LAY-had                       La'had                        person
+Lahairoi                pns   luh-HIY-roy                   La-hai'roi                    place
+Lahai-roi               pns   luh-HIY-roy                   La-hai'roi                    place
+Lahai_Roi               pns   luh-HIY-roy                   La-hai_Roi                    place
+Lahmam                  pns   LAH-mam                       Lah'mam                       place
+Lahmas                  pns   LAH-mas                       Lah'mas                       place
+Lahmi                   pns   LAH-miy                       Lah'mi                        person
+Laish                   pns   LAY-ish                       La'ish                        person,place
+Laishah                 pns   LAY-i-shuh                    La'i-shah                     place
+Lakkum                  pns   LAK-uhm                       Lak'kum                       place
+Lakum                   pns   LAY-kuhm                      La'kum                        place
+Lamech                  pns   LAY-mek                       La'mech                       person
+Lamed                   pns   LAH-med                       La'med                        writing
+Lamedh                  pns   LAH-med                       La'medh                       writing
+Lamentations            pnp   LAM-en-TAY-shuhnz             Lam-en-ta'tions               writing
+Laodicea                pns   lay-OD-i-SEE-uh               La-od'i-ce'a                  place
+Laodicean               pns   Lay-OD-i-SEE-uhn              La-od'i-ce'an                 ethnic
+Lapidoth                pns   LAP-i-doth                    Lap'i-doth                    person
+Lappidoth               pns   LAP-i-doth                    Lap'pi-doth                   person
+Lasea                   pns   luh-SEE-uh                    La-se'a                       place
+Lasha                   pns   LAY-shuh                      La'sha                        place
+Lasharon                pns   luh-SHAY-ruhn                 La-sha'ron                    place
+Lassharon               pns   luh-SHAY-ruhn                 Las-sha'ron                   place
+Lasthenes               pns   LAS-thi-nez                   Las'the-nes                   person
+Latin                   pns   LAT-in                        Lat'in                        ethnic
+Lazarus                 pns   LAZ-uh-ruhs                   Laz'a-rus                     person
+Leah                    pns   LEE-uh                        Le'ah                         person
+Leannoth                pns   lee-AN-oth                    Le-an'noth                    person
+Lebana                  pns   li-BAY-nuh                    Le-ba'na                      person
+Lebanah                 pns   li-BAY-nuh                    Le-ba'nah                     person
+Lebanon                 pns   LEB-uh-nuhn                   Leb'a-non                     place
+Lebaoth                 pns   li-BAY-oth                    Le-ba'oth                     place
+Lebbaeus                pns   luh-BEE-uhs                   Leb-bae'us                    person
+Lebbeus                 pns   luh-BEE-uhs                   Leb-be'us                     person
+Lebkamai                pns   LEB-KAY-miy                   Leb'ka'mai                    place
+Leb-kamai               pns   LEB-KAY-miy                   Leb'ka'mai                    place
+Leb_Kamai               pns   LEB-KAY-miy                   Leb_Ka'mai                    place
+Lebohamath              pns   LEE-boh-HAY-math              Le'bo-ha'math                 place
+Lebo-hamath             pns   LEE-boh-HAY-math              Le'bo-ha'math                 place
+Lebo_Hamath             pns   LEE-boh-HAY-math              Le'bo_Ha'math                 place
+Lebonah                 pns   li-BOH-nuh                    Le-bo'nah                     place
+Lecah                   pns   LEE-kuh                       Le'cah                        person,place
+Legion                  pns   LEE-juhn                      Le'gion                       demon
+Lehabim                 pnp   li-HAY-bim                    Le-ha'bim                     ethnic
+Lehabims                pnp   li-HAY-bims                   Le-ha'bims                    ethnic
+Lehabite                pns   li-HAY-biyt                   Le-ha'bite                    ethnic
+Lehabites               pnp   li-HAY-biyts                  Le-ha'bites                   ethnic
 Lehem                   pns   LEE-huhm                      Le'hem                        place
-Lehi                    pns   LEE-hiy                       Le'hi
-Lemuel                  pns   LEM-yoo-uhl                   Lem'u-el
-Leshem                  pns   LEE-shem                      Le'shem
-Letushim                pns   li-TOO-shim                   Le-tu'shim
-Leummim                 pns   lee-UM-im                     Le-um'mim
-Levi                    pns   LEE-viy                       Le'vi
-Leviathan               pns   li-VIY-uh-thuhn               Le-vi'a-than
-Levite                  pns   LEE-viyt                      Le'vite
-Levites                 pnp   LEE-viyts                     Le'vites
-Levitical               pns   li-VIT-i-kuhl                *Le-vit'i-cal
-Leviticus               pns   li-VIT-i-kuhs                 Le-vit'i-cus
-Libertine               pns   LIB-uhr-teen                  Lib'er-tine
-Libertines              pnp   LIB-uhr-teenz                 Lib'er-tines
-Libnah                  pns   LIB-nuh                       Lib'nah
-Libni                   pns   LIB-niy                       Lib'ni
+Lehi                    pns   LEE-hiy                       Le'hi                         place
+Lemuel                  pns   LEM-yoo-uhl                   Lem'u-el                      person
+Leshem                  pns   LEE-shem                      Le'shem                       place
+Letushim                pnp   li-TOO-shim                   Le-tu'shim                    ethnic
+Letushims               pnp   li-TOO-shim                   Le-tu'shims                   ethnic
+Leummim                 pnp   lee-UM-im                     Le-um'mim                     ethnic
+Leummims                pnp   lee-UM-ims                    Le-um'mims                    ethnic
+Leummite                pns   lee-UM-iyt                    Le-um'mite                    ethnic
+Leummites               pnp   lee-UM-iyts                   Le-um'mites                   ethnic
+Levi                    pns   LEE-viy                       Le'vi                         person
+Levite                  pns   LEE-viyt                      Le'vite                       ethnic
+Levites                 pnp   LEE-viyts                     Le'vites                      ethnic
+Leviticus               pns   li-VIT-i-kuhs                 Le-vit'i-cus                  writing
+Libertine               pns   LIB-uhr-teen                  Lib'er-tine                   ethnic
+Libertines              pnp   LIB-uhr-teenz                 Lib'er-tines                  ethnic
+Libnah                  pns   LIB-nuh                       Lib'nah                       place
+Libni                   pns   LIB-niy                       Lib'ni                        person
+Libnite                 pns   LIB-niyt                      Lib'nite                      ethnic
+Libnites                pnp   LIB-niyts                     Lib'nites                     ethnic
 Libya                   pns   LIB-ee-uh                     Lib'y-a                       place
-Libyan                  pns   LIB-ee-uhn                    Lib'y-an
-Libyans                 pnp   LIB-ee-uhnz                   Lib'y-ans
-Likhi                   pns   LIK-hiy                       Lik'hi
-Lilith                  pns   LIL-ith                       Lil'ith
-Linus                   pns   LIY-nuhs                      Li'nus
-Loammi                  pns   loh-AM-iy                     Lo-am'mi
-Lod                     pns   LOD                           Lod
-Lodebar                 pns   LOH-DEE-bahr                  Lo'de'bar
-Lo-debar                pns   LOH-DEE-bahr                  Lo'de'bar
-Lois                    pns   LOH-is                        Lo'is
-Loruhamah               pns   LOH-roo-HAH-mah               Lo'ru-ha'mah
-Lo-ruhamah              pns   LOH-roo-HAH-mah               Lo'ru-ha'mah
-Lot                     pns   LOT                           Lot
-Lotan                   pns   LOH-tuhn                      Lo'tan
-Lubim                   pns   LOO-bim                       Lu'bim
-Lucas                   pns   LOO-kuhs                      Lu'cas
-Lucifer                 pns   LOO-si-fuhr                   Lu'ci-fer
-Lucius                  pns   LOO-shee-uhs                  Lu'ci-us
-Lud                     pns   LUD                           Lud
-Ludim                   pns   LOO-dim                       Lu'dim
-Luhith                  pns   LOO-hith                      Lu'hith
-Luke                    pns   LOOK                          Luke
-Luz                     pns   LUZ                           Luz
-Lycaonia                pns   LIK-ay-OH-nee-uh              Lyc'a-o'ni-a
-Lycaonian               pns   LIK-ay-OH-nee-uhn            *Lyc'a-o'ni-an
-Lycia                   pns   LISH-ee-uh                    Lyc'i-a
-Lydda                   pns   LID-uh                        Lyd'da
-Lydia                   pns   LID-ee-uh                     Lyd'i-a
-Lysanias                pns   liy-SAY-nee-as                Ly-sa'ni-as
-Lysias                  pns   LIS-ee-as                    _Lys'i-as
-Lysimachus              pns   liy-SIM-uh-kuhs               Ly-sim'a-chus
-Lystra                  pns   LIS-truh                      Lys'tra
+Libyan                  pns   LIB-ee-uhn                    Lib'y-an                      ethnic
+Libyans                 pnp   LIB-ee-uhnz                   Lib'y-ans                     ethnic
+Likhi                   pns   LIK-hiy                       Lik'hi                        person
+Lilith                  pns   LIL-ith                       Lil'ith                       demon
+Linus                   pns   LIY-nuhs                      Li'nus                        person
+Loammi                  pns   loh-AM-iy                     Lo-am'mi                      person
+Lod                     pns   LOD                           Lod                           place
+Lodebar                 pns   LOH-DEE-bahr                  Lo'de'bar                     place
+Lo-debar                pns   LOH-DEE-bahr                  Lo'de'bar                     place
+Lo_Debar                pns   LOH-DEE-bahr                  Lo_De'bar                     place
+Lois                    pns   LOH-is                        Lo'is                         person
+Loruhamah               pns   LOH-roo-HAH-mah               Lo'ru-ha'mah                  person
+Lo-ruhamah              pns   LOH-roo-HAH-mah               Lo'ru-ha'mah                  person
+Lot                     pns   LOT                           Lot                           person
+Lotan                   pns   LOH-tuhn                      Lo'tan                        person
+Lubim                   pnp   LOO-bim                       Lu'bim                        ethnic
+Lubims                  pnp   LOO-bims                      Lu'bims                       ethnic
+Lucas                   pns   LOO-kuhs                      Lu'cas                        person
+Lucifer                 pns   LOO-si-fuhr                   Lu'ci-fer                     person
+Lucius                  pns   LOO-shee-uhs                  Lu'ci-us                      person
+Lud                     pns   LUD                           Lud                           person,place
+Ludim                   pns   LOO-dim                       Lu'dim                        person
+Luhith                  pns   LOO-hith                      Lu'hith                       place
+Luke                    pns   LOOK                          Luke                          person,writing
+Luz                     pns   LUZ                           Luz                           place
+Lycaonia                pns   LIK-ay-OH-nee-uh              Lyc'a-o'ni-a                  place
+Lycaonian               pns   LIK-ay-OH-nee-uhn             Lyc'a-o'ni-an                 ethnic
+Lycia                   pns   LISH-ee-uh                    Lyc'i-a                       place
+Lydda                   pns   LID-uh                        Lyd'da                        place
+Lydia                   pns   LID-ee-uh                     Lyd'i-a                       person,place
+Lydian                  pns   LID-ee-uhn                    Lyd'i-an                      ethnic
+Lydians                 pnp   LID-ee-uhnz                   Lyd'i-ans                     ethnic
+Lysanias                pns   liy-SAY-nee-as                Ly-sa'ni-as                   person
+Lysias                  pns   LIS-ee-as                     Lys'i-as                      person
+Lysimachus              pns   liy-SIM-uh-kuhs               Ly-sim'a-chus                 person
+Lystra                  pns   LIS-truh                      Lys'tra                       place
 
 Maacah                  pns   MAY-uh-kuh                    Ma'a-cah
 Maacath                 pns   MAY-uh-kath                   Ma'a-cath
@@ -3846,7 +3861,7 @@ Mahalab                 pns   MAY-huh-lab                   Ma'ha-lab
 Mahalah                 pns   muh-HAY-lah                   Ma-ha'lah
 Mahalaleel              pns   muh-HAY-luh-LEE-el            Ma-ha'la-le'el
 Mahalalel               pns   muh-HAY-luh-lel               Ma-ha'la-lel
-Mahalath                pns   MAY-huh-lath                  Ma'ha-lath
+Mahalath                pns   MAY-huh-lath                  Ma'ha-lath                    person
 Mahali                  pns   MAY-huh-liy                   Ma'ha-li
 Mahanaim                pns   MAY-huh-NAY-im                Ma'ha-na'im
 Mahanehdan              pns   MAY-huh-ne-DAN                Ma'ha-neh-dan'
