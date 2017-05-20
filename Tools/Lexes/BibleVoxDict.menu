@@ -2760,7 +2760,7 @@ Hazor-hadattah          pns   HAY-zohr-huh-DAT-uh           Ha'zor-ha-dat'tah   
 Hazor_Hadattah          pns   HAY-zohr-huh-DAT-uh           Ha'zor_Ha-dat'tah             place
 Hazzelelponi            pns   HAZ-uh-lel-POH-niy            Haz'ze-lel-po'ni              person
 Hazzobebah              pns   HAZ-uh-BEE-buh                Haz'zo-be'bah                 person
-He                      pns   HAY                           He                            writing
+#He                      pns   HAY                           He                            writing
 Hebel                   pns   HEE-bel                       He'bel                        place
 Heber                   pns   HEE-buhr                      He'ber                        person
 Heberite                pns   HEE-buhr-iyt                  He'ber-ite                    ethnic
@@ -3802,399 +3802,424 @@ Lysias                  pns   LIS-ee-as                     Lys'i-as            
 Lysimachus              pns   liy-SIM-uh-kuhs               Ly-sim'a-chus                 person
 Lystra                  pns   LIS-truh                      Lys'tra                       place
 
-Maacah                  pns   MAY-uh-kuh                    Ma'a-cah
-Maacath                 pns   MAY-uh-kath                   Ma'a-cath
-Maacathite              pns   may-AK-uh-thiyt               Ma-ac'a-thite
-Maacathites             pnp   may-AK-uh-thiyts              Ma-ac'a-thites
-Maachah                 pns   MAY-uh-kuh                    Ma'a-chah
-Maachathi               pns   may-AK-uh-thiy                Ma-ach'a-thi
-Maachathite             pns   may-AK-uh-thiyt               Ma-ach'a-thite
-Maachathites            pnp   may-AK-uh-thiyts              Ma-ach'a-thites
-Maadai                  pns   MAY-uh-diy                    Ma'a-dai
-Maadiah                 pns   MAY-uh-DIY-uh                 Ma'a-di'ah
-Maai                    pns   MAY-iy                        Ma'ai
-Maalehacrabbim          pns   MAY-uh-le-uh-KRAB-im          Ma'a-leh-a-crab'bim
-Maaleh-acrabbim         pns   MAY-uh-le-uh-KRAB-im          Ma'a-leh-a-crab'bim
-Maarath                 pns   MAY-uh-rath                   Ma'a-rath
-Maarehgeba              pns   MAY-uh-re-GEE-buh             Ma'a-reh-ge'ba
-Maareh-geba             pns   MAY-uh-re-GEE-buh             Ma'a-reh-ge'ba
-Maasai                  pns   MAY-uh-siy                    Ma'a-sai
-Maaseiah                pns   MAY-uh-SEE-yuh                Ma'a-se'iah
-Maasiai                 pns   may-AS-ee-iy                  Ma-as'i-ai
-Maath                   pns   MAY-ath                       Ma'ath
-Maaz                    pns   MAY-az                        Ma'az
-Maaziah                 pns   MAY-uh-ZIY-uh                 Ma'a-zi'ah
-Maccabee                pns   MAK-uh-bee                    Mac'ca-bee
-Macedonia               pns   MAS-i-DOH-nee-uh              Mac'e-do'ni-a
-Macedonian              pns   MAS-i-DOH-nee-uhn            *Mac'e-do'ni-an
-Macedonians             pnp   MAS-i-DOH-nee-uhnz           *Mac'e-do'ni-ans
-Machaerus               pns   muh-KEE-ruhs                  Ma-chae'rus
-Machbanai               pns   MAK-buh-niy                   Mach'ba-nai
-Machbannai              pns   MAK-buh-niy                   Mach'ban-nai
-Machbena                pns   mak-BEE-nuh                   Mach-be'na
-Machbenah               pns   mak-BEE-nuh                   Mach-be'nah
-Machi                   pns   MAY-kiy                       Ma'chi
-Machir                  pns   MAY-kir                       Ma'chir
-Machirite               pns   MAY-kir-iyt                   Ma'chir-ite
-Machirites              pnp   MAY-kir-iyts                  Ma'chir-ites
-Machmas                 pns   MAK-mas                       Mach'mas
-Machnadebai             pns   mak-NAD-i-biy                 Mach-nad'e-bai
-Machpelah               pns   mak-PEE-luh                   Mach-pe'lah
-Madai                   pns   MAD-iy                        Mad'ai
-Madian                  pns   MAY-dee-uhn                   Ma'di-an
-Madmannah               pns   mad-MAN-uh                    Mad-man'nah
-Madmen                  pns   MAD-men                       Mad'men
-Madmenah                pns   mad-MEE-nuh                   Mad-me'nah
-Madon                   pns   MAY-don                       Ma'don
-Magadan                 pns   MAG-uh-dan                    Mag'a-dan
-Magbish                 pns   MAG-bish                      Mag'bish
-Magdala                 pns   MAG-duh-luh                   Mag'da-la
-Magdalene               pns   MAG-duh-leen                  Mag'da-lene
-Magdiel                 pns   MAG-dee-el                    Mag'di-el
-Maged                   pns   MAY-ged                       Ma'ged
-Magi                    pns   MAY-jiy                       Ma'gi
-Magog                   pns   MAY-gog                       Ma'gog
-Magormissabib           pns   MAY-gor-MIS-uh-bib            Ma'gor-mis'sa-bib
-Magor-missabib          pns   MAY-gor-MIS-uh-bib            Ma'gor-mis'sa-bib
-Magpiash                pns   MAG-pee-ash                   Mag'pi-ash
-Mahalab                 pns   MAY-huh-lab                   Ma'ha-lab
-Mahalah                 pns   muh-HAY-lah                   Ma-ha'lah
-Mahalaleel              pns   muh-HAY-luh-LEE-el            Ma-ha'la-le'el
-Mahalalel               pns   muh-HAY-luh-lel               Ma-ha'la-lel
+Maacah                  pns   MAY-uh-kuh                    Ma'a-cah                      person,place
+Maacath                 pns   MAY-uh-kath                   Ma'a-cath                     person,place
+Maacathite              pns   may-AK-uh-thiyt               Ma-ac'a-thite                 ethnic
+Maacathites             pnp   may-AK-uh-thiyts              Ma-ac'a-thites                ethnic
+Maachah                 pns   MAY-uh-kuh                    Ma'a-chah                     person,place
+Maachathi               pns   may-AK-uh-thiy                Ma-ach'a-thi                  ethnic
+Maachathite             pns   may-AK-uh-thiyt               Ma-ach'a-thite                ethnic
+Maachathites            pnp   may-AK-uh-thiyts              Ma-ach'a-thites               ethnic
+Maadai                  pns   MAY-uh-diy                    Ma'a-dai                      person
+Maadiah                 pns   MAY-uh-DIY-uh                 Ma'a-di'ah                    person
+Maai                    pns   MAY-iy                        Ma'ai                         person
+Maalehacrabbim          pns   MAY-uh-le-uh-KRAB-im          Ma'a-leh-a-crab'bim           place
+Maaleh-acrabbim         pns   MAY-uh-le-uh-KRAB-im          Ma'a-leh-a-crab'bim           place
+Maaleh_Acrabbim         pns   MAY-uh-le-uh-KRAB-im          Ma'a-leh_A-crab'bim           place
+Maarath                 pns   MAY-uh-rath                   Ma'a-rath                     place
+Maarehgeba              pns   MAY-uh-re-GEE-buh             Ma'a-reh-ge'ba                place
+Maareh-geba             pns   MAY-uh-re-GEE-buh             Ma'a-reh-ge'ba                place
+Maareh_Geba             pns   MAY-uh-re-GEE-buh             Ma'a-reh_Ge'ba                place
+Maasai                  pns   MAY-uh-siy                    Ma'a-sai                      person
+Maaseiah                pns   MAY-uh-SEE-yuh                Ma'a-se'iah                   person
+Maasiai                 pns   may-AS-ee-iy                  Ma-as'i-ai                    person
+Maath                   pns   MAY-ath                       Ma'ath                        person
+Maaz                    pns   MAY-az                        Ma'az                         person
+Maaziah                 pns   MAY-uh-ZIY-uh                 Ma'a-zi'ah                    person
+Maccabee                pns   MAK-uh-bee                    Mac'ca-bee                    person
+Macedonia               pns   MAS-i-DOH-nee-uh              Mac'e-do'ni-a                 place
+Macedonian              pns   MAS-i-DOH-nee-uhn             Mac'e-do'ni-an                ethnic
+Macedonians             pnp   MAS-i-DOH-nee-uhnz            Mac'e-do'ni-ans               ethnic
+Machaerus               pns   muh-KEE-ruhs                  Ma-chae'rus                   place
+Machbanai               pns   MAK-buh-niy                   Mach'ba-nai                   person
+Machbannai              pns   MAK-buh-niy                   Mach'ban-nai                  person
+Machbena                pns   mak-BEE-nuh                   Mach-be'na                    person,place
+Machbenah               pns   mak-BEE-nuh                   Mach-be'nah                   person,place
+Machi                   pns   MAY-kiy                       Ma'chi                        person
+Machir                  pns   MAY-kir                       Ma'chir                       person
+Machirite               pns   MAY-kir-iyt                   Ma'chir-ite                   ethnic
+Machirites              pnp   MAY-kir-iyts                  Ma'chir-ites                  ethnic
+Machmas                 pns   MAK-mas                       Mach'mas                      place
+Machnadebai             pns   mak-NAD-i-biy                 Mach-nad'e-bai                person
+Machpelah               pns   mak-PEE-luh                   Mach-pe'lah                   place
+Madai                   pns   MAD-iy                        Mad'ai                        person
+Madian                  pns   MAY-dee-uhn                   Ma'di-an                      person,place
+Madmannah               pns   mad-MAN-uh                    Mad-man'nah                   person,place
+Madmen                  pns   MAD-men                       Mad'men                       place
+Madmenah                pns   mad-MEE-nuh                   Mad-me'nah                    place
+Madon                   pns   MAY-don                       Ma'don                        place
+Magadan                 pns   MAG-uh-dan                    Mag'a-dan                     place
+Magbish                 pns   MAG-bish                      Mag'bish                      place
+Magdala                 pns   MAG-duh-luh                   Mag'da-la                     place
+Magdalene               pns   MAG-duh-leen                  Mag'da-lene                   person
+Magdiel                 pns   MAG-dee-el                    Mag'di-el                     person
+Maged                   pns   MAY-ged                       Ma'ged                        place
+Magi                    pns   MAY-jiy                       Ma'gi                         title
+Magog                   pns   MAY-gog                       Ma'gog                        person
+Magormissabib           pns   MAY-gor-MIS-uh-bib            Ma'gor-mis'sa-bib             person
+Magor-missabib          pns   MAY-gor-MIS-uh-bib            Ma'gor-mis'sa-bib             person
+Magpiash                pns   MAG-pee-ash                   Mag'pi-ash                    person
+Mahalab                 pns   MAY-huh-lab                   Ma'ha-lab                     place
+Mahalah                 pns   muh-HAY-lah                   Ma-ha'lah                     person
+Mahalaleel              pns   muh-HAY-luh-LEE-el            Ma-ha'la-le'el                person
+Mahalalel               pns   muh-HAY-luh-lel               Ma-ha'la-lel                  person
 Mahalath                pns   MAY-huh-lath                  Ma'ha-lath                    person
-Mahali                  pns   MAY-huh-liy                   Ma'ha-li
-Mahanaim                pns   MAY-huh-NAY-im                Ma'ha-na'im
-Mahanehdan              pns   MAY-huh-ne-DAN                Ma'ha-neh-dan'
-Mahaneh-dan             pns   MAY-huh-ne-DAN                Ma'ha-neh-dan'
-Maharai                 pns   muh-HAR-iy                    Ma-har'ai
-Mahath                  pns   MAY-hath                      Ma'hath
-Mahavite                pns   MAY-huh-viyt                  Ma'ha-vite
-Mahavites               pnp   MAY-huh-viyts                 Ma'ha-vites
-Mahazioth               pns   muh-HAY-zee-oth               Ma-ha'zi-oth
-Mahershalalhashbaz      pns   MAY-huhr-SHAL-al-HASH-BAZ     Ha'her-shal'al-hash'baz'
-Maher-shalal-hashbaz    pns   MAY-huhr-SHAL-al-HASH-BAZ     Ha'her-shal'al-hash'baz'
-Maher-shalal-hash-baz   pns   MAY-huhr-SHAL-al-HASH-BAZ     Ha'her-shal'al-hash'baz'
-Mahlah                  pns   MAH-luh                       Mah'lah
-Mahli                   pns   MAH-liy                       Mah'li
-Mahlon                  pns   MAH-lon                       Mah'lon
-Mahol                   pns   MAY-hol                       Ma'hol
-Mahseiah                pns   mah-SEE-yuh                   Mah-se'iah
-Makaz                   pns   MAY-kaz                       Ma'kaz
-Maked                   pns   MAY-ked                       Ma'ked
-Makheloth               pns   mak-HEE-loth                  Mak-he'loth
-Makkedah                pns   ma-KEE-duh                    Mak-ke'dah
-Maktesh                 pns   MAK-tesh                      Mak'tesh
-Malachi                 pns   MAL-uh-kiy                    Mal'a-chi
-Malcam                  pns   MAL-kam                       Mal'cam
-Malcham                 pns   MAL-kam                       Mal'cham
-Malchiah                pns   mal-KIY-uh                    Mal-chi'ah
-Malchiel                pns   MAL-kee-el                    Mal'chi-el
-Malchijah               pns   mal-KIY-juh                   Mal-chi'jah
-Malchiram               pns   mal-KIY-ram                   Mal-chi'ram
-Malchishua              pns   MAL-kiy-SHOO-uh               Mal'chi-shu'a
-Malchi-shua             pns   MAL-kiy-SHOO-uh               Mal'chi-shu'a
-Malchus                 pns   MAL-kuhs                      Mal'chus
-Maleleel                pns   muh-LEE-lee-el                Ma-le'le-el
-Mallothi                pns   MAL-uh-thiy                   Mal'lo-thi
-Malluch                 pns   MAL-uhk                       Mal'luch
-Malluchi                pns   MAL-yoo-kiy                   Mal'lu-chi
-Malta                   pns   MAOL-tuh                      Mal'ta
-Mamre                   pns   MAM-ri                        Mam're
-Manaen                  pns   MAN-ay-uhn                    Man'a-en
-Manahath                pns   MAN-uh-hath                   Man'a-hath
-Manahathite             pns   muh-NAY-hath-iyt              Ma-na'hath-ite
-Manahathites            pnp   muh-NAY-hath-iyts             Ma-na'hath-ites
-Manahethite             pns   muh-NAY-heth-iyt              Ma-na'heth-ite
-Manahethites            pnp   muh-NAY-heth-iyts             Ma-na'heth-ites
-Manasseh                pns   muh-NAS-e                     Ma-nas'seh
-Manasses                pns   muh-NAS-eez                   Ma-nas'ses
-Manassite               pns   muh-NAS-iyt                  *Ma-nas'site
-Manassites              pnp   muh-NAS-iyts                 *Ma-nas'sites
-Manoah                  pns   muh-NOH-uh                    Ma-no'ah
-Maoch                   pns   MAY-ok                        Ma'och
-Maon                    pns   MAY-on                        Ma'on
-Maonite                 pns   MAY-uhn-iyt                   Ma'on-ite
-Maonites                pnp   MAY-uhn-iyts                  Ma'on-ites
-Mara                    pns   MAH-ruh                       Ma'ra
-Marah                   pns   MAY-ruh                       Ma'rah
-Maralah                 pns   MAR-uh-lah                    Mar'a-lah
-Marcus                  pns   MAHR-kuhs                     Mar'cus
-Marchesvan              pns   mahr-KES-van                  Mar-ches'van
-Mareal                  pns   MAHR-e-uhl                    Mar'e-al
-Mareshah                pns   muh-REE-shuh                  Ma-re'shah
-Marheshvan              pns   mahr-HESH-van                 Mar-hesh'van
-Mari                    pns   MAH-ree                       Ma'ri
-Mark                    pns   MAHRK                         Mark
-Maroth                  pns   MAY-roth                      Ma'roth
-Mars                    pns   MAHRZ                         Mars'
-Marsena                 pns   mahr-SEE-nuh                  Mar-se'na
-Martha                  pns   MAHR-thuh                     Mar'tha
-Mary                    pns   MEHR-i                        Mar'y
-Masada                  pns   muh-SAY-duh                   Ma-sa'da
-Masaloth                pns   MAS-uh-loth                   Mas'a-loth
-Maschil                 pns   MAHS-keel                     Mas'chil
-Mash                    pns   MASH                          Mash
-Mashal                  pns   MAY-shal                      Ma'shal
-Maskil                  pns   MAHS-keel                     Mas'kil
-Masora                  pns   muh-SOH-ruh                   Ma-so'ra
-Masorah                 pns   muh-SOH-ruh                   Ma-so'rah
-Masorete                pns   MAS-uh-reet                   Mas'o-rete
-Masoretes               pnp   MAS-uh-reets                  Mas'o-retes
-Masoretic               pns   MAS-uh-RET-ik                 Mas'o-ret'ic
-Maspha                  pns   MAS-fuh                       Mas'pha
-Masrekah                pns   MAS-ri-kuh                    Mas're-kah
-Massa                   pns   MAS-uh                        Mas'sa
-Massah                  pns   MAS-uh                        Mas'sah
-Mathusala               pns   muh-THOO-suh-luh              Ma-thu'sa-la
-Matred                  pns   MAY-tred                      Ma'tred
-Matri                   pns   MAY-triy                      Ma'tri
-Matrite                 pns   MAY-triyt                     Ma'trite
-Matrites                pnp   MAY-triyts                    Ma'trites
-Mattan                  pns   MAT-uhn                       Mat'tan
-Mattanah                pns   MAT-uh-nuh                    Mat'ta-nah
-Mattaniah               pns   MAT-uh-NIY-uh                 Mat'ta-ni'ah
-Mattatha                pns   MAT-uh-thuh                   Mat'ta-tha
-Mattathah               pns   MAT-uh-thuh                   Mat'ta-thah
-Mattathias              pns   MAT-uh-THIY-uhs               Mat'ta-thi'as
-Mattattah               pns   MAT-uh-tuh                    Mat'tat-tah
-Mattenai                pns   MAT-i-niy                     Mat'te-nai
-Matthan                 pns   MAT-than                      Mat'than
-Matthat                 pns   MAT-that                      Mat'that
-Matthew                 pns   MATH-oo                       Mat'thew
-Matthias                pns   muh-THIY-uhs                  Mat-thi'as
-Mattithiah              pns   MAT-i-THIY-uh                 Mat'ti-thi'ah
-Mazzaroth               pns   MAZ-uh-roth                   Maz'za-roth
+Mahali                  pns   MAY-huh-liy                   Ma'ha-li                      person
+Mahanaim                pns   MAY-huh-NAY-im                Ma'ha-na'im                   place
+Mahanehdan              pns   MAY-huh-ne-DAN                Ma'ha-neh-dan'                place
+Mahaneh-dan             pns   MAY-huh-ne-DAN                Ma'ha-neh-dan'                place
+Mahaneh_Dan             pns   MAY-huh-ne-DAN                Ma'ha-neh_Dan'                place
+Maharai                 pns   muh-HAR-iy                    Ma-har'ai                     person
+Mahath                  pns   MAY-hath                      Ma'hath                       person
+Mahavite                pns   MAY-huh-viyt                  Ma'ha-vite                    ethnic
+Mahavites               pnp   MAY-huh-viyts                 Ma'ha-vites                   ethnic
+Mahazioth               pns   muh-HAY-zee-oth               Ma-ha'zi-oth                  person
+Mahershalalhashbaz      pns   MAY-huhr-SHAL-al-HASH-BAZ     Ha'her-shal'al-hash'baz'      person
+Maher-shalal-hashbaz    pns   MAY-huhr-SHAL-al-HASH-BAZ     Ha'her-shal'al-hash'baz'      person
+Maher-shalal-hash-baz   pns   MAY-huhr-SHAL-al-HASH-BAZ     Ha'her-shal'al-hash'baz'      person
+Mahlah                  pns   MAH-luh                       Mah'lah                       person
+Mahlite                 pns   MAH-liyt                      Mah'lite                      ethnic
+Mahlites                pnp   MAH-liyts                     Mah'lites                     ethnic
+Mahli                   pns   MAH-liy                       Mah'li                        person
+Mahlon                  pns   MAH-lon                       Mah'lon                       person
+Mahol                   pns   MAY-hol                       Ma'hol                        person
+Mahseiah                pns   mah-SEE-yuh                   Mah-se'iah                    person
+Makaz                   pns   MAY-kaz                       Ma'kaz                        place
+Maked                   pns   MAY-ked                       Ma'ked                        place
+Makheloth               pns   mak-HEE-loth                  Mak-he'loth                   place
+Maki                    pns   MAY-kiy                       Ma'ki                         person
+Makir                   pns   MAY-kir                       Ma'kir                        person
+Makkedah                pns   ma-KEE-duh                    Mak-ke'dah                    place
+Maktesh                 pns   MAK-tesh                      Mak'tesh                      place
+Malachi                 pns   MAL-uh-kiy                    Mal'a-chi                     person,writing
+Malcam                  pns   MAL-kam                       Mal'cam                       person,deity
+Malcham                 pns   MAL-kam                       Mal'cham                      person,deity
+Malchiah                pns   mal-KIY-uh                    Mal-chi'ah                    person
+Malchiel                pns   MAL-kee-el                    Mal'chi-el                    person
+Malchielite             pns   MAL-kee-el-iyt                Mal'chi-el-ite                ethnic
+Malchielites            pnp   MAL-kee-el-iyts               Mal'chi-el-ites               ethnic
+Malchijah               pns   mal-KIY-juh                   Mal-chi'jah                   person
+Malchiram               pns   mal-KIY-ram                   Mal-chi'ram                   person
+Malchishua              pns   MAL-kiy-SHOO-uh               Mal'chi-shu'a                 person
+Malchi-shua             pns   MAL-kiy-SHOO-uh               Mal'chi-shu'a                 person
+Malchus                 pns   MAL-kuhs                      Mal'chus                      person
+Maleleel                pns   muh-LEE-lee-el                Ma-le'le-el                   person
+Malkiel                 pns   MAL-kee-el                    Mal'ki-el                     person
+Malkijah                pns   mal-KIY-juh                   Mal-ki'jah                    person
+Malkiram                pns   mal-KIY-ram                   Mal-ki'ram                    person
+Malkishua               pns   MAL-kiy-SHOO-uh               Mal'ki-shu'a                  person
+Malki-shua              pns   MAL-kiy-SHOO-uh               Mal'ki-shu'a                  person
+Mallothi                pns   MAL-uh-thiy                   Mal'lo-thi                    person
+Malluch                 pns   MAL-uhk                       Mal'luch                      person
+Malluchi                pns   MAL-yoo-kiy                   Mal'lu-chi                    person
+Malta                   pns   MAOL-tuh                      Mal'ta                        place
+Mamre                   pns   MAM-ri                        Mam're                        person,place
+Manaen                  pns   MAN-ay-uhn                    Man'a-en                      person
+Manahath                pns   MAN-uh-hath                   Man'a-hath                    person,place
+Manahathite             pns   muh-NAY-hath-iyt              Ma-na'hath-ite                ethnic
+Manahathites            pnp   muh-NAY-hath-iyts             Ma-na'hath-ites               ethnic
+Manahethite             pns   muh-NAY-heth-iyt              Ma-na'heth-ite                ethnic
+Manahethites            pnp   muh-NAY-heth-iyts             Ma-na'heth-ites               ethnic
+Manasseh                pns   muh-NAS-e                     Ma-nas'seh                    person
+Manasses                pns   muh-NAS-eez                   Ma-nas'ses                    person
+Manassite               pns   muh-NAS-iyt                   Ma-nas'site                   ethnic
+Manassites              pnp   muh-NAS-iyts                  Ma-nas'sites                  ethnic
+Manoah                  pns   muh-NOH-uh                    Ma-no'ah                      person
+Maoch                   pns   MAY-ok                        Ma'och                        person
+Maon                    pns   MAY-on                        Ma'on                         person,place
+Maonite                 pns   MAY-uhn-iyt                   Ma'on-ite                     ethnic
+Maonites                pnp   MAY-uhn-iyts                  Ma'on-ites                    ethnic
+Mara                    pns   MAH-ruh                       Ma'ra                         person
+Marah                   pns   MAY-ruh                       Ma'rah                        place
+Maralah                 pns   MAR-uh-lah                    Mar'a-lah                     place
+Marcus                  pns   MAHR-kuhs                     Mar'cus                       person
+Marduk                  pns   MAHR-dyook                    Mar'duk                       deity
+Mareal                  pns   MAHR-e-uhl                    Mar'e-al                      place
+Mareshah                pns   muh-REE-shuh                  Ma-re'shah                    person,place
+Mari                    pns   MAH-ree                       Ma'ri                         place
+Mark                    pns   MAHRK                         Mark                          person,writing
+Maroth                  pns   MAY-roth                      Ma'roth                       place
+Mars_Hill               pns   MAHRZ-HIL                     Mars_Hill                     place
+Marsena                 pns   mahr-SEE-nuh                  Mar-se'na                     person
+Martha                  pns   MAHR-thuh                     Mar'tha                       person
+Mary                    pns   MEHR-i                        Mar'y                         person
+Masada                  pns   muh-SAY-duh                   Ma-sa'da                      place
+Masaloth                pns   MAS-uh-loth                   Mas'a-loth                    place
+Mash                    pns   MASH                          Mash                          person
+Mashal                  pns   MAY-shal                      Ma'shal                       place
+Maspha                  pns   MAS-fuh                       Mas'pha                       place
+Masrekah                pns   MAS-ri-kuh                    Mas're-kah                    place
+Massa                   pns   MAS-uh                        Mas'sa                        person
+Massah                  pns   MAS-uh                        Mas'sah                       place
+Mathusala               pns   muh-THOO-suh-luh              Ma-thu'sa-la                  person
+Matred                  pns   MAY-tred                      Ma'tred                       person
+Matri                   pns   MAY-triy                      Ma'tri                        person
+Matrite                 pns   MAY-triyt                     Ma'trite                      ethnic
+Matrites                pnp   MAY-triyts                    Ma'trites                     ethnic
+Mattan                  pns   MAT-uhn                       Mat'tan                       person
+Mattanah                pns   MAT-uh-nuh                    Mat'ta-nah                    place
+Mattaniah               pns   MAT-uh-NIY-uh                 Mat'ta-ni'ah                  person
+Mattatha                pns   MAT-uh-thuh                   Mat'ta-tha                    person
+Mattathah               pns   MAT-uh-thuh                   Mat'ta-thah                   person
+Mattathias              pns   MAT-uh-THIY-uhs               Mat'ta-thi'as                 person
+Mattattah               pns   MAT-uh-tuh                    Mat'tat-tah                   person
+Mattenai                pns   MAT-i-niy                     Mat'te-nai                    person
+Matthan                 pns   MAT-than                      Mat'than                      person
+Matthat                 pns   MAT-that                      Mat'that                      person
+Matthew                 pns   MATH-oo                       Mat'thew                      person,writing
+Matthias                pns   muh-THIY-uhs                  Mat-thi'as                    person
+Mattithiah              pns   MAT-i-THIY-uh                 Mat'ti-thi'ah                 person
+Mazzaroth               pns   MAZ-uh-roth                   Maz'za-roth                   astral
 Meah                    pns   MEE-uh                        Me'ah                         place
-Mearah                  pns   mee-AY-ruh                    Me-a'rah
-Mebunnai                pns   mi-BUN-iy                     Me-bun'nai
-Mecherathite            pns   mi-KEE-rath-iyt               Me-che'rath-ite
-Mecherathites           pnp   mi-KEE-rath-iyts              Me-che'rath-ites
-Meconah                 pns   mi-KOH-nuh                    Me-co'nah
-Medaba                  pns   MED-uh-buh                    Med'a-ba
-Medad                   pns   MEE-dad                       Me'dad
-Medan                   pns   MEE-dan                       Me'dan
-Mede                    pns   MEED                          Mede
-Medeba                  pns   MED-i-buh                     Med'e-ba
-Medes                   pnp   MEEDS                         Medes
-Media                   pns   MEE-dee-uh                    Me'di-a
-Median                  pns   MEE-dee-uhn                   Me'di-an
-Medians                 pnp   MEE-dee-uhnz                  Me'di-ans
-Mediterranean           pns   MED-uh-tuh-RAY-nee-uhn        Med'i-ter-ra'ne-an
-Megiddo                 pns   mi-GID-oh                     Me-gid'do
-Megiddon                pns   mi-GID-on                     Me-gid'on
-Megillah                pns   mi-GIL-uh                    *Me-gil'lah
-Megillahs               pns   mi-GIL-uhs                   *Me-gil'lahs
-Megillot                pns   mi-GIL-ot                    *Me-gil'lot
-Megilloth               pns   mi-GIL-oth                    Me-gil'loth
-Mehetabel               pns   mi-HET-uh-bel                 Me-het'a-bel
-Mehetabeel              pns   mi-HET-uh-beel                Me-het'a-beel
-Mehida                  pns   mi-HIY-duh                    Me-hi'da
-Mehir                   pns   MEE-huhr                      Me'hir
-Meholathite             pns   mi-HOH-luh-thiyt              Me-ho'la-thite
-Meholathites            pnp   mi-HOH-luh-thiyts             Me-ho'la-thites
-Mehujael                pns   mi-HOO-jay-el                 Me-hu'ja-el
-Mehuman                 pns   mi-HOO-man                    Me-hu'man
-Mehunim                 pns   mi-HOO-nim                    Me-hu'nim
-Mehunims                pns   mi-HOO-nimz                   Me-hu'nims
-Mejarkon                pns   MEE-JAHR-kon                  Me'jar'kon
-Me-jarkon               pns   MEE-JAHR-kon                  Me'jar'kon
-Mekonah                 pns   mi-KOH-nuh                    Me-ko'nah
-Melatiah                pns   MEL-uh-TIY-uh                 Mel'a-ti'ah
-Melchi                  pns   MEL-kiy                       Mel'chi
-Melchiah                pns   mel-KIY-uh                    Mel-chi'ah
-Melchisedec             pns   mel-KIZ-uh-dek                Mel-chis'e-dec
-Melchishua              pns   MEL-kiy-SHOO-uh               Mel'chi-shu'a
-Melchi-shua             pns   MEL-kiy-SHOO-uh               Mel'chi-shu'a
-Melchizedek             pns   mel-KIZ-uh-dek                Mel-chiz'e-dek
-Melea                   pns   MEE-lee-uh                    Me'le-a
-Melech                  pns   MEE-lek                       Me'lech
-Melicu                  pns   MEL-i-koo                     Mel'i-cu
-Melita                  pns   MEL-i-tuh                     Mel'i-ta
-Melzar                  pns   MEL-zahr                      Mel'zar
-Mem                     pns   MEM                           Mem
-Memphis                 pns   MEM-fis                       Mem'phis
-Memucan                 pns   mi-MOO-kuhn                   Me-mu'can
-Menahem                 pns   MEN-uh-hem                    Men'a-hem
-Menan                   pns   MEE-nan                       Me'nan
-Mene                    pns   MEE-ni                        Me'ne
+Mearah                  pns   mee-AY-ruh                    Me-a'rah                      place
+Mebunnai                pns   mi-BUN-iy                     Me-bun'nai                    person
+Mecherathite            pns   mi-KEE-rath-iyt               Me-che'rath-ite               ethnic
+Mecherathites           pnp   mi-KEE-rath-iyts              Me-che'rath-ites              ethnic
+Meconah                 pns   mi-KOH-nuh                    Me-co'nah                     place
+Medaba                  pns   MED-uh-buh                    Med'a-ba                      place
+Medad                   pns   MEE-dad                       Me'dad                        person
+Medan                   pns   MEE-dan                       Me'dan                        person
+Mede                    pns   MEED                          Mede                          ethnic
+Medeba                  pns   MED-i-buh                     Med'e-ba                      place
+Medes                   pnp   MEEDS                         Medes                         ethnic
+Media                   pns   MEE-dee-uh                    Me'di-a                       place
+Median                  pns   MEE-dee-uhn                   Me'di-an                      ethnic
+Medians                 pnp   MEE-dee-uhnz                  Me'di-ans                     ethnic
+Mediterranean           pns   MED-uh-tuh-RAY-nee-uhn        Med'i-ter-ra'ne-an            place
+Megiddo                 pns   mi-GID-oh                     Me-gid'do                     place
+Megiddon                pns   mi-GID-on                     Me-gid'on                     place
+Megillah                pns   mi-GIL-uh                     Me-gil'lah                    writing
+Megillahs               pns   mi-GIL-uhs                    Me-gil'lahs                   writing
+Megillot                pns   mi-GIL-ot                     Me-gil'lot                    writing
+Megilloth               pns   mi-GIL-oth                    Me-gil'loth                   writing
+Mehetabel               pns   mi-HET-uh-bel                 Me-het'a-bel                  person
+Mehetabeel              pns   mi-HET-uh-beel                Me-het'a-beel                 person
+Mehida                  pns   mi-HIY-duh                    Me-hi'da                      person
+Mehir                   pns   MEE-huhr                      Me'hir                        person
+Meholathite             pns   mi-HOH-luh-thiyt              Me-ho'la-thite                ethnic
+Meholathites            pnp   mi-HOH-luh-thiyts             Me-ho'la-thites               ethnic
+Mehujael                pns   mi-HOO-jay-el                 Me-hu'ja-el                   person
+Mehuman                 pns   mi-HOO-man                    Me-hu'man                     person
+Mehunim                 pnp   mi-HOO-nim                    Me-hu'nim                     ethnic
+Mehunims                pnp   mi-HOO-nimz                   Me-hu'nims                    ethnic
+Mejarkon                pns   MEE-JAHR-kon                  Me'jar'kon                    place
+Me-jarkon               pns   MEE-JAHR-kon                  Me'jar'kon                    place
+Me_Jarkon               pns   MEE-JAHR-kon                  Me_Jar'kon                    place
+Mekerathite             pns   mi-KEE-rath-iyt               Me-ke'rath-ite                ethnic
+Mekerathites            pnp   mi-KEE-rath-iyts              Me-ke'rath-ites               ethnic
+Mekonah                 pns   mi-KOH-nuh                    Me-ko'nah                     place
+Melatiah                pns   MEL-uh-TIY-uh                 Mel'a-ti'ah                   person
+Melchi                  pns   MEL-kiy                       Mel'chi                       person
+Melchiah                pns   mel-KIY-uh                    Mel-chi'ah                    person
+Melchisedec             pns   mel-KIZ-uh-dek                Mel-chis'e-dec                person
+Melchishua              pns   MEL-kiy-SHOO-uh               Mel'chi-shu'a                 person
+Melchi-shua             pns   MEL-kiy-SHOO-uh               Mel'chi-shu'a                 person
+Melchizedek             pns   mel-KIZ-uh-dek                Mel-chiz'e-dek                person
+Melea                   pns   MEE-lee-uh                    Me'le-a                       person
+Melech                  pns   MEE-lek                       Me'lech                       person
+Melicu                  pns   MEL-i-koo                     Mel'i-cu                      person
+Melita                  pns   MEL-i-tuh                     Mel'i-ta                      place
+Melki                   pns   MEL-kiy                       Mel'ki                        person
+Melzar                  pns   MEL-zahr                      Mel'zar                       person
+Mem                     pns   MEM                           Mem                           writing
+Memphis                 pns   MEM-fis                       Mem'phis                      place
+Memucan                 pns   mi-MOO-kuhn                   Me-mu'can                     person
+Menahem                 pns   MEN-uh-hem                    Men'a-hem                     person
+Menan                   pns   MEE-nan                       Me'nan                        person
 Meni                    pns   MEE-niy                       Me'ni                         deity
-Menna                   pns   MEN-ah                        Men'na
-Menuchah                pns   me-NOO-kah                    Me-nu'chah
-Menuhah                 pns   me-NOO-hah                    Me-nu'hah
-Menuhoth                pns   me-NOO-hoth                   Me-nu'hoth
-Meonenim                pns   mee-ON-i-nim                  Me-on'e-nim
-Meonothai               pns   mee-ON-uh-thiy                Me-on'o-thai
-Mephaath                pns   MEF-ay-ath                    Meph'a-ath
-Mephibosheth            pns   mi-FIB-uh-sheth               Me-phib'o-sheth
-Merab                   pns   MEE-rab                       Me'rab
-Meraiah                 pns   mi-RAY-yuh                    Me-ra'iah
-Meraioth                pns   mi-RAY-yoth                   Me-ra'ioth
-Merari                  pns   mi-RAY-riy                    Me-ra'ri
-Merarite                pns   mi-RAY-riyt                   Me-ra'rite
-Merarites               pnp   mi-RAY-riyts                  Me-ra'rites
-Merathaim               pns   MER-uh-THAY-im                Mer'a-tha'im
-Mercurius               pns   muhr-KOO-ree-uhs              Mer-cu'ri-us
-Mercury                 pns   MUHR-kyoo-ri                  Mer'cu-ry
-Mered                   pns   MEE-red                       Me'red
-Meremoth                pns   MER-i-moth                    Mer'e-moth
-Meres                   pns   MEE-reez                      Me'res
-Meribah                 pns   MER-i-bah                     Mer'i-bah
-Meribahkadesh           pns   MER-i-bah-KAY-desh           *Mer'i-bah-ka'desh
-Meribah-kadesh          pns   MER-i-bah-KAY-desh           *Mer'i-bah-ka'desh
-Meribathkadesh          pns   MER-i-bath-KAY-desh           Mer'i-bath-ka'desh
-Meribath-kadesh         pns   MER-i-bath-KAY-desh           Mer'i-bath-ka'desh
-Meribbaal               pns   MER-ib-BAY-uhl                Mer'ib-ba'al
-Merib-baal              pns   MER-ib-BAY-uhl                Mer'ib-ba'al
-Meribothkadesh          pns   MER-i-both-KAY-desh           Mer'i-both-ka'desh
-Meriboth-kadesh         pns   MER-i-both-KAY-desh           Mer'i-both-ka'desh
-Merodach                pns   mi-ROH-dak                    Me-ro'dach
-Merodachbaladan         pns   mi-ROH-dak-BAL-uh-duhn        Me-ro'dach-bal'a-dan
-Merodach-baladan        pns   mi-ROH-dak-BAL-uh-duhn        Me-ro'dach-bal'a-dan
-Merom                   pns   MEE-rom                       Me'rom
-Meronothite             pns   mi-RON-uh-thiyt               Me-ron'o-thite
-Meronothites            pnp   mi-RON-uh-thiyts              Me-ron'o-thites
-Meroz                   pns   MEE-roz                       Me'roz
-Mesaloth                pns   MES-uh-loth                   Mes'a-loth
-Mesech                  pns   MEE-sek                       Me'sech
-Mesha                   pns   MEE-shuh                      Me'sha
-Meshach                 pns   MEE-shak                      Me'shach
-Meshech                 pns   MEE-shek                      Me'shech
-Meshelemiah             pns   mi-SHEL-i-MIY-uh              Me-shel'e-mi'ah
-Meshezabel              pns   mi-SHEZ-uh-bel                Me-shez'a-bel
-Meshezabeel             pns   mi-SHEZ-uh-beel               Me-shez'a-beel
-Meshillemith            pns   mi-SHIL-i-mith                Me-shil'le-mith
-Meshillemoth            pns   mi-SHIL-i-moth                Me-shil'le-moth
-Meshobab                pns   mi-SHOH-bab                   Me-sho'bab
-Meshullam               pns   mi-SHUL-uhm                   Me-shul'lam
-Meshullemeth            pns   mi-SHUL-i-meth                Me-shul'le-meth
-Mesobaite               pns   mi-SOH-bay-iyt                Me-so'ba-ite
-Mesobaites              pnp   mi-SOH-bay-iyts               Me-so'ba-ites
-Mesopotamia             pns   MES-uh-puh-TAY-mee-uh         Mes'o-po-ta'mi-a
-Messiah                 pns   muh-SIY-uh                    Mes-si'ah
-Messias                 pns   muh-SIY-uhs                   Mes-si'as
-Methegammah             pns   MEE-theg-AM-uh                Me'theg-am'mah
-Metheg-ammah            pns   MEE-theg-AM-uh                Me'theg-am'mah
-Methusael               pns   mi-THOO-say-el                Me-thu'sa-el
-Methusala               pns   mi-THOO-zuh-luh               Me-thu'sa-la
-Methuselah              pns   mi-THOO-zuh-luh               Me-thu'se-lah
-Methushael              pns   mi-THOO-shay-el               Me-thu'sha-el
-Meunim                  pns   mee-OO-nim                    Me-u'nim
-Meunite                 pns   mee-OO-niyt                   Me-u'nite
-Meunites                pnp   mee-OO-niyts                  Me-u'nites
-Mezahab                 pns   MEZ-uh-hab                    Mez'a-hab
-Mezobaite               pns   mi-ZOH-bay-iyt                Me-zo'ba-ite
-Mezobaites              pnp   mi-ZOH-bay-iyts               Me-zo'ba-ites
-Mezuzah                 pns   me-ZOO-zah                    Me-zu'zah
-Miamin                  pns   MIY-uh-min                    Mi'a-min
-Mibhar                  pns   MIB-hahr                      Mib'har
-Mibsam                  pns   MIB-sam                       Mib'sam
-Mibzar                  pns   MIB-zahr                      Mib'zar
-Mica                    pns   MIY-kuh                       Mi'ca
-Micah                   pns   MIY-kuh                       Mi'cah
-Micaiah                 pns   miy-KAY-yuh                   Mi-ca'iah
-Micha                   pns   MIY-kuh                       Mi'cha
-Michael                 pns   MIY-kay-el                    Mi'cha-el
-Michah                  pns   MIY-kuh                       Mi'chah
-Michaiah                pns   miy-KAY-yuh                   Mi-cha'iah
-Michal                  pns   MIY-kuhl                      Mi'chal
-Michmas                 pns   MIK-mas                       Mich'mas
-Michmash                pns   MIK-mash                      Mich'mash
-Michmethah              pns   MIK-mi-thuh                   Mich'me-thah
-Michmethath             pns   MIK-mi-thath                  Mich'me-thath
-Michri                  pns   MIK-riy                       Mich'ri
-Michtam                 pns   MIK-tam                       Mich'tam
-Middin                  pns   MID-in                        Mid'din
-Midian                  pns   MID-ee-uhn                    Mid'i-an
-Midianite               pns   MID-ee-uhn-iyt                Mid'i-an-ite
-Midianites              pnp   MID-ee-uhn-iyts               Mid'i-an-ites
-Midrash                 pns   MID-rash                      Mid'rash
-Migdalel                pns   MIG-dal-EL                    Mig'dal-el'
-Migdal-el               pns   MIG-dal-EL                    Mig'dal-el'
-Migdalgad               pns   MIG-dal-GAD                   Mig'dal-gad'
-Migdal-gad              pns   MIG-dal-GAD                   Mig'dal-gad'
-Migdol                  pns   MIG-dol                       Mig'dol
-Migron                  pns   MIG-ron                       Mig'ron
-Mijamin                 pns   MIJ-uh-min                    Mij'a-min
-Mikloth                 pns   MIK-loth                      Mik'loth
-Mikneiah                pns   mik-NEE-yuh                   Mik-ne'iah
-Miktam                  pns   MIK-tam                       Mik'tam
-Milalai                 pns   MIL-uh-liy                    Mil'a-lai
-Milcah                  pns   MIL-kuh                       Mil'cah
-Milcom                  pns   MIL-kom                       Mil'com
-Miletum                 pns   miy-LEE-tuhm                  Mi-le'tum
-Miletus                 pns   miy-LEE-tuhs                  Mi-le'tus
-Millo                   pns   MIL-oh                        Mil'lo
-Miniamin                pns   MIN-yuh-min                   Min'ia-min
-Minni                   pns   MIN-iy                        Min'ni
-Minnith                 pns   MIN-ith                       Min'nith
+Menna                   pns   MEN-ah                        Men'na                        person
+Menuchah                pns   me-NOO-kah                    Me-nu'chah                    person,place
+Menuhah                 pns   me-NOO-hah                    Me-nu'hah                     person,place
+Menuhoth                pns   me-NOO-hoth                   Me-nu'hoth                    place
+Meonenim                pns   mee-ON-i-nim                  Me-on'e-nim                   place
+Meonothai               pns   mee-ON-uh-thiy                Me-on'o-thai                  person
+Mephaath                pns   MEF-ay-ath                    Meph'a-ath                    place
+Mephibosheth            pns   mi-FIB-uh-sheth               Me-phib'o-sheth               person
+Merab                   pns   MEE-rab                       Me'rab                        person
+Meraiah                 pns   mi-RAY-yuh                    Me-ra'iah                     person
+Meraioth                pns   mi-RAY-yoth                   Me-ra'ioth                    person
+Merari                  pns   mi-RAY-riy                    Me-ra'ri                      person
+Merarite                pns   mi-RAY-riyt                   Me-ra'rite                    ethnic
+Merarites               pnp   mi-RAY-riyts                  Me-ra'rites                   ethnic
+Merathaim               pns   MER-uh-THAY-im                Mer'a-tha'im                  place
+Mercurius               pns   muhr-KOO-ree-uhs              Mer-cu'ri-us                  deity
+Mercury                 pns   MUHR-kyoo-ri                  Mer'cu-ry                     deity
+Mered                   pns   MEE-red                       Me'red                        person
+Meremoth                pns   MER-i-moth                    Mer'e-moth                    person
+Meres                   pns   MEE-reez                      Me'res                        person
+Meribah                 pns   MER-i-bah                     Mer'i-bah                     place
+Meribahkadesh           pns   MER-i-bah-KAY-desh            Mer'i-bah-ka'desh             place
+Meribah-kadesh          pns   MER-i-bah-KAY-desh            Mer'i-bah-ka'desh             place
+Meribah_Kadesh          pns   MER-i-bah-KAY-desh            Mer'i-bah_Ka'desh             place
+Meribathkadesh          pns   MER-i-bath-KAY-desh           Mer'i-bath-ka'desh            place
+Meribath-kadesh         pns   MER-i-bath-KAY-desh           Mer'i-bath-ka'desh            place
+Meribath_Kadesh         pns   MER-i-bath-KAY-desh           Mer'i-bath_Ka'desh            place
+Meribbaal               pns   MER-ib-BAY-uhl                Mer'ib-ba'al                  person
+Merib-baal              pns   MER-ib-BAY-uhl                Mer'ib-ba'al                  person
+Meribothkadesh          pns   MER-i-both-KAY-desh           Mer'i-both-ka'desh            place
+Meriboth-kadesh         pns   MER-i-both-KAY-desh           Mer'i-both-ka'desh            place
+Meriboth_Kadesh         pns   MER-i-both-KAY-desh           Mer'i-both_Ka'desh            place
+Merodach                pns   mi-ROH-dak                    Me-ro'dach                    deity
+Merodachbaladan         pns   mi-ROH-dak-BAL-uh-duhn        Me-ro'dach-bal'a-dan          person
+Merodach-baladan        pns   mi-ROH-dak-BAL-uh-duhn        Me-ro'dach-bal'a-dan          person
+Merom                   pns   MEE-rom                       Me'rom                        place
+Meronoth                pns   mi-RON-uhth                   Me-ron'oth                    place
+Meronothite             pns   mi-RON-uh-thiyt               Me-ron'o-thite                ethnic
+Meronothites            pnp   mi-RON-uh-thiyts              Me-ron'o-thites               ethnic
+Meroz                   pns   MEE-roz                       Me'roz                        place
+Mesaloth                pns   MES-uh-loth                   Mes'a-loth                    place
+Mesech                  pns   MEE-sek                       Me'sech                       person
+Mesha                   pns   MEE-shuh                      Me'sha                        person,place
+Meshach                 pns   MEE-shak                      Me'shach                      person
+Meshech                 pns   MEE-shek                      Me'shech                      person
+Meshelemiah             pns   mi-SHEL-i-MIY-uh              Me-shel'e-mi'ah               person
+Meshezabel              pns   mi-SHEZ-uh-bel                Me-shez'a-bel                 person
+Meshezabeel             pns   mi-SHEZ-uh-beel               Me-shez'a-beel                person
+Meshillemith            pns   mi-SHIL-i-mith                Me-shil'le-mith               person
+Meshillemoth            pns   mi-SHIL-i-moth                Me-shil'le-moth               person
+Meshobab                pns   mi-SHOH-bab                   Me-sho'bab                    person
+Meshullam               pns   mi-SHUL-uhm                   Me-shul'lam                   person
+Meshullemeth            pns   mi-SHUL-i-meth                Me-shul'le-meth               person
+Mesias                  pns   muh-SIY-uhs                   Me-si'as                      person,divine
+Mesobaite               pns   mi-SOH-bay-iyt                Me-so'ba-ite                  ethnic
+Mesobaites              pnp   mi-SOH-bay-iyts               Me-so'ba-ites                 ethnic
+Mesopotamia             pns   MES-uh-puh-TAY-mee-uh         Mes'o-po-ta'mi-a              place
+Messiah                 pns   muh-SIY-uh                    Mes-si'ah                     person,divine
+Messias                 pns   muh-SIY-uhs                   Mes-si'as                     person,divine
+Methegammah             pns   MEE-theg-AM-uh                Me'theg-am'mah                place
+Metheg-ammah            pns   MEE-theg-AM-uh                Me'theg-am'mah                place
+Metheg_Ammah            pns   MEE-theg-AM-uh                Me'theg_Am'mah                place
+Methusael               pns   mi-THOO-say-el                Me-thu'sa-el                  person
+Methusala               pns   mi-THOO-zuh-luh               Me-thu'sa-la                  person
+Methuselah              pns   mi-THOO-zuh-luh               Me-thu'se-lah                 person
+Methushael              pns   mi-THOO-shay-el               Me-thu'sha-el                 person
+Meunim                  pnp   mee-OO-nim                    Me-u'nim                      ethnic
+Meunims                 pnp   mee-OO-nimz                   Me-u'nims                     ethnic
+Meunite                 pns   mee-OO-niyt                   Me-u'nite                     ethnic
+Meunites                pnp   mee-OO-niyts                  Me-u'nites                    ethnic
+Mezahab                 pns   MEZ-uh-hab                    Mez'a-hab                     person
+Mezobaite               pns   mi-ZOH-bay-iyt                Me-zo'ba-ite                  ethnic
+Mezobaites              pnp   mi-ZOH-bay-iyts               Me-zo'ba-ites                 ethnic
+Mezuzah                 pns   me-ZOO-zah                    Me-zu'zah                     writing
+Miamin                  pns   MIY-uh-min                    Mi'a-min                      person
+Mibhar                  pns   MIB-hahr                      Mib'har                       person
+Mibsam                  pns   MIB-sam                       Mib'sam                       person
+Mibzar                  pns   MIB-zahr                      Mib'zar                       person
+Mica                    pns   MIY-kuh                       Mi'ca                         person
+Micah                   pns   MIY-kuh                       Mi'cah                        person,writing
+Micaiah                 pns   miy-KAY-yuh                   Mi-ca'iah                     person
+Micha                   pns   MIY-kuh                       Mi'cha                        person
+Michael                 pns   MIY-kay-el                    Mi'cha-el                     person
+Michah                  pns   MIY-kuh                       Mi'chah                       person
+Michaiah                pns   miy-KAY-yuh                   Mi-cha'iah                    person
+Michal                  pns   MIY-kuhl                      Mi'chal                       person
+Michmas                 pns   MIK-mas                       Mich'mas                      place
+Michmash                pns   MIK-mash                      Mich'mash                     place
+Michmethah              pns   MIK-mi-thuh                   Mich'me-thah                  place
+Michmethath             pns   MIK-mi-thath                  Mich'me-thath                 place
+Michri                  pns   MIK-riy                       Mich'ri                       person
+Micmash                 pns   MIK-mash                      Mic'mash                      place
+Micmethath              pns   MIK-mi-thath                  Mic'me-thath                  place
+Micri                   pns   MIK-riy                       Mic'ri                        person
+Middin                  pns   MID-in                        Mid'din                       place
+Midian                  pns   MID-ee-uhn                    Mid'i-an                      person,place
+Midianite               pns   MID-ee-uhn-iyt                Mid'i-an-ite                  ethnic
+Midianites              pnp   MID-ee-uhn-iyts               Mid'i-an-ites                 ethnic
+Midianitish             pns   MID-ee-uhn-IYT-ish            Mid'i-an-it'ish               ethnic
+Midrash                 pns   MID-rash                      Mid'rash                      writing
+Migdalel                pns   MIG-dal-EL                    Mig'dal-el'                   place
+Migdal-el               pns   MIG-dal-EL                    Mig'dal-el'                   place
+Migdal_El               pns   MIG-dal-EL                    Mig'dal_El'                   place
+Migdalgad               pns   MIG-dal-GAD                   Mig'dal-gad'                  place
+Migdal-gad              pns   MIG-dal-GAD                   Mig'dal-gad'                  place
+Migdal_Gad              pns   MIG-dal-GAD                   Mig'dal_Gad'                  place
+Migdol                  pns   MIG-dol                       Mig'dol                       place
+Migron                  pns   MIG-ron                       Mig'ron                       place
+Mijamin                 pns   MIJ-uh-min                    Mij'a-min                     person
+Mikloth                 pns   MIK-loth                      Mik'loth                      person
+Mikneiah                pns   mik-NEE-yuh                   Mik-ne'iah                    person
+Milalai                 pns   MIL-uh-liy                    Mil'a-lai                     person
+Milcah                  pns   MIL-kuh                       Mil'cah                       person
+Milcom                  pns   MIL-kom                       Mil'com                       deity
+Miletum                 pns   miy-LEE-tuhm                  Mi-le'tum                     place
+Miletus                 pns   miy-LEE-tuhs                  Mi-le'tus                     place
+Millo                   pns   MIL-oh                        Mil'lo                        place
+Miniamin                pns   MIN-yuh-min                   Min'ia-min                    person
+Minni                   pns   MIN-iy                        Min'ni                        place
+Minnith                 pns   MIN-ith                       Min'nith                      place
 Miphkad                 pns   MIF-kad                       Miph'kad                      place
-Miriam                  pns   MIR-ee-uhm                    Mir'i-am
-Mirma                   pns   MUHR-muh                      Mir'ma
-Mirmah                  pns   MUHR-muh                      Mir'mah
-Misgab                  pns   MIS-gab                       Mis'gab
-Mishael                 pns   MISH-ay-el                    Mish'a-el
-Mishal                  pns   MIY-shuhl                     Mi'shal
-Misham                  pns   MIY-sham                      Mi'sham
-Misheal                 pns   MISH-ee-al                    Mish'e-al
-Mishma                  pns   MISH-muh                      Mish'ma
-Mishmannah              pns   mish-MAN-uh                   Mish-man'nah
-Mishnah                 pns   MISH-nuh                      Mish'nah
-Mishraite               pns   MISH-ray-iyt                  Mish'ra-ite
-Mishraites              pnp   MISH-ray-iyts                 Mish'ra-ites
-Mispar                  pns   MIS-pahr                      Mis'par
-Mispereth               pns   MIS-pi-reth                   Mis'pe-reth
-Misrephothmaim          pns   MIS-ri-foth-MAY-im            Mis're-photh-ma'im
-Misrephoth-maim         pns   MIS-ri-foth-MAY-im            Mis're-photh-ma'im
-Mitanni                 pns   mi-TAN-i                      Mi-tan'ni
-Mithcah                 pns   MITH-kuh                      Mith'cah
-Mithkah                 pns   MITH-kuh                      Mith'kah
-Mithnite                pns   MITH-niyt                     Mith'nite
-Mithnites               pnp   MITH-niyts                    Mith'nites
-Mithredath              pns   MITH-ri-dath                  Mith're-dath
-Mitylene                pns   mit-i-LEE-ni                  Mit-y-le'ne
-Mizar                   pns   MIY-zahr                      Mi'zar
-Mizpah                  pns   MIZ-puh                       Miz'pah
-Mizpar                  pns   MIZ-pahr                      Miz'par
-Mizpeh                  pns   MIZ-pe                        Miz'peh
-Mizraim                 pns   MIZ-ray-im                    Miz'ra-im
-Mizzah                  pns   MIZ-uh                        Miz'zah
-Mnason                  pns   NAY-suhn                      Mna'son
-Moab                    pns   MOH-ab                        Mo'ab
-Moabite                 pns   MOH-uhb-iyt                   Mo'ab-ite
-Moabites                pnp   MOH-uhb-iyts                  Mo'ab-ites
-Moadiah                 pns   MOH-uh-DIY-uh                 Mo'a-di'ah
-Modein                  pns   MOH-deen                      Mo'dein
-Modin                   pns   MOH-din                       Mo'din
-Moladah                 pns   MOL-uh-duh                    Mol'a-dah
-Molech                  pns   MOH-lek                       Mo'lech
-Molid                   pns   MOH-lid                       Mo'lid
-Moloch                  pns   MOH-lok                       Mo'loch
-Moph                    pns   MOF                           Moph
-Morashtite              pns   muh-RASH-tiyt                 Mo-rash'tite
-Morashtites             pnp   muh-RASH-tiyts                Mo-rash'tites
-Morasthite              pns   muh-RAS-thiyt                 Mo-ras'thite
-Morasthites             pnp   muh-RAS-thiyts                Mo-ras'thites
-Mordecai                pns   MOHR-di-kiy                   Mor'de-cai
-Moreh                   pns   MOH-re                        Mo'reh
-Moresheth               pns   MOH-resh-eth                 *Mo'resh-eth
-Moreshethgath           pns   MOH-resh-eth-GATH             Mo'resh-eth-gath'
-Moresheth-gath          pns   MOH-resh-eth-GATH             Mo'resh-eth-gath'
-Moriah                  pns   muh-RIY-uh                    Mo-ri'ah
-Mosera                  pns   muh-SEE-ruh                   Mo-se'ra
-Moserah                 pns   muh-SEE-ruh                   Mo-se'rah
-Moseroth                pns   muh-SEE-roth                  Mo-se'roth
-Moses                   pns   MOH-zuhz                      Mo'ses
-Moza                    pns   MOH-zuh                       Mo'za
-Mozah                   pns   MOH-zuh                       Mo'zah
-Muppim                  pns   MUP-im                        Mup'pim
-Mushi                   pns   MOO-shiy                      Mu'shi
-Musri                   pns   MUUS-ri                       Mus'ri
-Muthlabben              pns   MUTH-LAB-en                   Muth'lab'ben
-Muth-labben             pns   MUTH-LAB-en                   Muth'lab'ben
-Myndos                  pns   MIN-duhs                      Myn'dos
-Myndus                  pns   MIN-duhs                      Myn'dus
-Myra                    pns   MIY-ruh                       My'ra
-Mysia                   pns   MISH-ee-uh                    Mys'i-a
+Miriam                  pns   MIR-ee-uhm                    Mir'i-am                      person
+Mirma                   pns   MUHR-muh                      Mir'ma                        person
+Mirmah                  pns   MUHR-muh                      Mir'mah                       person
+Misgab                  pns   MIS-gab                       Mis'gab                       place
+Mishael                 pns   MISH-ay-el                    Mish'a-el                     person
+Mishal                  pns   MIY-shuhl                     Mi'shal                       place
+Misham                  pns   MIY-sham                      Mi'sham                       person
+Misheal                 pns   MISH-ee-al                    Mish'e-al                     place
+Mishma                  pns   MISH-muh                      Mish'ma                       person
+Mishmannah              pns   mish-MAN-uh                   Mish-man'nah                  person
+Mishnah                 pns   MISH-nuh                      Mish'nah                      writing
+Mishraite               pns   MISH-ray-iyt                  Mish'ra-ite                   ethnic
+Mishraites              pnp   MISH-ray-iyts                 Mish'ra-ites                  ethnic
+Mispar                  pns   MIS-pahr                      Mis'par                       person
+Mispereth               pns   MIS-pi-reth                   Mis'pe-reth                   person
+Misrephothmaim          pns   MIS-ri-foth-MAY-im            Mis're-photh-ma'im            place
+Misrephoth-maim         pns   MIS-ri-foth-MAY-im            Mis're-photh-ma'im            place
+Misrephoth_Maim         pns   MIS-ri-foth-MAY-im            Mis're-photh_Ma'im            place
+Mitanni                 pns   mi-TAN-i                      Mi-tan'ni                     place
+Mithcah                 pns   MITH-kuh                      Mith'cah                      place
+Mithkah                 pns   MITH-kuh                      Mith'kah                      place
+Mithnite                pns   MITH-niyt                     Mith'nite                     ethnic
+Mithnites               pnp   MITH-niyts                    Mith'nites                    ethnic
+Mithredath              pns   MITH-ri-dath                  Mith're-dath                  person,deity
+Mitylene                pns   mit-i-LEE-ni                  Mit-y-le'ne                   place
+Mizar                   pns   MIY-zahr                      Mi'zar                        place
+Mizpah                  pns   MIZ-puh                       Miz'pah                       place
+Mizpar                  pns   MIZ-pahr                      Miz'par                       person
+Mizpeh                  pns   MIZ-pe                        Miz'peh                       place
+Mizraim                 pns   MIZ-ray-im                    Miz'ra-im                     person,place
+Mizzah                  pns   MIZ-uh                        Miz'zah                       person
+Mnason                  pns   NAY-suhn                      Mna'son                       person
+Moab                    pns   MOH-ab                        Mo'ab                         person,place
+Moabite                 pns   MOH-uhb-iyt                   Mo'ab-ite                     ethnic
+Moabites                pnp   MOH-uhb-iyts                  Mo'ab-ites                    ethnic
+Moabitess               pns   MOH-uhb-IYT-uhs               Mo'ab-it'ess                  ethnic
+Moabitish               pns   MOH-uhb-IYT-ish               Mo'ab-it'ish                  ethnic
+Moadiah                 pns   MOH-uh-DIY-uh                 Mo'a-di'ah                    person
+Modein                  pns   MOH-deen                      Mo'dein                       place
+Modin                   pns   MOH-din                       Mo'din                        place
+Moladah                 pns   MOL-uh-duh                    Mol'a-dah                     place
+Molech                  pns   MOH-lek                       Mo'lech                       deity
+Molid                   pns   MOH-lid                       Mo'lid                        person
+Moloch                  pns   MOH-lok                       Mo'loch                       deity
+Moph                    pns   MOF                           Moph                          place
+Morashtite              pns   muh-RASH-tiyt                 Mo-rash'tite                  ethnic
+Morashtites             pnp   muh-RASH-tiyts                Mo-rash'tites                 ethnic
+Morasthite              pns   muh-RAS-thiyt                 Mo-ras'thite                  ethnic
+Morasthites             pnp   muh-RAS-thiyts                Mo-ras'thites                 ethnic
+Mordecai                pns   MOHR-di-kiy                   Mor'de-cai                    person
+Moreh                   pns   MOH-re                        Mo'reh                        place
+Moresheth               pns   MOH-resh-eth                  Mo'resh-eth                   place
+Moreshethgath           pns   MOH-resh-eth-GATH             Mo'resh-eth-gath'             place
+Moresheth-gath          pns   MOH-resh-eth-GATH             Mo'resh-eth-gath'             place
+Moriah                  pns   muh-RIY-uh                    Mo-ri'ah                      place
+Mosera                  pns   muh-SEE-ruh                   Mo-se'ra                      place
+Moserah                 pns   muh-SEE-ruh                   Mo-se'rah                     place
+Moseroth                pns   muh-SEE-roth                  Mo-se'roth                    place
+Moses                   pns   MOH-zuhz                      Mo'ses                        person
+Moza                    pns   MOH-zuh                       Mo'za                         person
+Mozah                   pns   MOH-zuh                       Mo'zah                        place
+Muppim                  pns   MUP-im                        Mup'pim                       person
+Mushi                   pns   MOO-shiy                      Mu'shi                        person
+Mushite                 pns   MOO-shiyt                     Mu'shite                      ethnic
+Mushites                pnp   MOO-shiyts                    Mu'shites                     ethnic
+Musri                   pns   MUUS-ri                       Mus'ri                        place
+Muthlabben              pns   MUTH-LAB-en                   Muth'lab'ben                  music
+Muth-labben             pns   MUTH-LAB-en                   Muth'lab'ben                  music
+Myndos                  pns   MIN-duhs                      Myn'dos                       place
+Myndus                  pns   MIN-duhs                      Myn'dus                       place
+Myra                    pns   MIY-ruh                       My'ra                         place
+Mysia                   pns   MISH-ee-uh                    Mys'i-a                       place
 
 Naam                    pns   NAY-am                        Na'am
 Naamah                  pns   NAY-uh-muh                    Na'a-mah
@@ -4365,7 +4390,7 @@ Noe                     pns   NOH-i                         No'e
 Nogah                   pns   NOH-guh                       No'gah
 Nohah                   pns   NOH-huh                       No'hah
 Non                     pns   NON                           Non
-Noph                    pns   NOF                           Noph
+Noph                    pns   NOF                           Noph                          place
 Nophah                  pns   NOH-fuh                       No'phah
 Numbers                 pnp   NUM-buhrz                     Num'bers
 Numenius                pns   nyoo-MEE-nee-uhs              Nu-me'ni-us

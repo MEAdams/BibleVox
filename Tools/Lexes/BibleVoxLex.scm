@@ -5149,8 +5149,6 @@
 (lex.add.entry 
  '("Hazzobebah" nnp (((hh ae z) 1) ((ax) 0) ((b iy) 1) ((b ax) 0))) )
 (lex.add.entry 
- '("He" nnp (((hh ey) 1))) )
-(lex.add.entry 
  '("Hebel" nnp (((hh iy) 1) ((b eh l) 0))) )
 (lex.add.entry 
  '("Heber" nnp (((hh iy) 1) ((b er) 0))) )
@@ -7249,11 +7247,15 @@
 (lex.add.entry 
  '("Maaleh-acrabbim" nnp (((m ey) 1) ((ax) 0) ((l eh) 0) ((ax) 0) ((k r ae b) 1) ((ih m) 0))) )
 (lex.add.entry 
+ '("Maaleh_Acrabbim" nnp (((m ey) 1) ((ax) 0) ((l eh) 0) ((ax) 0) ((k r ae b) 1) ((ih m) 0))) )
+(lex.add.entry 
  '("Maarath" nnp (((m ey) 1) ((ax) 0) ((r ae th) 0))) )
 (lex.add.entry 
  '("Maarehgeba" nnp (((m ey) 1) ((ax) 0) ((r eh) 0) ((g iy) 1) ((b ax) 0))) )
 (lex.add.entry 
  '("Maareh-geba" nnp (((m ey) 1) ((ax) 0) ((r eh) 0) ((g iy) 1) ((b ax) 0))) )
+(lex.add.entry 
+ '("Maareh_Geba" nnp (((m ey) 1) ((ax) 0) ((r eh) 0) ((g iy) 1) ((b ax) 0))) )
 (lex.add.entry 
  '("Maasai" nnp (((m ey) 1) ((ax) 0) ((s ay) 0))) )
 (lex.add.entry 
@@ -7351,6 +7353,8 @@
 (lex.add.entry 
  '("Mahaneh-dan" nnp (((m ey) 1) ((hh ax) 0) ((n eh) 0) ((d ae n) 1))) )
 (lex.add.entry 
+ '("Mahaneh_Dan" nnp (((m ey) 1) ((hh ax) 0) ((n eh) 0) ((d ae n) 1))) )
+(lex.add.entry 
  '("Maharai" nnp (((m ax) 0) ((hh ae r) 1) ((ay) 0))) )
 (lex.add.entry 
  '("Mahath" nnp (((m ey) 1) ((hh ae th) 0))) )
@@ -7369,6 +7373,10 @@
 (lex.add.entry 
  '("Mahlah" nnp (((m aa) 1) ((l ax) 0))) )
 (lex.add.entry 
+ '("Mahlite" nnp (((m aa) 1) ((l ay t) 0))) )
+(lex.add.entry 
+ '("Mahlites" nnps (((m aa) 1) ((l ay t s) 0))) )
+(lex.add.entry 
  '("Mahli" nnp (((m aa) 1) ((l ay) 0))) )
 (lex.add.entry 
  '("Mahlon" nnp (((m aa) 1) ((l aa n) 0))) )
@@ -7382,6 +7390,10 @@
  '("Maked" nnp (((m ey) 1) ((k eh d) 0))) )
 (lex.add.entry 
  '("Makheloth" nnp (((m ae k) 0) ((hh iy) 1) ((l aa th) 0))) )
+(lex.add.entry 
+ '("Maki" nnp (((m ey) 1) ((k ay) 0))) )
+(lex.add.entry 
+ '("Makir" nnp (((m ey) 1) ((k ih r) 0))) )
 (lex.add.entry 
  '("Makkedah" nnp (((m ae) 0) ((k iy) 1) ((d ax) 0))) )
 (lex.add.entry 
@@ -7397,6 +7409,10 @@
 (lex.add.entry 
  '("Malchiel" nnp (((m ae l) 1) ((k iy) 0) ((eh l) 0))) )
 (lex.add.entry 
+ '("Malchielite" nnp (((m ae l) 1) ((k iy) 0) ((eh l) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Malchielites" nnps (((m ae l) 1) ((k iy) 0) ((eh l) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Malchijah" nnp (((m ae l) 0) ((k ay) 1) ((jh ax) 0))) )
 (lex.add.entry 
  '("Malchiram" nnp (((m ae l) 0) ((k ay) 1) ((r ae m) 0))) )
@@ -7408,6 +7424,16 @@
  '("Malchus" nnp (((m ae l) 1) ((k ax s) 0))) )
 (lex.add.entry 
  '("Maleleel" nnp (((m ax) 0) ((l iy) 1) ((l iy) 0) ((eh l) 0))) )
+(lex.add.entry 
+ '("Malkiel" nnp (((m ae l) 1) ((k iy) 0) ((eh l) 0))) )
+(lex.add.entry 
+ '("Malkijah" nnp (((m ae l) 0) ((k ay) 1) ((jh ax) 0))) )
+(lex.add.entry 
+ '("Malkiram" nnp (((m ae l) 0) ((k ay) 1) ((r ae m) 0))) )
+(lex.add.entry 
+ '("Malkishua" nnp (((m ae l) 1) ((k ay) 0) ((sh uw) 1) ((ax) 0))) )
+(lex.add.entry 
+ '("Malki-shua" nnp (((m ae l) 1) ((k ay) 0) ((sh uw) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Mallothi" nnp (((m ae l) 1) ((ax) 0) ((th ay) 0))) )
 (lex.add.entry 
@@ -7457,13 +7483,11 @@
 (lex.add.entry 
  '("Marcus" nnp (((m aa r) 1) ((k ax s) 0))) )
 (lex.add.entry 
- '("Marchesvan" nnp (((m aa r) 0) ((k eh s) 1) ((v ae n) 0))) )
+ '("Marduk" nnp (((m aa r) 1) ((d y uw k) 0))) )
 (lex.add.entry 
  '("Mareal" nnp (((m aa r) 1) ((eh) 0) ((ax l) 0))) )
 (lex.add.entry 
  '("Mareshah" nnp (((m ax) 0) ((r iy) 1) ((sh ax) 0))) )
-(lex.add.entry 
- '("Marheshvan" nnp (((m aa r) 0) ((hh eh sh) 1) ((v ae n) 0))) )
 (lex.add.entry 
  '("Mari" nnp (((m aa) 1) ((r iy) 0))) )
 (lex.add.entry 
@@ -7471,7 +7495,7 @@
 (lex.add.entry 
  '("Maroth" nnp (((m ey) 1) ((r aa th) 0))) )
 (lex.add.entry 
- '("Mars" nnp (((m aa r z) 1))) )
+ '("Mars_Hill" nnp (((m aa r z) 1) ((hh ih l) 1))) )
 (lex.add.entry 
  '("Marsena" nnp (((m aa r) 0) ((s iy) 1) ((n ax) 0))) )
 (lex.add.entry 
@@ -7483,23 +7507,9 @@
 (lex.add.entry 
  '("Masaloth" nnp (((m ae s) 1) ((ax) 0) ((l aa th) 0))) )
 (lex.add.entry 
- '("Maschil" nnp (((m aa s) 1) ((k iy l) 0))) )
-(lex.add.entry 
  '("Mash" nnp (((m ae sh) 1))) )
 (lex.add.entry 
  '("Mashal" nnp (((m ey) 1) ((sh ae l) 0))) )
-(lex.add.entry 
- '("Maskil" nnp (((m aa s) 1) ((k iy l) 0))) )
-(lex.add.entry 
- '("Masora" nnp (((m ax) 0) ((s ow) 1) ((r ax) 0))) )
-(lex.add.entry 
- '("Masorah" nnp (((m ax) 0) ((s ow) 1) ((r ax) 0))) )
-(lex.add.entry 
- '("Masorete" nnp (((m ae s) 1) ((ax) 0) ((r iy t) 0))) )
-(lex.add.entry 
- '("Masoretes" nnps (((m ae s) 1) ((ax) 0) ((r iy t s) 0))) )
-(lex.add.entry 
- '("Masoretic" nnp (((m ae s) 1) ((ax) 0) ((r eh t) 1) ((ih k) 0))) )
 (lex.add.entry 
  '("Maspha" nnp (((m ae s) 1) ((f ax) 0))) )
 (lex.add.entry 
@@ -7607,13 +7617,19 @@
 (lex.add.entry 
  '("Mehuman" nnp (((m ih) 0) ((hh uw) 1) ((m ae n) 0))) )
 (lex.add.entry 
- '("Mehunim" nnp (((m ih) 0) ((hh uw) 1) ((n ih m) 0))) )
+ '("Mehunim" nnps (((m ih) 0) ((hh uw) 1) ((n ih m) 0))) )
 (lex.add.entry 
- '("Mehunims" nnp (((m ih) 0) ((hh uw) 1) ((n ih m z) 0))) )
+ '("Mehunims" nnps (((m ih) 0) ((hh uw) 1) ((n ih m z) 0))) )
 (lex.add.entry 
  '("Mejarkon" nnp (((m iy) 1) ((jh aa r) 1) ((k aa n) 0))) )
 (lex.add.entry 
  '("Me-jarkon" nnp (((m iy) 1) ((jh aa r) 1) ((k aa n) 0))) )
+(lex.add.entry 
+ '("Me_Jarkon" nnp (((m iy) 1) ((jh aa r) 1) ((k aa n) 0))) )
+(lex.add.entry 
+ '("Mekerathite" nnp (((m ih) 0) ((k iy) 1) ((r ae th) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Mekerathites" nnps (((m ih) 0) ((k iy) 1) ((r ae th) 0) ((ay t s) 0))) )
 (lex.add.entry 
  '("Mekonah" nnp (((m ih) 0) ((k ow) 1) ((n ax) 0))) )
 (lex.add.entry 
@@ -7639,6 +7655,8 @@
 (lex.add.entry 
  '("Melita" nnp (((m eh l) 1) ((ih) 0) ((t ax) 0))) )
 (lex.add.entry 
+ '("Melki" nnp (((m eh l) 1) ((k ay) 0))) )
+(lex.add.entry 
  '("Melzar" nnp (((m eh l) 1) ((z aa r) 0))) )
 (lex.add.entry 
  '("Mem" nnp (((m eh m) 1))) )
@@ -7650,8 +7668,6 @@
  '("Menahem" nnp (((m eh n) 1) ((ax) 0) ((hh eh m) 0))) )
 (lex.add.entry 
  '("Menan" nnp (((m iy) 1) ((n ae n) 0))) )
-(lex.add.entry 
- '("Mene" nnp (((m iy) 1) ((n ih) 0))) )
 (lex.add.entry 
  '("Meni" nnp (((m iy) 1) ((n ay) 0))) )
 (lex.add.entry 
@@ -7701,9 +7717,13 @@
 (lex.add.entry 
  '("Meribah-kadesh" nnp (((m eh r) 1) ((ih) 0) ((b aa) 0) ((k ey) 1) ((d eh sh) 0))) )
 (lex.add.entry 
+ '("Meribah_Kadesh" nnp (((m eh r) 1) ((ih) 0) ((b aa) 0) ((k ey) 1) ((d eh sh) 0))) )
+(lex.add.entry 
  '("Meribathkadesh" nnp (((m eh r) 1) ((ih) 0) ((b ae th) 0) ((k ey) 1) ((d eh sh) 0))) )
 (lex.add.entry 
  '("Meribath-kadesh" nnp (((m eh r) 1) ((ih) 0) ((b ae th) 0) ((k ey) 1) ((d eh sh) 0))) )
+(lex.add.entry 
+ '("Meribath_Kadesh" nnp (((m eh r) 1) ((ih) 0) ((b ae th) 0) ((k ey) 1) ((d eh sh) 0))) )
 (lex.add.entry 
  '("Meribbaal" nnp (((m eh r) 1) ((ih b) 0) ((b ey) 1) ((ax l) 0))) )
 (lex.add.entry 
@@ -7713,6 +7733,8 @@
 (lex.add.entry 
  '("Meriboth-kadesh" nnp (((m eh r) 1) ((ih) 0) ((b aa th) 0) ((k ey) 1) ((d eh sh) 0))) )
 (lex.add.entry 
+ '("Meriboth_Kadesh" nnp (((m eh r) 1) ((ih) 0) ((b aa th) 0) ((k ey) 1) ((d eh sh) 0))) )
+(lex.add.entry 
  '("Merodach" nnp (((m ih) 0) ((r ow) 1) ((d ae k) 0))) )
 (lex.add.entry 
  '("Merodachbaladan" nnp (((m ih) 0) ((r ow) 1) ((d ae k) 0) ((b ae l) 1) ((ax) 0) ((d ax n) 0))) )
@@ -7720,6 +7742,8 @@
  '("Merodach-baladan" nnp (((m ih) 0) ((r ow) 1) ((d ae k) 0) ((b ae l) 1) ((ax) 0) ((d ax n) 0))) )
 (lex.add.entry 
  '("Merom" nnp (((m iy) 1) ((r aa m) 0))) )
+(lex.add.entry 
+ '("Meronoth" nnp (((m ih) 0) ((r aa n) 1) ((ax th) 0))) )
 (lex.add.entry 
  '("Meronothite" nnp (((m ih) 0) ((r aa n) 1) ((ax) 0) ((th ay t) 0))) )
 (lex.add.entry 
@@ -7753,6 +7777,8 @@
 (lex.add.entry 
  '("Meshullemeth" nnp (((m ih) 0) ((sh ah l) 1) ((ih) 0) ((m eh th) 0))) )
 (lex.add.entry 
+ '("Mesias" nnp (((m ax) 0) ((s ay) 1) ((ax s) 0))) )
+(lex.add.entry 
  '("Mesobaite" nnp (((m ih) 0) ((s ow) 1) ((b ey) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Mesobaites" nnps (((m ih) 0) ((s ow) 1) ((b ey) 0) ((ay t s) 0))) )
@@ -7767,6 +7793,8 @@
 (lex.add.entry 
  '("Metheg-ammah" nnp (((m iy) 1) ((th eh g) 0) ((ae m) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Metheg_Ammah" nnp (((m iy) 1) ((th eh g) 0) ((ae m) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Methusael" nnp (((m ih) 0) ((th uw) 1) ((s ey) 0) ((eh l) 0))) )
 (lex.add.entry 
  '("Methusala" nnp (((m ih) 0) ((th uw) 1) ((z ax) 0) ((l ax) 0))) )
@@ -7775,7 +7803,9 @@
 (lex.add.entry 
  '("Methushael" nnp (((m ih) 0) ((th uw) 1) ((sh ey) 0) ((eh l) 0))) )
 (lex.add.entry 
- '("Meunim" nnp (((m iy) 0) ((uw) 1) ((n ih m) 0))) )
+ '("Meunim" nnps (((m iy) 0) ((uw) 1) ((n ih m) 0))) )
+(lex.add.entry 
+ '("Meunims" nnps (((m iy) 0) ((uw) 1) ((n ih m z) 0))) )
 (lex.add.entry 
  '("Meunite" nnp (((m iy) 0) ((uw) 1) ((n ay t) 0))) )
 (lex.add.entry 
@@ -7823,7 +7853,11 @@
 (lex.add.entry 
  '("Michri" nnp (((m ih k) 1) ((r ay) 0))) )
 (lex.add.entry 
- '("Michtam" nnp (((m ih k) 1) ((t ae m) 0))) )
+ '("Micmash" nnp (((m ih k) 1) ((m ae sh) 0))) )
+(lex.add.entry 
+ '("Micmethath" nnp (((m ih k) 1) ((m ih) 0) ((th ae th) 0))) )
+(lex.add.entry 
+ '("Micri" nnp (((m ih k) 1) ((r ay) 0))) )
 (lex.add.entry 
  '("Middin" nnp (((m ih d) 1) ((ih n) 0))) )
 (lex.add.entry 
@@ -7833,15 +7867,21 @@
 (lex.add.entry 
  '("Midianites" nnps (((m ih d) 1) ((iy) 0) ((ax n) 0) ((ay t s) 0))) )
 (lex.add.entry 
+ '("Midianitish" nnp (((m ih d) 1) ((iy) 0) ((ax n) 0) ((ay t) 1) ((ih sh) 0))) )
+(lex.add.entry 
  '("Midrash" nnp (((m ih d) 1) ((r ae sh) 0))) )
 (lex.add.entry 
  '("Migdalel" nnp (((m ih g) 1) ((d ae l) 0) ((eh l) 1))) )
 (lex.add.entry 
  '("Migdal-el" nnp (((m ih g) 1) ((d ae l) 0) ((eh l) 1))) )
 (lex.add.entry 
+ '("Migdal_El" nnp (((m ih g) 1) ((d ae l) 0) ((eh l) 1))) )
+(lex.add.entry 
  '("Migdalgad" nnp (((m ih g) 1) ((d ae l) 0) ((g ae d) 1))) )
 (lex.add.entry 
  '("Migdal-gad" nnp (((m ih g) 1) ((d ae l) 0) ((g ae d) 1))) )
+(lex.add.entry 
+ '("Migdal_Gad" nnp (((m ih g) 1) ((d ae l) 0) ((g ae d) 1))) )
 (lex.add.entry 
  '("Migdol" nnp (((m ih g) 1) ((d aa l) 0))) )
 (lex.add.entry 
@@ -7852,8 +7892,6 @@
  '("Mikloth" nnp (((m ih k) 1) ((l aa th) 0))) )
 (lex.add.entry 
  '("Mikneiah" nnp (((m ih k) 0) ((n iy) 1) ((y ax) 0))) )
-(lex.add.entry 
- '("Miktam" nnp (((m ih k) 1) ((t ae m) 0))) )
 (lex.add.entry 
  '("Milalai" nnp (((m ih l) 1) ((ax) 0) ((l ay) 0))) )
 (lex.add.entry 
@@ -7909,6 +7947,8 @@
 (lex.add.entry 
  '("Misrephoth-maim" nnp (((m ih s) 1) ((r ih) 0) ((f aa th) 0) ((m ey) 1) ((ih m) 0))) )
 (lex.add.entry 
+ '("Misrephoth_Maim" nnp (((m ih s) 1) ((r ih) 0) ((f aa th) 0) ((m ey) 1) ((ih m) 0))) )
+(lex.add.entry 
  '("Mitanni" nnp (((m ih) 0) ((t ae n) 1) ((ih) 0))) )
 (lex.add.entry 
  '("Mithcah" nnp (((m ih th) 1) ((k ax) 0))) )
@@ -7942,6 +7982,10 @@
  '("Moabite" nnp (((m ow) 1) ((ax b) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Moabites" nnps (((m ow) 1) ((ax b) 0) ((ay t s) 0))) )
+(lex.add.entry 
+ '("Moabitess" nnp (((m ow) 1) ((ax b) 0) ((ay t) 1) ((ax s) 0))) )
+(lex.add.entry 
+ '("Moabitish" nnp (((m ow) 1) ((ax b) 0) ((ay t) 1) ((ih sh) 0))) )
 (lex.add.entry 
  '("Moadiah" nnp (((m ow) 1) ((ax) 0) ((d ay) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -7994,6 +8038,10 @@
  '("Muppim" nnp (((m ah p) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Mushi" nnp (((m uw) 1) ((sh ay) 0))) )
+(lex.add.entry 
+ '("Mushite" nnp (((m uw) 1) ((sh ay t) 0))) )
+(lex.add.entry 
+ '("Mushites" nnps (((m uw) 1) ((sh ay t s) 0))) )
 (lex.add.entry 
  '("Musri" nnp (((m uh s) 1) ((r ih) 0))) )
 (lex.add.entry 
