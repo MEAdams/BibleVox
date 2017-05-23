@@ -8067,6 +8067,10 @@
 (lex.add.entry 
  '("Naamathites" nnps (((n ey) 1) ((ax) 0) ((m ax) 0) ((th ay t s) 0))) )
 (lex.add.entry 
+ '("Naamite" nnp (((n ey) 1) ((ax) 0) ((m ay t) 0))) )
+(lex.add.entry 
+ '("Naamites" nnps (((n ey) 1) ((ax) 0) ((m ay t s) 0))) )
+(lex.add.entry 
  '("Naarah" nnp (((n ey) 1) ((ax) 0) ((r ax) 0))) )
 (lex.add.entry 
  '("Naarai" nnp (((n ey) 1) ((ax) 0) ((r ay) 0))) )
@@ -8159,15 +8163,25 @@
 (lex.add.entry 
  '("Naphath-dor" nnp (((n ey) 1) ((f ae th) 0) ((d ao r) 1))) )
 (lex.add.entry 
+ '("Naphath_Dor" nnp (((n ey) 1) ((f ae th) 0) ((d ao r) 1))) )
+(lex.add.entry 
  '("Naphish" nnp (((n ey) 1) ((f ih sh) 0))) )
 (lex.add.entry 
  '("Naphothdor" nnp (((n ey) 1) ((f aa th) 0) ((d ao r) 1))) )
 (lex.add.entry 
  '("Naphoth-dor" nnp (((n ey) 1) ((f aa th) 0) ((d ao r) 1))) )
 (lex.add.entry 
+ '("Naphoth_Dor" nnp (((n ey) 1) ((f aa th) 0) ((d ao r) 1))) )
+(lex.add.entry 
  '("Naphtali" nnp (((n ae f) 1) ((t ax) 0) ((l ay) 0))) )
 (lex.add.entry 
- '("Naphtuhim" nnp (((n ae f) 0) ((t uw) 1) ((hh ih m) 0))) )
+ '("Naphtuhim" nnps (((n ae f) 0) ((t uw) 1) ((hh ih m) 0))) )
+(lex.add.entry 
+ '("Naphtuhims" nnps (((n ae f) 0) ((t uw) 1) ((hh ih m s) 0))) )
+(lex.add.entry 
+ '("Naphtuhite" nnp (((n ae f) 0) ((t uw) 1) ((hh ay t) 0))) )
+(lex.add.entry 
+ '("Naphtuhites" nnps (((n ae f) 0) ((t uw) 1) ((hh ay t s) 0))) )
 (lex.add.entry 
  '("Narcissus" nnp (((n aa r) 0) ((s ih s) 1) ((ax s) 0))) )
 (lex.add.entry 
@@ -8215,6 +8229,10 @@
 (lex.add.entry 
  '("Nebo" nnp (((n iy) 1) ((b ow) 0))) )
 (lex.add.entry 
+ '("Nebosarsekim" nnp (((n iy) 1) ((b ow) 0) ((s aa r) 1) ((s ax) 0) ((k ih m) 0))) )
+(lex.add.entry 
+ '("Nebo-sarsekim" nnp (((n iy) 1) ((b ow) 0) ((s aa r) 1) ((s ax) 0) ((k ih m) 0))) )
+(lex.add.entry 
  '("Nebuchadnezzar" nnp (((n eh b) 1) ((y uw) 0) ((k ax d) 0) ((n eh z) 1) ((er) 0))) )
 (lex.add.entry 
  '("Nebuchadrezzar" nnp (((n eh b) 1) ((y uw) 0) ((k ax d) 0) ((r eh z) 1) ((er) 0))) )
@@ -8236,6 +8254,8 @@
  '("Nedabiah" nnp (((n eh d) 1) ((ax) 0) ((b ay) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Negeb" nnp (((n eh g) 1) ((eh b) 0))) )
+(lex.add.entry 
+ '("Negev" nnp (((n eh g) 1) ((eh v) 0))) )
 (lex.add.entry 
  '("Neginah" nnp (((n eh) 0) ((g iy) 1) ((n aa) 0))) )
 (lex.add.entry 
@@ -8265,25 +8285,37 @@
 (lex.add.entry 
  '("Nemuel" nnp (((n eh m) 1) ((y uw) 0) ((eh l) 0))) )
 (lex.add.entry 
+ '("Nemuelite" nnp (((n ah m) 1) ((y uw) 0) ((eh l) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Nemuelites" nnps (((n ah m) 1) ((y uw) 0) ((eh l) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Nepheg" nnp (((n iy) 1) ((f eh g) 0))) )
 (lex.add.entry 
- '("Nephilim" nnp (((n eh f) 1) ((ax) 0) ((l ih m) 0))) )
+ '("Nephilim" nnps (((n eh f) 1) ((ax) 0) ((l ih m) 0))) )
+(lex.add.entry 
+ '("Nephilims" nnps (((n eh f) 1) ((ax) 0) ((l ih m s) 0))) )
 (lex.add.entry 
  '("Nephish" nnp (((n iy) 1) ((f ih sh) 0))) )
 (lex.add.entry 
- '("Nephishesim" nnp (((n ih) 0) ((f ih sh) 1) ((ih) 0) ((s ih m) 0))) )
+ '("Nephishesim" nnps (((n ih) 0) ((f ih sh) 1) ((ih) 0) ((s ih m) 0))) )
 (lex.add.entry 
- '("Nephisim" nnp (((n ih) 0) ((f ay) 1) ((s ih m) 0))) )
+ '("Nephisim" nnps (((n ih) 0) ((f ay) 1) ((s ih m) 0))) )
 (lex.add.entry 
- '("Nephthalim" nnp (((n eh f) 1) ((th ax) 0) ((l ih m) 0))) )
+ '("Nephthalim" nnps (((n eh f) 1) ((th ax) 0) ((l ih m) 0))) )
+(lex.add.entry 
+ '("Nephthalims" nnps (((n eh f) 1) ((th ax) 0) ((l ih m s) 0))) )
 (lex.add.entry 
  '("Nephtoah" nnp (((n eh f) 0) ((t ow) 1) ((ax) 0))) )
 (lex.add.entry 
- '("Nephushesim" nnp (((n ih) 0) ((f ah sh) 1) ((ih) 0) ((s ih m) 0))) )
+ '("Nephushesim" nnps (((n ih) 0) ((f ah sh) 1) ((ih) 0) ((s ih m) 0))) )
 (lex.add.entry 
- '("Nephusim" nnp (((n ih) 0) ((f uw) 1) ((s ih m) 0))) )
+ '("Nephusim" nnps (((n ih) 0) ((f uw) 1) ((s ih m) 0))) )
 (lex.add.entry 
- '("Nepthalim" nnp (((n eh p) 1) ((th ax) 0) ((l ih m) 0))) )
+ '("Nephussim" nnps (((n ih) 0) ((f uw) 1) ((s ih m) 0))) )
+(lex.add.entry 
+ '("Nepthalim" nnps (((n eh p) 1) ((th ax) 0) ((l ih m) 0))) )
+(lex.add.entry 
+ '("Nepthalims" nnps (((n eh p) 1) ((th ax) 0) ((l ih m s) 0))) )
 (lex.add.entry 
  '("Ner" nnp (((n er) 1))) )
 (lex.add.entry 
@@ -8307,6 +8339,8 @@
 (lex.add.entry 
  '("Neriah" nnp (((n ih) 0) ((r ay) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Nero" nnp (((n ih) 0) ((r ow) 0))) )
+(lex.add.entry 
  '("Netaim" nnp (((n ih) 0) ((t ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Nethanel" nnp (((n ih) 0) ((th ae n) 1) ((eh l) 0))) )
@@ -8315,17 +8349,17 @@
 (lex.add.entry 
  '("Nethaniah" nnp (((n eh th) 1) ((ax) 0) ((n ay) 1) ((ax) 0))) )
 (lex.add.entry 
- '("Nethinim" nnp (((n eh th) 1) ((ih) 0) ((n ih m) 0))) )
+ '("Nethinim" nnps (((n eh th) 1) ((ih) 0) ((n ih m) 0))) )
 (lex.add.entry 
  '("Nethinims" nnps (((n eh th) 1) ((ih) 0) ((n ih m z) 0))) )
 (lex.add.entry 
  '("Netophah" nnp (((n ih) 0) ((t ow) 1) ((f ax) 0))) )
 (lex.add.entry 
+ '("Netophathi" nnp (((n ih) 0) ((t aa f) 1) ((ax) 0) ((th ay) 0))) )
+(lex.add.entry 
  '("Netophathite" nnp (((n ih) 0) ((t aa f) 1) ((ax) 0) ((th ay t) 0))) )
 (lex.add.entry 
  '("Netophathites" nnps (((n ih) 0) ((t aa f) 1) ((ax) 0) ((th ay t s) 0))) )
-(lex.add.entry 
- '("Netophathi" nnp (((n ih) 0) ((t aa f) 1) ((ax) 0) ((th ay) 0))) )
 (lex.add.entry 
  '("Neziah" nnp (((n ih) 0) ((z ay) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -8359,9 +8393,17 @@
 (lex.add.entry 
  '("Nimrod" nnp (((n ih m) 1) ((r aa d) 0))) )
 (lex.add.entry 
+ '("Nimrud" nnp (((n ih m) 1) ((r ah d) 0))) )
+(lex.add.entry 
  '("Nimshi" nnp (((n ih m) 1) ((sh ay) 0))) )
 (lex.add.entry 
+ '("Nineve" nnp (((n ih m) 1) ((ax) 0) ((v eh) 0))) )
+(lex.add.entry 
  '("Nineveh" nnp (((n ih n) 1) ((ax) 0) ((v eh) 0))) )
+(lex.add.entry 
+ '("Ninevite" nnp (((n ih n) 1) ((ax) 0) ((v ay t) 0))) )
+(lex.add.entry 
+ '("Ninevites" nnps (((n ih n) 1) ((ax) 0) ((v ay t s) 0))) )
 (lex.add.entry 
  '("Nisan" nnp (((n ay) 1) ((s ae n) 0))) )
 (lex.add.entry 
@@ -8398,6 +8440,10 @@
  '("Noph" nnp (((n aa f) 1))) )
 (lex.add.entry 
  '("Nophah" nnp (((n ow) 1) ((f ax) 0))) )
+(lex.add.entry 
+ '("Nubian" nnp (((n uw) 1) ((b iy) 0) ((ax n) 0))) )
+(lex.add.entry 
+ '("Nubians" nnps (((n uw) 1) ((b iy) 0) ((ax n z) 0))) )
 (lex.add.entry 
  '("Numbers" nnps (((n ah m) 1) ((b er z) 0))) )
 (lex.add.entry 
