@@ -8499,10 +8499,6 @@
 (lex.add.entry 
  '("Oholibamah" nnp (((ax) 0) ((hh aa l) 1) ((ih) 0) ((b ey) 1) ((m ax) 0))) )
 (lex.add.entry 
- '("Olive" nnp (((aa l) 1) ((ih v) 0))) )
-(lex.add.entry 
- '("Olives" nnps (((aa l) 1) ((ih v z) 0))) )
-(lex.add.entry 
  '("Olivet" nnp (((aa l) 1) ((ih) 0) ((v eh t) 0))) )
 (lex.add.entry 
  '("Olympas" nnp (((ax) 0) ((l ih m) 1) ((p ae s) 0))) )
@@ -8543,6 +8539,8 @@
 (lex.add.entry 
  '("Orion" nnp (((ax) 0) ((r ay) 1) ((ax n) 0))) )
 (lex.add.entry 
+ '("Orontes" nnp (((ow) 1) ((r aa n) 0) ((t eh z) 0))) )
+(lex.add.entry 
  '("Ornan" nnp (((ao r) 1) ((n ax n) 0))) )
 (lex.add.entry 
  '("Orpah" nnp (((ao r) 1) ((p aa) 0))) )
@@ -8557,6 +8555,8 @@
 (lex.add.entry 
  '("Oshea" nnp (((ax) 0) ((sh iy) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("Ostia" nnp (((aa s) 1) ((t iy) 0) ((ax) 0))) )
+(lex.add.entry 
  '("Othni" nnp (((aa th) 1) ((n ay) 0))) )
 (lex.add.entry 
  '("Othniel" nnp (((aa th) 1) ((n iy) 0) ((eh l) 0))) )
@@ -8566,6 +8566,10 @@
  '("Ozias" nnp (((ax) 0) ((z ay) 1) ((ax s) 0))) )
 (lex.add.entry 
  '("Ozni" nnp (((aa z) 1) ((n ay) 0))) )
+(lex.add.entry 
+ '("Oznite" nnp (((aa z) 1) ((n ay t) 0))) )
+(lex.add.entry 
+ '("Oznites" nnps (((aa z) 1) ((n ay t s) 0))) )
 (lex.add.entry 
  '("Paarai" nnp (((p ey) 1) ((ax) 0) ((r ay) 0))) )
 (lex.add.entry 
