@@ -87,8 +87,9 @@
 ###         :    are included by declaring their POS tags as type "nil".
 ###         :
 ###         : 3. General word categories (WIP):
-###         :    angel,animal,astral,deity,demon,divine,ethnic,measure,mineral
-###         :    music,person,place,saying,thing,title,vegetal,writing
+###         :    angel,animal,astral,deity,demon,divine,doing,ethnic,keeping,
+###         :    measure,mineral,music,person,place,saying,thing,title,vegetal,
+###         :    writing
 ###         :
 ###         : 4. Note that there may exist pns and pnp entries that have not
 ###         :    been actuallly identified within Bible texts searched to date.
@@ -396,6 +397,7 @@ gittith                 cns   GIT-ith                       git'tith            
 maranatha               cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
 maran-atha              cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
 
+raca                    cns   ruh-KAH                       ra-ca'                        saying
 
 ###########################
 ### Bible: proper nouns ###
@@ -1150,6 +1152,7 @@ Baasha                  pns   BAY-uh-shuh                   Ba'a-sha            
 Babel                   pns   BAY-buhl                      Ba'bel                        place
 Babylon                 pns   BAB-uh-luhn                   Bab'y-lon                     place
 Babylonia               pns   BAB-uh-LOH-nee-uh             Bab'y-lo'ni-a                 place
+Babylonian              pns   BAB-uh-LOH-nee-uhn            Bab'y-lo'ni-an                ethnic
 Babylonians             pnp   BAB-uh-LOH-nee-uhnz           Bab'y-lo'ni-ans               ethnic
 Baca                    pns   BAY-kuh                       Ba'ca                         place
 Bacchides               pns   BAK-i-deez                    Bac'chi-des                   person
@@ -4479,374 +4482,413 @@ Ozni                    pns   OZ-niy                        Oz'ni               
 Oznite                  pns   OZ-niyt                       Oz'nite                       ethnic
 Oznites                 pnp   OZ-niyts                      Oz'nites                      ethnic
 
-Paarai                  pns   PAY-uh-riy                    Pa'a-rai                      
-Padan                   pns   PAY-dun                       Pa'dan
-Padanaram               pns   PAY-duhn-AY-ram               Pa'dan-a'ram
-Padan-aram              pns   PAY-duhn-AY-ram               Pa'dan-a'ram
-Paddan                  pns   PAD-uhn                       Pad'dan
-Paddanaram              pns   PAD-duhn-AY-ram               Pad'dan-a'ram
-Paddan-aram             pns   PAY-duhn-AY-ram               Pad'dan-a'ram
-Padon                   pns   PAY-don                       Pa'don
-Pagiel                  pns   PAY-gee-el                    Pa'gi-el
-Pahathmoab              pns   PAY-hath-MOH-ab               Pa'hath-mo'ab
-Pahath-moab             pns   PAY-hath-MOH-ab               Pa'hath-mo'ab
-Pai                     pns   PIY                           Pai
-Palal                   pns   PAY-luhl                      Pa'lal
-Palestina               pns   PAL-es-tiy-nuh                Pal'es-ti-na
-Palestine               pns   PAL-es-tiyn                   Pal'es-tine
-Pallet                  pns   PAL-et                        Pal'let
-Pallu                   pns   PAL-yoo                       Pal'lu
-Palmyra                 pns   pal-MIY-ruh                   Pal-my'ra
-Palti                   pns   PAL-tiy                       Pal'ti
-Paltiel                 pns   PAL-tee-el                    Pal'ti-el
-Paltite                 pns   PAL-tiyt                      Pal'tite
-Paltites                pnp   PAL-tiyts                     Pal'tites
-Pamphylia               pns   pam-FIL-ee-uh                 Pam-phyl'i-a
-Paphos                  pns   PAY-fos                       Pa'phos
-Paraclete               pns   PAR-uh-kleet                  Par'a-clete
-Paradise                pns   PAR-uh-diys                   Par'a-dise
-Parah                   pns   PAY-ruh                       Pa'rah
-Paran                   pns   PAY-ruhn                      Pa'ran
-Parbar                  pns   PAHR-bahr                     Par'bar
-Parmashta               pns   pahr-MASH-tuh                 Par-mash'ta
-Parmenas                pns   PAHR-mi-nas                   Par'me-nas
-Parnach                 pns   PAHR-nak                      Par'nach
-Parosh                  pns   PAY-rosh                      Pa'rosh
-Parousia                pns   pah-ROO-zee-uh                Pa-rou'si-a
-Parshandatha            pns   PAHR-shan-DAY-thuh            Par'shan-da'tha
-Parsin                  pns   PAHR-sin                      Par'sin
-Parthian                pns   PAHR-thee-an                  Par'thi-an
-Parthians               pnp   PAHR-thee-anz                 Par'thi-ans
-Paruah                  pns   puh-ROO-uh                    Pa-ru'ah
-Parvaim                 pns   pahr-VAY-im                   Par-va'im
-Pasach                  pns   PAY-sak                       Pa'sach
-Pasdammim               pns   PAS-DAM-im                    Pas'dam'mim
-Pas-dammim              pns   PAS-DAM-im                    Pas'dam'mim
-Paseah                  pns   puh-SEE-uh                    Pa-se'ah
-Pashhur                 pns   PASH-huhr                     Pash'hur
-Pashur                  pns   PASH-uhr                      Pash'ur
-Passover                pns   PAHS-OH-vuhr                  Pass'o'ver
-Patara                  pns   PAT-uh-ruh                    Pat'a-ra
-Pathros                 pns   PATH-ros                      Path'ros
-Pathrusim               pns   path-ROO-sim                  Path-roo'sim
-Patmos                  pns   PAT-mos                       Pat'mos
-Patrobas                pns   PAT-ruh-buhs                  Pat'ro-bas
-Pau                     pns   PAY-yoo                       Pa'u
-Paul                    pns   PAOL                          Paul
-Paulus                  pns   PAO-luhs                     _Pau'lus
-Pe                      pns   PAY                           Pe
-Pedahel                 pns   PED-uh-hel                    Ped'a-hel
-Pedahzur                pns   pi-DAH-zuhr                   Pe-dah'zur
-Pedaiah                 pns   pi-DAY-yuh                    Pe-da'iah
-Pekah                   pns   PEE-kah                       Pe'kah
-Pekahiah                pns   PEK-uh-HIY-uh                 Pek'a-hi'ah
-Pekod                   pns   PEE-kod                       Pe'kod
-Pelaiah                 pns   pi-LAY-yuh                    Pe-la'iah
-Pelaliah                pns   PEL-uh-LIY-uh                 Pel'a-li'ah
-Pelatiah                pns   PEL-uh-TIY-uh                 Pel'a-ti'ah
-Peleg                   pns   PEE-leg                       Pe'leg
-Pelet                   pns   PEE-let                       Pe'let
-Peleth                  pns   PEE-leth                      Pe'leth
-Pelethite               pns   PEL-i-thiyt                   Pel'e-thite
-Pelethites              pnp   PEL-i-thiyts                  Pel'e-thites
-Pella                   pns   PEL-uh                        Pel'la
-Pelonite                pns   PEL-uh-niyt                   Pel'o-nite
-Pelonites               pnp   PEL-uh-niyts                  Pel'o-nites
-Pelusium                pns   pi-LOO-shee-uhm               Pe-lu'si-um
-Peniel                  pns   pi-NIY-uhl                    Pe-ni'el
-Peninnah                pns   pi-NIN-uh                     Pe-nin'nah
-Pentecost               pns   PEN-ti-kost                   Pen'te-cost
-Penuel                  pns   pi-NOO-uhl                    Pe-nu'el
-Peor                    pns   PEE-ohr                       Pe'or
-Peraea                  pns   pi-REE-uh                     Pe-rae'a
-Perazim                 pns   PER-uh-zim                    Per'a-zim
-Perea                   pns   pe-REE-uh                     Pe-re'a
-Peres                   pns   PEE-res                       Pe'res
-Peresh                  pns   PEE-resh                      Pe'resh
-Perez                   pns   PEE-rez                       Pe'rez
-Perezite                pns   PEE-rez-iyt                   Pe'rez-ite
-Perezites               pnp   PEE-rez-iyts                  Pe'rez-ites
-Perezuzza               pns   PEE-rez-UZ-uh                 Pe'res-uz'za
-Perez-uzza              pns   PEE-rez-UZ-uh                 Pe'res-uz'za
-Perezuzzah              pns   PEE-rez-UZ-uh                 Pe'res-uz'zah
-Perez-uzzah             pns   PEE-rez-UZ-uh                 Pe'res-uz'zah
-Perga                   pns   PUHR-guh                      Per'ga
-Pergamos                pns   PUHR-guh-mos                  Per'ga-mos
-Pergamum                pns   PUHR-guh-muhm                 Per'ga-mum
-Perida                  pns   pi-RIY-duh                    Pe-ri'da
-Perizzite               pns   PER-i-ziyt                    Per'iz-zite
-Perizzites              pnp   PER-i-ziyts                   Per'iz-zites
-Perseus                 pns   PUHR-soos                     Per'seus
-Persia                  pns   PUHR-zhuh                     Per'sia
-Persian                 pns   PUHR-zhuhn                   *Per'sian
-Persians                pnp   PUHR-zhuhnz                  *Per'sians
-Persis                  pns   PUHR-sis                      Per'sis
-Peruda                  pns   pee-ROO-duh                   Pe-ru'da
-Peter                   pns   PEE-tuhr                      Pe'ter
-Pethahiah               pns   PETH-uh-HIY-uh                Peth'a-hi'ah
-Pethor                  pns   PEE-thohr                     Pe'thor
-Pethuel                 pns   pi-THOO-uhl                   Pe-thu'el
-Petra                   pns   PEE-truh                      Pe'tra
-Peullethai              pns   pee-UL-i-thiy                 Pe-ul'le-thai
-Peulthai                pns   pee-UL-thiy                   Pe-ul'thai
-Phalec                  pns   FAY-lek                       Pha'lec
-Phallu                  pns   FAL-OO                        Phal'lu
-Phalti                  pns   FAL-tiy                       Phal'ti
-Phaltiel                pns   FAL-tee-el                    Phal'tiel
-Phanuel                 pns   fuh-NOO-el                    Pha-nu'el
-Pharaoh                 pns   FEHR-uh                       Phar'aoh
-Pharathon               pns   FAR-uh-thon                   Phar'a-thon
-Phares                  pns   FAY-reez                      Pha'res
-Pharez                  pns   FAY-reez                      Pha'rez
-Pharisee                pns   FAR-i-see                     Phas'i-see
-Pharisees               pnp   FAR-i-seez                    Phas'i-sees
-Pharosh                 pns   FAY-rosh                      Pha'rosh
-Pharpar                 pns   FAHR-pahr                     Phar'par
-Phaseah                 pns   fuh-SEE-uh                    Pha-se'ah
-Phaselis                pns   fuh-SEE-lis                   Pha-se'lis
-Phasiron                pns   FAS-i-ron                     Phas'i-ron
-Phebe                   pns   FEE-bi                        Phe'be
-Phenice                 pns   fi-NIY-si                     Phe-ni'ce
-Phenicia                pns   fi-NISH-ee-uh                 Phe-nic'i-a
-Phichol                 pns   FIY-kol                       Phi'chol
-Phicol                  pns   FIY-kol                       Phi'col
-Philadelphia            pns   FIL-uh-DEL-fee-uh             Phil'a-del'phi-a
-Philemon                pns   fi-LEE-muhn                   Phi-le'mon
-Philetus                pns   fi-LEE-tuhs                   Phi-le'tus
-Philip                  pns   FIL-uhp                       Phil'ip
-Philippi                pns   fi-LIP-iy                    _Phi-lip'pi                    place
-Philippian              pns   fuh-LIP-ee-uhn                Phi-lip'pi-an
-Philippians             pnp   fuh-LIP-ee-uhnz               Phi-lip'pi-ans
-Philistia               pns   fi-LIS-tee-uh                 Phi-lis'ti-a
-Philistine              pns   fuh-LIS-tin                   Phi-lis'tine
-Philistines             pnp   fuh-LIS-tinz                  Phi-lis'tines
-Philologus              pns   fi-LOL-uh-guhs                Phi-lol'o-gus
-Phinees                 pns   FIN-ee-es                     Phin'e-es
-Phinehas                pns   FIN-ee-uhs                    Phin'e-has
-Phlegon                 pns   FLEE-gon                      Phle'gon
-Phoebe                  pns   FEE-bi                        Phoe'be
-Phoenicia               pns   fi-NISH-ee-uh                 Phoe-nic'i-a
-Phoenix                 pns   FEE-niks                      Phoe'nix
-Phrygia                 pns   FRIJ-ee-uh                    Phryg'i-a
-Phurah                  pns   FOO-ruh                       Phu'rah
-Phut                    pns   FUT                           Phut
-Phuvah                  pns   FOO-vuh                       Phu'vah
-Phygellus               pns   fi-JEL-uhs                    Phy-gel'lus
-Phygelus                pns   FIY-je-luhs                   Phy'ge-lus
-Pibeseth                pns   piy-BEE-seth                  Pi-be'seth
-Pi-beseth               pns   piy-BEE-seth                  Pi-be'seth
+Paarai                  pns   PAY-uh-riy                    Pa'a-rai                      person
+Padan                   pns   PAY-dun                       Pa'dan                        place
+Padanaram               pns   PAY-duhn-AY-ram               Pa'dan-a'ram                  place
+Padan-aram              pns   PAY-duhn-AY-ram               Pa'dan-a'ram                  place
+Padan_Aram              pns   PAY-duhn-AY-ram               Pa'dan_A'ram                  place
+Paddan                  pns   PAD-uhn                       Pad'dan                       place
+Paddanaram              pns   PAD-duhn-AY-ram               Pad'dan-a'ram                 place
+Paddan-aram             pns   PAY-duhn-AY-ram               Pad'dan-a'ram                 place
+Paddan_Aram             pns   PAY-duhn-AY-ram               Pad'dan_A'ram                 place
+Padon                   pns   PAY-don                       Pa'don                        person
+Pagiel                  pns   PAY-gee-el                    Pa'gi-el                      person
+Pahathmoab              pns   PAY-hath-MOH-ab               Pa'hath-mo'ab                 person
+Pahath-moab             pns   PAY-hath-MOH-ab               Pa'hath-mo'ab                 person
+Pai                     pns   PIY                           Pai                           place
+Palal                   pns   PAY-luhl                      Pa'lal                        person
+Palestina               pns   PAL-es-tiy-nuh                Pal'es-ti-na                  place
+Palestine               pns   PAL-es-tiyn                   Pal'es-tine                   place
+Pallu                   pns   PAL-yoo                       Pal'lu                        person
+Palluite                pns   PAL-yoo-iyt                   Pal'lu-ite                    ethnic
+Palluites               pnp   PAL-yoo-iyts                  Pal'lu-ites                   ethnic
+Palmyra                 pns   pal-MIY-ruh                   Pal-my'ra                     place
+Palti                   pns   PAL-tiy                       Pal'ti                        person
+Paltiel                 pns   PAL-tee-el                    Pal'ti-el                     person
+Paltite                 pns   PAL-tiyt                      Pal'tite                      ethnic
+Paltites                pnp   PAL-tiyts                     Pal'tites                     ethnic
+Pamphylia               pns   pam-FIL-ee-uh                 Pam-phyl'i-a                  place
+Paphos                  pns   PAY-fos                       Pa'phos                       place
+Parah                   pns   PAY-ruh                       Pa'rah                        place
+Paran                   pns   PAY-ruhn                      Pa'ran                        place
+Parbar                  pns   PAHR-bahr                     Par'bar                       place
+Parmashta               pns   pahr-MASH-tuh                 Par-mash'ta                   person
+Parmenas                pns   PAHR-mi-nas                   Par'me-nas                    person
+Parnach                 pns   PAHR-nak                      Par'nach                      person
+Parosh                  pns   PAY-rosh                      Pa'rosh                       person
+Parshandatha            pns   PAHR-shan-DAY-thuh            Par'shan-da'tha               person
+Parthian                pns   PAHR-thee-an                  Par'thi-an                    ethnic
+Parthians               pnp   PAHR-thee-anz                 Par'thi-ans                   ethnic
+Paruah                  pns   puh-ROO-uh                    Pa-ru'ah                      person
+Parvaim                 pns   pahr-VAY-im                   Par-va'im                     place
+Parzite                 pns   PAHR-ziyt                     Par'zite                      ethnic
+Parzites                pnp   PAHR-ziyts                    Par'zites                     ethnic
+Pasach                  pns   PAY-sak                       Pa'sach                       person
+Pasdammim               pns   PAS-DAM-im                    Pas'dam'mim                   place
+Pas-dammim              pns   PAS-DAM-im                    Pas'dam'mim                   place
+Pas_Dammim              pns   PAS-DAM-im                    Pas_Dam'mim                   place
+Paseah                  pns   puh-SEE-uh                    Pa-se'ah                      person
+Pashhur                 pns   PASH-huhr                     Pash'hur                      person
+Pashur                  pns   PASH-uhr                      Pash'ur                       person
+Passover                pns   PAS-OH-vuhr                   Pas'so'ver                    keeping
+Patara                  pns   PAT-uh-ruh                    Pat'a-ra                      place
+Pathros                 pns   PATH-ros                      Path'ros                      place
+Pathrus                 pns   PATH-roos                     Path'rus                      place
+Pathrusim               pnp   path-ROO-sim                  Path-roo'sim                  ethnic
+Pathrusims              pnp   path-ROO-sims                 Path-roo'sims                 ethnic
+Pathrusite              pns   path-ROO-siyt                 Path-roo'site                 ethnic
+Pathrusites             pnp   path-ROO-siyts                Path-roo'sites                ethnic
+Patmos                  pns   PAT-mos                       Pat'mos                       place
+Patrobas                pns   PAT-ruh-buhs                  Pat'ro-bas                    person
+Pau                     pns   PAY-yoo                       Pa'u                          place
+Paul                    pns   PAOL                          Paul                          person
+Paulus                  pns   PAO-luhs                      Pau'lus                       person
+Pe                      pns   PAY                           Pe                            writing
+Pedahel                 pns   PED-uh-hel                    Ped'a-hel                     person
+Pedahzur                pns   pi-DAH-zuhr                   Pe-dah'zur                    person
+Pedaiah                 pns   pi-DAY-yuh                    Pe-da'iah                     person
+Pekah                   pns   PEE-kah                       Pe'kah                        person
+Pekahiah                pns   PEK-uh-HIY-uh                 Pek'a-hi'ah                   person
+Pekod                   pns   PEE-kod                       Pe'kod                        place,ethnic
+Pelaiah                 pns   pi-LAY-yuh                    Pe-la'iah                     person
+Pelaliah                pns   PEL-uh-LIY-uh                 Pel'a-li'ah                   person
+Pelatiah                pns   PEL-uh-TIY-uh                 Pel'a-ti'ah                   person
+Peleg                   pns   PEE-leg                       Pe'leg                        person
+Pelet                   pns   PEE-let                       Pe'let                        person
+Peleth                  pns   PEE-leth                      Pe'leth                       person
+Pelethite               pns   PEL-i-thiyt                   Pel'e-thite                   ethnic
+Pelethites              pnp   PEL-i-thiyts                  Pel'e-thites                  ethnic
+Pella                   pns   PEL-uh                        Pel'la                        place
+Pelonite                pns   PEL-uh-niyt                   Pel'o-nite                    ethnic
+Pelonites               pnp   PEL-uh-niyts                  Pel'o-nites                   ethnic
+Pelusium                pns   pi-LOO-shee-uhm               Pe-lu'si-um                   place
+Peniel                  pns   pi-NIY-uhl                    Pe-ni'el                      person,place
+Peninnah                pns   pi-NIN-uh                     Pe-nin'nah                    person
+Pentecost               pns   PEN-ti-kost                   Pen'te-cost                   keeping
+Penuel                  pns   pi-NOO-uhl                    Pe-nu'el                      person,place
+Peor                    pns   PEE-ohr                       Pe'or                         place,deity
+Peraea                  pns   pi-REE-uh                     Pe-rae'a                      place
+Perazim                 pns   PER-uh-zim                    Per'a-zim                     place
+Perea                   pns   pe-REE-uh                     Pe-re'a                       place
+Peresh                  pns   PEE-resh                      Pe'resh                       person
+Perez                   pns   PEE-rez                       Pe'rez                        person
+Perezite                pns   PEE-rez-iyt                   Pe'rez-ite                    ethnic
+Perezites               pnp   PEE-rez-iyts                  Pe'rez-ites                   ethnic
+Perezuzza               pns   PEE-rez-UZ-uh                 Pe'rez-uz'za                  place
+Perez-uzza              pns   PEE-rez-UZ-uh                 Pe'rez-uz'za                  place
+Perez_Uzza              pns   PEE-rez-UZ-uh                 Pe'rez_Uz'za                  place
+Perezuzzah              pns   PEE-rez-UZ-uh                 Pe'rez-uz'zah                 place
+Perez-uzzah             pns   PEE-rez-UZ-uh                 Pe'rez-uz'zah                 place
+Perez_Uzzah             pns   PEE-rez-UZ-uh                 Pe'rez_Uz'zah                 place
+Perga                   pns   PUHR-guh                      Per'ga                        place
+Pergamos                pns   PUHR-guh-mos                  Per'ga-mos                    place
+Pergamum                pns   PUHR-guh-muhm                 Per'ga-mum                    place
+Perida                  pns   pi-RIY-duh                    Pe-ri'da                      person
+Perizzite               pns   PER-i-ziyt                    Per'iz-zite                   ethnic
+Perizzites              pnp   PER-i-ziyts                   Per'iz-zites                  ethnic
+Perseus                 pns   PUHR-soos                     Per'seus                      person
+Persia                  pns   PUHR-zhuh                     Per'sia                       place
+Persian                 pns   PUHR-zhuhn                    Per'sian                      ethnic
+Persians                pnp   PUHR-zhuhnz                   Per'sians                     ethnic
+Persis                  pns   PUHR-sis                      Per'sis                       person
+Peruda                  pns   pee-ROO-duh                   Pe-ru'da                      person
+Peter                   pns   PEE-tuhr                      Pe'ter                        person,writing
+Pethahiah               pns   PETH-uh-HIY-uh                Peth'a-hi'ah                  person
+Pethor                  pns   PEE-thohr                     Pe'thor                       place
+Pethuel                 pns   pi-THOO-uhl                   Pe-thu'el                     person
+Petra                   pns   PEE-truh                      Pe'tra                        place
+Peullethai              pns   pee-UL-i-thiy                 Pe-ul'le-thai                 person
+Peulthai                pns   pee-UL-thiy                   Pe-ul'thai                    person
+Phalec                  pns   FAY-lek                       Pha'lec                       person
+Phallu                  pns   FAL-OO                        Phal'lu                       person
+Phalti                  pns   FAL-tiy                       Phal'ti                       person
+Phaltiel                pns   FAL-tee-el                    Phal'tiel                     person
+Phanuel                 pns   fuh-NOO-el                    Pha-nu'el                     person
+Pharaoh                 pns   FEHR-uh                       Phar'aoh                      person
+Pharathon               pns   FAR-uh-thon                   Phar'a-thon                   place
+Phares                  pns   FAY-reez                      Pha'res                       person
+Pharez                  pns   FAY-reez                      Pha'rez                       person
+Pharosh                 pns   FAY-rosh                      Pha'rosh                      person
+Pharisee                pns   FAR-i-see                     Phas'i-see                    ethnic
+Pharisees               pnp   FAR-i-seez                    Phas'i-sees                   ethnic
+Pharosh                 pns   FAY-rosh                      Pha'rosh                      person
+Pharpar                 pns   FAHR-pahr                     Phar'par                      place
+Pharzite                pns   FAHR-zite                     Phar'zite                     ethnic
+Pharzites               pnp   FAHR-zites                    Phar'zites                    ethnic
+Phaseah                 pns   fuh-SEE-uh                    Pha-se'ah                     person
+Phaselis                pns   fuh-SEE-lis                   Pha-se'lis                    place
+Phasiron                pns   FAS-i-ron                     Phas'i-ron                    person
+Phebe                   pns   FEE-bi                        Phe'be                        person
+Phenice                 pns   fi-NIY-si                     Phe-ni'ce                     place
+Phenicia                pns   fi-NISH-ee-uh                 Phe-nic'i-a                   place
+Phibeseth               pns   fi-BEE-seth                   Phe-be'seth                   place
+Phichol                 pns   FIY-kol                       Phi'chol                      person
+Phicol                  pns   FIY-kol                       Phi'col                       person
+Philadelphia            pns   FIL-uh-DEL-fee-uh             Phil'a-del'phi-a              place
+Philemon                pns   fi-LEE-muhn                   Phi-le'mon                    person,writing
+Philetus                pns   fi-LEE-tuhs                   Phi-le'tus                    person
+Philip                  pns   FIL-uhp                       Phil'ip                       person
+Philippi                pns   fi-LIP-iy                     Phi-lip'pi                    place
+Philippian              pns   fuh-LIP-ee-uhn                Phi-lip'pi-an                 ethnic
+Philippians             pnp   fuh-LIP-ee-uhnz               Phi-lip'pi-ans                ethnic,writing
+Philistia               pns   fi-LIS-tee-uh                 Phi-lis'ti-a                  place
+Philistim               pnp   fi-LIS-tim                    Phi-lis'tim                   ethnic
+Philistims              pnp   fi-LIS-tims                   Phi-lis'tims                  ethnic
+Philistine              pns   fuh-LIS-tin                   Phi-lis'tine                  ethnic
+Philistines             pnp   fuh-LIS-tinz                  Phi-lis'tines                 ethnic
+Philologus              pns   fi-LOL-uh-guhs                Phi-lol'o-gus                 person
+Phinees                 pns   FIN-ee-es                     Phin'e-es                     person
+Phinehas                pns   FIN-ee-uhs                    Phin'e-has                    person
+Phlegon                 pns   FLEE-gon                      Phle'gon                      person
+Phoebe                  pns   FEE-bi                        Phoe'be                       person
+Phoenicia               pns   fi-NISH-ee-uh                 Phoe-nic'i-a                  place
+Phoenician              pns   fi-NISH-ee-uhn                Phoe-nic'i-uhn                ethnic
+Phoenicians             pnp   fi-NISH-ee-uhnz               Phoe-nic'i-uhns               ethnic
+Phoenix                 pns   FEE-niks                      Phoe'nix                      place
+Phrygia                 pns   FRIJ-ee-uh                    Phryg'i-a                     place
+Phurah                  pns   FOO-ruh                       Phu'rah                       person
+Phut                    pns   FUT                           Phut                          person
+Phuvah                  pns   FOO-vuh                       Phu'vah                       person
+Phygellus               pns   fi-JEL-uhs                    Phy-gel'lus                   person
+Phygelus                pns   FIY-je-luhs                   Phy'ge-lus                    person
+Pibeseth                pns   piy-BEE-seth                  Pi-be'seth                    place
+Pi-beseth               pns   piy-BEE-seth                  Pi-be'seth                    place
+Pi_Beseth               pns   piy-BEE-seth                  Pi_Be'seth                    place
 Pihahiroth              pns   PIY-huh-HIY-roth              Pi'ha-hi'roth                 place
 Pi-hahiroth             pns   PIY-huh-HIY-roth              Pi'ha-hi'roth                 place
 Pi_Hahiroth             pns   PIY-huh-HIY-roth              Pi_Ha-hi'roth                 place
-Pilate                  pns   PIY-luht                      Pi'late
-Pildash                 pns   PIL-dash                      Pil'dash
-Pileha                  pns   PIL-i-hah                     Pil'e-ha
-Pilha                   pns   PIL-hah                       Pil'ha
-Piltai                  pns   PIL-tiy                       Pil'tai
-Pinon                   pns   PIY-non                       Pi'non
-Piram                   pns   PIY-ruhm                      Pi'ram
-Pirathon                pns   PIR-uh-thon                   Pir'a-thon
-Pirathonite             pns   PIR-uh-thon-iyt               Pir'a-thon-ite
-Pirathonites            pnp   PIR-uh-thon-iyts              Pir'a-thon-ites
-Pisgah                  pns   PIZ-guh                       Pis'gah
-Pishon                  pns   PIY-shon                      Pi'shon
-Pisidia                 pns   pi-SID-ee-uh                  Pi-sid'i-a
-Pison                   pns   PIY-son                       Pi'son
-Pispa                   pns   PIS-pah                       Pis'pa
-Pispah                  pns   PIS-pah                       Pis'pah
-Pithom                  pns   PIY-thom                      Pi'thom
-Pithon                  pns   PIY-thon                      Pi'thon
-Pleiades                pns   PLEE-yuh-deez                 Ple'ia-des
-Pocherethhazzebaim      pns   POK-i-reth-HA-zi-BAY-im       Poch'e-reth-haz'ze-ba'im
-Pochereth-hazzebaim     pns   POK-i-reth-HA-zi-BAY-im       Poch'e-reth-haz'ze-ba'im
+Pilate                  pns   PIY-luht                      Pi'late                       person
+Pildash                 pns   PIL-dash                      Pil'dash                      person
+Pileha                  pns   PIL-i-hah                     Pil'e-ha                      person
+Pilha                   pns   PIL-hah                       Pil'ha                        person
+Piltai                  pns   PIL-tiy                       Pil'tai                       person
+Pinon                   pns   PIY-non                       Pi'non                        person
+Piram                   pns   PIY-ruhm                      Pi'ram                        person
+Pirathon                pns   PIR-uh-thon                   Pir'a-thon                    place
+Pirathonite             pns   PIR-uh-thon-iyt               Pir'a-thon-ite                ethnic
+Pirathonites            pnp   PIR-uh-thon-iyts              Pir'a-thon-ites               ethnic
+Pisgah                  pns   PIZ-guh                       Pis'gah                       place
+Pishon                  pns   PIY-shon                      Pi'shon                       place
+Pisidia                 pns   pi-SID-ee-uh                  Pi-sid'i-a                    place
+Pison                   pns   PIY-son                       Pi'son                        place
+Pispa                   pns   PIS-pah                       Pis'pa                        person
+Pispah                  pns   PIS-pah                       Pis'pah                       person
+Pithom                  pns   PIY-thom                      Pi'thom                       place
+Pithon                  pns   PIY-thon                      Pi'thon                       person
+Pleiades                pns   PLEE-yuh-deez                 Ple'ia-des                    astral
+Pochereth               pns   POK-i-reth                    Poch'e-reth                   person
+Pocherethhazzebaim      pns   POK-i-reth-HA-zi-BAY-im       Poch'e-reth-haz'ze-ba'im      person
+Pochereth-hazzebaim     pns   POK-i-reth-HA-zi-BAY-im       Poch'e-reth-haz'ze-ba'im      person
+Pokereth                pns   POK-i-reth                    Pok'e-reth                    person
+Pokerethhazzebaim       pns   POK-i-reth-HA-zi-BAY-im       Pok'e-reth-haz'ze-ba'im       person
+Pokereth-hazzebaim      pns   POK-i-reth-HA-zi-BAY-im       Pok'e-reth-haz'ze-ba'im       person
 Pollux                  pns   POL-uks                       Pol'lux                       deity
-Pontius                 pns   PON-shuhs                     Pon'tius
-Pontus                  pns   PON-tuhs                      Pon'tus
-Poratha                 pns   puh-RAY-thuh                  Po-ra'tha
+Pontius                 pns   PON-shuhs                     Pon'tius                      person
+Pontius_Pilate          pns   PON-shuhs-PIY-luht            Pon'tius_Pi'late              person
+Pontus                  pns   PON-tuhs                      Pon'tus                       place
+Poratha                 pns   puh-RAY-thuh                  Po-ra'tha                     person
 Porcius                 pns   POHR-shee-uhs                 Por'ci-us                     person
 Porcius_Festus          pns   POHR-shee-uhs-FES-tuhs        Por'ci-us_Fes'tus             person
-Potiphar                pns   POT-uh-fuhr                   Pot'i-phar
-Potiphera               pns   puh-TIF-uhr-uh                Po-tiph'er-a
-Potipherah              pns   puh-TIF-uhr-uh                Po-tiph'er-ah
-Praetor                 pns   PREE-tuhr                     Prae'tor
-Praetorium              pns   pri-TOH-ree-uhn               Prae-to'ri-um
-Prisca                  pns   PRIS-kuh                      Pris'ca
-Priscilla               pns   pri-SIL-uh                    Pris-cil'la
-Prochorus               pns   PROK-uh-ruhs                  Proch'o-rus
-Proconsul               pns   proh-KON-suhl                 Pro-con'sul
-Procurator              pns   PROK-yoo-RAY-tuhr             Proc'u-ra'tor
-Proselyte               pns   PROS-uh-liyt                  Pros'e-lyte
-Proselytes              pnp   PROS-uh-liyts                 Pros'e-lytes
-Proverbs                pnp   PROV-uhrbz                    Prov'erbs
-Psalms                  pnp   SAHMZ                         Psalms
-Ptolemais               pns   TOL-uh-MAY-is                 Ptol'e-ma'is
-Ptolemy                 pns   TOL-i-mi                      Ptol'e-my
-Pua                     pns   POO-uh                        Pu'a
-Puah                    pns   POO-uh                        Pu'ah
-Publius                 pns   PUB-lee-uhs                   Pub'li-us
-Pudens                  pns   POO-denz                      Pu'dens
-Puhite                  pns   POO-hiyt                      Pu'hite
-Puhites                 pnp   POO-hiyts                     Pu'hites
-Pul                     pns   PUL                           Pul
-Punite                  pns   POO-niyt                      Pu'nite
-Punites                 pnp   POO-niyts                     Pu'nites
-Punon                   pns   POO-non                       Pu'non
-Pur                     pns   POOR                          Pur
-Purah                   pns   POO-ruh                       Pu'rah
-Purim                   pns   PUU-rim                       Pu'rim
-Put                     pns   PUT                           Put
-Puteoli                 pns   poo-TEE-uh-liy                Pu-te'o-li
-Puthite                 pns   POO-thiyt                     Pu'thite
-Puthites                pnp   POO-thiyts                    Pu'thites
-Putiel                  pns   POO-tee-el                    Pu'ti-el
-Puvah                   pns   POO-vuh                       Pu'vah
-Pyrrhus                 pns   PIR-uhs                       Pyr'rhus
+Potiphar                pns   POT-uh-fuhr                   Pot'i-phar                    person
+Potiphera               pns   puh-TIF-uhr-uh                Po-tiph'er-a                  person
+Potipherah              pns   puh-TIF-uhr-uh                Po-tiph'er-ah                 person
+Praetor                 pns   PREE-tuhr                     Prae'tor                      title
+Praetorium              pns   pri-TOH-ree-uhn               Prae-to'ri-um                 place
+Pretorium               pns   pri-TOH-ree-uhn               Pre-to'ri-um                  place
+Prisca                  pns   PRIS-kuh                      Pris'ca                       person
+Priscilla               pns   pri-SIL-uh                    Pris-cil'la                   person
+Prochorus               pns   PROK-uh-ruhs                  Proch'o-rus                   person
+Proconsul               pns   proh-KON-suhl                 Pro-con'sul                   title
+Procorus                pns   PROK-uh-ruhs                  Proc'o-rus                    person
+Procurator              pns   PROK-yoo-RAY-tuhr             Proc'u-ra'tor                 title
+Proverbs                pnp   PROV-uhrbz                    Prov'erbs                     writing
+Psalms                  pnp   SAHMZ                         Psalms                        writing
+Ptolemais               pns   TOL-uh-MAY-is                 Ptol'e-ma'is                  place
+Ptolemy                 pns   TOL-i-mi                      Ptol'e-my                     title
+Pua                     pns   POO-uh                        Pu'a                          person
+Puah                    pns   POO-uh                        Pu'ah                         person
+Publius                 pns   PUB-lee-uhs                   Pub'li-us                     person
+Pudens                  pns   POO-denz                      Pu'dens                       person
+Puhite                  pns   POO-hiyt                      Pu'hite                       ethnic
+Puhites                 pnp   POO-hiyts                     Pu'hites                      ethnic
+Puite                   pns   POO-iyt                       Pu'ite                        persom
+Pul                     pns   PUL                           Pul                           person,place
+Punite                  pns   POO-niyt                      Pu'nite                       ethnic
+Punites                 pnp   POO-niyts                     Pu'nites                      ethnic
+Punon                   pns   POO-non                       Pu'non                        place
+Pur                     pns   POOR                          Pur                           doing
+Purah                   pns   POO-ruh                       Pu'rah                        person
+Purim                   pns   PUU-rim                       Pu'rim                        keeping
+Put                     pns   PUT                           Put                           person
+Puteoli                 pns   poo-TEE-uh-liy                Pu-te'o-li                    place
+Puthite                 pns   POO-thiyt                     Pu'thite                      ethnic
+Puthites                pnp   POO-thiyts                    Pu'thites                     ethnic
+Putiel                  pns   POO-tee-el                    Pu'ti-el                      person
+Puvah                   pns   POO-vuh                       Pu'vah                        person
+Puvvah                  pns   POO-vuh                       Puv'vah                       person
+Pyrrhus                 pns   PIR-uhs                       Pyr'rhus                      person
 
 Qoph                    pns   KOHF                          Qoph                          writing
-Quartus                 pns   KWOHR-tuhs                    Quar'tus
+Quartus                 pns   KWOHR-tuhs                    Quar'tus                      person
 Quirinius               pns   kwiy-RIN-ee-uhs               Qui-rin'i-us                  person
-Qumran                  pns   KUUM-rahn                     Qum'ran
+Qumran                  pns   KUUM-rahn                     Qum'ran                       place
 
-Raama                   pns   RAY-uh-mah                    Ra'a-ma
-Raamah                  pns   RAY-uh-mah                    Ra'a-mah
-Raamiah                 pns   RAY-uh-MIY-uh                 Ra'a-mi'ah
-Raamses                 pns   ray-AM-seez                   Ra-am'ses
-Rabbah                  pns   RAB-uh                        Rab'bah
-Rabbath                 pns   RAB-ath                       Rab'bath
-Rabbi                   pns   RAB-iy                        Rab'bi
-Rabbith                 pns   RAB-ith                       Rab'bith
-Rabboni                 pns   rah-BOH-niy                   Rab-bo'ni
-Rabmag                  pns   RAB-mag                       Rab'mag
-Rab-mag                 pns   RAB-mag                       Rab'mag
-Rabsaris                pns   RAB-suh-ris                   Rab'sa-ris
-Rab-saris               pns   RAB-suh-ris                   Rab'sa-ris
-Rabshakeh               pns   RAB-shuh-ke                   Rab'sha-keh
-Raca                    pns   ruh-KAH                       Ra-ca'
-Racal                   pns   RAY-kal                       Ra'cal
-Rachab                  pns   RAY-kab                       Ra'chab
-Rachal                  pns   RAY-kal                       Ra'chal    
-Rachel                  pns   RAY-chuhl                     Ra'chel
-Raddai                  pns   RAD-iy                        Rad'dai
-Ragau                   pns   RAY-gao                       Ra'gau
-Raguel                  pns   ruh-GOO-el                    Ra-gu'el
-Rahab                   pns   RAY-hab                       Ra'hab
-Raham                   pns   RAY-ham                       Ra'ham
-Rahel                   pns   RAY-hel                       Ra'hel
-Rakem                   pns   RAY-kem                       Ra'kem
-Rakkath                 pns   RAK-ath                       Rak'kath
-Rakkon                  pns   RAK-on                        Rak'kon
-Ram                     pns   RAM                           Ram
-Rama                    pns   RAY-muh                       Ra'ma
-Ramah                   pns   RAY-muh                       Ra'mah
-Ramath                  pns   RAY-math                      Ra'math
-Ramathaim               pns   RAY-muh-THAY-im               Ra'ma-tha'im
-Ramathaimzophim         pns   RAY-muh-THAY-im-ZOH-fim       Ra'ma-tha'im-zo'phim
-Ramathaim-zophim        pns   RAY-muh-THAY-im-ZOH-fim       Ra'ma-tha'im-zo'phim
-Ramathem                pns   RAM-uh-them                   Ram'a-them
-Ramathite               pns   RAY-math-iyt                  Ra'math-ite
-Ramathites              pnp   RAY-math-iyts                 Ra'math-ites
-Ramathlehi              pns   RAY-math-LEE-hiy              Ra'math-le'hi
-Ramath-lehi             pns   RAY-math-LEE-hiy              Ra'math-le'hi
-Ramathmizpeh            pns   RAY-math-MIZ-pe               Ra'math-miz'peh
-Ramath-mizpeh           pns   RAY-math-MIZ-pe               Ra'math-miz'peh
-Rameses                 pns   RAM-i-seez                    Ram'e-ses
-Ramiah                  pns   ruh-MIY-uh                    Ra-mi'ah
-Ramoth                  pns   RAY-moth                      Ra'moth
-Ramothgilead            pns   RAY-moth-GIL-ee-uhd           Ra'moth-gil'e-ad
-Ramoth-gilead           pns   RAY-moth-GIL-ee-uhd           Ra'moth-gil'e-ad
-Ramses                  pns   RAM-seez                      Ram'ses
-Rapha                   pns   RAY-fuh                       Ra'pha
-Raphael                 pns   RAY-fay-el                    Ra'pha-el
-Raphah                  pns   RAY-fuh                       Ra'phah
-Raphon                  pns   RAY-fon                       Ra'phon
-Raphu                   pns   RAY-foo                       Ra'phu
-Ras                     pns   RAHS                          Ras_
-Rathamin                pns   RATH-uh-min                   Rath'a-min
+Raama                   pns   RAY-uh-mah                    Ra'a-ma                       person
+Raamah                  pns   RAY-uh-mah                    Ra'a-mah                      person
+Raamiah                 pns   RAY-uh-MIY-uh                 Ra'a-mi'ah                    person
+Raamses                 pns   ray-AM-seez                   Ra-am'ses                     person,place
+Rabbah                  pns   RAB-uh                        Rab'bah                       place
+Rabbath                 pns   RAB-ath                       Rab'bath                      place
+Rabbi                   pns   RAB-iy                        Rab'bi                        title
+Rabbith                 pns   RAB-ith                       Rab'bith                      place
+Rabboni                 pns   rah-BOH-niy                   Rab-bo'ni                     title
+Rabmag                  pns   RAB-mag                       Rab'mag                       title
+Rab-mag                 pns   RAB-mag                       Rab'mag                       title
+Rabsaris                pns   RAB-suh-ris                   Rab'sa-ris                    person,title
+Rab-saris               pns   RAB-suh-ris                   Rab'sa-ris                    person,title
+Rabshakeh               pns   RAB-shuh-ke                   Rab'sha-keh                   person,title
+Racal                   pns   RAY-kal                       Ra'cal                        place
+Rachab                  pns   RAY-kab                       Ra'chab                       person
+Rachal                  pns   RAY-kal                       Ra'chal                       place
+Rachel                  pns   RAY-chuhl                     Ra'chel                       person
+Raddai                  pns   RAD-iy                        Rad'dai                       person
+Ragau                   pns   RAY-gao                       Ra'gau                        person
+Raguel                  pns   ruh-GOO-el                    Ra-gu'el                      person
+Rahab                   pns   RAY-hab                       Ra'hab                        person,place
+Raham                   pns   RAY-ham                       Ra'ham                        person
+Rahel                   pns   RAY-hel                       Ra'hel                        person
+Rakem                   pns   RAY-kem                       Ra'kem                        person
+Rakkath                 pns   RAK-ath                       Rak'kath                      place
+Rakkon                  pns   RAK-on                        Rak'kon                       place
+Ram                     pns   RAM                           Ram                           person
+Rama                    pns   RAY-muh                       Ra'ma                         place
+Ramah                   pns   RAY-muh                       Ra'mah                        place
+Ramath                  pns   RAY-math                      Ra'math                       place
+Ramathaim               pns   RAY-muh-THAY-im               Ra'ma-tha'im                  place
+Ramathaimzophim         pns   RAY-muh-THAY-im-ZOH-fim       Ra'ma-tha'im-zo'phim          place
+Ramathaim-zophim        pns   RAY-muh-THAY-im-ZOH-fim       Ra'ma-tha'im-zo'phim          place
+Ramathaim_Zophim        pns   RAY-muh-THAY-im-ZOH-fim       Ra'ma-tha'im_Zo'phim          place
+Ramathem                pns   RAM-uh-them                   Ram'a-them                    place
+Ramathite               pns   RAY-math-iyt                  Ra'math-ite                   ethnic
+Ramathites              pnp   RAY-math-iyts                 Ra'math-ites                  ethnic
+Ramathlehi              pns   RAY-math-LEE-hiy              Ra'math-le'hi                 place
+Ramath-lehi             pns   RAY-math-LEE-hiy              Ra'math-le'hi                 place
+Ramath_Lehi             pns   RAY-math-LEE-hiy              Ra'math_Le'hi                 place
+Ramathmizpah            pns   RAY-math-MIZ-pe               Ra'math-miz'pah               place
+Ramath-mizpah           pns   RAY-math-MIZ-pe               Ra'math-miz'pah               place
+Ramath_Mizpah           pns   RAY-math-MIZ-pe               Ra'math_Miz'pah               place
+Ramathmizpeh            pns   RAY-math-MIZ-pe               Ra'math-miz'peh               place
+Ramath-mizpeh           pns   RAY-math-MIZ-pe               Ra'math-miz'peh               place
+Ramath_Mizpeh           pns   RAY-math-MIZ-pe               Ra'math_Miz'peh               place
+Rameses                 pns   RAM-i-seez                    Ram'e-ses                     person,place
+Ramesses                pns   RAM-i-seez                    Ram'es-ses                    person,place
+Ramiah                  pns   ruh-MIY-uh                    Ra-mi'ah                      person
+Ramoth                  pns   RAY-moth                      Ra'moth                       person,place
+Ramothgilead            pns   RAY-moth-GIL-ee-uhd           Ra'moth-gil'e-ad              place
+Ramoth-gilead           pns   RAY-moth-GIL-ee-uhd           Ra'moth-gil'e-ad              place
+Ramoth_Gilead           pns   RAY-moth-GIL-ee-uhd           Ra'moth_Gil'e-ad              place
+Ramses                  pns   RAM-seez                      Ram'ses                       person,place
+Rapha                   pns   RAY-fuh                       Ra'pha                        person
+Raphael                 pns   RAY-fay-el                    Ra'pha-el                     angel,peron
+Raphah                  pns   RAY-fuh                       Ra'phah                       person
+Raphon                  pns   RAY-fon                       Ra'phon                       place
+Raphu                   pns   RAY-foo                       Ra'phu                        person
+Ras_Shamra              pns   RAHS-SHAHM-ruh                Ras_Sham'ra                   place
+Rathamin                pns   RATH-uh-min                   Rath'a-min                    place
 Reaia                   pns   ree-AY-yuh                    Re-a'ia                       person
 Reaiah                  pns   ree-AY-yuh                    Re-a'iah                      person
-Reba                    pns   REE-buh                       Re'ba
-Rebecca                 pns   ri-BEK-uh                     Re-bec'ca
-Rebekah                 pns   ri-BEK-uh                     Re-bek'ah
-Recah                   pns   REE-kuh                       Re'cah
-Rechab                  pns   REE-kab                       Re'chab
-Rechabite               pns   REK-uh-biyt                   Rech'ab-ite
-Rechabites              pnp   REK-uh-biyts                  Rech'ab-ites
-Rechah                  pns   REE-kuh                       Re'chah
-Reelaiah                pns   REE-el-AY-yuh                 Re'el-a'iah
-Regem                   pns   REE-gem                       Re'gem
-Regemmelech             pns   REE-gem-MEE-lek               Re'gem-me'lech
-Regem-melech            pns   REE-gem-MEE-lek               Re'gem-me'lech
-Rehabiah                pns   REE-huh-BIY-uh                Re'ha-bi'ah
-Rehob                   pns   REE-hob                       Re'hob
-Rehoboam                pns   REE-huh-BOH-am                Re'ho-bo'am
-Rehoboth                pns   ri-HOH-both                   Re-ho'both
-Rehobothir              pns   ri-HOH-both-ir                Re-ho'both-ir
-Rehoboth-ir             pns   ri-HOH-both-ir                Re-ho'both-ir
-Rehokim                 pns   ri-HOH-kim                   _Re-ho'kim
-Rehum                   pns   REE-hum                       Re'hum
-Rei                     pns   REE-iy                        Re'i
-Rekem                   pns   REE-kem                       Re'kem
-Remaliah                pns   REM-uh-LIY-uh                 Rem'a-li'ah
-Remeth                  pns   REE-meth                      Re'meth
-Remmon                  pns   REM-on                        Rem'mon
-Remmonmethoar           pns   REM-on-METH-oh-ahr            Rem'mon-meth'o-ar
-Remmon-methoar          pns   REM-on-METH-oh-ahr            Rem'mon-meth'o-ar
-Remphan                 pns   REM-fan                       Rem'phan
-Rephael                 pns   REE-fay-el                    Re'pha-el
-Rephah                  pns   REE-fuh                       Re'phah
-Rephaiah                pns   ri-FAY-yuh                    Re-pha'iah
-Rephaim                 pns   ref-AY-im                     Reph'a-im
-Rephaims                pns   ref-AY-imz                    Reph'a-ims
-Rephan                  pns   REE-fan                       Re'phan
-Rephidim                pns   REF-i-dim                     Reph'i-dim
-Resen                   pns   REE-sen                       Re'sen
-Resh                    pns   RESH                          Resh
-Resheph                 pns   REE-shef                      Re'sheph
-Reu                     pns   REE-oo                        Re'u
-Reuben                  pns   ROO-ben                       Reu'ben
-Reubenite               pns   ROO-ben-iyt                  *Reu'ben-ite 
-Reubenites              pnp   ROO-ben-iyts                 *Reu'ben-ites
-Reuel                   pns   ROO-el                        Reu'el
-Reumah                  pns   ROO-muh                       Reu'mah
-Revelation              pns   REV-e-LAY-shuhn               Rev'e-la'tion
-Rezeph                  pns   REE-zef                       Re'zeph
-Rezia                   pns   ri-ZIY-uh                     Re-zi'a
-Rezin                   pns   REE-zin                       Re'zin
-Rezon                   pns   REE-zuhn                      Re'zon
-Rhegium                 pns   REE-jee-uhm                   Rhe'gi-um
-Rhesa                   pns   REE-suh                       Rhe'sa
-Rhoda                   pns   ROH-duh                       Rho'da
-Rhodes                  pns   ROHDZ                         Rhodes
-Rhodus                  pns   ROH-duhs                      Rho'dus
-Ribai                   pns   RIY-biy                       Ri'bai
-Riblah                  pns   RIB-luh                       Rib'lah
-Rimmon                  pns   RIM-uhn                       Rim'mon
-Rimmono                 pns   RIM-oh-noh                    Rim'mo-no
-Rimmonparez             pns   RIM-uhn-PAY-reez              Rim'mon-pa'rez
-Rimmon-parez            pns   RIM-uhn-PAY-reez              Rim'mon-pa'rez
-Rimmonperez             pns   RIM-uhn-PEE-reez              Rim'mon-pe'rez
-Rimmon-perez            pns   RIM-uhn-PEE-reez              Rim'mon-pe'rez
-Rinnah                  pns   RIN-uh                        Rin'nah
-Riphath                 pns   RIY-fath                      Ri'phath                      ethnic
-Rissah                  pns   RIS-uh                        Ris'sah
-Rithmah                 pns   RITH-muh                      Rith'mah
-Rizia                   pns   ri-ZIY-uh                     Ri-zi'a
-Rizpah                  pns   RIZ-pah                       Riz'pah
-Roboam                  pns   ruh-BOH-uhm                   Ro-bo'am
+Reba                    pns   REE-buh                       Re'ba                         person
+Rebecca                 pns   ri-BEK-uh                     Re-bec'ca                     person
+Rebekah                 pns   ri-BEK-uh                     Re-bek'ah                     person
+Recab                   pns   REE-kab                       Re'cab                        person
+Recabite                pns   REK-uh-biyt                   Rec'ab-ite                    ethnic
+Recabites               pnp   REK-uh-biyts                  Rec'ab-ites                   ethnic
+Recah                   pns   REE-kuh                       Re'cah                        place
+Rechab                  pns   REE-kab                       Re'chab                       person
+Rechabite               pns   REK-uh-biyt                   Rech'ab-ite                   ethnic
+Rechabites              pnp   REK-uh-biyts                  Rech'ab-ites                  ethnic
+Rechah                  pns   REE-kuh                       Re'chah                       place
+Reelaiah                pns   REE-el-AY-yuh                 Re'el-a'iah                   person
+Regem                   pns   REE-gem                       Re'gem                        person
+Regemmelech             pns   REE-gem-MEE-lek               Re'gem-me'lech                person
+Regem-melech            pns   REE-gem-MEE-lek               Re'gem-me'lech                person
+Rehabiah                pns   REE-huh-BIY-uh                Re'ha-bi'ah                   person
+Rehob                   pns   REE-hob                       Re'hob                        person,place
+Rehoboam                pns   REE-huh-BOH-am                Re'ho-bo'am                   person
+Rehoboth                pns   ri-HOH-both                   Re-ho'both                    place
+Rehobothir              pns   ri-HOH-both-ir                Re-ho'both-ir                 place
+Rehoboth-ir             pns   ri-HOH-both-ir                Re-ho'both-ir                 place
+Rehoboth_Ir             pns   ri-HOH-both-ir                Re-ho'both_Ir                 place
+Rehum                   pns   REE-hum                       Re'hum                        person
+Rei                     pns   REE-iy                        Re'i                          person
+Rekem                   pns   REE-kem                       Re'kem                        person,place
+Remaliah                pns   REM-uh-LIY-uh                 Rem'a-li'ah                   person
+Remeth                  pns   REE-meth                      Re'meth                       place
+Remmon                  pns   REM-on                        Rem'mon                       place
+Remmonmethoar           pns   REM-on-METH-oh-ahr            Rem'mon-meth'o-ar             place
+Remmon-methoar          pns   REM-on-METH-oh-ahr            Rem'mon-meth'o-ar             place
+Remmon_Methoar          pns   REM-on-METH-oh-ahr            Rem'mon_Meth'o-ar             place
+Remphan                 pns   REM-fan                       Rem'phan                      deity
+Rephael                 pns   REE-fay-el                    Re'pha-el                     person
+Rephah                  pns   REE-fuh                       Re'phah                       person
+Rephaiah                pns   ri-FAY-yuh                    Re-pha'iah                    person
+Rephaim                 pnp   ref-AY-im                     Reph'a-im                     ethnic
+Rephaims                pnp   ref-AY-imz                    Reph'a-ims                    ethnic
+Rephaite                pns   ref-AY-iyt                    Reph'a-ite                    ethnic
+Rephaites               pnp   ref-AY-iyts                   Reph'a-ites                   ethnic
+Rephan                  pns   REE-fan                       Re'phan                       deity
+Rephidim                pns   REF-i-dim                     Reph'i-dim                    place
+Resen                   pns   REE-sen                       Re'sen                        place
+Resh                    pns   RESH                          Resh                          writing
+Resheph                 pns   REE-shef                      Re'sheph                      person,deity
+Reu                     pns   REE-oo                        Re'u                          person
+Reuben                  pns   ROO-ben                       Reu'ben                       person,place
+Reubenite               pns   ROO-ben-iyt                   Reu'ben-ite                   ethnic
+Reubenites              pnp   ROO-ben-iyts                  Reu'ben-ites                  ethnic
+Reuel                   pns   ROO-el                        Reu'el                        person
+Reumah                  pns   ROO-muh                       Reu'mah                       person
+Revelation              pns   REV-e-LAY-shuhn               Rev'e-la'tion                 writing
+Rezeph                  pns   REE-zef                       Re'zeph                       place
+Rezia                   pns   ri-ZIY-uh                     Re-zi'a                       person
+Rezin                   pns   REE-zin                       Re'zin                        person
+Rezon                   pns   REE-zuhn                      Re'zon                        person
+Rhegium                 pns   REE-jee-uhm                   Rhe'gi-um                     place
+Rhesa                   pns   REE-suh                       Rhe'sa                        person
+Rhoda                   pns   ROH-duh                       Rho'da                        person
+Rhodes                  pns   ROHDZ                         Rhodes                        place
+Rhodus                  pns   ROH-duhs                      Rho'dus                       place
+Ribai                   pns   RIY-biy                       Ri'bai                        person
+Riblah                  pns   RIB-luh                       Rib'lah                       place
+Rimmon                  pns   RIM-uhn                       Rim'mon                       person,place,deity
+Rimmono                 pns   RIM-oh-noh                    Rim'mo-no                     place
+Rimmonparez             pns   RIM-uhn-PAY-reez              Rim'mon-pa'rez                place
+Rimmon-parez            pns   RIM-uhn-PAY-reez              Rim'mon-pa'rez                place
+Rimmon_Parez            pns   RIM-uhn-PAY-reez              Rim'mon_Pa'rez                place
+Rimmonperez             pns   RIM-uhn-PEE-reez              Rim'mon-pe'rez                place
+Rimmon-perez            pns   RIM-uhn-PEE-reez              Rim'mon-pe'rez                place
+Rimmon_Perez            pns   RIM-uhn-PEE-reez              Rim'mon_Pe'rez                place
+Rinnah                  pns   RIN-uh                        Rin'nah                       place
+Riphath                 pns   RIY-fath                      Ri'phath                      person,ethnic
+Rissah                  pns   RIS-uh                        Ris'sah                       place
+Rithmah                 pns   RITH-muh                      Rith'mah                      place
+Rizia                   pns   ri-ZIY-uh                     Ri-zi'a                       person
+Rizpah                  pns   RIZ-pah                       Riz'pah                       person
+Roboam                  pns   ruh-BOH-uhm                   Ro-bo'am                      person
 Rodanim                 pnp   ROD-uh-nim                    Rod'a-nim                     ethnic
 Rodanims                pnp   ROD-uh-nimz                   Rod'a-nims                    ethnic
-Rogelim                 pns   ROH-gi-lim                    Ro'ge-lim
-Rohgah                  pns   ROH-guh                       Roh'gah
-Romamtiezer             pns   ruh-MAM-ti-EE-zuhr            Ro-mam'ti-e'zer
-Romamti-ezer            pns   ruh-MAM-ti-EE-zuhr            Ro-mam'ti-e'zer
-Roman                   pns   ROH-muhn                      Ro'man
-Romans                  pnp   ROH-muhnz                     Ro'mans
-Rome                    pns   ROHM                          Rome
-Rosh                    pns   ROSH                          Rosh
-Rufus                   pns   ROO-fuhs                      Ru'fus
-Ruhamah                 pns   roo-HAH-muh                   Ru-ha'mah
-Rumah                   pns   ROO-muh                       Ru'mah
-Ruth                    pns   ROOTH                         Ruth
+Rogelim                 pns   ROH-gi-lim                    Ro'ge-lim                     place
+Rohgah                  pns   ROH-guh                       Roh'gah                       person
+Romamtiezer             pns   ruh-MAM-ti-EE-zuhr            Ro-mam'ti-e'zer               person
+Romamti-ezer            pns   ruh-MAM-ti-EE-zuhr            Ro-mam'ti-e'zer               person
+Roman                   pns   ROH-muhn                      Ro'man                        ethnic
+Romans                  pnp   ROH-muhnz                     Ro'mans                       ethnic,writing
+Rome                    pns   ROHM                          Rome                          place
+Rompha                  pns   ROHM-fuh                      Rom'pha                       deity
+Rosh                    pns   ROSH                          Rosh                          person
+Rufus                   pns   ROO-fuhs                      Ru'fus                        person
+Ruhamah                 pns   roo-HAH-muh                   Ru-ha'mah                     title
+Rumah                   pns   ROO-muh                       Ru'mah                        place
+Ruth                    pns   ROOTH                         Ruth                          person,writing
 
 Sabaoth                 pns   SAB-ay-oth                    Sab'a-oth
 Sabat                   pns   SAY-bat                       Sa'bat
@@ -5350,7 +5392,7 @@ Tabrimmon               pns   TAB-rim-on                    Tab'rim-mon
 Tabrimon                pns   TAB-ri-mon                    Tab'ri-mon
 Tachmonite              pns   TAK-muh-niyt                  Tach'mo-nite
 Tachmonites             pnp   TAK-muh-niyts                 Tach'mo-nites
-Tadmor                  pns   TAD-mohr                      Tad'mor
+Tadmor                  pns   TAD-mohr                      Tad'mor                       place
 Tahan                   pns   TAY-huhn                      Ta'han
 Tahapanes               pns   tuh-HAP-uh-neez               Ta-hap'a-nes
 Tahash                  pns   TAY-hash                      Ta'hash
@@ -5533,7 +5575,7 @@ Tzade                   pns   tsah-DAY                      Tza-de'
 
 Ucal                    pns   OO-kal                        U'cal
 Uel                     pns   OO-el                         U'el
-Ugarit                  pns   OO-guh-rit                    U'ga-rit
+Ugarit                  pns   OO-guh-rit                    U'ga-rit                      place
 Uknaz                   pns   UK-naz                        Uk'naz
 Ulai                    pns   OO-liy                        U'lai
 Ulam                    pns   OO-lam                        U'lam
