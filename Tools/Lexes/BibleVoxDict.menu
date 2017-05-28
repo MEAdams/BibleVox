@@ -305,7 +305,8 @@ repents                 vrb   ri-PENTS                      re-pents'
 revile                  vrb   ri-VIYL                       re-vile'
 reviles                 vrb   ri-VIYLZ                      re-viles'
 
-sabachthani             nil   sah-BAHK-thah-niy             _sa-bach'tha-ni
+sabachthani             nil   sah-BAHK-thah-niy             sa-bach'tha-ni                saying
+sabach-thani            nil   sah-BAHK-thah-niy             sa-bach'tha-ni                saying
 sanctification          cns   SANGK-tuh-fi-KAY-shuhn        sanc'ti-fi-ca'tion
 sanctuary               cns   SANK-choo-EHR-i               sanc'tu-ar'y
 scourge                 cns   SKUHRJ                        scourge
@@ -638,10 +639,9 @@ Aiath                   pns   ay-IY-ath                     A-i'ath             
 Aija                    pns   ay-IY-juh                     A-i'ja                        place
 Aijah                   pns   ay-IY-juh                     A-i'jah                       place
 Aijalon                 pns   AY-juh-lon                    Ai'ja-lon                     place
-Aijeleth                pns   AY-juh-leth                   Ai'je-leth_                   music
-Aijaleth_Hashshahar     pns   AY-juh-leth-hash-SHAY-hahr    Ai'je-leth_Hash-sha'har       music
-Aijaleth_Hash-shahar    pns   AY-juh-leth-hash-SHAY-hahr    Ai'je-leth_Hash-sha'har       music
-Aijaleth_Shahar         pns   AY-juh-leth-SHAY-hahr         Ai'je-leth_Sha'har            music
+Aijeleth_Hashshahar     pns   AY-juh-leth-hash-SHAY-hahr    Ai'je-leth_Hash-sha'har       music
+Aijeleth_Hash-shahar    pns   AY-juh-leth-hash-SHAY-hahr    Ai'je-leth_Hash-sha'har       music
+Aijeleth_Shahar         pns   AY-juh-leth-SHAY-hahr         Ai'je-leth_Sha'har            music
 Ain                     pns   AH-een                        A'in                          place
 Ajah                    pns   AY-juh                        A'jah                         person
 Ajalon                  pns   AJ-uh-lon                     Aj'a-lon                      place
@@ -4890,299 +4890,308 @@ Ruhamah                 pns   roo-HAH-muh                   Ru-ha'mah           
 Rumah                   pns   ROO-muh                       Ru'mah                        place
 Ruth                    pns   ROOTH                         Ruth                          person,writing
 
-Sabaoth                 pns   SAB-ay-oth                    Sab'a-oth
-Sabat                   pns   SAY-bat                       Sa'bat
-Sabbath                 pns   SAB-uhth                      Sab'bath
-Sabean                  pns   suh-BEE-uhn                   Sa-be'an
-Sabeans                 pnp   suh-BEE-uhnz                  Sa-be'ans
-Sabta                   pns   SAB-tuh                       Sab'ta
-Sabtah                  pns   SAB-tuh                       Sab'tah
-Sabteca                 pns   SAB-ti-kuh                    Sab'te-ca
-Sabtecha                pns   SAB-ti-kuh                    Sab'te-cha
-Sabtechah               pns   SAB-ti-kuh                    Sab'te-chah
-Sacar                   pns   SAY-kahr                      Sa'car
-Sachar                  pns   SAY-kahr                      Sa'char
-Sachia                  pns   suh-KIY-uh                    Sa-chi'a
-Sadducee                pns   SAD-yoo-see                   Sad'u-cee
-Sadducees               pnp   SAD-yoo-seez                  Sad'u-cees
-Sadoc                   pns   SAY-dok                       Sa'doc
-Sahar                   pns   SAH-huhr                      Sa'har
-Sakkuth                 pns   SAK-kooth                     Sak'kuth
-Sala                    pns   SAY-luh                       Sa'la
-Salah                   pns   SAY-luh                       Sa'lah
-Salamis                 pns   SAL-uh-mis                    Sal'a-mis
-Salathiel               pns   suh-LAY-thee-el               Sa-la'thi-el
-Salcah                  pns   SAL-kuh                       Sal'cah
-Salchah                 pns   SAL-kuh                       Sal'chah
-Salecah                 pns   SAL-i-kuh                     Sal'e-cah
-Salem                   pns   SAY-lem                       Sa'lem
-Salim                   pns   SAY-lim                       Sa'lim
-Sallai                  pns   SAL-iy                        Sal'lai
-Sallu                   pns   SAL-oo                        Sal'lu
-Salma                   pns   SAL-muh                       Sal'ma
-Salmai                  pns   SAL-iy                        Sal'mai
-Salmon                  pns   SAL-muhn                      Sal'mon
-Salmone                 pns   sal-MOH-ni                    Sal-mo'ne
-Salom                   pns   SAY-lom                       Sa'lom
-Salome                  pns   suh-LOH-mi                    Sa-lo'me
-Salu                    pns   SAY-loo                       Sa'lu
-Samaria                 pns   suh-MEHR-ee-uh                Sa-mar'i-a
-Samaritan               pns   suh-MAR-i-tuhn                Sa-mar'i-tan
-Samaritans              pnp   suh-MAR-i-tuhnz               Sa-mar'i-tans
-Samech                  pns   SAH-mek                       Sa'mech
-Samekh                  pns   SAH-mek                       Sa'mekh
+Sabaean                 pns   suh-BEE-uhn                   Sa-bae'an                     ethnic
+Sabaeans                pnp   suh-BEE-uhnz                  Sa-bae'ans                    ethnic
+Sabaoth                 pns   SAB-ay-oth                    Sab'a-oth                     title
+Sabat                   pns   SAY-bat                       Sa'bat                        measure
+Sabbath                 pns   SAB-uhth                      Sab'bath                      keeping
+Sabean                  pns   suh-BEE-uhn                   Sa-be'an                      ethnic
+Sabeans                 pnp   suh-BEE-uhnz                  Sa-be'ans                     ethnic
+Sabta                   pns   SAB-tuh                       Sab'ta                        person
+Sabtah                  pns   SAB-tuh                       Sab'tah                       person
+Sabteca                 pns   SAB-ti-kuh                    Sab'te-ca                     person
+Sabtecha                pns   SAB-ti-kuh                    Sab'te-cha                    person
+Sabtechah               pns   SAB-ti-kuh                    Sab'te-chah                   person
+Sacar                   pns   SAY-kahr                      Sa'car                        person
+Sachar                  pns   SAY-kahr                      Sa'char                       person
+Sachia                  pns   suh-KIY-uh                    Sa-chi'a                      person
+Sadducee                pns   SAD-yoo-see                   Sad'du-cee                    ethnic
+Sadducees               pnp   SAD-yoo-seez                  Sad'du-cees                   ethnic
+Sadoc                   pns   SAY-dok                       Sa'doc                        person
+Sahar                   pns   SAH-huhr                      Sa'har                        place
+Sakia                   pns   suh-KIY-uh                    Sa-ki'a                       person
+Sakkuth                 pns   SAK-kooth                     Sak'kuth                      deity
+Sala                    pns   SAY-luh                       Sa'la                         person
+Salah                   pns   SAY-luh                       Sa'lah                        person
+Salamis                 pns   SAL-uh-mis                    Sal'a-mis                     place
+Salathiel               pns   suh-LAY-thee-el               Sa-la'thi-el                  person
+Salcah                  pns   SAL-kuh                       Sal'cah                       place
+Salchah                 pns   SAL-kuh                       Sal'chah                      place
+Salecah                 pns   SAL-i-kuh                     Sal'e-cah                     place
+Salem                   pns   SAY-lem                       Sa'lem                        place
+Salim                   pns   SAY-lim                       Sa'lim                        place
+Sallai                  pns   SAL-iy                        Sal'lai                       person
+Sallu                   pns   SAL-oo                        Sal'lu                        person
+Salma                   pns   SAL-muh                       Sal'ma                        person
+Salmai                  pns   SAL-iy                        Sal'mai                       person
+Salmon                  pns   SAL-muhn                      Sal'mon                       person,place
+Salmone                 pns   sal-MOH-ni                    Sal-mo'ne                     place
+Salom                   pns   SAY-lom                       Sa'lom                        person
+Salome                  pns   suh-LOH-mi                    Sa-lo'me                      person
+Salu                    pns   SAY-loo                       Sa'lu                         person
+Samaria                 pns   suh-MEHR-ee-uh                Sa-mar'i-a                    place
+Samaritan               pns   suh-MAR-i-tuhn                Sa-mar'i-tan                  ethnic
+Samaritans              pnp   suh-MAR-i-tuhnz               Sa-mar'i-tans                 ethnic
+Samech                  pns   SAH-mek                       Sa'mech                       writing
+Samekh                  pns   SAH-mek                       Sa'mekh                       writing
 Samgarnebo              pns   SAM-gahr-NEE-boh              Sam'gar-ne'bo                 person
 Samgar-nebo             pns   SAM-gahr-NEE-boh              Sam'gar-ne'bo                 person
-Samgarnebu              pns   SAM-gahr-NEE-boo             *Sam'gar-ne'bu
-Samgar-nebu             pns   SAM-gahr-NEE-boo             *Sam'gar-ne'bu
-Samlah                  pns   SAM-luh                       Sam'lah
-Samos                   pns   SAY-mos                       Sa'mos
-Samothrace              pns   SAM-uh-thrays                 Sam'o-thrace
-Samothracia             pns   SAM-uh-THRAY-shee-uh          Sam'o-thra'ci-a
-Sampsames               pns   SAMP-suh-meez                 Samp'sa-mes
-Samson                  pns   SAM-sn                        Sam'son
-Samuel                  pns   SAM-yoo-uhl                   Sam'u-el
-Sanballat               pns   san-BAL-uht                   San-bal'lat
-Sanhedrim               pns   SAN-hi-drim                   San'he-drim
-Sanhedrin               pns   SAN-hi-drin                   San'he-drin
-Sansannah               pns   san-SAN-uh                    San-san'nah
-Saph                    pns   SAF                           Saph
-Saphir                  pns   SAY-fuhr                      Sa'phir
-Sapphira                pns   suh-FIY-ruh                   Sap-phi'ra
-Sara                    pns   SEHR-uh                       Sar'a
-Sarah                   pns   SEHR-uh                       Sar'ah
-Sarai                   pns   SAY-riy                       Sa'rai
-Saramel                 pns   SAR-uh-mel                    Sar'a-mel
-Saraph                  pns   SAY-raf                       Sa'raph
-Sardis                  pns   SAHR-dis                      Sar'dis
-Sardite                 pns   SAHR-diyt                     Sar'dite
-Sardites                pnp   SAHR-diyts                    Sar'dites
-Sarepta                 pns   suh-REP-tuh                   Sa-rep'ta
-Sargon                  pns   SAHR-gon                      Sar'gon
-Sarid                   pns   SAY-rid                       Sa'rid
-Saron                   pns   SAY-ruhn                      Sa'ron
-Sarsechim               pns   SAHR-si-kim                   Sar'se-chim
-Saruch                  pns   SAY-ruhk                      Sa'ruch
-Satan                   pns   SAY-tuhn                      Sa'tan
-Saul                    pns   SAOL                          Saul
-Sceva                   pns   SEE-vuh                       Sce'va
-Scythian                pns   SITH-ee-uhn                   Scyth'i-an
-Seba                    pns   SEE-buh                       Se'ba
-Sebam                   pns   SEE-bam                       Se'bam
-Sebat                   pns   suh-BAHT                      Se-bat'
-Secacah                 pns   si-KAY-kuh                    Se-ca'cah
-Sechu                   pns   SEE-koo                       Se'chu
-Secu                    pns   SEE-koo                       Se'cu
-Secundus                pns   si-KUN-duhs                   Se-cun'dus
-Seer                    pns   SEER                          Se'er
-Segub                   pns   SEE-gub                       Se'gub
-Seir                    pns   SEE-ir                        Se'ir
-Seirah                  pns   see-IY-ruh                    Se-i'rah
-Seirath                 pns   see-IY-rath                   Se-i'rath
-Sela                    pns   SEE-luh                       Se'la
-Selah                   pns   SEE-luh                       Se'lah
-Selahammahlekoth        pns   SEE-luh-huh-MAH-li-koth       Se'la-ham-mah'le-koth
-Sela-hammahlekoth       pns   SEE-luh-huh-MAH-li-koth       Se'la-ham-mah'le-koth
-Seled                   pns   SEE-led                       Se'led
-Seleucia                pns   si-LOO-shee-uh                Se-leu'ci-a
-Seleucus                pns   si-LOO-kuhs                   Se-leu'cus
-Sem                     pns   SEM                           Sem
-Semachiah               pns   SEM-uh-KIY-uh                 Sem'a-chi'ah
-Semei                   pns   SEM-ee-iy                     Sem'e-i
-Semein                  pns   SEM-ee-in                     Sem'e-in
-Semitic                 pns   si-MIT-ik                     Se-mit'ic
-Senaah                  pns   si-NAY-uh                     Se-na'ah                      person
-Seneh                   pns   SEE-ne                        Se'neh
-Senir                   pns   SEE-nir                       Se'nir
-Sennacherib             pns   suh-NAK-uhr-ib                Sen-nach'er-ib
+Samgarnebu              pns   SAM-gahr-NEE-boo              Sam'gar-ne'bu                 person
+Samgar-nebu             pns   SAM-gahr-NEE-boo              Sam'gar-ne'bu                 person
+Samlah                  pns   SAM-luh                       Sam'lah                       person
+Samos                   pns   SAY-mos                       Sa'mos                        place
+Samothrace              pns   SAM-uh-thrays                 Sam'o-thrace                  place
+Samothracia             pns   SAM-uh-THRAY-shee-uh          Sam'o-thra'ci-a               place
+Sampsames               pns   SAMP-suh-meez                 Samp'sa-mes                   place
+Samson                  pns   SAM-sn                        Sam'son                       person
+Samuel                  pns   SAM-yoo-uhl                   Sam'u-el                      person,writing
+Sanballat               pns   san-BAL-uht                   San-bal'lat                   person
+Sanhedrim               pns   SAN-hi-drim                   San'he-drim                   ethnic
+Sanhedrin               pns   SAN-hi-drin                   San'he-drin                   ethnic
+Sansannah               pns   san-SAN-uh                    San-san'nah                   place
+Saph                    pns   SAF                           Saph                          person
+Saphir                  pns   SAY-fuhr                      Sa'phir                       place
+Sapphira                pns   suh-FIY-ruh                   Sap-phi'ra                    person
+Sara                    pns   SEHR-uh                       Sar'a                         person
+Sarah                   pns   SEHR-uh                       Sar'ah                        person
+Sarai                   pns   SAY-riy                       Sa'rai                        person
+Saramel                 pns   SAR-uh-mel                    Sar'a-mel                     person,place
+Saraph                  pns   SAY-raf                       Sa'raph                       person
+Sardis                  pns   SAHR-dis                      Sar'dis                       place
+Sardite                 pns   SAHR-diyt                     Sar'dite                      ethnic
+Sardites                pnp   SAHR-diyts                    Sar'dites                     ethnic
+Sarepta                 pns   suh-REP-tuh                   Sa-rep'ta                     place
+Sargon                  pns   SAHR-gon                      Sar'gon                       person
+Sarid                   pns   SAY-rid                       Sa'rid                        place
+Saron                   pns   SAY-ruhn                      Sa'ron                        place
+Sarsechim               pns   SAHR-si-kim                   Sar'se-chim                   person
+Sarsekim                pns   SAHR-si-kim                   Sar'se-kim                    person
+Saruch                  pns   SAY-ruhk                      Sa'ruch                       person,place
+Satan                   pns   SAY-tuhn                      Sa'tan                        demon
+Saul                    pns   SAOL                          Saul                          person
+Sceva                   pns   SEE-vuh                       Sce'va                        person
+Scythian                pns   SITH-ee-uhn                   Scyth'i-an                    ethnic
+Scythians               pnp   SITH-ee-uhnz                  Scyth'i-ans                   ethnic
+Seba                    pns   SEE-buh                       Se'ba                         person,ethnic
+Sebam                   pns   SEE-bam                       Se'bam                        place
+Sebat                   pns   suh-BAHT                      Se-bat'                       measure
+Secacah                 pns   si-KAY-kuh                    Se-ca'cah                     place
+Sechu                   pns   SEE-koo                       Se'chu                        place
+Secu                    pns   SEE-koo                       Se'cu                         place
+Secundus                pns   si-KUN-duhs                   Se-cun'dus                    person
+Segub                   pns   SEE-gub                       Se'gub                        person
+Seir                    pns   SEE-ir                        Se'ir                         person,place
+Seirah                  pns   see-IY-ruh                    Se-i'rah                      place
+Seirath                 pns   see-IY-rath                   Se-i'rath                     place
+Sela                    pns   SEE-luh                       Se'la                         place
+Selah                   pns   SEE-luh                       Se'lah                        place
+Selahammahlekoth        pns   SEE-luh-huh-MAH-li-koth       Se'la-ham-mah'le-koth         place
+Sela-hammahlekoth       pns   SEE-luh-huh-MAH-li-koth       Se'la-ham-mah'le-koth         place
+Sela_Hammahlekoth       pns   SEE-luh-huh-MAH-li-koth       Se'la_Ham-mah'le-koth         place
+Seled                   pns   SEE-led                       Se'led                        person
+Seleucia                pns   si-LOO-shee-uh                Se-leu'ci-a                   place
+Seleucus                pns   si-LOO-kuhs                   Se-leu'cus                    person
+Sem                     pns   SEM                           Sem                           person
+Semachiah               pns   SEM-uh-KIY-uh                 Sem'a-chi'ah                  person
+Semakiah                pns   SEM-uh-KIY-uh                 Sem'a-ki'ah                   person
+Semei                   pns   SEM-ee-iy                     Sem'e-i                       person
+Semein                  pns   SEM-ee-in                     Sem'e-in                      person
+Semitic                 pns   si-MIT-ik                     Se-mit'ic                     ethnic
+Senaah                  pns   si-NAY-uh                     Se-na'ah                      person,place
+Seneh                   pns   SEE-ne                        Se'neh                        place
+Senir                   pns   SEE-nir                       Se'nir                        place
+Sennacherib             pns   suh-NAK-uhr-ib                Sen-nach'er-ib                person
 Senuah                  pns   si-NOO-uh                     Se-nu'ah                      person
-Seorim                  pns   see-OH-rim                    Se-o'rim
-Sephar                  pns   SEE-fahr                      Se'phar
-Sepharad                pns   si-FAY-rad                    Se-pha'rad
-Sepharvaim              pns   SEF-ahr-VAY-im                Seph'ar-va'im
-Sepharvite              pns   SEE-fahr-viyt                 Se'phar-vite
-Sepharvites             pnp   SEE-fahr-viyts                Se'phar-vites
-Sephela                 pns   si-FEE-luh                    Se-phe'la
-Serah                   pns   SEE-ruh                       Se'rah
-Seraiah                 pns   si-RAY-yuh                    Se-ra'iah
-Seraphim                pns   SER-uh-fim                    Ser'a'phim
-Seraphims               pnp   SER-uh-fimz                   Ser'a'phims
-Sered                   pns   SEE-red                       Se'red
-Seredite                pns   SEE-ri-diyt                  *Se're-dite
-Seredites               pnp   SEE-ri-diyts                 *Se're-dites
-Sergius                 pns   SUHR-jee-uhs                  Ser'gi-us_
-Seron                   pns   SEE-ron                       Se'ron
-Serug                   pns   SEE-rug                       Se'rug
-Seth                    pns   SETH                          Seth
-Sethur                  pns   SEE-thuhr                     Se'thur
+Seorim                  pns   see-OH-rim                    Se-o'rim                      person
+Sephar                  pns   SEE-fahr                      Se'phar                       place
+Sepharad                pns   si-FAY-rad                    Se-pha'rad                    place
+Sepharvaim              pns   SEF-ahr-VAY-im                Seph'ar-va'im                 place
+Sepharvite              pns   SEE-fahr-viyt                 Se'phar-vite                  ethnic
+Sepharvites             pnp   SEE-fahr-viyts                Se'phar-vites                 ethnic
+Sephela                 pns   si-FEE-luh                    Se-phe'la                     place
+Serah                   pns   SEE-ruh                       Se'rah                        person
+Seraiah                 pns   si-RAY-yuh                    Se-ra'iah                     person
+Seraphim                pns   SER-uh-fim                    Ser'a'phim                    ethnic
+Seraphims               pnp   SER-uh-fimz                   Ser'a'phims                   ethnic
+Seraph                  pns   SER-uhfs                      Ser'aph                       ethnic
+Seraphs                 pnp   SER-uhfs                      Ser'aphs                      ethnic
+Sered                   pns   SEE-red                       Se'red                        person
+Seredite                pns   SEE-ri-diyt                   Se're-dite                    ethnic
+Seredites               pnp   SEE-ri-diyts                  Se're-dites                   ethnic
+Sergius                 pns   SUHR-jee-uhs                  Ser'gi-us                     person
+Sergius_Paulus          pns   SUHR-jee-uhs-PAO-luhs         Ser'gi-us_Pau'lus             person
+Seron                   pns   SEE-ron                       Se'ron                        person
+Serug                   pns   SEE-rug                       Se'rug                        person,place
+Seth                    pns   SETH                          Seth                          person
+Sethur                  pns   SEE-thuhr                     Se'thur                       person
 Seveneh                 pns   si-VEE-ne                     Se-ve'neh                     place
-Shaalabbin              pns   SHAY-uh-LAB-in                Sha'a-lab'bin
-Shaalbim                pns   shay-AL-bim                   Sha-al'bim
-Shaalbon                pns   shay-AL-buhn                  Sha-al'bon
-Shaalbonite             pns   shay-AL-buh-niyt              Sha-al'bo-nite
-Shaalbonites            pnp   shay-AL-buh-niyts             Sha-al'bo-nites
-Shaalim                 pns   SHAY-uh-lim                   Sha'a-lim
-Shaaph                  pns   SHAY-af                       Sha'aph
-Shaaraim                pns   SHAY-uh-RAY-im                Sha'a-ra'im
-Shaashgaz               pns   shay-ASH-gaz                  Sha-ash'gaz
-Shabbethai              pns   SHAB-i-thiy                   Shab'be-thai
-Shachia                 pns   shuh-KIY-uh                   Sha-chi'a
-Shaddai                 pns   SHAD-iy                      *Shad-dai
-Shadrach                pns   SHAY-drak                     Sha'drach
-Shage                   pns   SHAY-gee                      Sha'ge
-Shagee                  pns   SHAY-gee                      Sha'gee
-Shahar                  pns   SHAY-hahr                    _Sha'har                       music
-Shaharaim               pns   SHAY-huh-RAY-im               Sha'ha-ra'im
-Shahazimah              pns   SHAY-huh-ZIY-muh              Sha'ha-zi'mah
-Shahazumah              pns   SHAY-huh-ZOO-muh              Sha'ha-zu'mah
-Shalem                  pns   SHAY-lem                      Sha'lem
-Shalim                  pns   SHAY-lim                      Sha'lim
-Shalisha                pns   shuh-LIY-shuh                 Sha-li'sha
-Shalishah               pns   shuh-LIY-shuh                 Sha-li'shah
-Shallecheth             pns   SHAL-i-keth                   Shal'le-cheth
-Shallum                 pns   SHAL-uhm                      Shal'lum
-Shallun                 pns   SHAL-uhn                      Shal'lun
-Shalmai                 pns   SHAL-miy                      Shal'mai
-Shalman                 pns   SHAL-muhn                     Shal'man
-Shalmaneser             pns   SHAL-muhn-EE-zuhr             Shal'man-e'ser
-Shama                   pns   SHAY-muh                      Sha'ma
-Shamariah               pns   SHAM-uh-RIY-uh                Sham'a-ri'ah
-Shamed                  pns   SHAY-med                      Sha'med
-Shamer                  pns   SHAY-muhr                     Sha'mer
-Shamgar                 pns   SHAM-gahr                     Sham'gar
-Shamhuth                pns   SHAM-huth                     Sham'huth
-Shamir                  pns   SHAY-muhr                     Sha'mir
-Shamlai                 pns   SHAM-liy                      Sham'lai
-Shamma                  pns   SHAM-ah                       Sham'ma
-Shammah                 pns   SHAM-uh                       Sham'mah
-Shammai                 pns   SHAM-iy                       Sham'mai
-Shammoth                pns   SHAM-oth                      Sham'moth
-Shammua                 pns   sha-MOO-uh                    Sham-mu'a
-Shammuah                pns   sha-MOO-uh                    Sham-mu'ah
-Shamra                  pns   SHAHM-ruh                    _Shamra
-Shamsherai              pns   SHAM-shi-riy                  Sham'she-rai
-Shapham                 pns   SHAY-fuhm                     Sha'pham
-Shaphan                 pns   SHAY-fuhn                     Sha'phan
-Shaphat                 pns   SHAY-fat                      Sha'phat
-Shapher                 pns   SHAY-fuhr                     Sha'pher
-Shaphir                 pns   SHAY-fuhr                     Sha'phir
-Sharai                  pns   SHAY-riy                      Sha'rai
-Sharaim                 pns   shuh-RAY-im                   Sha-ra'im
-Sharar                  pns   SHAY-ruhr                     Sha'rar
-Sharezer                pns   shuh-REE-zuhr                 Sha-re'zer
-Sharon                  pns   SHAR-uhn                      Shar'on
-Sharonite               pns   SHAR-uhn-iyt                  Shar'on-ite
-Sharonites              pnp   SHAR-uhn-iyts                 Shar'on-ites
-Sharuhen                pns   shuh-ROO-hen                  Sha-ru'hen
-Shashai                 pns   SHAY-shiy                     Sha'shai
-Shashak                 pns   SHAY-shak                     Sha'shak
-Shaul                   pns   SHAY-ul                       Sha'ul
-Shaulite                pns   SHAY-uhl-it                   Shal'ul-ite
-Shaulites               pnp   SHAY-uhl-its                  Shal'ul-ites
-Shaveh                  pns   SHAY-ve                       Sha'veh
-Shavehkiriathaim        pns   SHAY-ve-KIR-yuh-THAY-im       Sha'veh-kir'ia-tha'im
-Shaveh-kiriathaim       pns   SHAY-ve-KIR-yuh-THAY-im       Sha'veh-kir'ia-tha'im
-Shavsha                 pns   SHAV-shuh                     Shav'sha
-Sheal                   pns   SHEE-uhl                      She'al
-Shealtiel               pns   shee-AL-tee-el                She-al'ti-el
-Sheariah                pns   SHEE-uh-RIY-uh                She'a-ri'ah
-Shearjashub             pns   SHEE-ahr-JAH-shub             She'ar-ja'shub
-Shear-jashub            pns   SHEE-ahr-JAH-shub             She'ar-ja'shub
-Sheba                   pns   SHEE-buh                      She'ba
-Shebah                  pns   SHEE-buh                      She'bah
-Shebam                  pns   SHEE-bam                      She'bam
-Shebaniah               pns   SHEB-uh-NIY-uh                Sheb'a-ni'ah
-Shebarim                pns   SHEB-uh-rim                   Sheb'a-rim
-Shebat                  pns   shuh-BAHT                     She-bat'
-Sheber                  pns   SHEE-buhr                     She'ber
-Shebna                  pns   SHEB-nuh                      Sheb'na
-Shebnah                 pns   SHEB-nuh                      Sheb'nah
-Shebuel                 pns   shi-BOO-el                    She-bu'el
-Shecaniah               pns   SHEK-uh-NIY-uh                Shec'a-ni'ah
-Shechaniah              pns   SHEK-uh-NIY-uh                Shech'a-ni'ah
-Shechem                 pns   SHEE-kem                      She'chem
-Shechemite              pns   SHEE-kem-iyt                  She'chem-ite
-Shechemites             pnp   SHEE-kem-iyts                 She'chem-ites
-Shedeur                 pns   SHED-ee-uhr                   Shed'e-ur
-Sheerah                 pns   SHEE-i-ruh                    She'e-rah
-Shehariah               pns   SHEE-huh-RIY-uh               She'ha-ri'ah
-Shekinah                pns   shi-KIY-nuh                   She-ki'nah
-Shelah                  pns   SHEE-luh                      She'lah
-Shelanite               pns   SHEE-luhn-iyt                 She'lan-ite
-Shelanites              pnp   SHEE-luhn-iyts                She'lan-ites
-Shelemiah               pns   SHEL-i-MIY-uh                 Shel'e-mi'ah
-Sheleph                 pns   SHEE-lef                      She'leph
-Shelesh                 pns   SHEE-lesh                     She'lesh
-Shelomi                 pns   shi-LOH-miy                   She-lo'mi
-Shelomith               pns   shi-LOH-mith                  She-lo'mith
-Shelomoth               pns   shi-LOH-moth                  She-lo'moth
-Shelumiel               pns   shi-LOO-mee-el                She-lu'mi-el
-Shem                    pns   SHEM                          Shem
-Shema                   pns   SHEE-muh                      She'ma
-Shemaah                 pns   shi-MAY-uh                    She-ma'ah
-Shemaiah                pns   shi-MAY-yuh                   She-ma'iah
-Shemariah               pns   SHEM-uh-RIY-uh                Shem'a-ri'ah
-Shemeber                pns   shem-EE-buhr                  Shem-e'ber
-Shemed                  pns   SHEE-med                      She'med
-Shemer                  pns   SHEE-muhr                     She'mer
-Shemida                 pns   shi-MIY-duh                   She-mi'da
-Shemidah                pns   shi-MIY-duh                   She-mi'dah
-Shemidaite              pns   shi-MIY-diyt                  She-mi'daite
-Shemidaites             pnp   shi-MIY-diyts                 She-mi'daites
-Shemiramoth             pns   shi-MIR-uh-moth               She-mir'a-moth
-Shemitic                pns   Shem-IT-ik                    Shem-it'ic
-Shemuel                 pns   shi-MOO-el                    She-mu'el
-Shen                    pns   SHEN                          Shen
-Shenazar                pns   shi-NAY-zahr                  She-na'zar
-Shenazzar               pns   shi-NAZ-ahr                   She-naz'zar
-Shenir                  pns   SHEE-nuhr                     She'nir
-Sheol                   pns   SHEE-ohl                      She'ol
-Shepham                 pns   SHEE-fam                      She'pham
-Shephathiah             pns   SHEF-uh-THIY-uh               Sheph'a-thi'ah
-Shephatiah              pns   SHEF-uh-TIY-uh                Sheph'a-ti'ah
-Shephelah               pns   she-FEE-luh                   She-phe'lah
-Shepher                 pns   SHEE-fuhr                     She'pher
-Shephi                  pns   SHEE-fiy                      She'phi
-Shepho                  pns   SHEE-foh                      She'pho
-Shephupham              pns   shi-FOO-fam                   She-phu'pham
-Shephuphan              pns   shi-FOO-fan                   She-phu'phan
-Sherah                  pns   SHEE-ruh                      She'rah
-Sherebiah               pns   SHER-i-BIY-uh                 Sher'e-bi'ah
-Sheresh                 pns   SHEE-resh                     She'resh
-Sherezer                pns   shi-REE-zuhr                  She-re'zer
-Sheshach                pns   SHEE-shak                     She'shach
-Sheshai                 pns   SHEE-shiy                     She'shai
-Sheshan                 pns   SHEE-shan                     She'shan
-Sheshbazzar             pns   shesh-BAZ-uhr                 Shesh-baz'zar
-Sheth                   pns   SHETH                         Sheth
-Shethar                 pns   SHEE-thahr                    She'thar
-Shetharbozenai          pns   SHEE-thahr-BOZ-i-niy          She'thar-boz'e-nai
-Shethar-bozenai         pns   SHEE-thahr-BOZ-i-niy          She'thar-boz'e-nai
-Shetharboznai           pns   SHEE-thahr-BOZ-niy            She'thar-boz'nai
-Shethar-boznai          pns   SHEE-thahr-BOZ-niy            She'thar-boz'nai
-Sheva                   pns   SHEE-vuh                      She'va
-Shibah                  pns   SHIY-buh                      Shi'bah
-Shibboleth              pns   SHIB-uh-leth                  Shib'bo-leth
-Shibmah                 pns   SHIB-muh                      Shib'mah
-Shicron                 pns   SHIK-ron                      Shic'ron
-Shiggaion               pns   shi-GAY-yon                   Shig-ga'ion
-Shigionoth              pns   SHIG-ee-OH-noth               Shig'i-o'noth
-Shihon                  pns   SHIY-hon                      Shi'hon
-Shihor                  pns   SHIY-hohr                     Shi'hor
-Shihorlibnath           pns   SHIY-hohr-LIB-nath            Shi'hor-lib'nath
-Shihor-libnath          pns   SHIY-hohr-LIB-nath            Shi'hor-lib'nath
-Shikkeron               pns   SHIK-i-ron                    Shik'ke-ron
-Shilhi                  pns   SHIL-hiy                      Shil'hi
-Shilhim                 pns   SHIL-him                      Shil'him
-Shillem                 pns   SHIL-em                       Shil'lem
-Shillemite              pns   SHIL-em-iyt                   Shil'lem-ite
-Shillemites             pnp   SHIL-em-iyts                  Shil'lem-ites
-Shiloah                 pns   shi-LOH-uh                    Shi-lo'ah
-Shiloh                  pns   SHIY-loh                      Shi'loh
-Shiloni                 pns   shi-LOH-niy                   Shi-lo'ni
-Shilonite               pns   SHIY-luh-niyt                 Shi'lo-nite
-Shilonites              pnp   SHIY-luh-niyts                Shi'lo-nites
-Shilshah                pns   SHIL-shah                     Shil'shah
+Shaalabbin              pns   SHAY-uh-LAB-in                Sha'a-lab'bin                 place
+Shaalbim                pns   shay-AL-bim                   Sha-al'bim                    place
+Shaalbon                pns   shay-AL-buhn                  Sha-al'bon                    place
+Shaalbonite             pns   shay-AL-buh-niyt              Sha-al'bo-nite                ethnic
+Shaalbonites            pnp   shay-AL-buh-niyts             Sha-al'bo-nites               ethnic
+Shaalim                 pns   SHAY-uh-lim                   Sha'a-lim                     place
+Shaaph                  pns   SHAY-af                       Sha'aph                       person
+Shaaraim                pns   SHAY-uh-RAY-im                Sha'a-ra'im                   place
+Shaashgaz               pns   shay-ASH-gaz                  Sha-ash'gaz                   person
+Shabbethai              pns   SHAB-i-thiy                   Shab'be-thai                  person
+Shachia                 pns   shuh-KIY-uh                   Sha-chi'a                     person
+Shadrach                pns   SHAY-drak                     Sha'drach                     person
+Shage                   pns   SHAY-gee                      Sha'ge                        person
+Shagee                  pns   SHAY-gee                      Sha'gee                       person
+Shaharaim               pns   SHAY-huh-RAY-im               Sha'ha-ra'im                  person
+Shahazimah              pns   SHAY-huh-ZIY-muh              Sha'ha-zi'mah                 place
+Shahazumah              pns   SHAY-huh-ZOO-muh              Sha'ha-zu'mah                 place
+Shalem                  pns   SHAY-lem                      Sha'lem                       place
+Shalim                  pns   SHAY-lim                      Sha'lim                       place
+Shalisha                pns   shuh-LIY-shuh                 Sha-li'sha                    place
+Shalishah               pns   shuh-LIY-shuh                 Sha-li'shah                   place
+Shallecheth             pns   SHAL-i-keth                   Shal'le-cheth                 place
+Shalleketh              pns   SHAL-i-keth                   Shal'le-keth                  place
+Shallum                 pns   SHAL-uhm                      Shal'lum                      person
+Shallun                 pns   SHAL-uhn                      Shal'lun                      person
+Shalmai                 pns   SHAL-miy                      Shal'mai                      person
+Shalman                 pns   SHAL-muhn                     Shal'man                      person
+Shalmaneser             pns   SHAL-muhn-EE-zuhr             Shal'man-e'ser                person
+Shama                   pns   SHAY-muh                      Sha'ma                        person
+Shamariah               pns   SHAM-uh-RIY-uh                Sham'a-ri'ah                  person
+Shamed                  pns   SHAY-med                      Sha'med                       person
+Shamer                  pns   SHAY-muhr                     Sha'mer                       person
+Shamgar                 pns   SHAM-gahr                     Sham'gar                      person
+Shamhuth                pns   SHAM-huth                     Sham'huth                     person
+Shamir                  pns   SHAY-muhr                     Sha'mir                       person,place
+Shamlai                 pns   SHAM-liy                      Sham'lai                      person
+Shamma                  pns   SHAM-ah                       Sham'ma                       person
+Shammah                 pns   SHAM-uh                       Sham'mah                      person
+Shammai                 pns   SHAM-iy                       Sham'mai                      person
+Shammoth                pns   SHAM-oth                      Sham'moth                     person
+Shammua                 pns   sha-MOO-uh                    Sham-mu'a                     person
+Shammuah                pns   sha-MOO-uh                    Sham-mu'ah                    person
+Shamsherai              pns   SHAM-shi-riy                  Sham'she-rai                  person
+Shapham                 pns   SHAY-fuhm                     Sha'pham                      person
+Shaphan                 pns   SHAY-fuhn                     Sha'phan                      person
+Shaphat                 pns   SHAY-fat                      Sha'phat                      person
+Shapher                 pns   SHAY-fuhr                     Sha'pher                      place
+Shaphir                 pns   SHAY-fuhr                     Sha'phir                      place
+Sharai                  pns   SHAY-riy                      Sha'rai                       person
+Sharaim                 pns   shuh-RAY-im                   Sha-ra'im                     place
+Sharar                  pns   SHAY-ruhr                     Sha'rar                       person
+Sharezer                pns   shuh-REE-zuhr                 Sha-re'zer                    person
+Sharon                  pns   SHAR-uhn                      Shar'on                       place
+Sharonite               pns   SHAR-uhn-iyt                  Shar'on-ite                   ethnic
+Sharonites              pnp   SHAR-uhn-iyts                 Shar'on-ites                  ethnic
+Sharuhen                pns   shuh-ROO-hen                  Sha-ru'hen                    place
+Shashai                 pns   SHAY-shiy                     Sha'shai                      person
+Shashak                 pns   SHAY-shak                     Sha'shak                      person
+Shaul                   pns   SHAY-ul                       Sha'ul                        person
+Shaulite                pns   SHAY-ul-iyt                   Sha'ul-ite                    ethnic
+Shaulites               pnp   SHAY-ul-iyts                  Sha'ul-ites                   ethnic
+Shaveh                  pns   SHAY-ve                       Sha'veh                       place
+Shavehkiriathaim        pns   SHAY-ve-KIR-yuh-THAY-im       Sha'veh-kir'ia-tha'im         place
+Shaveh-kiriathaim       pns   SHAY-ve-KIR-yuh-THAY-im       Sha'veh-kir'ia-tha'im         place
+Shaveh_Kiriathaim       pns   SHAY-ve-KIR-yuh-THAY-im       Sha'veh_Kir'ia-tha'im         place
+Shavsha                 pns   SHAV-shuh                     Shav'sha                      person
+Sheal                   pns   SHEE-uhl                      She'al                        person
+Shealtiel               pns   shee-AL-tee-el                She-al'ti-el                  person
+Sheariah                pns   SHEE-uh-RIY-uh                She'a-ri'ah                   person
+Shearjashub             pns   SHEE-ahr-JAH-shub             She'ar-ja'shub                person
+Shear-jashub            pns   SHEE-ahr-JAH-shub             She'ar-ja'shub                person
+Sheba                   pns   SHEE-buh                      She'ba                        person
+Shebah                  pns   SHEE-buh                      She'bah                       place
+Shebam                  pns   SHEE-bam                      She'bam                       place
+Shebaniah               pns   SHEB-uh-NIY-uh                Sheb'a-ni'ah                  person
+Shebarim                pns   SHEB-uh-rim                   Sheb'a-rim                    place
+Shebat                  pns   shuh-BAHT                     She-bat'                      measure
+Sheber                  pns   SHEE-buhr                     She'ber                       person
+Shebna                  pns   SHEB-nuh                      Sheb'na                       person
+Shebnah                 pns   SHEB-nuh                      Sheb'nah                      person
+Shebuel                 pns   shi-BOO-el                    She-bu'el                     person
+Shecaniah               pns   SHEK-uh-NIY-uh                Shec'a-ni'ah                  person
+Shechaniah              pns   SHEK-uh-NIY-uh                Shech'a-ni'ah                 person
+Shechem                 pns   SHEE-kem                      She'chem                      place
+Shechemite              pns   SHEE-kem-iyt                  She'chem-ite                  ethnic
+Shechemites             pnp   SHEE-kem-iyts                 She'chem-ites                 ethnic
+Shedeur                 pns   SHED-ee-uhr                   Shed'e-ur                     person
+Sheerah                 pns   SHEE-i-ruh                    She'e-rah                     person
+Shehariah               pns   SHEE-huh-RIY-uh               She'ha-ri'ah                  person
+Shelah                  pns   SHEE-luh                      She'lah                       person
+Shelanite               pns   SHEE-luhn-iyt                 She'lan-ite                   ethnic
+Shelanites              pnp   SHEE-luhn-iyts                She'lan-ites                  ethnic
+Shelemiah               pns   SHEL-i-MIY-uh                 Shel'e-mi'ah                  person
+Sheleph                 pns   SHEE-lef                      She'leph                      person
+Shelesh                 pns   SHEE-lesh                     She'lesh                      person
+Shelomi                 pns   shi-LOH-miy                   She-lo'mi                     person
+Shelomith               pns   shi-LOH-mith                  She-lo'mith                   person
+Shelomoth               pns   shi-LOH-moth                  She-lo'moth                   person
+Shelumiel               pns   shi-LOO-mee-el                She-lu'mi-el                  person
+Shem                    pns   SHEM                          Shem                          person
+Shema                   pns   SHEE-muh                      She'ma                        person,place
+Shemaah                 pns   shi-MAY-uh                    She-ma'ah                     person
+Shemaiah                pns   shi-MAY-yuh                   She-ma'iah                    person
+Shemariah               pns   SHEM-uh-RIY-uh                Shem'a-ri'ah                  person
+Shemeber                pns   shem-EE-buhr                  Shem-e'ber                    person
+Shemed                  pns   SHEE-med                      She'med                       person
+Shemer                  pns   SHEE-muhr                     She'mer                       person
+Shemida                 pns   shi-MIY-duh                   She-mi'da                     person
+Shemidah                pns   shi-MIY-duh                   She-mi'dah                    person
+Shemidaite              pns   shi-MIY-diyt                  She-mi'daite                  ethnic
+Shemidaites             pnp   shi-MIY-diyts                 She-mi'daites                 ethnic
+Shemiramoth             pns   shi-MIR-uh-moth               She-mir'a-moth                person
+Shemitic                pns   Shem-IT-ik                    Shem-it'ic                    ethnic
+Shemuel                 pns   shi-MOO-el                    She-mu'el                     person
+Shen                    pns   SHEN                          Shen                          place
+Shenazar                pns   shi-NAY-zahr                  She-na'zar                    person
+Shenazzar               pns   shi-NAZ-ahr                   She-naz'zar                   person
+Shenir                  pns   SHEE-nuhr                     She'nir                       place
+Sheol                   pns   SHEE-ohl                      She'ol                        place
+Shepham                 pns   SHEE-fam                      She'pham                      place
+Shephathiah             pns   SHEF-uh-THIY-uh               Sheph'a-thi'ah                person
+Shephatiah              pns   SHEF-uh-TIY-uh                Sheph'a-ti'ah                 person
+Shephelah               pns   she-FEE-luh                   She-phe'lah                   place
+Shepher                 pns   SHEE-fuhr                     She'pher                      place
+Shephi                  pns   SHEE-fiy                      She'phi                       person
+Shepho                  pns   SHEE-foh                      She'pho                       person
+Shephupham              pns   shi-FOO-fam                   She-phu'pham                  person
+Shephuphan              pns   shi-FOO-fan                   She-phu'phan                  person
+Sherah                  pns   SHEE-ruh                      She'rah                       person
+Sherebiah               pns   SHER-i-BIY-uh                 Sher'e-bi'ah                  person
+Sheresh                 pns   SHEE-resh                     She'resh                      person
+Sherezer                pns   shi-REE-zuhr                  She-re'zer                    person
+Sheshach                pns   SHEE-shak                     She'shach                     place
+Sheshak                 pns   SHEE-shak                     She'shak                      place
+Sheshai                 pns   SHEE-shiy                     She'shai                      person
+Sheshan                 pns   SHEE-shan                     She'shan                      person
+Sheshbazzar             pns   shesh-BAZ-uhr                 Shesh-baz'zar                 person
+Sheth                   pns   SHETH                         Sheth                         person
+Shethar                 pns   SHEE-thahr                    She'thar                      person
+Shetharbozenai          pns   SHEE-thahr-BOZ-i-niy          She'thar-boz'e-nai            person
+Shethar-bozenai         pns   SHEE-thahr-BOZ-i-niy          She'thar-boz'e-nai            person
+Shetharboznai           pns   SHEE-thahr-BOZ-niy            She'thar-boz'nai              person
+Shethar-boznai          pns   SHEE-thahr-BOZ-niy            She'thar-boz'nai              person
+Sheva                   pns   SHEE-vuh                      She'va                        person
+Shibah                  pns   SHIY-buh                      Shi'bah                       place
+Shibboleth              pns   SHIB-uh-leth                  Shib'bo-leth                  ethnic
+Shibmah                 pns   SHIB-muh                      Shib'mah                      place
+Shicron                 pns   SHIK-ron                      Shic'ron                      place
+Shiggaion               pns   shi-GAY-yon                   Shig-ga'ion                   music
+Shigionoth              pns   SHIG-ee-OH-noth               Shig'i-o'noth                 music
+Shihon                  pns   SHIY-hon                      Shi'hon                       place
+Shihor                  pns   SHIY-hohr                     Shi'hor                       place
+Shihorlibnath           pns   SHIY-hohr-LIB-nath            Shi'hor-lib'nath              place
+Shihor-libnath          pns   SHIY-hohr-LIB-nath            Shi'hor-lib'nath              place
+Shihor_Libnath          pns   SHIY-hohr-LIB-nath            Shi'hor_Lib'nath              place
+Shikkeron               pns   SHIK-i-ron                    Shik'ke-ron                   place
+Shilhi                  pns   SHIL-hiy                      Shil'hi                       person
+Shilhim                 pns   SHIL-him                      Shil'him                      place
+Shillem                 pns   SHIL-em                       Shil'lem                      person
+Shillemite              pns   SHIL-em-iyt                   Shil'lem-ite                  ethnic
+Shillemites             pnp   SHIL-em-iyts                  Shil'lem-ites                 ethnic
+Shiloah                 pns   shi-LOH-uh                    Shi-lo'ah                     place
+Shiloh                  pns   SHIY-loh                      Shi'loh                       person,place
+Shiloni                 pns   shi-LOH-niy                   Shi-lo'ni                     person,ethnic
+Shilonite               pns   SHIY-luh-niyt                 Shi'lo-nite                   ethnic
+Shilonites              pnp   SHIY-luh-niyts                Shi'lo-nites                  ethnic
+Shilshah                pns   SHIL-shah                     Shil'shah                     
 Shimea                  pns   SHIM-ee-uh                    Shim'e-a
 Shimeah                 pns   SHIM-ee-uh                    Shim'e-ah
 Shimeam                 pns   SHIM-ee-am                    Shim'e-am
@@ -5210,13 +5219,13 @@ Shimshai                pns   SHIM-shiy                     Shim'shai
 Shin                    pns   SHEEN                         Shin
 Shinab                  pns   SHIY-nab                      Shi'nab
 Shinar                  pns   SHIY-nahr                     Shi'nar
-Shion                   pns   SHIY-on                       Shi'on
+Shion                   pns   SHIY-on                       Shi'on                        place
 Shiphi                  pns   SHIY-fiy                      Shi'phi
 Shiphmite               pns   SHIF-miyt                     Shiph'mite
 Shiphmites              pnp   SHIF-miyts                    Shiph'mites
 Shiphrah                pns   SHIF-ruh                      Shiph'rah
 Shiphtan                pns   SHIF-tuhn                     Shiph'tan
-Shisha                  pns   SHIY-shuh                     Shi'sha
+Shisha                  pns   SHIY-shuh                     Shi'sha                       person
 Shishak                 pns   SHIY-shak                     Shi'shak
 Shitrai                 pns   SHIT-riy                      Shit'rai
 Shittim                 pns   SHIT-im                       Shit'tim
@@ -5276,10 +5285,10 @@ Siaha                   pns   SIY-uh-huh                    Si'a-ha
 Sibbecai                pns   SIB-i-kiy                     Sib'be-cai
 Sibbechai               pns   SIB-i-kiy                     Sib'be-chai
 Sibboleth               pns   SIB-uh-leth                   Sib'bo-leth
-Sibmah                  pns   SIB-muh                       Sib'mah
+Sibmah                  pns   SIB-muh                       Sib'mah                       place
 Sibraim                 pns   sib-RAY-im                    Sib-ra'im
 Siccuth                 pns   SI-kooth                      Sic'cuth
-Sichem                  pns   SIY-kem                       Si'chem
+Sichem                  pns   SIY-kem                       Si'chem                       place
 Sicyon                  pns   SISH-ee-on                    Sic'y-on
 Siddim                  pns   SID-im                        Sid'dim
 Side                    pns   SIY-dee                       Si'de
@@ -5287,7 +5296,7 @@ Sidon                   pns   SIY-duhn                      Si'don
 Sidonian                pns   siy-DOH-nee-uhn               Si-do'ni-an
 Sidonians               pnp   siy-DOH-nee-uhnz              Si-do'ni-ans
 Sihon                   pns   SIY-hon                       Si'hon
-Sihor                   pns   SIY-hohr                      Si'hor
+Sihor                   pns   SIY-hohr                      Si'hor                        place
 Sikkuth                 pns   SIK-uth                      *Sik'kuth
 Silas                   pns   SIY-luhs                      Si'las
 Silla                   pns   SIL-uh                        Sil'la
@@ -5364,7 +5373,7 @@ Susanchites             pnp   syoo-SAN-kiyts                Su-san'chites
 Susanna                 pns   syoo-ZAN-uh                   Su-san'na
 Susi                    pns   SOO-siy                       Su'si
 Sychar                  pns   SIY-kahr                      Sy'char
-Sychem                  pns   SIY-kem                       Sy'chem
+Sychem                  pns   SIY-kem                       Sy'chem                       place
 Syene                   pns   siy-EE-nee                    Sy-e'ne                       place
 Symeon                  pns   SIM-ee-uhn                    Sym'e-on
 Syntyche                pns   SIN-ti-kee                    Syn'ty-che
@@ -5653,7 +5662,7 @@ Zaccur                  pns   ZAK-uhr                       Zac'cur
 Zachariah               pns   ZAK-uh-RIY-uh                 Zach'a-ri'ah
 Zacharias               pns   ZAK-uh-RIY-uhs                Zach'a-ri'as
 Zacher                  pns   ZAY-kuhr                      Za'cher
-Zadok                   pns   ZAY-dok                       Za'dok
+Zadok                   pns   ZAY-dok                       Za'dok                        person
 Zaham                   pns   ZAY-ham                       Za'ham
 Zain                    pns   ZAH-in                        Za'in
 Zair                    pns   ZAY-ir                        Za'ir
@@ -5677,7 +5686,7 @@ Zareah                  pns   ZAY-ree-uh                    Za're-ah
 Zareathite              pns   ZAY-ree-uhth-iyt              Za're-ath-ite
 Zareathites             pnp   ZAY-ree-uhth-iyts             Za're-ath-ites
 Zared                   pns   ZAY-red                       Za'red
-Zarephath               pns   ZAR-i-fath                    Zar'e-phath
+Zarephath               pns   ZAR-i-fath                    Zar'e-phath                   place
 Zaretan                 pns   ZAR-i-tan                     Zar'e-tan
 Zarethan                pns   ZAR-i-than                    Zar'e-than
 Zarethshahar            pns   ZA-reth-SHAY-hahr             Za'reth-sha'har
