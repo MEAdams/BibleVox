@@ -11,10 +11,10 @@
 # 0x27 --> 0x2E 0x80 0x99
 sed s/"'"/"’"/g | \
 
-# Pipe to hyphen encoding filter
-# 0x2D --> 0x2E 0x80 0x93
-sed s/"-"/"–"/g | \
-
 # Pipe to wide hyphen encoding filter
 # 0x2D 0x2D --> 0x2E 0x80 0x94
-sed s/"--"/"—"/g
+sed s/"--"/"—"/g | \
+
+# Pipe to hyphen encoding filter
+# 0x2D --> 0x2E 0x80 0x93
+sed s/"-"/"–"/g
