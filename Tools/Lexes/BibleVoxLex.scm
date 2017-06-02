@@ -10013,6 +10013,10 @@
 (lex.add.entry 
  '("Shimi" nnp (((sh ih m) 1) ((ay) 0))) )
 (lex.add.entry 
+ '("Shimite" nnp (((sh ih m) 1) ((ay t) 0))) )
+(lex.add.entry 
+ '("Shimites" nnps (((sh ih m) 1) ((ay t s) 0))) )
+(lex.add.entry 
  '("Shimma" nnp (((sh ih m) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Shimon" nnp (((sh ay) 1) ((m aa n) 0))) )
@@ -10035,6 +10039,8 @@
 (lex.add.entry 
  '("Shimron-meron" nnp (((sh ih m) 1) ((r aa n) 0) ((m iy) 1) ((r aa n) 0))) )
 (lex.add.entry 
+ '("Shimron_Meron" nnp (((sh ih m) 1) ((r aa n) 0) ((m iy) 1) ((r aa n) 0))) )
+(lex.add.entry 
  '("Shimshai" nnp (((sh ih m) 1) ((sh ay) 0))) )
 (lex.add.entry 
  '("Shin" nnp (((sh iy n) 1))) )
@@ -10054,6 +10060,8 @@
  '("Shiphrah" nnp (((sh ih f) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Shiphtan" nnp (((sh ih f) 1) ((t ax n) 0))) )
+(lex.add.entry 
+ '("Shipphi" nnp (((sh ih p) 1) ((f ay) 0))) )
 (lex.add.entry 
  '("Shisha" nnp (((sh ay) 1) ((sh ax) 0))) )
 (lex.add.entry 
@@ -10107,6 +10115,10 @@
 (lex.add.entry 
  '("Shuham" nnp (((sh uw) 1) ((hh ae m) 0))) )
 (lex.add.entry 
+ '("Shuhamite" nnp (((sh uw) 1) ((hh ax m) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Shuhamites" nnps (((sh uw) 1) ((hh ax m) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Shuhite" nnp (((sh uw) 1) ((hh ay t) 0))) )
 (lex.add.entry 
  '("Shuhites" nnps (((sh uw) 1) ((hh ay t s) 0))) )
@@ -10135,13 +10147,17 @@
 (lex.add.entry 
  '("Shunites" nnps (((sh uw) 1) ((n ay t s) 0))) )
 (lex.add.entry 
- '("Shupham" nnp (((sh uw) 1) ((f ae m) 0))) )
+ '("Shupham" nnps (((sh uw) 1) ((f ae m) 0))) )
 (lex.add.entry 
  '("Shuphamite" nnp (((sh uw) 1) ((f ae m) 0) ((ay t) 0))) )
 (lex.add.entry 
  '("Shuphamites" nnps (((sh uw) 1) ((f ae m) 0) ((ay t s) 0))) )
 (lex.add.entry 
  '("Shuppim" nnp (((sh ah p) 1) ((ih m) 0))) )
+(lex.add.entry 
+ '("Shuppite" nnp (((sh ah p) 1) ((ay t) 0))) )
+(lex.add.entry 
+ '("Shuppites" nnps (((sh ah p) 1) ((ay t s) 0))) )
 (lex.add.entry 
  '("Shur" nnp (((sh uw r) 1))) )
 (lex.add.entry 
@@ -10154,6 +10170,8 @@
  '("Shushaneduth" nnp (((sh uw) 1) ((sh ae n) 0) ((iy) 1) ((d ah th) 0))) )
 (lex.add.entry 
  '("Shushan-eduth" nnp (((sh uw) 1) ((sh ae n) 0) ((iy) 1) ((d ah th) 0))) )
+(lex.add.entry 
+ '("Shushan_Eduth" nnp (((sh uw) 1) ((sh ae n) 0) ((iy) 1) ((d ah th) 0))) )
 (lex.add.entry 
  '("Shuthalhite" nnp (((sh uw) 1) ((th ax l) 0) ((hh ay t) 0))) )
 (lex.add.entry 
@@ -10199,7 +10217,7 @@
 (lex.add.entry 
  '("Sihor" nnp (((s ay) 1) ((hh ao r) 0))) )
 (lex.add.entry 
- '("Sikkuth" nnp (((s ih k) 1) ((ah th) 0))) )
+ '("Sikkuth" nnp (((s ih) 1) ((k uw th) 0))) )
 (lex.add.entry 
  '("Silas" nnp (((s ay) 1) ((l ax s) 0))) )
 (lex.add.entry 
@@ -10215,9 +10233,15 @@
 (lex.add.entry 
  '("Simeon" nnp (((s ih m) 1) ((iy) 0) ((ax n) 0))) )
 (lex.add.entry 
+ '("Simeonite" nnp (((s ih m) 1) ((iy) 0) ((ax n) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Simeonites" nnps (((s ih m) 1) ((iy) 0) ((ax n) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Simon" nnp (((s ay) 1) ((m ax n) 0))) )
 (lex.add.entry 
  '("Simri" nnp (((s ih m) 1) ((r ay) 0))) )
+(lex.add.entry 
+ '("Sin" nnp (((s ih n) 1))) )
 (lex.add.entry 
  '("Sina" nnp (((s ay) 1) ((n ax) 0))) )
 (lex.add.entry 
@@ -10252,6 +10276,8 @@
  '("Sitnah" nnp (((s ih t) 1) ((n ax) 0))) )
 (lex.add.entry 
  '("Sivan" nnp (((s ih) 0) ((v aa n) 1))) )
+(lex.add.entry 
+ '("Siyon" nnp (((s ay) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Smyrna" nnp (((s m er) 1) ((n ax) 0))) )
 (lex.add.entry 
@@ -10326,6 +10352,10 @@
  '("Sukkiim" nnp (((s ah k) 1) ((iy) 0) ((ih m) 0))) )
 (lex.add.entry 
  '("Sukkiims" nnps (((s ah k) 1) ((iy) 0) ((ih m z) 0))) )
+(lex.add.entry 
+ '("Sukkite" nnp (((s ah k) 1) ((ay t) 0))) )
+(lex.add.entry 
+ '("Sukkites" nnps (((s ah k) 1) ((ay t s) 0))) )
 (lex.add.entry 
  '("Sumer" nnp (((s uw) 1) ((m er) 0))) )
 (lex.add.entry 
