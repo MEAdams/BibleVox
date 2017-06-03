@@ -398,6 +398,9 @@ gittith                 cns   GIT-ith                       git'tith            
 maranatha               cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
 maran-atha              cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
 
+tekel                   cns   TE-kil                        te'kel                        measure
+tetrarch                cns   TET-rahrk                     tet'rarch                     title
+
 raca                    cns   ruh-KAH                       ra-ca'                        saying
 
 ###########################
@@ -5402,202 +5405,226 @@ Syrophoenician          pns   SIY-ruh-fi-NISH-uhn           Sy'ro-phoe-ni'cian  
 Syrophoenicians         pnp   SIY-ruh-fi-NISH-uhnz          Sy'ro-phoe-ni'cians           ethnic
 Syrtis                  pns   SUHR-tis                      Syr'tis                       place
 
-Taanach                 pns   TAY-uh-nak                    Ta'a-nach                     
-Taanathshiloh           pns   TAY-uh-nath-SHIY-loh          Ta'a-nath-shi'loh
-Taanath-shiloh          pns   TAY-uh-nath-SHIY-loh          Ta'a-nath-shi'loh
-Tabbaoth                pns   tuh-BAY-oth                   Tab-ba'oth
-Tabbath                 pns   TAB-uhth                      Tab'bath
-Tabeal                  pns   TAY-bee-uhl                   Ta'be-al
-Tabeel                  pns   TAY-bee-el                    Ta'be-el
-Taberah                 pns   TAB-i-ruh                     Tab'e-rah
-Tabitha                 pns   TAB-i-thuh                    Tab'i-tha
-Tabor                   pns   TAY-buhr                      Ta'bor
-Tabrimmon               pns   TAB-rim-on                    Tab'rim-mon
-Tabrimon                pns   TAB-ri-mon                    Tab'ri-mon
-Tachmonite              pns   TAK-muh-niyt                  Tach'mo-nite
-Tachmonites             pnp   TAK-muh-niyts                 Tach'mo-nites
+Taanach                 pns   TAY-uh-nak                    Ta'a-nach                     place
+Taanathshiloh           pns   TAY-uh-nath-SHIY-loh          Ta'a-nath-shi'loh             place
+Taanath-shiloh          pns   TAY-uh-nath-SHIY-loh          Ta'a-nath-shi'loh             place
+Taanath_Shiloh          pns   TAY-uh-nath-SHIY-loh          Ta'a-nath_Shi'loh             place
+Tabaliah                pns   TAB-uh-LIY-uh                 Tab'a-li'ah                   person
+Tabbaoth                pns   tuh-BAY-oth                   Tab-ba'oth                    person
+Tabbath                 pns   TAB-uhth                      Tab'bath                      place
+Tabeal                  pns   TAY-bee-uhl                   Ta'be-al                      person
+Tabeel                  pns   TAY-bee-el                    Ta'be-el                      person
+Taberah                 pns   TAB-i-ruh                     Tab'e-rah                     place
+Tabitha                 pns   TAB-i-thuh                    Tab'i-tha                     person
+Tabor                   pns   TAY-buhr                      Ta'bor                        place
+Tabrimmon               pns   TAB-rim-on                    Tab'rim-mon                   person
+Tabrimon                pns   TAB-ri-mon                    Tab'ri-mon                    person
+Tachmonite              pns   TAK-muh-niyt                  Tach'mo-nite                  ethnic
+Tachmonites             pnp   TAK-muh-niyts                 Tach'mo-nites                 ethnic
 Tadmor                  pns   TAD-mohr                      Tad'mor                       place
-Tahan                   pns   TAY-huhn                      Ta'han
-Tahapanes               pns   tuh-HAP-uh-neez               Ta-hap'a-nes
-Tahash                  pns   TAY-hash                      Ta'hash
-Tahath                  pns   TAY-hath                      Ta'hath
-Tahchemonite            pns   TAH-Ki-muh-niyt               Tah'che-mo-nite
-Tahchemonites           pnp   TAH-Ki-muh-niyts              Tah'che-mo-nites
-Tahpanhes               pns   TAH-puhn-heez                 Tah'pan-hes
-Tahpenes                pns   TAH-pi-neez                   Tah'pe-nes
-Tahrea                  pns   TAH-ree-uh                    Tah're-a
-Tahtimhodshi            pns   TAH-tim-HOD-shiy              Tah'tim-hod'shi
-Tahtim-hodshi           pns   TAH-tim-HOD-shiy              Tah'tim-hod'shi
-Talmai                  pns   TAL-miy                       Tal'mai
-Talmon                  pns   TAL-mon                       Tal'mon
-Tamah                   pns   TAY-muh                       Ta'mah
-Tamar                   pns   TAY-muhr                      Ta'mar
-Tammuz                  pns   TAM-uz                        Tam'muz
-Tanach                  pns   TAY-nak                       Ta'nach
-Tanhumeth               pns   tan-HOO-meth                  Tan-hu'meth
-Taphath                 pns   TAY-fath                      Ta'phath
-Taphon                  pns   TAY-fon                       Ta'phon
-Tappuah                 pns   tap-POO-uh                    Tap-pu'ah
-Tarah                   pns   TAY-ruh                       Ta'rah
-Taralah                 pns   TAR-uh-lah                    Tar'a-lah
-Tarea                   pns   TAY-ree-uh                    Ta're-a
-Tarpelite               pns   TAHR-puhl-iyt                 Tar'pel-ite
-Tarpelites              pnp   TAHR-puhl-iyts                Tar'pel-ites
-Tarshish                pns   TAHR-shish                    Tar'shish
-Tarsus                  pns   TAHR-suhs                     Tar'sus
-Tartak                  pns   TAHR-tak                      Tar'tak
-Tartan                  pns   TAHR-tuhn                     Tar'tan
-Tatnai                  pns   TAT-niy                       Tat'nai
-Tattenai                pns   TAT-i-niy                     Tat'te-nai
-Tau                     pns   TOW                           Tau
-Tav                     pns   TOW                           Tav
-Tebah                   pns   TEE-buh                       Te'bah
-Tebaliah                pns   TEB-uh-LIY-uh                 Teb'a-li'ah
-Tebeth                  pns   TEE-beth                      Te'beth
-Tehaphnehes             pns   TI-HAF-ni-heez                Te'haph'ne-hes
-Tehinnah                pns   ti-HIN-uh                     Te-hin'nah
-Tekel                   pns   TE-kil                        Te'kel
-Tekoa                   pns   ti-KOH-uh                     Te-ko'a
-Tekoah                  pns   ti-KOH-uh                     Te-ko'ah
-Tekoite                 pns   ti-KOH-iyt                    Te-ko'ite
-Tekoites                pnp   ti-KOH-iyts                   Te-ko'ites
-Telabib                 pns   TEL-AY-bib                    Tel'a'bib
-Tel-abib                pns   TEL-AY-bib                    Tel'a'bib
-Telah                   pns   TEE-luh                       Te'lah
-Telaim                  pns   tee-LAY-im                    Te-la'im
-Telassar                pns   ti-LAS-uhr                    Te-las'sar
-Telem                   pns   TEE-lem                       Te'lem
-Telharesha              pns   TEL-huh-REE-shuh              Tel'ha-re'sha
-Tel-haresha             pns   TEL-huh-REE-shuh              Tel'ha-re'sha
-Telharsa                pns   TEL-HAHR-suh                  Tel'har'sa
-Tel-harsa               pns   TEL-HAHR-suh                  Tel'har'sa
-Telharsha               pns   TEL-HAHR-shuh                 Tel'har'sha
-Tel-harsha              pns   TEL-HAHR-shuh                 Tel'har'sha
-Telmelah                pns   TEL-MEE-luh                   Tel'me'lah
-Tel-melah               pns   TEL-MEE-luh                   Tel'me'lah
-Tema                    pns   TEE-muh                       Te'ma
-Temah                   pns   TEE-muh                       Te'mah
-Teman                   pns   TEE-muhn                      Te'man
-Temani                  pns   TEM-uh-niy                    Tem'a-ni
-Temanite                pns   TEE-muhn-iyt                  Te'man-ite
-Temanites               pnp   TEE-muhn-iyts                 Te'man-ites
-Temeni                  pns   TEM-i-niy                     Tem'e-ni
-Tephon                  pns   TEE-fon                       Te'phon
-Terah                   pns   TEE-ruh                       Te'rah
-Teresh                  pns   TEE-resh                      Te'resh
-Tertius                 pns   TUHR-shee-uhs                 Ter'ti-us
-Tertullus               pns   tuhr-TUL-uhs                  Ter-tul'lus
-Teth                    pns   TAYTH                         Teth
-Tetrarch                pns   TET-rahrk                     tet'rarch
-Thaddaeus               pns   tha-DEE-uhs                   Thad-dae'us
-Thahash                 pns   THAY-hash                     Tha'hash
-Thamah                  pns   THAY-muh                      Tha'mah
-Thamar                  pns   THAY-mahr                     Tha'mar
-Thamnatha               pns   THAM-nuh-thuh                 Tham'na-tha
-Thara                   pns   THAY-ruh                      Tha'ra
-Tharshish               pns   THAHR-shish                   Thar'shish
-Thebes                  pns   THEEBZ                        Thebes
-Thebez                  pns   THEE-bez                      The'bez
-Thecoe                  pns   thi-KOH-i                     The-co'e
-Thelasar                pns   thi-LAY-suhr                  The-la'ser
-Theophilus              pns   thee-OF-uh-luhs               The-oph'i-lus
-Thessalonian            pns   THES-uh-LOH-nee-uhn           Thes'sa-lo'ni-an
-Thessalonians           pnp   THES-uh-LOH-nee-uhnz          Thes'sa-lo'ni-ans
-Thessalonica            pns   THES-uh-luh-NIY-kuh           Thes'sa-lo-ni'ca
-Theudas                 pns   THOO-duhs                     Theu'das
-Thimnathah              pns   THIM-nuh-thah                 Thim'na-thah
-Thisbe                  pns   THIZ-bi                       This'be
-Thomas                  pns   TOM-uhs                       Thom'as
-Thummim                 pns   THUM-im                       Thum'mim
-Thyatira                pns   THIY-uh-TIY-ruh               Thy'a-ti'ra
-Tiberias                pns   tiy-BEE-ree-as                Ti-be'ri-as
-Tiberius                pns   tiy-BIHR-ee-uhs               Ti-ber'i-us
-Tibhath                 pns   TIB-hath                      Tib'hath
-Tibni                   pns   TIB-niy                       Tib'ni
-Tidal                   pns   TIY-dal                       Ti'dal
-Tiglathpileser          pns   TIG-lath-pi-LEE-zuhr          Tig'lath-pi-le'ser
-Tiglath-pileser         pns   TIG-lath-pi-LEE-zuhr          Tig'lath-pi-le'ser
-Tigris                  pns   TIY-gris                      Ti'gris
-Tikvah                  pns   TIK-vah                       Tik'vah
-Tikvath                 pns   TIK-vath                      Tik'vath
-Tilgathpilneser         pns   TIL-gath-pil-NEE-zuhr         Til'gath-pil-ne'ser
-Tilgath-pilneser        pns   TIL-gath-pil-NEE-zuhr         Til'gath-pil-ne'ser
-Tilon                   pns   TIY-luhn                      Ti'lon
-Timaeus                 pns   tiy-MEE-uhs                   Ti-mae'us
-Timna                   pns   TIM-nuh                       Tim'na
-Timnah                  pns   TIM-nuh                       Tim'nah
-Timnath                 pns   TIM-nath                      Tim'nath
-Timnathheres            pns   TIM-nath-HEE-reez             Tim'nath-he'res
-Timnath-heres           pns   TIM-nath-HEE-reez             Tim'nath-he'res
-Timnathserah            pns   TIM-nath-SEE-ruh              Tim'nath-se'rah
-Timnath-serah           pns   TIM-nath-SEE-ruh              Tim'nath-se'rah
-Timnite                 pns   TIM-niyt                      Tim'nite
-Timnites                pnp   TIM-niyts                     Tim'nites
-Timon                   pns   TIY-mon                       Ti'mon
-Timotheus               pns   ti-MOH-thee-uhs               Ti-mo'the-us
-Timothy                 pns   TIM-uh-thi                    Tim'o-thy
-Tiphsah                 pns   TIF-suh                       Tiph'sah
-Tiras                   pns   TIY-ruhs                      Ti'ras
-Tirathite               pns   TIY-ruhth-iyt                 Ti'rath-ite
-Tirathites              pnp   TIY-ruhth-iyts                Ti'rath-ites
-Tirhakah                pns   TUHR-huh-kah                  Tir'ha-kah
-Tirhanah                pns   TUHR-huh-nah                  Tir'ha-nah
-Tiria                   pns   TIR-ee-uh                     Tir'i-a
-Tirshatha               pns   tuhr-SHAY-thuh                Tir-sha'tha
-Tirzah                  pns   TUHR-zuh                      Tir'zah
-Tishbe                  pns   TISH-bi                       Tish'be
-Tishbite                pns   TISH-biyt                     Tish'bite
-Tishbites               pnp   TISH-biyts                    Tish'bites
-Tishri                  pns   TISH-ree                      Tish'ri
-Titius                  pns   TISH-ee-uhs                   Tit'i-us
-Titus                   pns   TIY-tuhs                      Ti'tus
-Tizite                  pns   TIY-ziyt                      Ti'zite
-Tizites                 pnp   TIY-ziyts                     Ti'zites
-Toah                    pns   TOH-uh                        To'ah
-Tob                     pns   TOB                           Tob
-Tobadonijah             pns   TOB-AD-uh-NIY-juh             Tob'ad'o-ni'jah
-Tob-adonijah            pns   TOB-AD-uh-NIY-juh             Tob'ad'o-ni'jah
-Tobiah                  pns   tuh-BIY-uh                    To-bi'ah
-Tobias                  pns   toh-BIY-uhs                   To-bi'as
-Tobie                   pns   TOH-bee                       To'bie
-Tobijah                 pns   tuh-BIY-juh                   To-bi'jah
-Tobit                   pns   TOH-bit                       To'bit
-Tochen                  pns   TOH-ken                       To'chen
+Tahan                   pns   TAY-huhn                      Ta'han                        person
+Tahanite                pns   TAY-huhn-iyt                  Ta'han-ite                    ethnic
+Tahanites               pnp   TAY-huhn-iyts                 Ta'han-ites                   ethnic
+Tahapanes               pns   tuh-HAP-uh-neez               Ta-hap'a-nes                  place
+Tahash                  pns   TAY-hash                      Ta'hash                       person
+Tahath                  pns   TAY-hath                      Ta'hath                       person,place
+Tahchemonite            pns   TAH-Ki-muh-niyt               Tah'che-mo-nite               ethnic
+Tahchemonites           pnp   TAH-Ki-muh-niyts              Tah'che-mo-nites              ethnic
+Tahpanhes               pns   TAH-puhn-heez                 Tah'pan-hes                   place
+Tahpenes                pns   TAH-pi-neez                   Tah'pe-nes                    person
+Tahrea                  pns   TAH-ree-uh                    Tah're-a                      person
+Tahtimhodshi            pns   TAH-tim-HOD-shiy              Tah'tim-hod'shi               place
+Tahtim-hodshi           pns   TAH-tim-HOD-shiy              Tah'tim-hod'shi               place
+Tahtim_Hodshi           pns   TAH-tim-HOD-shiy              Tah'tim_Hod'shi               place
+Talmai                  pns   TAL-miy                       Tal'mai                       person
+Talmon                  pns   TAL-mon                       Tal'mon                       person
+Tamah                   pns   TAY-muh                       Ta'mah                        person
+Tamar                   pns   TAY-muhr                      Ta'mar                        person,place
+Tammuz                  pns   TAM-uz                        Tam'muz                       measure,deity
+Tanach                  pns   TAY-nak                       Ta'nach                       place
+Tanhumeth               pns   tan-HOO-meth                  Tan-hu'meth                   person
+Taphath                 pns   TAY-fath                      Ta'phath                      person
+Taphon                  pns   TAY-fon                       Ta'phon                       place
+Tappuah                 pns   tap-POO-uh                    Tap-pu'ah                     person,place
+Tarah                   pns   TAY-ruh                       Ta'rah                        person,place
+Taralah                 pns   TAR-uh-lah                    Tar'a-lah                     place
+Tarea                   pns   TAY-ree-uh                    Ta're-a                       person
+Tarpelite               pns   TAHR-puhl-iyt                 Tar'pel-ite                   ethnic
+Tarpelites              pnp   TAHR-puhl-iyts                Tar'pel-ites                  ethnic
+Tarshish                pns   TAHR-shish                    Tar'shish                     person,place
+Tarsus                  pns   TAHR-suhs                     Tar'sus                       place
+Tartak                  pns   TAHR-tak                      Tar'tak                       deity
+Tartan                  pns   TAHR-tuhn                     Tar'tan                       person,title
+Tatnai                  pns   TAT-niy                       Tat'nai                       person
+Tattenai                pns   TAT-i-niy                     Tat'te-nai                    person
+Tau                     pns   TOW                           Tau                           writing
+Tav                     pns   TOW                           Tav                           writing
+Tebah                   pns   TEE-buh                       Te'bah                        person
+Tebaliah                pns   TEB-uh-LIY-uh                 Teb'a-li'ah                   person
+Tebeth                  pns   TEE-beth                      Te'beth                       measure
+Tehaphnehes             pns   TI-HAF-ni-heez                Te'haph'ne-hes                place
+Tehinnah                pns   ti-HIN-uh                     Te-hin'nah                    person
+Tekoa                   pns   ti-KOH-uh                     Te-ko'a                       person,place
+Tekoah                  pns   ti-KOH-uh                     Te-ko'ah                      person,place
+Tekoite                 pns   ti-KOH-iyt                    Te-ko'ite                     ethnic
+Tekoites                pnp   ti-KOH-iyts                   Te-ko'ites                    ethnic
+Telabib                 pns   TEL-AY-bib                    Tel'a'bib                     place
+Tel-abib                pns   TEL-AY-bib                    Tel'a'bib                     place
+Tel_Abib                pns   TEL-AY-bib                    Tel_A'bib                     place
+Telah                   pns   TEE-luh                       Te'lah                        person
+Telaim                  pns   tee-LAY-im                    Te-la'im                      place
+Telassar                pns   ti-LAS-uhr                    Te-las'sar                    place
+Telaviv                 pns   TEL-AY-viv                    Tel'a'viv                     place
+Tel-aviv                pns   TEL-AY-viv                    Tel'a'viv                     place
+Tel_Aviv                pns   TEL-AY-viv                    Tel_A'viv                     place
+Telem                   pns   TEE-lem                       Te'lem                        person,place
+Telharesha              pns   TEL-huh-REE-shuh              Tel'ha-re'sha                 place
+Tel-haresha             pns   TEL-huh-REE-shuh              Tel'ha-re'sha                 place
+Tel_Haresha             pns   TEL-huh-REE-shuh              Tel_Ha-re'sha                 place
+Telharsa                pns   TEL-HAHR-suh                  Tel'har'sa                    place
+Tel-harsa               pns   TEL-HAHR-suh                  Tel'har'sa                    place
+Tel_Harsa               pns   TEL-HAHR-suh                  Tel_Har'sa                    place
+Telharsha               pns   TEL-HAHR-shuh                 Tel'har'sha                   place
+Tel-harsha              pns   TEL-HAHR-shuh                 Tel'har'sha                   place
+Tel_Harsha              pns   TEL-HAHR-shuh                 Tel_Har'sha                   place
+Tellelamarna            pns   TEL-el-ah-MAHR-nuh            Tell'el-a-mar'na              place
+Tell-elamarna           pns   TEL-el-ah-MAHR-nuh            Tell'el-a-mar'na              place
+Tell-el-amarna          pns   TEL-el-ah-MAHR-nuh            Tell'el-a-mar'na              place
+Tell_el-Amarna          pns   TEL-el-ah-MAHR-nuh            Tell_el-A-mar'na              place
+Telmelah                pns   TEL-MEE-luh                   Tel'me'lah                    place
+Tel-melah               pns   TEL-MEE-luh                   Tel'me'lah                    place
+Tel_Melah               pns   TEL-MEE-luh                   Tel_Me'lah                    place
+Tema                    pns   TEE-muh                       Te'ma                         person,place
+Temah                   pns   TEE-muh                       Te'mah                        person
+Teman                   pns   TEE-muhn                      Te'man                        person,place
+Temani                  pnp   TEM-uh-niy                    Tem'a-ni                      ethnic
+Temanite                pns   TEE-muhn-iyt                  Te'man-ite                    ethnic
+Temanites               pnp   TEE-muhn-iyts                 Te'man-ites                   ethnic
+Temeni                  pns   TEM-i-niy                     Tem'e-ni                      person
+Tephon                  pns   TEE-fon                       Te'phon                       place
+Terah                   pns   TEE-ruh                       Te'rah                        person,place
+Teraphim                pnp   TEHR-uh-fim                   Ter'a-phim                    deity
+Teraphims               pnp   TEHR-uh-fimz                  Ter'a-phims                   deity
+Teresh                  pns   TEE-resh                      Te'resh                       person
+Tertius                 pns   TUHR-shee-uhs                 Ter'ti-us                     person
+Tertullus               pns   tuhr-TUL-uhs                  Ter-tul'lus                   person
+Teth                    pns   TAYTH                         Teth                          writing
+Thaddaeus               pns   tha-DEE-uhs                   Thad-dae'us                   person
+Thahash                 pns   THAY-hash                     Tha'hash                      person
+Thamah                  pns   THAY-muh                      Tha'mah                       person
+Thamar                  pns   THAY-mahr                     Tha'mar                       person,place
+Thamnatha               pns   THAM-nuh-thuh                 Tham'na-tha                   place
+Thara                   pns   THAY-ruh                      Tha'ra                        person,place
+Tharshish               pns   THAHR-shish                   Thar'shish                    person,place
+Thebes                  pns   THEEBZ                        Thebes                        place
+Thebez                  pns   THEE-bez                      The'bez                       place
+Thecoe                  pns   thi-KOH-i                     The-co'e                      person,place
+Thelasar                pns   thi-LAY-suhr                  The-la'sar                    place
+Thelassar               pns   thi-LAS-uhr                   The-las'sar                   place
+Theophilus              pns   thee-OF-uh-luhs               The-oph'i-lus                 person
+Thessalonian            pns   THES-uh-LOH-nee-uhn           Thes'sa-lo'ni-an              ethnic
+Thessalonians           pnp   THES-uh-LOH-nee-uhnz          Thes'sa-lo'ni-ans             ethnic,writing
+Thessalonica            pns   THES-uh-luh-NIY-kuh           Thes'sa-lo-ni'ca              place
+Theudas                 pns   THOO-duhs                     Theu'das                      person
+Thimnathah              pns   THIM-nuh-thah                 Thim'na-thah                  place
+Thisbe                  pns   THIZ-bi                       This'be                       place
+Thomas                  pns   TOM-uhs                       Thom'as                       place
+Thummim                 pns   THUM-im                       Thum'mim                      thing
+Thyatira                pns   THIY-uh-TIY-ruh               Thy'a-ti'ra                   place
+Tiberias                pns   tiy-BEE-ree-as                Ti-be'ri-as                   place
+Tiberius                pns   tiy-BIHR-ee-uhs               Ti-ber'i-us                   person
+Tibhath                 pns   TIB-hath                      Tib'hath                      place
+Tibni                   pns   TIB-niy                       Tib'ni                        person
+Tidal                   pns   TIY-dal                       Ti'dal                        person
+Tiglathpileser          pns   TIG-lath-pi-LEE-zuhr          Tig'lath-pi-le'ser            person
+Tiglath-pileser         pns   TIG-lath-pi-LEE-zuhr          Tig'lath-pi-le'ser            person
+Tigris                  pns   TIY-gris                      Ti'gris                       place
+Tikvah                  pns   TIK-vah                       Tik'vah                       person
+Tikvath                 pns   TIK-vath                      Tik'vath                      person
+Tilgathpilneser         pns   TIL-gath-pil-NEE-zuhr         Til'gath-pil-ne'ser           person
+Tilgath-pilneser        pns   TIL-gath-pil-NEE-zuhr         Til'gath-pil-ne'ser           person
+Tilon                   pns   TIY-luhn                      Ti'lon                        person
+Timaeus                 pns   tiy-MEE-uhs                   Ti-mae'us                     person
+Timna                   pns   TIM-nuh                       Tim'na                        person,place
+Timnah                  pns   TIM-nuh                       Tim'nah                       person,place
+Timnath                 pns   TIM-nath                      Tim'nath                      place
+Timnathheres            pns   TIM-nath-HEE-reez             Tim'nath-he'res               place
+Timnath-heres           pns   TIM-nath-HEE-reez             Tim'nath-he'res               place
+Timnath_Heres           pns   TIM-nath-HEE-reez             Tim'nath_He'res               place
+Timnathserah            pns   TIM-nath-SEE-ruh              Tim'nath-se'rah               place
+Timnath-serah           pns   TIM-nath-SEE-ruh              Tim'nath-se'rah               place
+Timnath_Serah           pns   TIM-nath-SEE-ruh              Tim'nath_Se'rah               place
+Timnite                 pns   TIM-niyt                      Tim'nite                      ethnic
+Timnites                pnp   TIM-niyts                     Tim'nites                     ethnic
+Timon                   pns   TIY-mon                       Ti'mon                        person
+Timotheus               pns   ti-MOH-thee-uhs               Ti-mo'the-us                  person
+Timothy                 pns   TIM-uh-thi                    Tim'o-thy                     person,writing
+Tiphsah                 pns   TIF-suh                       Tiph'sah                      place
+Tiras                   pns   TIY-ruhs                      Ti'ras                        person,place
+Tirathite               pns   TIY-ruhth-iyt                 Ti'rath-ite                   ethnic
+Tirathites              pnp   TIY-ruhth-iyts                Ti'rath-ites                  ethnic
+Tirhakah                pns   TUHR-huh-kah                  Tir'ha-kah                    person
+Tirhanah                pns   TUHR-huh-nah                  Tir'ha-nah                    person
+Tiria                   pns   TIR-ee-uh                     Tir'i-a                       person
+Tirshatha               pns   tuhr-SHAY-thuh                Tir-sha'tha                   title
+Tirzah                  pns   TUHR-zuh                      Tir'zah                       person,place
+Tishbe                  pns   TISH-bi                       Tish'be                       place
+Tishbite                pns   TISH-biyt                     Tish'bite                     ethnic
+Tishbites               pnp   TISH-biyts                    Tish'bites                    ethnic
+Tishri                  pns   TISH-ree                      Tish'ri                       measure
+Titius                  pns   TISH-ee-uhs                   Tit'i-us                      person
+Titus                   pns   TIY-tuhs                      Ti'tus                        person,writing
+Tizite                  pns   TIY-ziyt                      Ti'zite                       ethnic
+Tizites                 pnp   TIY-ziyts                     Ti'zites                      ethnic
+Toah                    pns   TOH-uh                        To'ah                         person
+Tob                     pns   TOB                           Tob                           place
+Tobadonijah             pns   TOB-AD-uh-NIY-juh             Tob'ad'o-ni'jah               person
+Tob-adonijah            pns   TOB-AD-uh-NIY-juh             Tob'ad'o-ni'jah               person
+Tobiah                  pns   tuh-BIY-uh                    To-bi'ah                      person
+Tobias                  pns   toh-BIY-uhs                   To-bi'as                      person
+Tobie                   pns   TOH-bee                       To'bie                        place
+Tobijah                 pns   tuh-BIY-juh                   To-bi'jah                     person
+Tobit                   pns   TOH-bit                       To'bit                        person
+Tochen                  pns   TOH-ken                       To'chen                       place
 Togarmah                pns   tuh-GAHR-muh                  To-gar'mah                    place
-Tohu                    pns   TOH-hoo                       To'hu
-Toi                     pns   TOH-i                         To'i
-Tokhath                 pns   TOK-hath                      Tok'hath
-Tola                    pns   TOH-luh                       To'la
-Tolad                   pns   TOH-lad                       To'lad
-Tophel                  pns   TOH-fel                       To'phel
-Tophet                  pns   TOH-fet                       To'phet
-Topheth                 pns   TOH-feth                      To'pheth
-Tormah                  pns   TOHR-muh                      Tor'mah
-Tou                     pns   TOH-oo                        To'u
-Trachonitis             pns   TRAK-uh-NIY-tis               Trach'o-ni'tis
-Tripolis                pns   TRIP-uh-lis                   Trip'o-lis
-Troas                   pns   TROH-uhs                      Tro'as
-Trogyllium              pns   truh-JIL-ee-uhm               Tro-gyl'li-um
-Trophimus               pns   TROF-i-muhs                   Troph'i-mus
-Tryphaena               pns   triy-FEE-nuh                  Try-phae'na
-Tryphena                pns   triy-FEE-nuh                  Try-phe'na
-Trypho                  pns   TRIY-foh                      Try'pho
-Tryphon                 pns   TRIY-fon                      Try'phon
-Tryphosa                pns   triy-FOH-suh                  Try-pho'sa
-Tsadhe                  pns   tsah-DAY                      Tsa-dhe'
-Tubal                   pns   TOO-buhl                      Tu'bal
-Tubalcain               pns   TOO-buhl-KAYN                 Tu'bal-cain'
-Tubal-cain              pns   TOO-buhl-KAYN                 Tu'bal-cain'
-Tubias                  pns   TOO-bee-as                    Tu'bi-as
-Tychicus                pns   TIK-i-kuhs                    Tych'i-cus
-Tyrannus                pns   tiy-RAN-uhs                   Ty-ran'nus
-Tyre                    pns   TIYR                          Tyre
-Tyrus                   pns   TIY-ruhs                      Ty'rus
-Tyropoeon               pns   TIR-uh-PEE-on                 Tyr'o-poe'on
-Tzaddi                  pns   TSAD-ee                       Tzad'di
-Tzade                   pns   tsah-DAY                      Tza-de'
+Tohu                    pns   TOH-hoo                       To'hu                         person
+Toi                     pns   TOH-i                         To'i                          person
+Token                   pns   TOH-ken                       To'ken                        place
+Tokhath                 pns   TOK-hath                      Tok'hath                      person
+Tola                    pns   TOH-luh                       To'la                         person
+Tolad                   pns   TOH-lad                       To'lad                        place
+Tolaite                 pns   TOH-lay-iyt                   To'la-ite                     ethnic
+Tolaites                pnp   TOH-lay-iyts                  To'la-ites                    ethnic
+Tophel                  pns   TOH-fel                       To'phel                       place
+Tophet                  pns   TOH-fet                       To'phet                       place
+Topheth                 pns   TOH-feth                      To'pheth                      place
+Tormah                  pns   TOHR-muh                      Tor'mah                       place
+Tou                     pns   TOH-oo                        To'u                          person
+Trachonitis             pns   TRAK-uh-NIY-tis               Trach'o-ni'tis                place
+Traconitis              pns   TRAK-uh-NIY-tis               Trac'o-ni'tis                 place
+Tripolis                pns   TRIP-uh-lis                   Trip'o-lis                    place
+Troas                   pns   TROH-uhs                      Tro'as                        place
+Trogyllium              pns   truh-JIL-ee-uhm               Tro-gyl'li-um                 place
+Trophimus               pns   TROF-i-muhs                   Troph'i-mus                   person
+Tryphaena               pns   triy-FEE-nuh                  Try-phae'na                   person
+Tryphena                pns   triy-FEE-nuh                  Try-phe'na                    person
+Trypho                  pns   TRIY-foh                      Try'pho                       person
+Tryphon                 pns   TRIY-fon                      Try'phon                      person
+Tryphosa                pns   triy-FOH-suh                  Try-pho'sa                    person
+Tsadhe                  pns   tsah-DAY                      Tsa-dhe'                      writing
+Tubal                   pns   TOO-buhl                      Tu'bal                        person,place
+Tubalcain               pns   TOO-buhl-KAYN                 Tu'bal-cain'                  person
+Tubal-cain              pns   TOO-buhl-KAYN                 Tu'bal-cain'                  person
+Tubias                  pns   TOO-bee-as                    Tu'bi-as                      place
+Tychicus                pns   TIK-i-kuhs                    Tych'i-cus                    person
+Tyrannus                pns   tiy-RAN-uhs                   Ty-ran'nus                    person
+Tyre                    pns   TIYR                          Tyre                          place
+Tyrus                   pns   TIY-ruhs                      Ty'rus                        place
+Tyropoeon               pns   TIR-uh-PEE-on                 Tyr'o-poe'on                  place
+Tzaddi                  pns   TSAD-ee                       Tzad'di                       writing
+Tzade                   pns   tsah-DAY                      Tza-de'                       writing
 
-Ucal                    pns   OO-kal                        U'cal
+Ucal                    pns   OO-kal                        U'cal                         
 Uel                     pns   OO-el                         U'el
 Ugarit                  pns   OO-guh-rit                    U'ga-rit                      place
 Uknaz                   pns   UK-naz                        Uk'naz
@@ -5617,7 +5644,7 @@ Uriah                   pns   yoo-RIY-uh                    U-ri'ah
 Urias                   pns   yoo-RIY-uhs                   U-ri'as
 Uriel                   pns   OO-ree-uhl                    U'ri-el
 Urijah                  pns   yoo-RIY-juh                   U-ri'jah
-Urim                    pns   OO-rim                        U'rim
+Urim                    pns   OO-rim                        U'rim                         thing
 Uthai                   pns   OO-thiy                       U'thai
 Uz                      pns   UZ                            Uz
 Uzai                    pns   OO-ziy                        U'zai

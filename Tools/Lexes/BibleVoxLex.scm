@@ -447,6 +447,10 @@
 (lex.add.entry 
  '("maran-atha" nn (((m ae r) 1) ((ax) 0) ((n ae th) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("tekel" nn (((t eh) 1) ((k ih l) 0))) )
+(lex.add.entry 
+ '("tetrarch" nn (((t eh t) 1) ((r aa r k) 0))) )
+(lex.add.entry 
  '("raca" nn (((r ax) 0) ((k aa) 1))) )
 (lex.add.entry 
  '("Aaron" nnp (((eh r) 1) ((ax n) 0))) )
@@ -10413,6 +10417,10 @@
 (lex.add.entry 
  '("Taanath-shiloh" nnp (((t ey) 1) ((ax) 0) ((n ae th) 0) ((sh ay) 1) ((l ow) 0))) )
 (lex.add.entry 
+ '("Taanath_Shiloh" nnp (((t ey) 1) ((ax) 0) ((n ae th) 0) ((sh ay) 1) ((l ow) 0))) )
+(lex.add.entry 
+ '("Tabaliah" nnp (((t ae b) 1) ((ax) 0) ((l ay) 1) ((ax) 0))) )
+(lex.add.entry 
  '("Tabbaoth" nnp (((t ax) 0) ((b ey) 1) ((aa th) 0))) )
 (lex.add.entry 
  '("Tabbath" nnp (((t ae b) 1) ((ax th) 0))) )
@@ -10439,6 +10447,10 @@
 (lex.add.entry 
  '("Tahan" nnp (((t ey) 1) ((hh ax n) 0))) )
 (lex.add.entry 
+ '("Tahanite" nnp (((t ey) 1) ((hh ax n) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Tahanites" nnps (((t ey) 1) ((hh ax n) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Tahapanes" nnp (((t ax) 0) ((hh ae p) 1) ((ax) 0) ((n iy z) 0))) )
 (lex.add.entry 
  '("Tahash" nnp (((t ey) 1) ((hh ae sh) 0))) )
@@ -10458,6 +10470,8 @@
  '("Tahtimhodshi" nnp (((t aa) 1) ((t ih m) 0) ((hh aa d) 1) ((sh ay) 0))) )
 (lex.add.entry 
  '("Tahtim-hodshi" nnp (((t aa) 1) ((t ih m) 0) ((hh aa d) 1) ((sh ay) 0))) )
+(lex.add.entry 
+ '("Tahtim_Hodshi" nnp (((t aa) 1) ((t ih m) 0) ((hh aa d) 1) ((sh ay) 0))) )
 (lex.add.entry 
  '("Talmai" nnp (((t ae l) 1) ((m ay) 0))) )
 (lex.add.entry 
@@ -10515,8 +10529,6 @@
 (lex.add.entry 
  '("Tehinnah" nnp (((t ih) 0) ((hh ih n) 1) ((ax) 0))) )
 (lex.add.entry 
- '("Tekel" nnp (((t eh) 1) ((k ih l) 0))) )
-(lex.add.entry 
  '("Tekoa" nnp (((t ih) 0) ((k ow) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Tekoah" nnp (((t ih) 0) ((k ow) 1) ((ax) 0))) )
@@ -10529,11 +10541,19 @@
 (lex.add.entry 
  '("Tel-abib" nnp (((t eh l) 1) ((ey) 1) ((b ih b) 0))) )
 (lex.add.entry 
+ '("Tel_Abib" nnp (((t eh l) 1) ((ey) 1) ((b ih b) 0))) )
+(lex.add.entry 
  '("Telah" nnp (((t iy) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Telaim" nnp (((t iy) 0) ((l ey) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Telassar" nnp (((t ih) 0) ((l ae s) 1) ((er) 0))) )
+(lex.add.entry 
+ '("Telaviv" nnp (((t eh l) 1) ((ey) 1) ((v ih v) 0))) )
+(lex.add.entry 
+ '("Tel-aviv" nnp (((t eh l) 1) ((ey) 1) ((v ih v) 0))) )
+(lex.add.entry 
+ '("Tel_Aviv" nnp (((t eh l) 1) ((ey) 1) ((v ih v) 0))) )
 (lex.add.entry 
  '("Telem" nnp (((t iy) 1) ((l eh m) 0))) )
 (lex.add.entry 
@@ -10541,17 +10561,33 @@
 (lex.add.entry 
  '("Tel-haresha" nnp (((t eh l) 1) ((hh ax) 0) ((r iy) 1) ((sh ax) 0))) )
 (lex.add.entry 
+ '("Tel_Haresha" nnp (((t eh l) 1) ((hh ax) 0) ((r iy) 1) ((sh ax) 0))) )
+(lex.add.entry 
  '("Telharsa" nnp (((t eh l) 1) ((hh aa r) 1) ((s ax) 0))) )
 (lex.add.entry 
  '("Tel-harsa" nnp (((t eh l) 1) ((hh aa r) 1) ((s ax) 0))) )
+(lex.add.entry 
+ '("Tel_Harsa" nnp (((t eh l) 1) ((hh aa r) 1) ((s ax) 0))) )
 (lex.add.entry 
  '("Telharsha" nnp (((t eh l) 1) ((hh aa r) 1) ((sh ax) 0))) )
 (lex.add.entry 
  '("Tel-harsha" nnp (((t eh l) 1) ((hh aa r) 1) ((sh ax) 0))) )
 (lex.add.entry 
+ '("Tel_Harsha" nnp (((t eh l) 1) ((hh aa r) 1) ((sh ax) 0))) )
+(lex.add.entry 
+ '("Tellelamarna" nnp (((t eh l) 1) ((eh l) 0) ((aa) 0) ((m aa r) 1) ((n ax) 0))) )
+(lex.add.entry 
+ '("Tell-elamarna" nnp (((t eh l) 1) ((eh l) 0) ((aa) 0) ((m aa r) 1) ((n ax) 0))) )
+(lex.add.entry 
+ '("Tell-el-amarna" nnp (((t eh l) 1) ((eh l) 0) ((aa) 0) ((m aa r) 1) ((n ax) 0))) )
+(lex.add.entry 
+ '("Tell_el-Amarna" nnp (((t eh l) 1) ((eh l) 0) ((aa) 0) ((m aa r) 1) ((n ax) 0))) )
+(lex.add.entry 
  '("Telmelah" nnp (((t eh l) 1) ((m iy) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Tel-melah" nnp (((t eh l) 1) ((m iy) 1) ((l ax) 0))) )
+(lex.add.entry 
+ '("Tel_Melah" nnp (((t eh l) 1) ((m iy) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Tema" nnp (((t iy) 1) ((m ax) 0))) )
 (lex.add.entry 
@@ -10559,7 +10595,7 @@
 (lex.add.entry 
  '("Teman" nnp (((t iy) 1) ((m ax n) 0))) )
 (lex.add.entry 
- '("Temani" nnp (((t eh m) 1) ((ax) 0) ((n ay) 0))) )
+ '("Temani" nnps (((t eh m) 1) ((ax) 0) ((n ay) 0))) )
 (lex.add.entry 
  '("Temanite" nnp (((t iy) 1) ((m ax n) 0) ((ay t) 0))) )
 (lex.add.entry 
@@ -10571,6 +10607,10 @@
 (lex.add.entry 
  '("Terah" nnp (((t iy) 1) ((r ax) 0))) )
 (lex.add.entry 
+ '("Teraphim" nnps (((t eh r) 1) ((ax) 0) ((f ih m) 0))) )
+(lex.add.entry 
+ '("Teraphims" nnps (((t eh r) 1) ((ax) 0) ((f ih m z) 0))) )
+(lex.add.entry 
  '("Teresh" nnp (((t iy) 1) ((r eh sh) 0))) )
 (lex.add.entry 
  '("Tertius" nnp (((t er) 1) ((sh iy) 0) ((ax s) 0))) )
@@ -10578,8 +10618,6 @@
  '("Tertullus" nnp (((t er) 0) ((t ah l) 1) ((ax s) 0))) )
 (lex.add.entry 
  '("Teth" nnp (((t ey th) 1))) )
-(lex.add.entry 
- '("Tetrarch" nnp (((t eh t) 1) ((r aa r k) 0))) )
 (lex.add.entry 
  '("Thaddaeus" nnp (((th ae) 0) ((d iy) 1) ((ax s) 0))) )
 (lex.add.entry 
@@ -10602,6 +10640,8 @@
  '("Thecoe" nnp (((th ih) 0) ((k ow) 1) ((ih) 0))) )
 (lex.add.entry 
  '("Thelasar" nnp (((th ih) 0) ((l ey) 1) ((s er) 0))) )
+(lex.add.entry 
+ '("Thelassar" nnp (((th ih) 0) ((l ae s) 1) ((er) 0))) )
 (lex.add.entry 
  '("Theophilus" nnp (((th iy) 0) ((aa f) 1) ((ax) 0) ((l ax s) 0))) )
 (lex.add.entry 
@@ -10661,9 +10701,13 @@
 (lex.add.entry 
  '("Timnath-heres" nnp (((t ih m) 1) ((n ae th) 0) ((hh iy) 1) ((r iy z) 0))) )
 (lex.add.entry 
+ '("Timnath_Heres" nnp (((t ih m) 1) ((n ae th) 0) ((hh iy) 1) ((r iy z) 0))) )
+(lex.add.entry 
  '("Timnathserah" nnp (((t ih m) 1) ((n ae th) 0) ((s iy) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Timnath-serah" nnp (((t ih m) 1) ((n ae th) 0) ((s iy) 1) ((r ax) 0))) )
+(lex.add.entry 
+ '("Timnath_Serah" nnp (((t ih m) 1) ((n ae th) 0) ((s iy) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Timnite" nnp (((t ih m) 1) ((n ay t) 0))) )
 (lex.add.entry 
@@ -10735,11 +10779,17 @@
 (lex.add.entry 
  '("Toi" nnp (((t ow) 1) ((ih) 0))) )
 (lex.add.entry 
+ '("Token" nnp (((t ow) 1) ((k eh n) 0))) )
+(lex.add.entry 
  '("Tokhath" nnp (((t aa k) 1) ((hh ae th) 0))) )
 (lex.add.entry 
  '("Tola" nnp (((t ow) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Tolad" nnp (((t ow) 1) ((l ae d) 0))) )
+(lex.add.entry 
+ '("Tolaite" nnp (((t ow) 1) ((l ey) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Tolaites" nnps (((t ow) 1) ((l ey) 0) ((ay t s) 0))) )
 (lex.add.entry 
  '("Tophel" nnp (((t ow) 1) ((f eh l) 0))) )
 (lex.add.entry 
@@ -10752,6 +10802,8 @@
  '("Tou" nnp (((t ow) 1) ((uw) 0))) )
 (lex.add.entry 
  '("Trachonitis" nnp (((t r ae k) 1) ((ax) 0) ((n ay) 1) ((t ih s) 0))) )
+(lex.add.entry 
+ '("Traconitis" nnp (((t r ae k) 1) ((ax) 0) ((n ay) 1) ((t ih s) 0))) )
 (lex.add.entry 
  '("Tripolis" nnp (((t r ih p) 1) ((ax) 0) ((l ih s) 0))) )
 (lex.add.entry 
