@@ -447,11 +447,15 @@
 (lex.add.entry 
  '("maran-atha" nn (((m ae r) 1) ((ax) 0) ((n ae th) 1) ((ax) 0))) )
 (lex.add.entry 
+ '("mene" nil (((m iy) 1) ((n ih) 0))) )
+(lex.add.entry 
  '("tekel" nn (((t eh) 1) ((k ih l) 0))) )
 (lex.add.entry 
  '("tetrarch" nn (((t eh t) 1) ((r aa r k) 0))) )
 (lex.add.entry 
  '("raca" nn (((r ax) 0) ((k aa) 1))) )
+(lex.add.entry 
+ '("upharsin" nil (((y uw) 0) ((f aa r) 1) ((s ih n) 0))) )
 (lex.add.entry 
  '("Aaron" nnp (((eh r) 1) ((ax n) 0))) )
 (lex.add.entry 
@@ -10867,8 +10871,6 @@
 (lex.add.entry 
  '("Unno" nnp (((ah n) 1) ((ow) 0))) )
 (lex.add.entry 
- '("Upharsin" nnp (((y uw) 0) ((f aa r) 1) ((s ih n) 0))) )
-(lex.add.entry 
  '("Uphaz" nnp (((uw) 1) ((f ae z) 0))) )
 (lex.add.entry 
  '("Ur" nnp (((er) 1))) )
@@ -10905,9 +10907,13 @@
 (lex.add.entry 
  '("Uzzen-sheerah" nnp (((ah z) 1) ((ax n) 0) ((sh iy) 1) ((ih) 0) ((r ax) 0))) )
 (lex.add.entry 
+ '("Uzzen_Sheerah" nnp (((ah z) 1) ((ax n) 0) ((sh iy) 1) ((ih) 0) ((r ax) 0))) )
+(lex.add.entry 
  '("Uzzensherah" nnp (((ah z) 1) ((ax n) 0) ((sh iy) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Uzzen-sherah" nnp (((ah z) 1) ((ax n) 0) ((sh iy) 1) ((r ax) 0))) )
+(lex.add.entry 
+ '("Uzzen_Sherah" nnp (((ah z) 1) ((ax n) 0) ((sh iy) 1) ((r ax) 0))) )
 (lex.add.entry 
  '("Uzzi" nnp (((ah z) 1) ((ay) 0))) )
 (lex.add.entry 
@@ -10916,6 +10922,10 @@
  '("Uzziah" nnp (((ah) 0) ((z ay) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Uzziel" nnp (((ah) 0) ((z ay) 1) ((ax l) 0))) )
+(lex.add.entry 
+ '("Uzzielite" nnp (((ah) 0) ((z ay) 1) ((ax l) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Uzzielites" nnps (((ah) 0) ((z ay) 1) ((ax l) 0) ((ay t s) 0))) )
 (lex.add.entry 
  '("Vaheb" nnp (((v ey) 1) ((hh eh b) 0))) )
 (lex.add.entry 
@@ -10946,6 +10956,8 @@
  '("Xerxes" nnp (((z er k) 1) ((s iy z) 0))) )
 (lex.add.entry 
  '("Yah" nnp (((y aa) 1))) )
+(lex.add.entry 
+ '("Yahweh" nnp (((y aa) 1) ((w ey) 0))) )
 (lex.add.entry 
  '("Yiron" nnp (((y ay) 1) ((r aa n) 0))) )
 (lex.add.entry 
@@ -10987,6 +10999,8 @@
 (lex.add.entry 
  '("Zacchaeus" nnp (((z ae) 0) ((k iy) 1) ((ax s) 0))) )
 (lex.add.entry 
+ '("Zaccheus" nnp (((z ae) 0) ((k iy) 1) ((ax s) 0))) )
+(lex.add.entry 
  '("Zacchur" nnp (((z ae k) 1) ((er) 0))) )
 (lex.add.entry 
  '("Zaccur" nnp (((z ae k) 1) ((er) 0))) )
@@ -11000,6 +11014,8 @@
  '("Zadok" nnp (((z ey) 1) ((d aa k) 0))) )
 (lex.add.entry 
  '("Zaham" nnp (((z ey) 1) ((hh ae m) 0))) )
+(lex.add.entry 
+ '("Zahar" nnp (((z ey) 1) ((hh aa r) 0))) )
 (lex.add.entry 
  '("Zain" nnp (((z aa) 1) ((ih n) 0))) )
 (lex.add.entry 
@@ -11020,6 +11036,10 @@
  '("Zamzummim" nnp (((z ae m) 0) ((z ah m) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Zamzummims" nnps (((z ae m) 0) ((z ah m) 1) ((ih m z) 0))) )
+(lex.add.entry 
+ '("Zamzummite" nnp (((z ae m) 0) ((z ah m) 1) ((ay t) 0))) )
+(lex.add.entry 
+ '("Zamzummites" nnps (((z ae m) 0) ((z ah m) 1) ((ay t s) 0))) )
 (lex.add.entry 
  '("Zanoah" nnp (((z ax) 0) ((n ow) 1) ((ax) 0))) )
 (lex.add.entry 
@@ -11054,6 +11074,8 @@
  '("Zarethshahar" nnp (((z ae) 1) ((r eh th) 0) ((sh ey) 1) ((hh aa r) 0))) )
 (lex.add.entry 
  '("Zareth-shahar" nnp (((z ae) 1) ((r eh th) 0) ((sh ey) 1) ((hh aa r) 0))) )
+(lex.add.entry 
+ '("Zareth_Shahar" nnp (((z ae) 1) ((r eh th) 0) ((sh ey) 1) ((hh aa r) 0))) )
 (lex.add.entry 
  '("Zarhite" nnp (((z aa r) 1) ((hh ay t) 0))) )
 (lex.add.entry 
@@ -11117,6 +11139,8 @@
 (lex.add.entry 
  '("Zeeb" nnp (((z iy) 1) ((eh b) 0))) )
 (lex.add.entry 
+ '("Zeker" nnp (((z iy) 1) ((k er) 0))) )
+(lex.add.entry 
  '("Zela" nnp (((z iy) 1) ((l ax) 0))) )
 (lex.add.entry 
  '("Zelah" nnp (((z iy) 1) ((l ax) 0))) )
@@ -11157,6 +11181,10 @@
 (lex.add.entry 
  '("Zephon" nnp (((z iy) 1) ((f aa n) 0))) )
 (lex.add.entry 
+ '("Zephonite" nnp (((z iy) 1) ((f aa n) 0) ((ay t) 0))) )
+(lex.add.entry 
+ '("Zephonites" nnps (((z iy) 1) ((f aa n) 0) ((ay t s) 0))) )
+(lex.add.entry 
  '("Zer" nnp (((z er) 1))) )
 (lex.add.entry 
  '("Zerah" nnp (((z iy) 1) ((r ax) 0))) )
@@ -11186,6 +11214,8 @@
  '("Zerethshahar" nnp (((z iy) 1) ((r eh th) 0) ((sh ey) 1) ((hh aa r) 0))) )
 (lex.add.entry 
  '("Zereth-shahar" nnp (((z iy) 1) ((r eh th) 0) ((sh ey) 1) ((hh aa r) 0))) )
+(lex.add.entry 
+ '("Zereth_Shahar" nnp (((z iy) 1) ((r eh th) 0) ((sh ey) 1) ((hh aa r) 0))) )
 (lex.add.entry 
  '("Zeri" nnp (((z iy) 1) ((r ay) 0))) )
 (lex.add.entry 
@@ -11218,6 +11248,8 @@
  '("Zibiah" nnp (((z ih b) 1) ((iy) 0) ((ax) 0))) )
 (lex.add.entry 
  '("Zichri" nnp (((z ih k) 1) ((r ay) 0))) )
+(lex.add.entry 
+ '("Zicri" nnp (((z ih k) 1) ((r ay) 0))) )
 (lex.add.entry 
  '("Ziddim" nnp (((z ih d) 1) ((ih m) 0))) )
 (lex.add.entry 
@@ -11261,7 +11293,7 @@
 (lex.add.entry 
  '("Ziphah" nnp (((z ay) 1) ((f ax) 0))) )
 (lex.add.entry 
- '("Ziphim" nnp (((z ih f) 1) ((ih m) 0))) )
+ '("Ziphim" nnps (((z ih f) 1) ((ih m) 0))) )
 (lex.add.entry 
  '("Ziphims" nnps (((z ih f) 1) ((ih m z) 0))) )
 (lex.add.entry 
@@ -11340,3 +11372,7 @@
  '("Zuzim" nnp (((z uw) 1) ((z ih m) 0))) )
 (lex.add.entry 
  '("Zuzims" nnps (((z uw) 1) ((z ih m z) 0))) )
+(lex.add.entry 
+ '("Zuzite" nnp (((z uw) 1) ((z ay t) 0))) )
+(lex.add.entry 
+ '("Zuzites" nnps (((z uw) 1) ((z ay t s) 0))) )

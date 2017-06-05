@@ -397,11 +397,14 @@ gittith                 cns   GIT-ith                       git'tith            
 
 maranatha               cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
 maran-atha              cns   MAR-uh-NATH-uh               _mar'a-nath'a                  saying
+mene                    nil   MEE-ni                        me'ne                         writing
 
 tekel                   cns   TE-kil                        te'kel                        measure
 tetrarch                cns   TET-rahrk                     tet'rarch                     title
 
 raca                    cns   ruh-KAH                       ra-ca'                        saying
+
+upharsin                nil   yoo-FAHR-sin                  u-phar'sin                    writing
 
 ###########################
 ### Bible: proper nouns ###
@@ -5624,255 +5627,271 @@ Tyropoeon               pns   TIR-uh-PEE-on                 Tyr'o-poe'on        
 Tzaddi                  pns   TSAD-ee                       Tzad'di                       writing
 Tzade                   pns   tsah-DAY                      Tza-de'                       writing
 
-Ucal                    pns   OO-kal                        U'cal                         
-Uel                     pns   OO-el                         U'el
+Ucal                    pns   OO-kal                        U'cal                         person
+Uel                     pns   OO-el                         U'el                          person
 Ugarit                  pns   OO-guh-rit                    U'ga-rit                      place
-Uknaz                   pns   UK-naz                        Uk'naz
-Ulai                    pns   OO-liy                        U'lai
-Ulam                    pns   OO-lam                        U'lam
-Ulla                    pns   UL-uh                         Ul'la
-Ummah                   pns   UM-uh                         Um'mah
-Unni                    pns   UN-iy                         Un'ni
-Unno                    pns   UN-oh                         Un'no
-Upharsin                pns   yoo-FAHR-sin                  U-phar'sin
-Uphaz                   pns   OO-faz                        U'phaz
-Ur                      pns   UHR                           Ur
-Urbane                  pns   UHR-bayn                      Ur'bane
-Urbanus                 pns   uhr-BAY-nuhs                  Ur-ba'nus
-Uri                     pns   OO-riy                        U'ri
-Uriah                   pns   yoo-RIY-uh                    U-ri'ah
-Urias                   pns   yoo-RIY-uhs                   U-ri'as
-Uriel                   pns   OO-ree-uhl                    U'ri-el
-Urijah                  pns   yoo-RIY-juh                   U-ri'jah
+Uknaz                   pns   UK-naz                        Uk'naz                        person
+Ulai                    pns   OO-liy                        U'lai                         place
+Ulam                    pns   OO-lam                        U'lam                         person
+Ulla                    pns   UL-uh                         Ul'la                         person
+Ummah                   pns   UM-uh                         Um'mah                        place
+Unni                    pns   UN-iy                         Un'ni                         person
+Unno                    pns   UN-oh                         Un'no                         person
+Uphaz                   pns   OO-faz                        U'phaz                        place
+Ur                      pns   UHR                           Ur                            person,place
+Urbane                  pns   UHR-bayn                      Ur'bane                       person
+Urbanus                 pns   uhr-BAY-nuhs                  Ur-ba'nus                     person
+Uri                     pns   OO-riy                        U'ri                          person
+Uriah                   pns   yoo-RIY-uh                    U-ri'ah                       person
+Urias                   pns   yoo-RIY-uhs                   U-ri'as                       person
+Uriel                   pns   OO-ree-uhl                    U'ri-el                       person,angel
+Urijah                  pns   yoo-RIY-juh                   U-ri'jah                      person
 Urim                    pns   OO-rim                        U'rim                         thing
-Uthai                   pns   OO-thiy                       U'thai
-Uz                      pns   UZ                            Uz
-Uzai                    pns   OO-ziy                        U'zai
-Uzal                    pns   OO-zal                        U'zal
-Uzza                    pns   UZ-uh                         Uz'za
-Uzzah                   pns   UZ-uh                         Uz'zah
-Uzzensheerah            pns   UZ-uhn-SHEE-i-ruh             Uz'zen-she'e-rah
-Uzzen-sheerah           pns   UZ-uhn-SHEE-i-ruh             Uz'zen-she'e-rah
-Uzzensherah             pns   UZ-uhn-SHEE-ruh               Uz'zen-she'rah
-Uzzen-sherah            pns   UZ-uhn-SHEE-ruh               Uz'zen-she'rah
-Uzzi                    pns   UZ-iy                         Uz'zi
-Uzzia                   pns   u-ZIY-uh                      Uz-zi'a
-Uzziah                  pns   u-ZIY-uh                      Uz-zi'ah
-Uzziel                  pns   u-ZIY-uhl                     Uz-zi'el
+Uthai                   pns   OO-thiy                       U'thai                        person
+Uz                      pns   UZ                            Uz                            person,place
+Uzai                    pns   OO-ziy                        U'zai                         person
+Uzal                    pns   OO-zal                        U'zal                         person,place
+Uzza                    pns   UZ-uh                         Uz'za                         person
+Uzzah                   pns   UZ-uh                         Uz'zah                        person
+Uzzensheerah            pns   UZ-uhn-SHEE-i-ruh             Uz'zen-she'e-rah              place
+Uzzen-sheerah           pns   UZ-uhn-SHEE-i-ruh             Uz'zen-she'e-rah              place
+Uzzen_Sheerah           pns   UZ-uhn-SHEE-i-ruh             Uz'zen_She'e-rah              place
+Uzzensherah             pns   UZ-uhn-SHEE-ruh               Uz'zen-she'rah                place
+Uzzen-sherah            pns   UZ-uhn-SHEE-ruh               Uz'zen-she'rah                place
+Uzzen_Sherah            pns   UZ-uhn-SHEE-ruh               Uz'zen_She'rah                place
+Uzzi                    pns   UZ-iy                         Uz'zi                         person
+Uzzia                   pns   u-ZIY-uh                      Uz-zi'a                       person
+Uzziah                  pns   u-ZIY-uh                      Uz-zi'ah                      person
+Uzziel                  pns   u-ZIY-uhl                     Uz-zi'el                      person
+Uzzielite               pns   u-ZIY-uhl-iyt                 Uz-zi'el-ite                  ethnic
+Uzzielites              pnp   u-ZIY-uhl-iyts                Uz-zi'el-ites                 ethnic
 
-Vaheb                   pns   VAY-heb                       Va'heb
-Vaizatha                pns   viy-ZAH-thuh                  Vai-za'tha
-Vajezatha               pns   vuh-JEZ-uh-thuh               Va-jez'a-tha
-Vaniah                  pns   vuh-NIY-uh                    Va-ni'ah
-Vashni                  pns   VASH-niy                      Vash'ni
-Vashti                  pns   VASH-tiy                      Vash'ti
-Vau                     pns   VAO                           Vau
-Vav                     pns   VAHV                          Vav
-Veadar                  pns   VEE-uh-dahr                   Ve'a-dar
-Vedan                   pns   VEE-dan                       Ve'dan
-Vophsi                  pns   VOF-siy                       Voph'si
+Vaheb                   pns   VAY-heb                       Va'heb                        place
+Vaizatha                pns   viy-ZAH-thuh                  Vai-za'tha                    person
+Vajezatha               pns   vuh-JEZ-uh-thuh               Va-jez'a-tha                  person
+Vaniah                  pns   vuh-NIY-uh                    Va-ni'ah                      person
+Vashni                  pns   VASH-niy                      Vash'ni                       person
+Vashti                  pns   VASH-tiy                      Vash'ti                       person
+Vau                     pns   VAO                           Vau                           writing
+Vav                     pns   VAHV                          Vav                           writing
+Veadar                  pns   VEE-uh-dahr                   Ve'a-dar                      measure
+Vedan                   pns   VEE-dan                       Ve'dan                        place
+Vophsi                  pns   VOF-siy                       Voph'si                       person
 
-Waheb                   pns   WAY-heb                       Wa'heb
-Waw                     pns   WAO                           Waw
+Waheb                   pns   WAY-heb                       Wa'heb                        place
+Waw                     pns   WAO                           Waw                           writing
 
-Xerxes                  pns   ZUHRK-seez                    Xer'xes
+Xerxes                  pns   ZUHRK-seez                    Xer'xes                       person
 
-Yah                     pns   YAH                           Ya                            person,divine
-Yiron                   pns   YIY-ron                       Yi'ron
+Yah                     pns   YAH                           Yah                           divine
+Yahweh                  pns   YAH-way                       Yaw'yeh                       divine
+Yiron                   pns   YIY-ron                       Yi'ron                        place
 Yod                     pns   YOD                           Yod                           writing
 Yodh                    pns   YOHD                          Yodh                          writing
 
-Zaanaim                 pns   ZAY-uh-NAY-im                 Za'a-na'im
-Zaanan                  pns   ZAY-uh-NAN                    Za'a-nan
-Zaanannim               pns   ZAY-uh-NAN-im                 Za'a-nan'nim
-Zaavan                  pns   ZAY-uh-van                    Za'a-van
-Zabad                   pns   ZAY-bad                       Za'bad
-Zabadaean               pns   ZAB-uh-DEE-uhn                Zab'a-dae'an
-Zabadaeans              pnp   ZAB-uh-DEE-uhnz               Zab'a-dae'ans
-Zabadean                pns   ZAB-uh-DEE-uhn                Zab'a-de'an
-Zabadeans               pnp   ZAB-uh-DEE-uhnz               Zab'a-de'ans
-Zabbai                  pns   ZAB-iy                        Zab'bai
-Zabbud                  pns   ZAB-ud                        Zab'bud
-Zabdi                   pns   ZAB-diy                       Zab'di
-Zabdiel                 pns   ZAB-dee-uhl                   Zab'di-el
-Zabud                   pns   ZAY-bud                       Za'bud
-Zabulon                 pns   ZAB-yoo-luhn                  Zab'u-lon
-Zaccai                  pns   ZAK-iy                        Zac'cai
-Zacchaeus               pns   za-KEE-uhs                    Zac-chae'us
-Zacchur                 pns   ZAK-uhr                       Zac'chur
-Zaccur                  pns   ZAK-uhr                       Zac'cur
-Zachariah               pns   ZAK-uh-RIY-uh                 Zach'a-ri'ah
-Zacharias               pns   ZAK-uh-RIY-uhs                Zach'a-ri'as
-Zacher                  pns   ZAY-kuhr                      Za'cher
+Zaanaim                 pns   ZAY-uh-NAY-im                 Za'a-na'im                    place
+Zaanan                  pns   ZAY-uh-NAN                    Za'a-nan                      place
+Zaanannim               pns   ZAY-uh-NAN-im                 Za'a-nan'nim                  place
+Zaavan                  pns   ZAY-uh-van                    Za'a-van                      person
+Zabad                   pns   ZAY-bad                       Za'bad                        person
+Zabadaean               pns   ZAB-uh-DEE-uhn                Zab'a-dae'an                  ethnic
+Zabadaeans              pnp   ZAB-uh-DEE-uhnz               Zab'a-dae'ans                 ethnic
+Zabadean                pns   ZAB-uh-DEE-uhn                Zab'a-de'an                   ethnic
+Zabadeans               pnp   ZAB-uh-DEE-uhnz               Zab'a-de'ans                  ethnic
+Zabbai                  pns   ZAB-iy                        Zab'bai                       person
+Zabbud                  pns   ZAB-ud                        Zab'bud                       person
+Zabdi                   pns   ZAB-diy                       Zab'di                        person
+Zabdiel                 pns   ZAB-dee-uhl                   Zab'di-el                     person
+Zabud                   pns   ZAY-bud                       Za'bud                        person
+Zabulon                 pns   ZAB-yoo-luhn                  Zab'u-lon                     person
+Zaccai                  pns   ZAK-iy                        Zac'cai                       person
+Zacchaeus               pns   za-KEE-uhs                    Zac-chae'us                   person
+Zaccheus                pns   Za-KEE-uhs                    Zac-che'us                    person
+Zacchur                 pns   ZAK-uhr                       Zac'chur                      person
+Zaccur                  pns   ZAK-uhr                       Zac'cur                       person
+Zachariah               pns   ZAK-uh-RIY-uh                 Zach'a-ri'ah                  person
+Zacharias               pns   ZAK-uh-RIY-uhs                Zach'a-ri'as                  person
+Zacher                  pns   ZAY-kuhr                      Za'cher                       person
 Zadok                   pns   ZAY-dok                       Za'dok                        person
-Zaham                   pns   ZAY-ham                       Za'ham
-Zain                    pns   ZAH-in                        Za'in
-Zair                    pns   ZAY-ir                        Za'ir
-Zakkur                  pns   ZAK-ur                        Zak'kur
-Zalaph                  pns   ZAY-laf                       Za'laph
-Zalmon                  pns   ZAL-muhn                      Zal'mon
-Zalmonah                pns   zal-MOH-nuh                   Zal-mo'nah
-Zalmunna                pns   zal-MUN-uh                    Zal-mun'na
-Zambri                  pns   ZAM-briy                      Zam'bri
-Zamzummim               pns   zam-ZUM-im                    Zam-zum'mim
-Zamzummims              pnp   zam-ZUM-imz                   Zam-zum'mims
-Zanoah                  pns   zuh-NOH-uh                    Za-no'ah
-Zaphenathpaneah         pns   ZAF-i-nath-puh-NEE-uh         Zaph'e-nath-pa-ne'ah
-Zaphenath-paneah        pns   ZAF-i-nath-puh-NEE-uh         Zaph'e-nath-pa-ne'ah
-Zaphnathpaaneah         pns   ZAF-nath-PAY-uh-NEE-uh        Zaph'nath-pa'a-ne'ah
-Zaphnath-paaneah        pns   ZAF-nath-PAY-uh-NEE-uh        Zaph'nath-pa'a-ne'ah
-Zaphon                  pns   ZAY-fon                       Za'phon
-Zara                    pns   ZAY-ruh                       Za'ra
-Zarah                   pns   ZAY-ruh                       Za'rah
-Zareah                  pns   ZAY-ree-uh                    Za're-ah
-Zareathite              pns   ZAY-ree-uhth-iyt              Za're-ath-ite
-Zareathites             pnp   ZAY-ree-uhth-iyts             Za're-ath-ites
-Zared                   pns   ZAY-red                       Za'red
+Zaham                   pns   ZAY-ham                       Za'ham                        person
+Zahar                   pns   ZAY-hahr                      Za'har                        place
+Zain                    pns   ZAH-in                        Za'in                         writing
+Zair                    pns   ZAY-ir                        Za'ir                         place
+Zakkur                  pns   ZAK-ur                        Zak'kur                       person
+Zalaph                  pns   ZAY-laf                       Za'laph                       person
+Zalmon                  pns   ZAL-muhn                      Zal'mon                       person,place
+Zalmonah                pns   zal-MOH-nuh                   Zal-mo'nah                    place
+Zalmunna                pns   zal-MUN-uh                    Zal-mun'na                    person
+Zambri                  pns   ZAM-briy                      Zam'bri                       person
+Zamzummim               pns   zam-ZUM-im                    Zam-zum'mim                   ethnic
+Zamzummims              pnp   zam-ZUM-imz                   Zam-zum'mims                  ethnic
+Zamzummite              pns   zam-ZUM-iyt                   Zam-zum'ite                   ethnic
+Zamzummites             pnp   zam-ZUM-iyts                  Zam-zum'ites                  ethnic
+Zanoah                  pns   zuh-NOH-uh                    Za-no'ah                      place
+Zaphenathpaneah         pns   ZAF-i-nath-puh-NEE-uh         Zaph'e-nath-pa-ne'ah          person
+Zaphenath-paneah        pns   ZAF-i-nath-puh-NEE-uh         Zaph'e-nath-pa-ne'ah          person
+Zaphnathpaaneah         pns   ZAF-nath-PAY-uh-NEE-uh        Zaph'nath-pa'a-ne'ah          person
+Zaphnath-paaneah        pns   ZAF-nath-PAY-uh-NEE-uh        Zaph'nath-pa'a-ne'ah          person
+Zaphon                  pns   ZAY-fon                       Za'phon                       place
+Zara                    pns   ZAY-ruh                       Za'ra                         person
+Zarah                   pns   ZAY-ruh                       Za'rah                        person
+Zareah                  pns   ZAY-ree-uh                    Za're-ah                      place
+Zareathite              pns   ZAY-ree-uhth-iyt              Za're-ath-ite                 ethnic
+Zareathites             pnp   ZAY-ree-uhth-iyts             Za're-ath-ites                ethnic
+Zared                   pns   ZAY-red                       Za'red                        place
 Zarephath               pns   ZAR-i-fath                    Zar'e-phath                   place
-Zaretan                 pns   ZAR-i-tan                     Zar'e-tan
-Zarethan                pns   ZAR-i-than                    Zar'e-than
-Zarethshahar            pns   ZA-reth-SHAY-hahr             Za'reth-sha'har
-Zareth-shahar           pns   ZA-reth-SHAY-hahr             Za'reth-sha'har
-Zarhite                 pns   ZAHR-hiyt                     Zar'hite
-Zarhites                pnp   ZAHR-hiyts                    Zar'hites
-Zartanah                pns   ZAHR-tuh-nah                  Zar'ta-nah
-Zarthan                 pns   ZAHR-than                     Zar'than
-Zatthu                  pns   ZAT-thoo                      Zat'thu
-Zattu                   pns   ZAT-yoo                       Zat'tu
-Zavan                   pns   ZAY-van                       Za'van
-Zayin                   pns   ZAH-yin                       Za'yin
-Zaza                    pns   ZAY-zuh                       Za'za
-Zealot                  pns   ZEL-uht                       Zeal'ot
-Zealots                 pns   ZEL-uhts                      Zeal'ots
-Zebadiah                pns   ZEB-uh-DIY-uh                 Zeb'a-di'ah
-Zebah                   pns   ZEE-buh                       Ze'bah
-Zebaim                  pns   zi-BAY-im                     Ze-ba'im
-Zebedee                 pns   ZEB-i-dee                     Zeb'e-dee
-Zebidah                 pns   zi-BIY-duh                    Ze-bi'dah
-Zebina                  pns   zi-BIY-nuh                    Ze-bi'na
-Zeboiim                 pns   zi-BOY-im                     Ze-boi'im
-Zeboim                  pns   zi-BOH-im                     Ze-bo'im
-Zebudah                 pns   zi-BOO-duh                    Ze-bu'dah
-Zebul                   pns   ZEE-bul                       Ze'bul
-Zebulonite              pns   ZEB-yoo-luhn-iyt              Zeb'u-lon-ite
-Zebulonites             pnp   ZEB-yoo-luhn-iyts             Zeb'u-lon-ites
-Zebulun                 pns   ZEB-yoo-luhn                  Zeb'u-lun
-Zebulunite              pns   ZEB-yoo-luhn-iyt              Zeb'u-lun-ite
-Zebulunites             pnp   ZEB-yoo-luhn-iyts             Zeb'u-lun-ites
-Zechariah               pns   ZEK-uh-RIY-uh                 Zech'a-ri'ah
-Zecher                  pns   ZEE-kuhr                      Ze'cher
-Zedad                   pns   ZEE-dad                       Ze'dad
-Zedekiah                pns   ZED-i-KIY-uh                  Zed'e-ki'ah
-Zeeb                    pns   ZEE-eb                        Ze'eb
-Zela                    pns   ZEE-luh                       Ze'la
-Zelah                   pns   ZEE-luh                       Ze'lah
-Zelek                   pns   ZEE-lek                       Ze'lek
-Zelophehad              pns   zi-LOH-fi-had                 Ze-lo'phe-had
-Zelotes                 pns   Zi-LOH-teez                   Ze-lo'tes
-Zelzah                  pns   ZEL-zuh                       Zel'zah
-Zemaraim                pns   ZEM-uh-RAY-im                 Zem'a-ra'im
-Zemarite                pns   ZEM-uh-riyt                   Zem'a-rite
-Zemarites               pnp   ZEM-uh-riyts                  Zem'a-rites
-Zemer                   pns   ZEE-muhr                      Ze'mer
-Zemira                  pns   zi-MIY-ruh                    Ze-mi'ra
-Zemirah                 pns   zi-MIY-ruh                    Ze-mi'rah
-Zenan                   pns   ZEE-nan                       Ze'nan
-Zenas                   pns   ZEE-nuhs                      Ze'nas
-Zephaniah               pns   ZEF-uh-NIY-uh                 Zeph'a-ni'ah
-Zephath                 pns   ZEE-fath                      Ze'phath
-Zephathah               pns   ZEF-uh-thuh                   Zeph'a-thah
-Zephi                   pns   ZEE-fiy                       Ze'phi
-Zepho                   pns   ZEE-foh                       Ze'pho
-Zephon                  pns   ZEE-fon                       Ze'phon
-Zer                     pns   ZUHR                          Zer
-Zerah                   pns   ZEE-ruh                       Ze'rah
-Zerahiah                pns   ZER-uh-HIY-uh                 Zer'a-hi'ah
-Zerahite                pns   ZEE-ruh-hiyt                  Ze'ra-hite
-Zerahites               pnp   ZEE-ruh-hiyts                 Ze'ra-hites
-Zered                   pns   ZEE-red                       Ze'red
-Zereda                  pns   ZER-i-duh                     Zer'e-da
-Zeredah                 pns   ZER-i-duh                     Zer'e-dah
-Zeredathah              pns   ZER-i-DAY-thuh                Zer'e-da'thah
-Zererah                 pns   ZER-i-ruh                     Zer'e-rah
-Zererath                pns   ZER-i-ruhth                   Zer'e-rath
-Zeresh                  pns   ZEE-resh                      Ze'resh
-Zereth                  pns   ZEE-reth                      Ze'reth
-Zerethshahar            pns   ZEE-reth-SHAY-hahr            Ze'reth-sha'har
-Zereth-shahar           pns   ZEE-reth-SHAY-hahr            Ze'reth-sha'har
-Zeri                    pns   ZEE-riy                       Ze'ri
-Zeror                   pns   ZEE-rohr                      Ze'ror
-Zeruah                  pns   zi-ROO-uh                     Ze-ru'ah
-Zerubbabel              pns   zuh-RUB-uh-buhl               Ze-rub'ba-bel
-Zeruia                  pns   ZER-uu-IY-uh                  Zer'u-i'ah
-Zeruiah                 pns   ZER-uu-IY-uh                 *Zer'u-i'ah
-Zetham                  pns   ZEE-thuhm                     Ze'tham
-Zethan                  pns   ZEE-thuhn                     Ze'than
-Zethar                  pns   ZEE-thahr                     Ze'thar
-Zeus                    pns   ZOOS                          Zeus
-Zia                     pns   ZIY-uh                        Zi'a
-Ziba                    pns   ZIY-buh                       Zi'ba
-Zibeon                  pns   ZIB-ee-uhn                    Zib'e-on
-Zibia                   pns   ZIB-ee-uh                     Zib'i-a
-Zibiah                  pns   ZIB-ee-uh                     Zib'i-ah
-Zichri                  pns   ZIK-riy                       Zich'ri
-Ziddim                  pns   ZID-im                        Zid'dim
-Zidkijah                pns   zid-KIY-juh                   Zid-ki'jah
+Zaretan                 pns   ZAR-i-tan                     Zar'e-tan                     place
+Zarethan                pns   ZAR-i-than                    Zar'e-than                    place
+Zarethshahar            pns   ZA-reth-SHAY-hahr             Za'reth-sha'har               place
+Zareth-shahar           pns   ZA-reth-SHAY-hahr             Za'reth-sha'har               place
+Zareth_Shahar           pns   ZA-reth-SHAY-hahr             Za'reth_Sha'har               place
+Zarhite                 pns   ZAHR-hiyt                     Zar'hite                      ethnic
+Zarhites                pnp   ZAHR-hiyts                    Zar'hites                     ethnic
+Zartanah                pns   ZAHR-tuh-nah                  Zar'ta-nah                    place
+Zarthan                 pns   ZAHR-than                     Zar'than                      place
+Zatthu                  pns   ZAT-thoo                      Zat'thu                       place
+Zattu                   pns   ZAT-yoo                       Zat'tu                        place
+Zavan                   pns   ZAY-van                       Za'van                        person
+Zayin                   pns   ZAH-yin                       Za'yin                        writing
+Zaza                    pns   ZAY-zuh                       Za'za                         person
+Zealot                  pns   ZEL-uht                       Zeal'ot                       ethnic
+Zealots                 pns   ZEL-uhts                      Zeal'ots                      ethnic
+Zebadiah                pns   ZEB-uh-DIY-uh                 Zeb'a-di'ah                   person
+Zebah                   pns   ZEE-buh                       Ze'bah                        person
+Zebaim                  pns   zi-BAY-im                     Ze-ba'im                      person,place
+Zebedee                 pns   ZEB-i-dee                     Zeb'e-dee                     person
+Zebidah                 pns   zi-BIY-duh                    Ze-bi'dah                     person
+Zebina                  pns   zi-BIY-nuh                    Ze-bi'na                      person
+Zeboiim                 pns   zi-BOY-im                     Ze-boi'im                     place
+Zeboim                  pns   zi-BOH-im                     Ze-bo'im                      place
+Zebudah                 pns   zi-BOO-duh                    Ze-bu'dah                     person
+Zebul                   pns   ZEE-bul                       Ze'bul                        person
+Zebulonite              pns   ZEB-yoo-luhn-iyt              Zeb'u-lon-ite                 ethnic
+Zebulonites             pnp   ZEB-yoo-luhn-iyts             Zeb'u-lon-ites                ethnic
+Zebulun                 pns   ZEB-yoo-luhn                  Zeb'u-lun                     person,place
+Zebulunite              pns   ZEB-yoo-luhn-iyt              Zeb'u-lun-ite                 ethnic
+Zebulunites             pnp   ZEB-yoo-luhn-iyts             Zeb'u-lun-ites                ethnic
+Zechariah               pns   ZEK-uh-RIY-uh                 Zech'a-ri'ah                  person,writing
+Zecher                  pns   ZEE-kuhr                      Ze'cher                       person
+Zedad                   pns   ZEE-dad                       Ze'dad                        place
+Zedekiah                pns   ZED-i-KIY-uh                  Zed'e-ki'ah                   person
+Zeeb                    pns   ZEE-eb                        Ze'eb                         person
+Zeker                   pns   ZEE-kuhr                      Ze'ker                        person
+Zela                    pns   ZEE-luh                       Ze'la                         place
+Zelah                   pns   ZEE-luh                       Ze'lah                        place
+Zelek                   pns   ZEE-lek                       Ze'lek                        person
+Zelophehad              pns   zi-LOH-fi-had                 Ze-lo'phe-had                 person
+Zelotes                 pns   Zi-LOH-teez                   Ze-lo'tes                     person,ethnic
+Zelzah                  pns   ZEL-zuh                       Zel'zah                       place
+Zemaraim                pns   ZEM-uh-RAY-im                 Zem'a-ra'im                   place
+Zemarite                pns   ZEM-uh-riyt                   Zem'a-rite                    ethnic
+Zemarites               pnp   ZEM-uh-riyts                  Zem'a-rites                   ethnic
+Zemer                   pns   ZEE-muhr                      Ze'mer                        place
+Zemira                  pns   zi-MIY-ruh                    Ze-mi'ra                      person
+Zemirah                 pns   zi-MIY-ruh                    Ze-mi'rah                     person
+Zenan                   pns   ZEE-nan                       Ze'nan                        place
+Zenas                   pns   ZEE-nuhs                      Ze'nas                        person
+Zephaniah               pns   ZEF-uh-NIY-uh                 Zeph'a-ni'ah                  person,writing
+Zephath                 pns   ZEE-fath                      Ze'phath                      place
+Zephathah               pns   ZEF-uh-thuh                   Zeph'a-thah                   place
+Zephi                   pns   ZEE-fiy                       Ze'phi                        person
+Zepho                   pns   ZEE-foh                       Ze'pho                        person
+Zephon                  pns   ZEE-fon                       Ze'phon                       person
+Zephonite               pns   ZEE-fon-iyt                   Ze'phon-ite                   ethnic
+Zephonites              pnp   ZEE-fon-iyts                  Ze'phon-ites                  ethnic
+Zer                     pns   ZUHR                          Zer                           place
+Zerah                   pns   ZEE-ruh                       Ze'rah                        person
+Zerahiah                pns   ZER-uh-HIY-uh                 Zer'a-hi'ah                   person
+Zerahite                pns   ZEE-ruh-hiyt                  Ze'ra-hite                    ethnic
+Zerahites               pnp   ZEE-ruh-hiyts                 Ze'ra-hites                   ethnic
+Zered                   pns   ZEE-red                       Ze'red                        place
+Zereda                  pns   ZER-i-duh                     Zer'e-da                      place
+Zeredah                 pns   ZER-i-duh                     Zer'e-dah                     place
+Zeredathah              pns   ZER-i-DAY-thuh                Zer'e-da'thah                 place
+Zererah                 pns   ZER-i-ruh                     Zer'e-rah                     place
+Zererath                pns   ZER-i-ruhth                   Zer'e-rath                    place
+Zeresh                  pns   ZEE-resh                      Ze'resh                       person
+Zereth                  pns   ZEE-reth                      Ze'reth                       person
+Zerethshahar            pns   ZEE-reth-SHAY-hahr            Ze'reth-sha'har               place
+Zereth-shahar           pns   ZEE-reth-SHAY-hahr            Ze'reth-sha'har               place
+Zereth_Shahar           pns   ZEE-reth-SHAY-hahr            Ze'reth_Sha'har               place
+Zeri                    pns   ZEE-riy                       Ze'ri                         person
+Zeror                   pns   ZEE-rohr                      Ze'ror                        person
+Zeruah                  pns   zi-ROO-uh                     Ze-ru'ah                      person
+Zerubbabel              pns   zuh-RUB-uh-buhl               Ze-rub'ba-bel                 person
+Zeruia                  pns   ZER-uu-IY-uh                  Zer'u-i'a                     person
+Zeruiah                 pns   ZER-uu-IY-uh                  Zer'u-i'ah                    person
+Zetham                  pns   ZEE-thuhm                     Ze'tham                       person
+Zethan                  pns   ZEE-thuhn                     Ze'than                       person
+Zethar                  pns   ZEE-thahr                     Ze'thar                       person
+Zeus                    pns   ZOOS                          Zeus                          deity
+Zia                     pns   ZIY-uh                        Zi'a                          person
+Ziba                    pns   ZIY-buh                       Zi'ba                         person
+Zibeon                  pns   ZIB-ee-uhn                    Zib'e-on                      person
+Zibia                   pns   ZIB-ee-uh                     Zib'i-a                       person
+Zibiah                  pns   ZIB-ee-uh                     Zib'i-ah                      person
+Zichri                  pns   ZIK-riy                       Zich'ri                       person
+Zicri                   pns   ZIK-riy                       Zic'ri                        person
+Ziddim                  pns   ZID-im                        Zid'dim                       place
+Zidkijah                pns   zid-KIY-juh                   Zid-ki'jah                    person
 Zidon                   pns   ZIY-duhn                      Zi'don                        person,place
 Zidonian                pns   ziy-DOH-nee-uhn               Zi-do'ni-an                   ethnic
 Zidonians               pnp   ziy-DOH-nee-uhnz              Zi-do'ni-ans                  ethnic
-Zif                     pns   ZIF                           Zif
-Ziha                    pns   ZIY-huh                       Zi'ha
-Ziklag                  pns   ZIK-lag                       Zik'lag
-Zillah                  pns   ZIL-uh                        Zil'lah
-Zillethai               pns   ZIL-i-thiy                    Zil'le-thai
-Zilpah                  pns   ZIL-puh                       Zil'pah
-Zilthai                 pns   ZIL-thiy                      Zil'thai
-Zimmah                  pns   ZIM-uh                        Zim'mah
-Zimran                  pns   ZIM-ran                       Zim'ran
-Zimri                   pns   ZIM-riy                       Zim'ri
-Zin                     pns   ZIN                           Zin
-Zina                    pns   ZIY-nuh                       Zi'na
-Zion                    pns   ZIY-uhn                       Zi'on
-Zior                    pns   ZIY-ohr                       Zi'or
-Ziph                    pns   ZIF                           Ziph
-Ziphah                  pns   ZIY-fuh                       Zi'phah
-Ziphim                  pns   ZIF-im                        Ziph'im
-Ziphims                 pnp   ZIF-imz                       Ziph'ims
-Ziphion                 pns   ZIF-ee-on                     Ziph'i-on
-Ziphite                 pns   ZIF-iyt                       Ziph'ite
-Ziphites                pnp   ZIF-iyts                      Ziph'ites
-Ziphron                 pns   ZIF-ron                       Ziph'ron
-Zippor                  pns   ZIP-ohr                       Zip'por
-Zipporah                pns   zi-POH-ruh                    Zip-po'rah
+Zif                     pns   ZIF                           Zif                           measure
+Ziha                    pns   ZIY-huh                       Zi'ha                         person
+Ziklag                  pns   ZIK-lag                       Zik'lag                       place
+Zillah                  pns   ZIL-uh                        Zil'lah                       person
+Zillethai               pns   ZIL-i-thiy                    Zil'le-thai                   person
+Zilpah                  pns   ZIL-puh                       Zil'pah                       person
+Zilthai                 pns   ZIL-thiy                      Zil'thai                      person
+Zimmah                  pns   ZIM-uh                        Zim'mah                       person
+Zimran                  pns   ZIM-ran                       Zim'ran                       person
+Zimri                   pns   ZIM-riy                       Zim'ri                        person,place
+Zin                     pns   ZIN                           Zin                           place
+Zina                    pns   ZIY-nuh                       Zi'na                         person
+Zion                    pns   ZIY-uhn                       Zi'on                         place
+Zior                    pns   ZIY-ohr                       Zi'or                         place
+Ziph                    pns   ZIF                           Ziph                          person,place
+Ziphah                  pns   ZIY-fuh                       Zi'phah                       person
+Ziphim                  pnp   ZIF-im                        Ziph'im                       ethnic
+Ziphims                 pnp   ZIF-imz                       Ziph'ims                      ethnic
+Ziphion                 pns   ZIF-ee-on                     Ziph'i-on                     person
+Ziphite                 pns   ZIF-iyt                       Ziph'ite                      ethnic
+Ziphites                pnp   ZIF-iyts                      Ziph'ites                     ethnic
+Ziphron                 pns   ZIF-ron                       Ziph'ron                      place
+Zippor                  pns   ZIP-ohr                       Zip'por                       person
+Zipporah                pns   zi-POH-ruh                    Zip-po'rah                    person
 Zithri                  pns   ZITH-riy                      Zith'ri                       person
-Ziv                     pns   ZIV                           Ziv
-Ziz                     pns   ZIZ                           Ziz
-Ziza                    pns   ZIY-zuh                       Zi'za
-Zizah                   pns   ZIY-zuh                       Zi'zah
-Zoan                    pns   ZOH-an                        Zo'an
-Zoar                    pns   ZOH-uhr                       Zo'ar
-Zoba                    pns   ZOH-buh                       Zo'ba
-Zobah                   pns   ZOH-buh                       Zo'bah
-Zobebah                 pns   zuh-BEE-buh                   Zo-be'bah
-Zohar                   pns   ZOH-hahr                      Zo'har
-Zoheleth                pns   ZOH-he-leth                   Zo'he-leth
-Zoheth                  pns   ZOH-heth                      Zo'heth
-Zophah                  pns   ZOH-fuh                       Zo'phah
-Zophai                  pns   ZOH-fiy                       Zo'phai
-Zophar                  pns   ZOH-fuhr                      Zo'phar
-Zophim                  pns   ZOH-fim                       Zo'phim
-Zorah                   pns   ZOH-ruh                       Zo'rah
-Zorathite               pns   ZOH-rath-iyt                  Zo'rath-ite
-Zorathites              pnp   ZOH-rath-iyts                 Zo'rath-ites
-Zoreah                  pns   ZOH-ree-uh                    Zo're-ah
-Zorite                  pns   ZOH-riyt                      Zo'rite
-Zorites                 pnp   ZOH-riyts                     Zo'rites
-Zorobabel               pns   zoh-ROB-uh-buhl               Zo-rob'a-bel
-Zuar                    pns   ZOO-uhr                       Zu'ar
-Zuph                    pns   ZUF                           Zuph
-Zur                     pns   ZUHR                          Zur
-Zuriel                  pns   ZOO-ree-el                    Zu'ri-el
-Zurishaddai             pns   ZOO-ri-SHAD-iy                Zu'ri-shad'dai
-Zuri-shaddai            pns   ZOO-ri-SHAD-iy                Zu'ri-shad'dai
-Zuzim                   pns   ZOO-zim                       Zu'rim
-Zuzims                  pnp   ZOO-zimz                      Zu'rims
+Ziv                     pns   ZIV                           Ziv                           measure
+Ziz                     pns   ZIZ                           Ziz                           measure
+Ziza                    pns   ZIY-zuh                       Zi'za                         person
+Zizah                   pns   ZIY-zuh                       Zi'zah                        person
+Zoan                    pns   ZOH-an                        Zo'an                         place
+Zoar                    pns   ZOH-uhr                       Zo'ar                         place
+Zoba                    pns   ZOH-buh                       Zo'ba                         place
+Zobah                   pns   ZOH-buh                       Zo'bah                        place
+Zobebah                 pns   zuh-BEE-buh                   Zo-be'bah                     person
+Zohar                   pns   ZOH-hahr                      Zo'har                        person
+Zoheleth                pns   ZOH-he-leth                   Zo'he-leth                    place,thing
+Zoheth                  pns   ZOH-heth                      Zo'heth                       person
+Zophah                  pns   ZOH-fuh                       Zo'phah                       person
+Zophai                  pns   ZOH-fiy                       Zo'phai                       person
+Zophar                  pns   ZOH-fuhr                      Zo'phar                       person
+Zophim                  pns   ZOH-fim                       Zo'phim                       place
+Zorah                   pns   ZOH-ruh                       Zo'rah                        place
+Zorathite               pns   ZOH-rath-iyt                  Zo'rath-ite                   ethnic
+Zorathites              pnp   ZOH-rath-iyts                 Zo'rath-ites                  ethnic
+Zoreah                  pns   ZOH-ree-uh                    Zo're-ah                      place
+Zorite                  pns   ZOH-riyt                      Zo'rite                       ethnic
+Zorites                 pnp   ZOH-riyts                     Zo'rites                      ethnic
+Zorobabel               pns   zoh-ROB-uh-buhl               Zo-rob'a-bel                  person
+Zuar                    pns   ZOO-uhr                       Zu'ar                         person
+Zuph                    pns   ZUF                           Zuph                          person,place
+Zur                     pns   ZUHR                          Zur                           person
+Zuriel                  pns   ZOO-ree-el                    Zu'ri-el                      person
+Zurishaddai             pns   ZOO-ri-SHAD-iy                Zu'ri-shad'dai                person
+Zuri-shaddai            pns   ZOO-ri-SHAD-iy                Zu'ri-shad'dai                person
+Zuzim                   pns   ZOO-zim                       Zu'rim                        ethnic
+Zuzims                  pnp   ZOO-zimz                      Zu'rims                       ethnic
+Zuzite                  pns   ZOO-ziyt                      Zu'zite                       ethnic
+Zuzites                 pnp   ZOO-ziyts                     Zu'zites                      ethnic
