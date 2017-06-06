@@ -9,9 +9,7 @@
 #        : strings and a file containing all rejected text strings.            #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
-# To Do  : 1. Add the capability to specify a search clasifier. For example,   #
-#        :    to specify a scan for proper names of persons, only. This is     #
-#        :    contingent upon classifier field entries having been completed.  #
+# To Do  : 1. Add the capability to specify a search clasifier.                #
 #        :                                                                     #
 # ============================================================================ #
 # Script name
