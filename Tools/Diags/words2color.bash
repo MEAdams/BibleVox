@@ -5,6 +5,13 @@
 # Date   : 2017.05.20                                                          #
 # Author : MEAdams                                                             #
 # Purpose: grep pipe to search for words within text and colorize them         #
+# -------:-------------------------------------------------------------------- #
+# Notes &: 1. In addition to single words, this utility will also process      #
+# Assumes:    multi-word strings (e.g. "Holy Spirit" and Jesus Christ). The    #
+#        :    BibleVox dictionary menu file, the words to be searched for,     #
+#        :    employs underscore characters (i.e. "_") as place holders which  #
+#        :    this utility will process as space characters within multi-word  #
+#        :    entries.
 # ============================================================================ #
 # Script name
 scr=$(basename "$0")
@@ -28,24 +35,28 @@ CTXT="${1}colored.copyrighted"
 DICT="${1}accepts.diag"
 REGX="${1}regexps.diag"
 
-# Read the translation specific BibleVox dictionary menu file.
-_try cat ${DICT} | \
+# Read the translation specific BibleVox dictionary menu file and remove all
+# comment lines.
+_try cat ${DICT} | sed -e '/^#.*/d' | \
 
-# Remove all comment lines.
-sed -e '/^#.*/d' | \
+# Extract the head word column and create and grep search patterns. Note
+# that the search pattern delimiter is the grep word boundary code excluding
+# the ASCII hyphen character, which appears in many Bible text proper names.
+# This pattern prevents substrings from matching hyphenated name fragments.
+awk '{ print "(^|[^-])\\b"$1"\\b([^-]|$)" }' | \
 
 # Change ASCII dash, double dash and apostrophe codes to UTF8 codes for the
-# "en dash", "em dash" and "right single quote", respectively. This has no
-# effect if the UTF8 characer codes already are present.
+# "en dash", "em dash" and "right single quote", respectively.
 ../ascii2utf.bash | \
 
-# Get the head word column and create and save grep search patterns. Note
-# that the search pattern delimiter is the grep word boundary code excluding
-# the "en dash" character, which appears in many Bible text proper names.
-# This prevents substrings from matching hyphenated name fragments.
-awk '{ print "(^|[^–])\\b"$1"\\b([^–]|$)" }' > ${REGX}
+# Change all BibleVox multi-word placeholder underscore characters (i.e. "_")
+# into double space characters and save this final product. Double spaces are
+# needed rather than single spaces because of the Bible text color code process
+# to follow.
+sed -e 's/_/  /g' > ${REGX}
 
-# Read the specified Bible text file.
+# Read the specified Bible text file. Note that the format of this file must
+# be single verse per line.
 _try cat ${BTXT} | \
 
 # Change ASCII dash, double dash and apostrophe codes to UTF8 codes for the
@@ -54,12 +65,12 @@ _try cat ${BTXT} | \
 ../ascii2utf.bash | \
 
 # The ANSI ESC color codes to be inserted will cause problems when grepping
-# through space delimited words. The reason is hard to explain. However, one
-# solution, there possibly may be others, is to double space between words.
-# This insures that a space character will appear after ANSI ESC color codes
-# inserted between space delimited words, which facilitates proper grepping.
-# Note that by "space delimited words" is meant words without any interceding
-# punctuation mark.
+# through space delimited words (see the reason explained in the solution).
+# However, one solution, there possibly may be others, is to double space
+# between words. This insures that a space character will appear after ANSI
+# ESC color codes inserted between space delimited words, which facilitates
+# proper grepping. Note that "space delimited words" meants words without
+# any interceding punctuation mark.
 sed -e 's/ /  /g' | \
 
 # Highlight the entire Bible text with all occurrences of all search patterns.
@@ -69,5 +80,9 @@ grep --color=always -E -f ${REGX} | \
 # Note that highlighted space delimited words will retain double spacing
 # because the original space precedes the ANSI ESC color code and the inserted
 # space follows the ANSI ESC color code (i.e. grep and sed see single spaced
-# entities).
+# entities). There seems to be no way around this. However, actual multi-word,
+# space delimited strings will return to single spaces between words (because
+# no ANSI ESC color code had been inserted between the words) and will retain
+# double spacing before and after the multi-word, highlited strings (because
+# color codes had been inserted there).
 sed -e 's/  / /g' | tee /dev/tty > ${CTXT}

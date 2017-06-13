@@ -53,7 +53,9 @@ _try cat "${TXT}" | \
 ../ascii2utf.bash | \
 
 # Find the text string occurrences
-grep -i -E "(^|[^–])\\b${STR}\\b([^–]|$)" | \
+grep -i -E "(^|[^–])\\b${STR}\\b([^–]|$)"
+
+# | \
 
 # Return scripture references for the occurrences
-sed 's/^\(.*[0-9]*:[0-9]*:\).*/\1/g'
+#sed 's/^\(.*[0-9]*:[0-9]*:\).*/\1/g'
