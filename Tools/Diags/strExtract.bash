@@ -42,7 +42,7 @@ if [ -z "${2}" ]; then usage; fi
 
 # Arguments
 TXT="../Texts/${1}.copyrighted"
-STR="${2}"
+STR=$( echo "${2}" | ../ascii2utf.bash )  # See notes below
 
 # Read text file
 _try cat "${TXT}" | \
@@ -53,9 +53,7 @@ _try cat "${TXT}" | \
 ../ascii2utf.bash | \
 
 # Find the text string occurrences
-grep -i -E "(^|[^–])\\b${STR}\\b([^–]|$)"
-
-# | \
+grep -i -E "(^|[^–])\\b${STR}\\b([^–]|$)" | \
 
 # Return scripture references for the occurrences
-#sed 's/^\(.*[0-9]*:[0-9]*:\).*/\1/g'
+sed 's/^\(.*[0-9]*:[0-9]*:\).*/\1/g'

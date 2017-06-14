@@ -39,7 +39,7 @@ REGX="${1}regexps.diag"
 # comment lines.
 _try cat ${DICT} | sed -e '/^#.*/d' | \
 
-# Extract the head word column and create and grep search patterns. Note
+# Extract the head word column and create their grep search patterns. Note
 # that the search pattern delimiter is the grep word boundary code excluding
 # the ASCII hyphen character, which appears in many Bible text proper names.
 # This pattern prevents substrings from matching hyphenated name fragments.
@@ -69,7 +69,7 @@ _try cat ${BTXT} | \
 # However, one solution, there possibly may be others, is to double space
 # between words. This insures that a space character will appear after ANSI
 # ESC color codes inserted between space delimited words, which facilitates
-# proper grepping. Note that "space delimited words" meants words without
+# proper grepping. Note that "space delimited words" means words without
 # any interceding punctuation mark.
 sed -e 's/ /  /g' | \
 
@@ -80,9 +80,9 @@ grep --color=always -E -f ${REGX} | \
 # Note that highlighted space delimited words will retain double spacing
 # because the original space precedes the ANSI ESC color code and the inserted
 # space follows the ANSI ESC color code (i.e. grep and sed see single spaced
-# entities). There seems to be no way around this. However, actual multi-word,
-# space delimited strings will return to single spaces between words (because
-# no ANSI ESC color code had been inserted between the words) and will retain
-# double spacing before and after the multi-word, highlited strings (because
-# color codes had been inserted there).
+# entities). There seems to be no way around this. Highlighted multi-word space
+# delimited strings will return to single spaces between words because no ANSI
+# ESC color code had been inserted between the words. However, they will retain
+# double spacing before and after the highlighted multi-word strings because
+# color codes had been inserted there.
 sed -e 's/  / /g' | tee /dev/tty > ${CTXT}
