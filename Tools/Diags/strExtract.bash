@@ -5,20 +5,15 @@
 # Date   : 2017.02.25                                                          #
 # Author : MEAdams                                                             #
 # Purpose: Locate all occurrences of a text string found within a specified    #
-#        : bible text file. Return the scripture references where the text     #
-#        : string was found. This script is inteded for locating whole         #
-#        : words such as proper names.                                         #
+#        : bible text file. Return either colorized scripture text or the      #
+#        : references where the text string is found. This script finds whole  #
+#        : words such as proper names rather than text fragments.              #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
-# Notes &: 1. This script returns scripture references where the text is found #
-# Assumes:    which are not sufficient for counting to obtain a sum total of   #
-#        :    all occurances because the text might appear more than once per  #
-#        :    reference (very common). Therefore, a subsequent search would    #
-#        :    be necessary to find the number of occurrences per scripture     #
-#        :    reference.                                                       #
+# Notes &: 1.                                                                  #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
-# To Do  : 1. Add an option for also returning the verse text.                 #
+# To Do  : 1.                                                                  #
 #        :                                                                     #
 # =============================================================================#
 # Script name
@@ -30,19 +25,21 @@ if [ $? -gt 0 ]; then echo "ABORT: ${scr} can't find scrhlp.bash"; exit 1; fi
 
 # User help
 usage() { printf "${_eko}" "
-Usage: ./${scr} txtFile strText
-Where: txtFile = base name of text file to search (e.g. ESV, KJV)
-       strText = string text to search for (e.g. Peter) \n
-Note : quote strText of multiple words (e.g. \"Simon Peter\") \n" \
+Usage: ./${scr} txtFile strText rtnType
+Where: txtFile: base name of text file to search (e.g. ESV, KJV)
+       strText: string text to search for (e.g. Peter or \"Holy Spirit\")
+       rtnType: v = colorized verses (default), r = references \n
+Note : strText of multiple words must be quoted (e.g. \"Simon Peter\") \n" \
 1>&2; exit 1; }
 
-# Verify two arguments were provided
+# Verify two required arguments were provided
 if [ -z "${1}" ]; then usage; fi
 if [ -z "${2}" ]; then usage; fi
 
 # Arguments
 TXT="../Texts/${1}.copyrighted"
 STR=$( echo "${2}" | ../ascii2utf.bash )  # See notes below
+if [ -z "${3}" ] || [ ${3} == "v" ]; then OPT="v"; else OPT="r"; fi
 
 # Read text file
 _try cat "${TXT}" | \
@@ -52,8 +49,15 @@ _try cat "${TXT}" | \
 # effect if the UTF8 characer codes already are present.
 ../ascii2utf.bash | \
 
-# Find the text string occurrences
-grep -i -E "(^|[^–])\\b${STR}\\b([^–]|$)" | \
+if [[ ${OPT} == "v" ]]; then   
+    # If Verse processing...
+    # Find, colorize and display verses containing the text string occurrences
+    grep --color=always -E "(^|[^–])\\b${STR}\\b([^–]|$)"
+else
+    # If Reference processing...
+    # Find the text string occurrences
+    grep -E "(^|[^–])\\b${STR}\\b([^–]|$)" | \
 
-# Return scripture references for the occurrences
-sed 's/^\(.*[0-9]*:[0-9]*:\).*/\1/g'
+    # Extract and display scripture references for the text string occurrences
+    sed 's/^\(.*[0-9]*:[0-9]*:\).*/\1/g'
+fi

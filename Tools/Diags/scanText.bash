@@ -57,7 +57,7 @@ while read -r line || [[ -n "$line" ]]; do
         # which is used to accommodate multi-word strings.
         string=$(echo "${line}" | awk '{ print $1 }' | tr '_' ' ')
 
-        status=$(./strExtract.bash ${TXT} "${string}" | ./cntExtract.bash)
+        status=$(./strExtract.bash ${TXT} "${string}" r | ./cntExtract.bash)
 
         if [[ ${status} -eq 0 ]]
         then
