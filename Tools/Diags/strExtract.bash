@@ -28,7 +28,7 @@ usage() { printf "${_eko}" "
 Usage: ./${scr} txtFile strText rtnType
 Where: txtFile: base name of text file to search (e.g. ESV, KJV)
        strText: string text to search for (e.g. Peter or \"Holy Spirit\")
-       rtnType: v = colorized verses (default), r = references \n
+       rtnType: v = colorized verses (default), r = references only \n
 Note : strText of multiple words must be quoted (e.g. \"Simon Peter\") \n" \
 1>&2; exit 1; }
 

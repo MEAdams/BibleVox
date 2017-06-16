@@ -7,7 +7,7 @@
 # Purpose: grep pipe to search for words within text and colorize them         #
 # -------:-------------------------------------------------------------------- #
 # Notes &: 1. In addition to single words, this utility will also process      #
-# Assumes:    multi-word strings (e.g. "Holy Spirit" and Jesus Christ). The    #
+# Assumes:    multi-word strings (e.g. "Holy Spirit" and "Jesus Christ"). The  #
 #        :    BibleVox dictionary menu file, the words to be searched for,     #
 #        :    employs underscore characters (i.e. "_") as place holders which  #
 #        :    this utility will process as space characters within multi-word  #
@@ -22,7 +22,7 @@ if [ $? -gt 0 ]; then echo "ABORT: ${scr} can't find scrhlp.bash"; exit 1; fi
 
 # User help
 usage() { printf "${_eko}" "
-Usage: ./${scr} txtFile \n
+Usage: ./${scr} txtFile
 Where: txtFile = base name of text file to search (e.g. ESV, KJV) \n" \
 1>&2; exit 1; }
 
