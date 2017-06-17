@@ -578,9 +578,9 @@ Adullamite              pns   uh-DUL-uhm-iyt                A-dul'lam-ite       
 Adullamites             pnp   uh-DUL-uhm-iyts               A-dul'lam-ites                ethnic
 Adummim                 pns   uh-DUM-im                     A-dum'mim                     place
 Aeneas                  pns   i-NEE-uhs                     Ae-ne'as                      person
-Æneas                   pns   i-NEE-uhs                     Æ-ne'as                       person
+#Æneas                   pns   i-NEE-uhs                     Æ-ne'as                       person
 Aenon                   pns   EE-non                        Ae'non                        place
-Ænon                    pns   EE-non                        Æ'non                         place
+#Ænon                    pns   EE-non                        Æ'non                         place
 Agabus                  pns   AG-uh-bus                     Ag'a-bus                      person
 Agag                    pns   AY-gag                        A'gag                         person
 Agagite                 pns   AG-uh-giyt                    Ag'ag-ite                     ethnic
@@ -692,7 +692,7 @@ Almon_Diblathaim        pns   AL-muhn-DIB-luh-THAY-im       Al'mon_Dib'la-tha'im
 Aloth                   pns   AY-loth                       A'loth                        place
 Alpha                   pns   AL-fuh                        Al'pha                        title,writing
 Alphaeus                pns   al-FEE-uhs                    Al-phae'us                    person
-Alphæus                 pns   al-FEE-uhs                    Al-phæ'us                     person
+#Alphæus                 pns   al-FEE-uhs                    Al-phæ'us                     person
 Alpheus                 pns   al-FEE-uhs                    Al-phe'us                     person
 Altaschith              pns   al-TAS-kith                   Al-tas'chith                  music
 Altashheth              pns   al-TASH-heth                  Al-tash'heth                  music
@@ -891,7 +891,7 @@ Arieh                   pns   uh-RIY-e                      A-ri'eh             
 Ariel                   pns   EHR-ee-el                     A'ri-el                       person,place,thing
 Arimathaea              pns   AR-i-muh-THEE-uh              Ar'i-ma-thae'a                place
 Arimathea               pns   AR-i-muh-THEE-uh              Ar'i-ma-the'a                 place
-Arimathæa               pns   AR-i-muh-THEE-uh              Ar'i-ma-thæ'a                 place
+#Arimathæa               pns   AR-i-muh-THEE-uh              Ar'i-ma-thæ'a                 place
 Arioch                  pns   AR-ee-ok                      Ar'i-och                      person
 Arisai                  pns   uh-RIS-iy                     A-ris'ai                      person
 Aristarchus             pns   AR-is-TAHR-kuhs               Ar'is-tar'chus                person
@@ -1211,7 +1211,7 @@ Barsabas                pns   BAHR-suh-bas                  Bar'sa-bas          
 Barsabbas               pns   bahr-SAHB-as                  Bar-sab'bas                   person
 Bartholomew             pns   bahr-THOL-uh-moo              Bar-thol'o-mew                person
 Bartimaeus              pns   BAHR-ti-MEE-uhs               Bar'ti-mae'us                 person
-Bartimæus               pns   BAHR-ti-MEE-uhs               Bar'ti-mæ'us                  person
+#Bartimæus               pns   BAHR-ti-MEE-uhs               Bar'ti-mæ'us                  person
 Baruch                  pns   BEHR-uhk                      Bar'uch                       person
 Barzillai               pns   bahr-ZIL-iy                   Bar-zil'lai                   person
 Bascama                 pns   BAS-kuh-muh                   Bas'ca-ma                     place
@@ -1648,12 +1648,12 @@ Byblos                  pns   BIB-los                       Byb'los             
 Cabbon                  pns   KAB-uhn                       Cab'bon                       place
 Cabul                   pns   KAY-buhl                      Ca'bul                        place
 Caesar                  pns   SEE-zuhr                      Cae'sar                       person,title
-Cæsar                   pns   SEE-zuhr                      Cæ'sar                        person,title
-Cæsar_Augustus          pns   SEE-zuhr-ao-GUS-tuhs          Cæ'sar_Au-gus'tus             person
+#Cæsar                   pns   SEE-zuhr                      Cæ'sar                        person,title
+#Cæsar_Augustus          pns   SEE-zuhr-ao-GUS-tuhs          Cæ'sar_Au-gus'tus             person
 Caesarea                pns   SES-uh-REE-uh                 Caes'a-re'a                   place
-Cæsarea                 pns   SES-uh-REE-uh                 Cæs'a-re'a                    place
+#Cæsarea                 pns   SES-uh-REE-uh                 Cæs'a-re'a                    place
 Caesarea_Philippi       pns   SES-uh-REE-uh-fi-LIP-iy       Caes'a-re'a_Phi-lip'pi        place
-Cæsarea_Philippi        pns   SES-uh-REE-uh-fi-LIP-iy       Cæs'a-re'a_Phi-lip'pi         place
+#Cæsarea_Philippi        pns   SES-uh-REE-uh-fi-LIP-iy       Cæs'a-re'a_Phi-lip'pi         place
 Caiaphas                pns   KAY-yuh-fuhs                  Ca'ia-phas                    person
 Cain                    pns   KAYN                          Cain                          person
 Cainan                  pns   kay-IY-nuhn                   Ca-i'nan                      person
@@ -1729,7 +1729,7 @@ Chalcolithic            pns   KAL-kuh-LITH-ik               Chal'co-lith'ic     
 Chaldea                 pns   kal-DEE-uh                    Chal-de'a                     place
 Chaldaean               pns   kal-DEE-uhn                   Chal-dae'an                   ethnic
 Chaldaeans              pnp   kal-DEE-uhnz                  Chal-dae'ans                  ethnic
-Chaldæans               pnp   kal-DEE-uhnz                  Chal-dæ'ans                   ethnic
+#Chaldæans               pnp   kal-DEE-uhnz                  Chal-dæ'ans                   ethnic
 Chaldean                pns   kal-DEE-uhn                   Chal-de'an                    ethnic
 Chaldeans               pnp   kal-DEE-uhnz                  Chal-de'ans                   ethnic
 Chaldee                 pns   KAL-dee                       Chal'dee                      ethnic
@@ -1819,7 +1819,7 @@ Cis                     pns   SIS                           Cis                 
 Clauda                  pns   KLAO-duh                      Clau'da                       place
 Claudia                 pns   KLAO-dee-uh                   Clau'di-a                     person
 Claudius                pns   KLAO-dee-uhs                  Clau'di-us                    person
-Claudius_Cæsar          pns   KLAO-dee-uhs-SEE-zuhr         Clau'di-us_Cæ'sar             person
+#Claudius_Cæsar          pns   KLAO-dee-uhs-SEE-zuhr         Clau'di-us_Cæ'sar             person
 Claudius_Lysias         pns   KLAO-dee-uhs-LIS-ee-as        Clau'di-us_Lys'i-as           person
 Clement                 pns   KLEM-uhnt                     Clem'ent                      person
 Cleopas                 pns   KLEE-uh-pas                   Cle'o-pas                     person
@@ -2326,9 +2326,9 @@ Galeed                  pns   GAL-ee-ed                     Gal'e-ed            
 Galgala                 pns   GAL-guh-luh                   Gal'ga-la                     place
 Galilaean               pns   GAL-uh-LEE-uhn                Gal'i-lae'an                  ethnic
 Galilaeans              pnp   GAL-uh-LEE-uhnz               Gal'i-lae'ans                 ethnic
-Galilæans               pnp   GAL-uh-LEE-uhnz               Gal'i-læ'ans                  ethnic
+#Galilæans               pnp   GAL-uh-LEE-uhnz               Gal'i-læ'ans                  ethnic
 Galilean                pns   GAL-uh-LEE-uhn                Gal'i-le'an                   ethnic
-Galilæan                pns   GAL-uh-LEE-uhn                Gal'i-læ'an                   ethnic
+#Galilæan                pns   GAL-uh-LEE-uhn                Gal'i-læ'an                   ethnic
 Galileans               pnp   GAL-uh-LEE-uhnz               Gal'i-le'ans                  ethnic
 Galilee                 pns   GAL-uh-lee                    Gal'i-lee                     place
 Gallim                  pns   GAL-im                        Gal'lim                       place
@@ -3510,7 +3510,7 @@ Judas-iscariot          pns   JOO-duhs-is-KAR-ee-uht        Ju'das-is-car'i-ot  
 Judas_Iscariot          pns   JOO-duhs-is-KAR-ee-uht        Ju'das_Is-car'i-ot            person
 Jude                    pns   JOOD                          Jude                          person,writing
 Judea                   pns   joo-DEE-uh                    Ju-de'a                       place
-Judæa                   pns   joo-DEE-uh                    Ju-dæ'a                       place
+#Judæa                   pns   joo-DEE-uh                    Ju-dæ'a                       place
 Judean                  pns   joo-DEE-uhn                   Ju-de'an                      ethnic
 Judges                  pns   JUDJ-iz                       Judg'es                       writing
 Judith                  pns   JOO-dith                      Ju'dith                       person
@@ -4714,7 +4714,7 @@ Potiphera               pns   puh-TIF-uhr-uh                Po-tiph'er-a        
 Potipherah              pns   puh-TIF-uhr-uh                Po-tiph'er-ah                 person
 Praetor                 pns   PREE-tuhr                     Prae'tor                      title
 Praetorium              pns   pri-TOH-ree-uhn               Prae-to'ri-um                 place
-Prætorium               pns   pri-TOH-ree-uhn               Præ-to'ri-um                  place
+#Prætorium               pns   pri-TOH-ree-uhn               Præ-to'ri-um                  place
 Pretorium               pns   pri-TOH-ree-uhn               Pre-to'ri-um                  place
 Prisca                  pns   PRIS-kuh                      Pris'ca                       person
 Priscilla               pns   pri-SIL-uh                    Pris-cil'la                   person
@@ -5551,7 +5551,7 @@ Thummim                 pns   THUM-im                       Thum'mim            
 Thyatira                pns   THIY-uh-TIY-ruh               Thy'a-ti'ra                   place
 Tiberias                pns   tiy-BEE-ree-as                Ti-be'ri-as                   place
 Tiberius                pns   tiy-BIHR-ee-uhs               Ti-ber'i-us                   person
-Tiberius_Cæsar          pns   tiy-BIHR-ee-uhs-SEE-zuhr      Ti-ber'i-us_Cæ'sar            person
+#Tiberius_Cæsar          pns   tiy-BIHR-ee-uhs-SEE-zuhr      Ti-ber'i-us_Cæ'sar            person
 Tibhath                 pns   TIB-hath                      Tib'hath                      place
 Tibni                   pns   TIB-niy                       Tib'ni                        person
 Tidal                   pns   TIY-dal                       Ti'dal                        person
@@ -5564,7 +5564,7 @@ Tilgathpilneser         pns   TIL-gath-pil-NEE-zuhr         Til'gath-pil-ne'ser 
 Tilgath-pilneser        pns   TIL-gath-pil-NEE-zuhr         Til'gath-pil-ne'ser           person
 Tilon                   pns   TIY-luhn                      Ti'lon                        person
 Timaeus                 pns   tiy-MEE-uhs                   Ti-mae'us                     person
-Timæus                  pns   tiy-MEE-uhs                   Ti-mæ'us                      person
+#Timæus                  pns   tiy-MEE-uhs                   Ti-mæ'us                      person
 Timna                   pns   TIM-nuh                       Tim'na                        person,place
 Timnah                  pns   TIM-nuh                       Tim'nah                       person,place
 Timnath                 pns   TIM-nath                      Tim'nath                      place
@@ -5723,7 +5723,7 @@ Zabud                   pns   ZAY-bud                       Za'bud              
 Zabulon                 pns   ZAB-yoo-luhn                  Zab'u-lon                     person
 Zaccai                  pns   ZAK-iy                        Zac'cai                       person
 Zacchaeus               pns   za-KEE-uhs                    Zac-chae'us                   person
-Zacchæus                pns   za-KEE-uhs                    Zac-chæ'us                    person
+#Zacchæus                pns   za-KEE-uhs                    Zac-chæ'us                    person
 Zaccheus                pns   Za-KEE-uhs                    Zac-che'us                    person
 Zacchur                 pns   ZAK-uhr                       Zac'chur                      person
 Zaccur                  pns   ZAK-uhr                       Zac'cur                       person

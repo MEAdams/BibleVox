@@ -795,11 +795,7 @@
 (lex.add.entry 
  '("Aeneas" nnp (((ih) 0) ((n iy) 1) ((ax s) 0))) )
 (lex.add.entry 
- 'Æneas                   pns   i-NEE-uhs                     Æ-ne'as                       person )
-(lex.add.entry 
  '("Aenon" nnp (((iy) 1) ((n aa n) 0))) )
-(lex.add.entry 
- 'Ænon                    pns   EE-non                        Æ'non                         place )
 (lex.add.entry 
  '("Agabus" nnp (((ae g) 1) ((ax) 0) ((b ah s) 0))) )
 (lex.add.entry 
@@ -1022,8 +1018,6 @@
  '("Alpha" nnp (((ae l) 1) ((f ax) 0))) )
 (lex.add.entry 
  '("Alphaeus" nnp (((ae l) 0) ((f iy) 1) ((ax s) 0))) )
-(lex.add.entry 
- '("Alphæus" nnp (((ae l) 0) ((f iy) 1) ((ax s) 0))) )
 (lex.add.entry 
  '("Alpheus" nnp (((ae l) 0) ((f iy) 1) ((ax s) 0))) )
 (lex.add.entry 
@@ -1420,8 +1414,6 @@
  '("Arimathaea" nnp (((ae r) 1) ((ih) 0) ((m ax) 0) ((th iy) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Arimathea" nnp (((ae r) 1) ((ih) 0) ((m ax) 0) ((th iy) 1) ((ax) 0))) )
-(lex.add.entry 
- '("Arimathæa" nnp (((ae r) 1) ((ih) 0) ((m ax) 0) ((th iy) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Arioch" nnp (((ae r) 1) ((iy) 0) ((aa k) 0))) )
 (lex.add.entry 
@@ -2058,8 +2050,6 @@
  '("Bartholomew" nnp (((b aa r) 0) ((th aa l) 1) ((ax) 0) ((m uw) 0))) )
 (lex.add.entry 
  '("Bartimaeus" nnp (((b aa r) 1) ((t ih) 0) ((m iy) 1) ((ax s) 0))) )
-(lex.add.entry 
- '("Bartimæus" nnp (((b aa r) 1) ((t ih) 0) ((m iy) 1) ((ax s) 0))) )
 (lex.add.entry 
  '("Baruch" nnp (((b eh r) 1) ((ax k) 0))) )
 (lex.add.entry 
@@ -2931,17 +2921,9 @@
 (lex.add.entry 
  '("Caesar" nnp (((s iy) 1) ((z er) 0))) )
 (lex.add.entry 
- '("Cæsar" nnp (((s iy) 1) ((z er) 0))) )
-(lex.add.entry 
- '("Cæsar_Augustus" nnp (((s iy) 1) ((z er) 0) ((ao) 0) ((g ah s) 1) ((t ax s) 0))) )
-(lex.add.entry 
  '("Caesarea" nnp (((s eh s) 1) ((ax) 0) ((r iy) 1) ((ax) 0))) )
 (lex.add.entry 
- '("Cæsarea" nnp (((s eh s) 1) ((ax) 0) ((r iy) 1) ((ax) 0))) )
-(lex.add.entry 
  '("Caesarea_Philippi" nnp (((s eh s) 1) ((ax) 0) ((r iy) 1) ((ax) 0) ((f ih) 0) ((l ih p) 1) ((ay) 0))) )
-(lex.add.entry 
- '("Cæsarea_Philippi" nnp (((s eh s) 1) ((ax) 0) ((r iy) 1) ((ax) 0) ((f ih) 0) ((l ih p) 1) ((ay) 0))) )
 (lex.add.entry 
  '("Caiaphas" nnp (((k ey) 1) ((y ax) 0) ((f ax s) 0))) )
 (lex.add.entry 
@@ -3092,8 +3074,6 @@
  '("Chaldaean" nnp (((k ae l) 0) ((d iy) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Chaldaeans" nnps (((k ae l) 0) ((d iy) 1) ((ax n z) 0))) )
-(lex.add.entry 
- '("Chaldæans" nnps (((k ae l) 0) ((d iy) 1) ((ax n z) 0))) )
 (lex.add.entry 
  '("Chaldean" nnp (((k ae l) 0) ((d iy) 1) ((ax n) 0))) )
 (lex.add.entry 
@@ -3272,8 +3252,6 @@
  '("Claudia" nnp (((k l ao) 1) ((d iy) 0) ((ax) 0))) )
 (lex.add.entry 
  '("Claudius" nnp (((k l ao) 1) ((d iy) 0) ((ax s) 0))) )
-(lex.add.entry 
- '("Claudius_Cæsar" nnp (((k l ao) 1) ((d iy) 0) ((ax s) 0) ((s iy) 1) ((z er) 0))) )
 (lex.add.entry 
  '("Claudius_Lysias" nnp (((k l ao) 1) ((d iy) 0) ((ax s) 0) ((l ih s) 1) ((iy) 0) ((ae s) 0))) )
 (lex.add.entry 
@@ -4279,11 +4257,7 @@
 (lex.add.entry 
  '("Galilaeans" nnps (((g ae l) 1) ((ax) 0) ((l iy) 1) ((ax n z) 0))) )
 (lex.add.entry 
- '("Galilæans" nnps (((g ae l) 1) ((ax) 0) ((l iy) 1) ((ax n z) 0))) )
-(lex.add.entry 
  '("Galilean" nnp (((g ae l) 1) ((ax) 0) ((l iy) 1) ((ax n) 0))) )
-(lex.add.entry 
- '("Galilæan" nnp (((g ae l) 1) ((ax) 0) ((l iy) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Galileans" nnps (((g ae l) 1) ((ax) 0) ((l iy) 1) ((ax n z) 0))) )
 (lex.add.entry 
@@ -6638,8 +6612,6 @@
  '("Jude" nnp (((jh uw d) 1))) )
 (lex.add.entry 
  '("Judea" nnp (((jh uw) 0) ((d iy) 1) ((ax) 0))) )
-(lex.add.entry 
- '("Judæa" nnp (((jh uw) 0) ((d iy) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Judean" nnp (((jh uw) 0) ((d iy) 1) ((ax n) 0))) )
 (lex.add.entry 
@@ -9035,8 +9007,6 @@
 (lex.add.entry 
  '("Praetorium" nnp (((p r ih) 0) ((t ow) 1) ((r iy) 0) ((ax n) 0))) )
 (lex.add.entry 
- '("Prætorium" nnp (((p r ih) 0) ((t ow) 1) ((r iy) 0) ((ax n) 0))) )
-(lex.add.entry 
  '("Pretorium" nnp (((p r ih) 0) ((t ow) 1) ((r iy) 0) ((ax n) 0))) )
 (lex.add.entry 
  '("Prisca" nnp (((p r ih s) 1) ((k ax) 0))) )
@@ -10701,8 +10671,6 @@
 (lex.add.entry 
  '("Tiberius" nnp (((t ay) 0) ((b ih r) 1) ((iy) 0) ((ax s) 0))) )
 (lex.add.entry 
- '("Tiberius_Cæsar" nnp (((t ay) 0) ((b ih r) 1) ((iy) 0) ((ax s) 0) ((s iy) 1) ((z er) 0))) )
-(lex.add.entry 
  '("Tibhath" nnp (((t ih b) 1) ((hh ae th) 0))) )
 (lex.add.entry 
  '("Tibni" nnp (((t ih b) 1) ((n ay) 0))) )
@@ -10726,8 +10694,6 @@
  '("Tilon" nnp (((t ay) 1) ((l ax n) 0))) )
 (lex.add.entry 
  '("Timaeus" nnp (((t ay) 0) ((m iy) 1) ((ax s) 0))) )
-(lex.add.entry 
- '("Timæus" nnp (((t ay) 0) ((m iy) 1) ((ax s) 0))) )
 (lex.add.entry 
  '("Timna" nnp (((t ih m) 1) ((n ax) 0))) )
 (lex.add.entry 
@@ -11032,8 +10998,6 @@
  '("Zaccai" nnp (((z ae k) 1) ((ay) 0))) )
 (lex.add.entry 
  '("Zacchaeus" nnp (((z ae) 0) ((k iy) 1) ((ax s) 0))) )
-(lex.add.entry 
- '("Zacchæus" nnp (((z ae) 0) ((k iy) 1) ((ax s) 0))) )
 (lex.add.entry 
  '("Zaccheus" nnp (((z ae) 0) ((k iy) 1) ((ax s) 0))) )
 (lex.add.entry 
