@@ -72,7 +72,7 @@
 ###         :    pronunciation lexicon syntax (e.g. the Festival speech engine
 ###         :    implementation of the DARPA ArpaBet).
 ###         :
-###         : 2. Parts-Of-Speech (POS) tag definitions:
+###         : 2. Parts of speech (POS) tag definitions:
 ###         :    cns - common noun singular
 ###         :    cnp - common noun plural
 ###         :    pns - proper noun singular
@@ -86,7 +86,7 @@
 ###         :    conjunction and interjection directly. However, such words
 ###         :    are included by declaring their POS tags as type "nil".
 ###         :
-###         : 3. General word categories (WIP):
+###         : 3. General word categories (GWC):
 ###         :    angel,animal,astral,deity,demon,divine,doing,ethnic,keeping,
 ###         :    measure,mineral,music,person,place,saying,thing,title,vegetal,
 ###         :    writing
@@ -100,11 +100,9 @@
 ###         : 5. Many references have been consulted to produce this work.
 ###         :    Since they all deviate from one another in various manners,
 ###         :    an attempt has been made to err on the side of consistency
-###         :    within this work. The decisions made might be subjective.
-###         :    Documentation is forthcoming. I expect this huge undertaking
-###         :    might remain a work in progress for a good while. However,
+###         :    within this work. The decisions made might be subjective. So,
 ###         :    authoritative and constructive inputs are welcome. Rantings
-###         :    will be ignored and ranters are able to use the BibleVox
+###         :    will be ignored since ranters are able to use the BibleVox
 ###         :    tools I have provided to produce works of their own. I would
 ###         :    suggest, however, it much more useful to the end users to
 ###         :    not become fragmented and rally around an improving single
@@ -139,19 +137,19 @@
 ###         :       The World Publishing Company; 1960
 ###         :
 ### --------:-------------------------------------------------------------------
-### To Do   : 1. Complete "catagory" annotations (WIP). This is necessary in
-###         :    order to complete the verification of all POS tags and for
-###         :    supporting dictionary general word catagory queries. It's a
-###         :    pity I hadn't thought to add these categories while first
-###         :    creating this work. Oh well. So it goes. I can blame (I thank)
-###         :    my good UK friend David F. Haslam for the percolation of this
-###         :    idea.
+### To Do   : 1. I thank my good UK friend David F. Haslam for the percolation
+###         :    of the idea of including general word category (GWC) tags.
+###         :    These were used as an aid for verifying the PNS(P) POS tags
+###         :    and support narrowing word searches to specific catetories
+###         :    (e.g. person and/or place and/or ethnic).
 ###         :
-###         : 2. Re-check for multi-word (i.e. none hyphenated) names. Add using
-###         :    the underscore character (i.e. _). Consider new Festival code
-###         :    to process "." at word splits to catch all names formats. Then
-###         :    remove all continuation entries beginning or leading with "_"
-###         :    from this dictionary.
+###         : 2. Implement new Festival code to process UTF8 characters like
+###         :    KJV ligatures, en dash, em dash and right single quote. The
+###         :    KJV words spelled with ligatures are presently commented out
+###         :    because they cause Festival to crash. Also, this dictionary
+###         :    has been pre-processed to convert UTF8 en dash, em dash and
+###         :    right single quote characters to ASCII dash, double dash and
+###         :    apostrophe characters, respectively.
 ###         :
 ### ****************************************************************************
 
