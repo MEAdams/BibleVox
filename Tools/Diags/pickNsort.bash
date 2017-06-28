@@ -10,17 +10,16 @@
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
 # Notes &:  1. Note: GWC wild card: .*                                         #
-#        :  2. Note: POS wild character: ?                                     #
-#        :  3. Example inclusive GWC: -c person                                #
-#        :  4. Example exclusive GWC: -c ^person$                              #
-#        :  5. Example inclusive, sequential GWC: -c person,place              #
-#        :  6. Example exclusive, sequential GWC: -c ^person,place$            #
-#        :  7. Example inclusive, separated GWC: -c person.*ethnic             #
-#        :  8. Example exclusive, separated GWC: -c ^person.*ethnic$           #
-#        :  9. Example inclusive ORed GWC: -c p[el] (i.e. person or place)     #
+#        :  2. Example inclusive GWC: -c person                                #
+#        :  3. Example exclusive GWC: -c ^person$                              #
+#        :  4. Example inclusive, sequential GWC: -c person,place              #
+#        :  5. Example exclusive, sequential GWC: -c ^person,place$            #
+#        :  6. Example inclusive, separated GWC: -c person.*ethnic             #
+#        :  7. Example exclusive, separated GWC: -c ^person.*ethnic$           #
+#        :  8. Example inclusive ORed GWC: -c p[el] (i.e. person or place)     #
 #        :  9. Example exclusive POS: -s pns (i.e. only pns)                   #
-#        : 10. Example inclusive POS: -s pn? (i.e. pns, pnp)                   #
-#        : 11: Example incluseve POS: -s ?n? (i.e. cns,cnp,pns,pnp)            #
+#        : 10. Example inclusive POS: -s pn[sp] (i.e. pns, pnp)                #
+#        : 11: Example incluseve POS: -s [cp]n[sp] (i.e. cns,cnp,pns,pnp)      #
 #        : 12: Much more possible. Play with it!                               #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
