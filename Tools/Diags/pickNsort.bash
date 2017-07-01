@@ -4,23 +4,25 @@
 # Project: BibleVox                                                            #
 # Date   : 2017.06.23                                                          #
 # Author : MEAdams                                                             #
-# Purpose: Extract entries from the named BibleVox dictionary menu file that   #
+# Purpose: Extract entries from a BibleVox dictionary word source file that    #
 #        : possess the specified parts of speech (POS) and/or general word     #
-#        : category (GWC) tags. Sort the extracted entries.                    #
+#        : category (GWC) tags. Sort the extracted entries and save them to    #
+#        : a file name derived from the source file and tag options.           #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
-# Notes &:  1. Note: GWC wild card: .*                                         #
-#        :  2. Example inclusive GWC: -c person                                #
-#        :  3. Example exclusive GWC: -c ^person$                              #
-#        :  4. Example inclusive, sequential GWC: -c person,place              #
-#        :  5. Example exclusive, sequential GWC: -c ^person,place$            #
-#        :  6. Example inclusive, separated GWC: -c person.*ethnic             #
-#        :  7. Example exclusive, separated GWC: -c ^person.*ethnic$           #
-#        :  8. Example inclusive ORed GWC: -c p[el] (i.e. person or place)     #
-#        :  9. Example exclusive POS: -s pns (i.e. only pns)                   #
-#        : 10. Example inclusive POS: -s pn[sp] (i.e. pns, pnp)                #
-#        : 11: Example incluseve POS: -s [cp]n[sp] (i.e. cns,cnp,pns,pnp)      #
-#        : 12: Much more possible. Play with it!                               #
+# Notes &: 1. Note: GWC wild card: .* (i.e. regex one or more characters)      #
+#        :    Note: GWC exclusion: ^ (i.e. regex begin), $ (i.e. regex end)    #
+#        :    Example inclusive GWC: -c person                                 #
+#        :    Example exclusive GWC: -c ^person$                               #
+#        :    Example inclusive, sequential GWC: -c person,place               #
+#        :    Example exclusive, sequential GWC: -c ^person,place$             #
+#        :    Example inclusive, separated GWC: -c person,.*,ethnic            #
+#        :    Example exclusive, separated GWC: -c ^person,.*,ethnic$          #
+#        :    Example inclusive ORed GWC: -c p[el] (i.e. person or place)      #
+#        :    Example exclusive POS: -s pns (i.e. only pns)                    #
+#        :    Example inclusive POS: -s pn[sp] (i.e. pns, pnp)                 #
+#        :    Example inclusive POS: -s [cp]n[sp] (i.e. cns,cnp,pns,pnp)       #
+#        :    Other combinations are possible. Play with it!                   #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
 # To Do  : 1.                                                                  #
@@ -45,8 +47,8 @@ gwcMsg=$( printf "%s, " ${gwcTags} | fold -s -w 60 | sed -e "2,\$s/^/$align/" )
 # Specify usage message
 usage()
 { printf "${_eko}" "
-Usage: ./${scr} -m mnuFbn [-s posTag] [-c gwcTag]
-Where: mnuFbn = the base name of dictionary menu file (e.g. ESV, KJV)
+Usage: ./${scr} -s wrdSrc [-p posTag] [-g gwcTag]
+Where: wrdSrc = name of dictionary word source file to search through
        posTag = parts-of-speech search tag
                 (i.e. ${posMsg})
        gwcTag = general word category search tag
@@ -55,16 +57,16 @@ Note: One or both of \"posTag\" and \"gwcTag\" must be specified. \n"
 1>&2; exit 1; }
 
 # process command line arguments
-mnu="";pos="";gwc=""
-while getopts ":m:s:c:" opt; do
+src="";pos="";gwc=""
+while getopts ":s:p:g:" opt; do
     case "${opt}" in
-        m)
-            mnu="${OPTARG}"
+        s)
+            src="${OPTARG}"
             ;;
-	s)
+	p)
 	    pos="${OPTARG}"
 	    ;;
-	c)
+	g)
 	    gwc="${OPTARG}"
 	    ;;
         *)
@@ -75,13 +77,28 @@ done
 shift $((OPTIND-1))
 
 # Verify the required number of arguments were provide
-if [ -z "${mnu}" ]; then usage; fi
+if [ -z "${src}" ]; then usage; fi
 if [ -z "${pos}" ] && [ -z "${gwc}" ]; then usage; fi
 
-# When only one provided default other as wild card
+# When only one is provided, default the other to wild card
 if [ -z "${pos}" ]; then pos=".*"; fi
 if [ -z "${gwc}" ]; then gwc=".*"; fi
 
-# Perform the requested search
-_try awk '$2 ~ /'"${pos}"'/{ print $0 }' "${mnu}" | \
-awk '$5 ~ /'"${gwc}"'/{ print $0 }' | sort -k 1
+# Build legal file name fragment from POS tag
+p="_"$( echo "${pos}" | \
+sed -r -e 's/(\.\*)/W/g' -e 's/[\^\$]/X/g' -e 's/[,]/-/g' )
+
+# Build legal file name fragment from GWC tag
+g="_"$( echo "${gwc}" | \
+sed -r -e 's/(\.\*)/W/g' -e 's/[\^\$]/X/g' -e 's/[,]/-/g' )
+
+# Build the destination file name from the source file name and tag options
+dst=$(echo $(basename "${src}") | sed -e 's/\.//g')"${p}${g}.diag"
+
+# Perform the requested search, sort and save the results
+_try awk '$2 ~ /'"${pos}"'/{ print $0 }' "${src}" | \
+awk '$5 ~ /'"${gwc}"'/{ print $0 }' | sort -k 1 > "${dst}"
+
+# Prepend the obligatory BibleVox copyright license text
+_try cat ../../LICENSE | awk '{ print $0 }' | \
+awk '{ print "# " $0 }' | cat - "${dst}" | sponge "${dst}"
