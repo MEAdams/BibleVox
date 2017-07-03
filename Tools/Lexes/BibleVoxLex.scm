@@ -4583,6 +4583,8 @@
 (lex.add.entry 
  '("God" nnp (((g aa d) 1))) )
 (lex.add.entry 
+ '("GOD" nnp (((g aa d) 1))) )
+(lex.add.entry 
  '("Gog" nnp (((g aa g) 1))) )
 (lex.add.entry 
  '("Goiim" nnps (((g oy) 1) ((ih m) 0))) )
@@ -7183,6 +7185,10 @@
 (lex.add.entry 
  '("Lois" nnp (((l ow) 1) ((ih s) 0))) )
 (lex.add.entry 
+ '("Lord" nnp (((l ao r d) 1))) )
+(lex.add.entry 
+ '("LORD" nnp (((l ao r d) 1))) )
+(lex.add.entry 
  '("Loruhamah" nnp (((l ow) 1) ((r uw) 0) ((hh aa) 1) ((m aa) 0))) )
 (lex.add.entry 
  '("Lo-ruhamah" nnp (((l ow) 1) ((r uw) 0) ((hh aa) 1) ((m aa) 0))) )
@@ -7979,6 +7985,8 @@
 (lex.add.entry 
  '("Mizpah" nnp (((m ih z) 1) ((p ax) 0))) )
 (lex.add.entry 
+ '("Mizpah-Ishmeal" nnp (((m ih z) 1) ((p ax) 0) ((ih sh) 1) ((m ey) 0) ((ax l) 0))) )
+(lex.add.entry 
  '("Mizpar" nnp (((m ih z) 1) ((p aa r) 0))) )
 (lex.add.entry 
  '("Mizpeh" nnp (((m ih z) 1) ((p eh) 0))) )
@@ -8421,8 +8429,6 @@
 (lex.add.entry 
  '("Nisroch" nnp (((n ih s) 1) ((r aa k) 0))) )
 (lex.add.entry 
- '("No" nnp (((n ow) 1))) )
-(lex.add.entry 
  '("Noadiah" nnp (((n ow) 1) ((ax) 0) ((d ay) 1) ((ax) 0))) )
 (lex.add.entry 
  '("Noah" nnp (((n ow) 1) ((ax) 0))) )
@@ -8520,8 +8526,6 @@
  '("Omega" nnp (((ax) 0) ((m iy) 1) ((g ax) 0))) )
 (lex.add.entry 
  '("Omri" nnp (((aa m) 1) ((r ay) 0))) )
-(lex.add.entry 
- '("On" nnp (((aa n) 1))) )
 (lex.add.entry 
  '("Onam" nnp (((ow) 1) ((n ae m) 0))) )
 (lex.add.entry 
@@ -9251,6 +9255,8 @@
 (lex.add.entry 
  '("Rehoboth-ir" nnp (((r ih) 0) ((hh ow) 1) ((b aa th) 0) ((ih r) 0))) )
 (lex.add.entry 
+ '("Rehoboth-Ir" nnp (((r ih) 0) ((hh ow) 1) ((b aa th) 0) ((ih r) 0))) )
+(lex.add.entry 
  '("Rehoboth_Ir" nnp (((r ih) 0) ((hh ow) 1) ((b aa th) 0) ((ih r) 0))) )
 (lex.add.entry 
  '("Rehum" nnp (((r iy) 1) ((hh ah m) 0))) )
@@ -9468,6 +9474,8 @@
  '("Salom" nnp (((s ey) 1) ((l aa m) 0))) )
 (lex.add.entry 
  '("Salome" nnp (((s ax) 0) ((l ow) 1) ((m ih) 0))) )
+(lex.add.entry 
+ '("Salt_Sea" nnp (((s aa l t) 1) ((s iy) 1))) )
 (lex.add.entry 
  '("Salu" nnp (((s ey) 1) ((l uw) 0))) )
 (lex.add.entry 
@@ -10288,8 +10296,6 @@
  '("Siyon" nnp (((s ay) 1) ((ax n) 0))) )
 (lex.add.entry 
  '("Smyrna" nnp (((s m er) 1) ((n ax) 0))) )
-(lex.add.entry 
- '("So" nnp (((s ow) 1))) )
 (lex.add.entry 
  '("Socho" nnp (((s ow) 1) ((k ow) 0))) )
 (lex.add.entry 

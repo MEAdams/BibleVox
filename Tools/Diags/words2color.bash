@@ -23,7 +23,8 @@ if [ $? -gt 0 ]; then echo "ABORT: ${scr} can't find scrhlp.bash"; exit 1; fi
 # User help
 usage() { printf "${_eko}" "
 Usage: ./${scr} txtFile
-Where: txtFile = base name of text file to search (e.g. ESV, KJV) \n" \
+Where: txtFile = base name of text file to search (e.g. ESV, KJV)
+       wrdFile = full name of word regexps source file \n" \
 1>&2; exit 1; }
 
 # Verify arguments were provided
@@ -31,9 +32,10 @@ if [ -z "${1}" ]; then usage; fi
 
 # Arguments
 BTXT="../Texts/${1}.copyrighted"
-CTXT="${1}colored.copyrighted"
-DICT="${1}accepts.diag"
-REGX="${1}regexps.diag"
+DICT="${2}"
+PARS="${DICT#*_}";PARS="${PARS%.*}"
+REGX="${DICT%.*}_regexps.diag"
+CTXT="${1}_${PARS}_colored.copyrighted"
 
 # Read the translation specific BibleVox dictionary menu file and remove all
 # comment lines.

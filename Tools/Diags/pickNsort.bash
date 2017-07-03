@@ -66,7 +66,7 @@ Notes: 1. One or both of \"posTag\" and \"gwcTag\" must be specified.
        2. Permitted regex syntax: \"^\", \"$\", \".*\" and \"[]\".
        3. Save file names: \"^\" and \"$\" appear as \"X\" as in e(X)clusive.
                            \".*\" appears as \"W\" as in (W)ild card.
-                           \",\" appears as \"-\". \n"
+                           \",\" appears as \"-\". \n" \
 1>&2; exit 1; }
 
 # process command line arguments
@@ -106,7 +106,7 @@ g="_"$( echo "${gwc}" | \
 sed -r -e 's/(\.\*)/W/g' -e 's/[\^\$]/X/g' -e 's/[,]/-/g' )
 
 # Build the destination file name from the source file name and tag options
-dst=$(echo $(basename "${src}") | sed -e 's/\.//g')"${p}${g}.diag"
+dst="${src%.*}${p}${g}.diag"
 
 # Perform the requested search, sort and save the results
 _try awk '$2 ~ /'"${pos}"'/{ print $0 }' "${src}" | \

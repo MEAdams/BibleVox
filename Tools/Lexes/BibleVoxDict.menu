@@ -2488,7 +2488,8 @@ Gizrites                pnp   GIZ-riyts                     Giz'rites           
 Goah                    pns   GOH-uh                        Go'ah                         place
 Goath                   pns   GOH-ath                       Go'ath                        place
 Gob                     pns   GOB                           Gob                           place
-God                     pns   GOD                           God                           divine
+God                     pns   GOD                           God                           person,divine
+GOD                     pns   GOD                           God                           person,divine
 Gog                     pns   GOG                           Gog                           person
 Goiim                   pnp   GOY-im                        Goi'im                        ethnic
 Goiims                  pnp   GOY-imz                       Goi'ims                       ethnic
@@ -3796,6 +3797,8 @@ Lodebar                 pns   LOH-DEE-bahr                  Lo'de'bar           
 Lo-debar                pns   LOH-DEE-bahr                  Lo'de'bar                     place
 Lo_Debar                pns   LOH-DEE-bahr                  Lo_De'bar                     place
 Lois                    pns   LOH-is                        Lo'is                         person
+Lord                    pns   LOHRD                         Lord                          person,divine
+LORD                    pns   LOHRD                         Lord                          person,divine
 Loruhamah               pns   LOH-roo-HAH-mah               Lo'ru-ha'mah                  person
 Lo-ruhamah              pns   LOH-roo-HAH-mah               Lo'ru-ha'mah                  person
 Lot                     pns   LOT                           Lot                           person
@@ -4195,6 +4198,7 @@ Mithredath              pns   MITH-ri-dath                  Mith're-dath        
 Mitylene                pns   mit-i-LEE-ni                  Mit-y-le'ne                   place
 Mizar                   pns   MIY-zahr                      Mi'zar                        place
 Mizpah                  pns   MIZ-puh                       Miz'pah                       place
+Mizpah-Ishmeal          pns   MIZ-puh-ISH-may-uhl           Miz'pah-Ish'me-al             person
 Mizpar                  pns   MIZ-pahr                      Miz'par                       person
 Mizpeh                  pns   MIZ-pe                        Miz'peh                       place
 Mizraim                 pns   MIZ-ray-im                    Miz'ra-im                     person,place
@@ -4417,7 +4421,7 @@ Ninevite                pns   NIN-uh-viyt                   Nin'e-vite          
 Ninevites               pnp   NIN-uh-viyts                  Nin'e-vites                   ethnic
 Nisan                   pns   NIY-san                       Ni'san                        measure
 Nisroch                 pns   NIS-rok                       Nis'roch                      deith
-No                      pns   NOH                           No                            place
+#No                      pns   NOH                           No                            place
 Noadiah                 pns   NOH-uh-DIY-uh                 No'a-di'ah                    person
 Noah                    pns   NOH-uh                        No'ah                         person
 Noamon                  pns   NOH-AY-mon                    No'a'mon                      place
@@ -4468,7 +4472,7 @@ Olympas                 pns   uh-LIM-pas                    O-lym'pas           
 Omar                    pns   OH-muhr                       O'mar                         person
 Omega                   pns   uh-MEE-guh                    O-me'ga                       title,letter
 Omri                    pns   OM-riy                        Om'ri                         person
-On                      pns   ON                            On                            person,place
+#On                      pns   ON                            On                            person,place
 Onam                    pns   OH-nam                        O'nam                         person
 Onan                    pns   OH-nan                        O'nan                         person
 Onesimus                pns   uh-NES-i-muhs                 O-nes'i-mus                   person
@@ -4837,6 +4841,7 @@ Rehoboam                pns   REE-huh-BOH-am                Re'ho-bo'am         
 Rehoboth                pns   ri-HOH-both                   Re-ho'both                    place
 Rehobothir              pns   ri-HOH-both-ir                Re-ho'both-ir                 place
 Rehoboth-ir             pns   ri-HOH-both-ir                Re-ho'both-ir                 place
+Rehoboth-Ir             pns   ri-HOH-both-ir                Re-ho'both-Ir                 place
 Rehoboth_Ir             pns   ri-HOH-both-ir                Re-ho'both_Ir                 place
 Rehum                   pns   REE-hum                       Re'hum                        person
 Rei                     pns   REE-iy                        Re'i                          person
@@ -4947,6 +4952,7 @@ Salmon                  pns   SAL-muhn                      Sal'mon             
 Salmone                 pns   sal-MOH-ni                    Sal-mo'ne                     place
 Salom                   pns   SAY-lom                       Sa'lom                        person
 Salome                  pns   suh-LOH-mi                    Sa-lo'me                      person
+Salt_Sea                pns   SAHLT-SEE                     Salt'Sea'                     place
 Salu                    pns   SAY-loo                       Sa'lu                         person
 Samaria                 pns   suh-MEHR-ee-uh                Sa-mar'i-a                    place
 Samaritan               pns   suh-MAR-i-tuhn                Sa-mar'i-tan                  ethnic
@@ -5357,7 +5363,7 @@ Sitnah                  pns   SIT-nuh                       Sit'nah             
 Sivan                   pns   si-VAHN                       Si-van'                       measure
 Siyon                   pns   SIY-uhn                       Si'yon                        place
 Smyrna                  pns   SMUHR-nuh                     Smyr'na                       place
-So                      pns   SOH                           So                            person
+#So                      pns   SOH                           So                            person
 Socho                   pns   SOH-koh                       So'cho                        person,place
 Sochoh                  pns   SOH-koh                       So'choh                       person,place
 Soco                    pns   SOH-koh                       So'co                         person,place
