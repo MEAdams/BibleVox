@@ -10,19 +10,28 @@
 #        : a file name derived from the source file and tag options.           #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
-# Notes &: 1. Note: GWC wild card: .* (i.e. regex one or more characters)      #
-#        :    Note: GWC exclusion: ^ (i.e. regex begin), $ (i.e. regex end)    #
-#        :    Example inclusive GWC: -c person                                 #
-#        :    Example exclusive GWC: -c ^person$                               #
-#        :    Example inclusive, sequential GWC: -c person,place               #
-#        :    Example exclusive, sequential GWC: -c ^person,place$             #
-#        :    Example inclusive, separated GWC: -c person,.*,ethnic            #
-#        :    Example exclusive, separated GWC: -c ^person,.*,ethnic$          #
-#        :    Example inclusive ORed GWC: -c p[el] (i.e. person or place)      #
-#        :    Example exclusive POS: -s pns (i.e. only pns)                    #
-#        :    Example inclusive POS: -s pn[sp] (i.e. pns, pnp)                 #
-#        :    Example inclusive POS: -s [cp]n[sp] (i.e. cns,cnp,pns,pnp)       #
-#        :    Other combinations are possible. Play with it!                   #
+# Notes &: 1. Permitted POS and GWC regex search pattern syntax:               #
+# Assumes:      Regex wild card: .* (i.e. zero or more of any character)       #
+#        :      Regex boundaries: ^ (i.e. pattern begin), $ (i.e. pattern end) #
+#        :      Regex OR: [xyz] (i.e. pattern containing either x or y or z)   #
+#        :      Regex OR: ^[xyz] (i.e. pattern beginning with x or y or z)     #
+#        :      Regex OR: [xyz]$ (i.e. pattern ending with x or y or z)        #
+#        :                                                                     #
+#        : 2. Example GWC searches:                                            #
+#        :      -g person: inclusive of other leading/trailing GWC tags        #
+#        :      -g ^person$: exclusive of other leading/trailing GWC tags      #
+#        :      -g person,place: inclusive of other leading/trailing GWC tags  #
+#        :      -g person,.*,ethnic: same but includes any intervening tag     #
+#        :      -g ^person,place$: exclusive of other leading/trailing tags    #
+#        :      -g ^person,.*,ethnic$: same but includes any intervening tag   #
+#        :      -g p[el]: inclusive person or place                            #
+#        :      -g [pe][elt][rah]: inclusive person or place or ethnic         #
+#        :      -g ^[pe][elt][rah]: first tag is a person or place or ethnic   #
+#        :                                                                     #
+#        : 3. Example POS searches:                                            #
+#        :      -p pns: singular proper nouns, only                            #
+#        :      -p pn[sp]: both singular and plural proper nouns               #
+#        :      -p [cp]n[sp]: same but includes common nouns                   #
 #        :                                                                     #
 # -------:-------------------------------------------------------------------- #
 # To Do  : 1.                                                                  #
@@ -53,7 +62,11 @@ Where: wrdSrc = name of dictionary word source file to search through
                 (i.e. ${posMsg})
        gwcTag = general word category search tag
                 (i.e. ${gwcMsg}) \n
-Note: One or both of \"posTag\" and \"gwcTag\" must be specified. \n"
+Notes: 1. One or both of \"posTag\" and \"gwcTag\" must be specified.
+       2. Permitted regex syntax: \"^\", \"$\", \".*\" and \"[]\".
+       3. Save file names: \"^\" and \"$\" appear as \"X\" as in e(X)clusive.
+                           \".*\" appears as \"W\" as in (W)ild card.
+                           \",\" appears as \"-\". \n"
 1>&2; exit 1; }
 
 # process command line arguments
