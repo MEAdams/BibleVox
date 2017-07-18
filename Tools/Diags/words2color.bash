@@ -45,7 +45,7 @@ _try cat ${DICT} | sed -e '/^#.*/d' | \
 # that the search pattern delimiter is the grep word boundary code excluding
 # the ASCII hyphen character, which appears in many Bible text proper names.
 # This pattern prevents substrings from matching hyphenated name fragments.
-awk '{ print "(^|[^-])\\b"$1"\\b([^-]|$)" }' | \
+awk '{ print "((^|[^-])\\b"$1"\\b([^-]|$))|$" }' | \
 
 # Change ASCII dash, double dash and apostrophe codes to UTF8 codes for the
 # "en dash", "em dash" and "right single quote", respectively.

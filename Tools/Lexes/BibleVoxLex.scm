@@ -5163,6 +5163,8 @@
 (lex.add.entry 
  '("Hazzobebah" nnp (((hh ae z) 1) ((ax) 0) ((b iy) 1) ((b ax) 0))) )
 (lex.add.entry 
+ '("Heaven" nnp (((hh eh) 1) ((v ax n) 0))) )
+(lex.add.entry 
  '("Hebel" nnp (((hh iy) 1) ((b eh l) 0))) )
 (lex.add.entry 
  '("Heber" nnp (((hh iy) 1) ((b er) 0))) )

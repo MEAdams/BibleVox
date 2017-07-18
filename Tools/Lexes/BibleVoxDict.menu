@@ -2781,6 +2781,7 @@ Hazor_Hadattah          pns   HAY-zohr-huh-DAT-uh           Ha'zor_Ha-dat'tah   
 Hazzelelponi            pns   HAZ-uh-lel-POH-niy            Haz'ze-lel-po'ni              person
 Hazzobebah              pns   HAZ-uh-BEE-buh                Haz'zo-be'bah                 person
 #He                      pns   HAY                           He                            writing
+Heaven                  pns   HE-vuhn                       Hea'ven                       place
 Hebel                   pns   HEE-bel                       He'bel                        place
 Heber                   pns   HEE-buhr                      He'ber                        person
 Heberite                pns   HEE-buhr-iyt                  He'ber-ite                    ethnic
@@ -2895,8 +2896,8 @@ Hoglah                  pns   HOG-luh                       Hog'lah             
 Hoham                   pns   HOH-ham                       Ho'ham                        person
 Holofernes              pns   HOL-uh-FUHR-neez              Hol'o-fer'nes                 person
 Holon                   pns   HOH-lon                       Ho'lon                        place
-Holy_Ghost              pns   HOH-li-GOHST                  Ho'ly_Ghost                   divine
-Holy_Spirit             pns   HOH-li-SPIR-it                Ho'ly_Spir'it                 divine
+Holy_Ghost              pns   HOH-li-GOHST                  Ho'ly_Ghost                   person,divine
+Holy_Spirit             pns   HOH-li-SPIR-it                Ho'ly_Spir'it                 person,divine
 Homam                   pns   HOH-mam                       Ho'mam                        person
 Hophni                  pns   HOF-niy                       Hoph'ni                       person
 Hophra                  pns   HOF-ruh                       Hoph'ra                       person
@@ -5383,7 +5384,7 @@ Sotai                   pns   SOH-tiy                       So'tai              
 Spain                   pns   SPAYN                         Spain                         place
 Spartan                 pns   SPAHR-tuhn                    Spar'tan                      ethnic
 Spartans                pnp   SPAHR-tuhnz                   Spar'tans                     ethnic
-Spirit                  pns   SPIR-it                       Spir'it                       divine
+Spirit                  pns   SPIR-it                       Spir'it                       person,divine
 Stachys                 pns   STAY-kis                      Sta'chys                      person
 Stephanas               pns   STEF-uh-nas                   Steph'a-nas                   person
 Stephen                 pns   STEE-vuhn                     Ste'phen                      person
