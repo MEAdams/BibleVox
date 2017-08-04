@@ -40,4 +40,4 @@ Several combinations of the following installation options are possible. Read th
 
 3. [BibleVox narration](./Speech/SpeechDirDoc.md)
 
-... to be continued
+4. [BibleVox tools](./Tools/ToolsDirDoc.md)
